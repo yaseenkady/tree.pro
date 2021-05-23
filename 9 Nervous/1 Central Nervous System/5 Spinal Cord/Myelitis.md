@@ -1,0 +1,7 @@
+# ^
+
+Paralysis
+
+# v
+
+Sensation
