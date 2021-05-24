@@ -1,6 +1,0 @@
-# "
-
-# ^
-
-Pneumonia
-(More Gram-)

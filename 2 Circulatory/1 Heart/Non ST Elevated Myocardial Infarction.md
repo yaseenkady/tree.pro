@@ -1,3 +1,0 @@
-# "
-
-Non-transmural myocardial infarction.

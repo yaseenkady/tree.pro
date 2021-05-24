@@ -1,3 +1,0 @@
-# "
-
-- Multidrug-resistant pathogens

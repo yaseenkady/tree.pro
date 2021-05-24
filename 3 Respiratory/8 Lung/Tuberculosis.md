@@ -1,9 +1,0 @@
-# "
-
-# /
-
-Fever
-
-Cough
-
-Constitutional Symptom

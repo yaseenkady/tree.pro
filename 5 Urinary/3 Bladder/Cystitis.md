@@ -1,3 +1,0 @@
-# "
-
-Infection of bladder.

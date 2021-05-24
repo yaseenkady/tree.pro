@@ -1,7 +1,0 @@
-# "
-
-Emergency.
-
-# ^
-
-Bowel Perforation

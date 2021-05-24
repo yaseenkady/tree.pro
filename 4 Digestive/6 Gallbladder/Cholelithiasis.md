@@ -1,7 +1,0 @@
-# >
-
-Biliary Colic
-
-# ^
-
-Acute Cholecystitis

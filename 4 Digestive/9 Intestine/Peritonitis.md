@@ -1,5 +1,0 @@
-# ^
-
-Peritoneal Sign.
-
-CT.

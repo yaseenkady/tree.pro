@@ -1,3 +1,0 @@
-# "
-
-Pain radiates to genitalia.
