@@ -2,11 +2,11 @@
 
 1. Finish Symptoms to Diagnosis.
 
-2. Review Science of Medicine.
+2. Review science of medicine.
 
 3. Improve diagnosis.
 
-4. Do cases.
+4. Do many cases.
 
 ## 0531
 
@@ -18,6 +18,12 @@ Read Symptoms to Diagnosis:
 - Chapter 4
 - Chapter 5
 
+Review cardiac block:
+
+- Science of Medicine
+- Science of Medicine cases
+- Practice of Medicine cases
+
 Review Practice of Medicine clinical reasoning exam:
 
 - CR exam 3
@@ -26,9 +32,7 @@ Review Practice of Medicine clinical reasoning exam:
 - CR exam 5
 - CR exam 5.2
 
-Work on case with Dr Pompei
-
-Review cardiac block
+Work on case with Dr Pompei.
 
 ## 0607
 
@@ -40,7 +44,13 @@ Read Symptoms to Diagnosis:
 - Chapter 9
 - Chapter 10
 
-Practice case
+Review pulmonary block:
+
+- Science of Medicine
+- Science of Medicine cases
+- Practice of Medicine cases
+
+Practice more case:
 
 - Case 1
 - Case 2
@@ -48,9 +58,7 @@ Practice case
 - Case 4
 - Case 5
 
-Work on case with Dr Pompei
-
-Review pulmonary block
+Work on case with Dr Pompei.
 
 ## 0614
 
@@ -62,9 +70,13 @@ Read Symptoms to Diagnosis:
 - Chapter 14
 - Chapter 15
 
-Work on case with Dr Pompei
+Review gastrointestinal block:
 
-Practice case
+- Science of Medicine
+- Science of Medicine cases
+- Practice of Medicine cases
+
+Practice more case:
 
 - Case 6
 - Case 7
@@ -72,7 +84,7 @@ Practice case
 - Case 9
 - Case 10
 
-Review gastrointestinal block
+Work on case with Dr Pompei.
 
 ## 0621
 
@@ -84,7 +96,13 @@ Read Symptoms to Diagnosis:
 - Chapter 19
 - Chapter 20
 
-Practice case
+Review renal block:
+
+- Science of Medicine
+- Science of Medicine cases
+- Practice of Medicine cases
+
+Practice more case:
 
 - Case 11
 - Case 12
@@ -92,9 +110,7 @@ Practice case
 - Case 14
 - Case 15
 
-Work on case with Dr Pompei
-
-Review renal block
+Work on case with Dr Pompei.
 
 ## 0628
 
@@ -106,7 +122,13 @@ Read Symptoms to Diagnosis:
 - Chapter 24
 - Chapter 25
 
-Practice case
+Review reproductive block:
+
+- Science of Medicine
+- Science of Medicine cases
+- Practice of Medicine cases
+
+Practice more case:
 
 - Case 16
 - Case 17
@@ -114,6 +136,4 @@ Practice case
 - Case 19
 - Case 20
 
-Work on case with Dr Pompei
-
-Review Reproductive block
+Work on case with Dr Pompei.
