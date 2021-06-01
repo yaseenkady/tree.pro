@@ -1,9 +1,9 @@
-## Epidemiology, risk factor
+## Epidemiology (risk factor)
 
-## Feature, symptom
+## Feature (symptom)
 
-## Exam
+## Physical Exam
 
 ## Diagnostic
 
-## Treatment
+## Management
