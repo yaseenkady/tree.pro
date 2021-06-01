@@ -6,4 +6,4 @@
 
 ## Diagnostic
 
-## Management
+## Treatment and Management
