@@ -61,6 +61,8 @@ Practice more case:
 
 Work on case with Dr Pompei.
 
+Work on case with Dr Danit.
+
 ## 0614
 
 Read Symptoms to Diagnosis:
@@ -136,5 +138,31 @@ Practice more case:
 - Case 18
 - Case 19
 - Case 20
+
+Work on case with Dr Pompei.
+
+## 0705
+
+Read Symptoms to Diagnosis:
+
+- Chapter 26
+- Chapter 27
+- Chapter 28
+- Chapter 29
+- Chapter 30
+
+Review endocrine block:
+
+- Science of Medicine
+- Science of Medicine cases
+- Practice of Medicine cases
+
+Practice more case:
+
+- Case 21
+- Case 22
+- Case 23
+- Case 24
+- Case 25
 
 Work on case with Dr Pompei.
