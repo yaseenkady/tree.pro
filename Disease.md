@@ -1,8 +1,8 @@
-## Epidemiology (risk factor)
+## Epidemiology (background)
 
 ## Feature (symptom)
 
-## Physical Exam
+## Physical Exam (sign)
 
 ## Diagnostic
 
