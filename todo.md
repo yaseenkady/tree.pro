@@ -1,7 +1,7 @@
 ## Goal
 
 1. Finish Symptoms to Diagnosis.
-Work through each question and compare with responses.
+   Work through each question and compare with responses.
 
 2. Review science of medicine.
 
