@@ -4,19 +4,25 @@ Viral infection activates the immune system which damages the liver.
 
 Infected people can be asymptomatic for years.
 
-# Epidemiology
+# <
 
-Many people are infected without knowing.
+Common
+(Many people are infected without knowing.)
 
-Some strains are endemic, associated with poor sanitation and body fluid transfer.
+Endemic
+(Some strains are endemic in: Mongolia, Middle East, East Europe, North Africa, West Africa.)
 
-# Feature (symptom)
+Poor Sanitation
+
+Body Fluid Transfer
+
+# +
 
 Flu-Like Symptoms
 
 Abdominal Pain at Right Upper Quadrant
 
-# Sign
+# @
 
 Juandice
 
@@ -24,9 +30,7 @@ Spider Angioma
 
 Hepatomegaly
 
-# Diagnostic
-
-## /
+# /
 
 Aspartate Aminotransferase
 
@@ -40,13 +44,13 @@ Hepatitis Virus Molecule
 
 Non-Hepatitis Virus Molecule
 
-## \
+# \
 
 Albumin
 
 Clotting Factor
 
-# Treatment and Management
+# $
 
 Vaccine
 (Hepatitis A virus and hepatitis B virus)
@@ -55,7 +59,7 @@ Supportive Care
 
 Liver Transplant
 
-# Complication
+# !
 
 Cirrhosis
 
