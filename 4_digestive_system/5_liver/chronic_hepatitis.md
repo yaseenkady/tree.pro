@@ -1,28 +1,23 @@
 # "
 
-Viral infection activates the immune system which damages the liver.
-
-Infected people can be asymptomatic for years.
-
 # <
 
-Common
-(Many people are infected without knowing.)
+Alcohol
 
-Endemic
-(Some strains are endemic in: Mongolia, Middle East, East Europe, North Africa, West Africa.)
+Obesity
 
-Poor Sanitation
+Medication
+(Tylenol, isoniazid, and many other)
 
-Body Fluid Transfer
+Toxin
 
 # +
-
-Flu-Like Symptoms
 
 Abdominal Pain at Right Upper Quadrant
 
 # @
+
+Scleral Icterus
 
 Juandice
 
@@ -30,11 +25,15 @@ Spider Angioma
 
 Hepatomegaly
 
+Dark Urine
+
 # /
 
 Aspartate Aminotransferase
+(Can be normal)
 
 Alanine Aminotransferase
+(Can be normal)
 
 Bilirubin
 
@@ -44,6 +43,14 @@ Hepatitis Virus Molecule
 
 Non-Hepatitis Virus Molecule
 
+Portal Hypertension
+
+Ascite
+
+Abdominal Swelling
+
+Splenomegaly
+
 # \
 
 Albumin
@@ -51,9 +58,6 @@ Albumin
 Clotting Factor
 
 # $
-
-Vaccine
-(Hepatitis A virus and hepatitis B virus)
 
 Supportive Care
 

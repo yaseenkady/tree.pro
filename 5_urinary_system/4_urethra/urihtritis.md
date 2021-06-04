@@ -8,6 +8,10 @@
 
 # /
 
+Chlamydia
+
+Neisseria gonorrhea
+
 # \
 
 # $

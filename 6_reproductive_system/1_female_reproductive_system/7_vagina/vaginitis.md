@@ -8,6 +8,12 @@
 
 # /
 
+Candida
+
+Bacteria
+
+Trichomonas
+
 # \
 
 # $
