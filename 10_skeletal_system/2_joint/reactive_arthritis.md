@@ -2,8 +2,6 @@
 
 Reiter syndrome.
 
-Post infection of intestines, genitals, or urinary tact.
-
 Self-limited.
 
 # Epidemiology
@@ -12,19 +10,8 @@ Age 20-40.
 
 HLA-B27
 
-Chlamydia
-
-Salmonella
-
-Shigella
-
-Yersinia
-
-Campylobacter
-
-Gonorrhea
-
-Clostridium dificile
+Post Infection
+(Chlamydia, Salmonella, Shigella, Yersinia, Campylobacter, Gonorrhea, and Clostridium dificile)
 
 # Symptom
 

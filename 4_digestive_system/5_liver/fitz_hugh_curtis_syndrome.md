@@ -9,5 +9,3 @@ Rare complication of pelvic inflammatory disease involving liver capsule inflamm
 # Sign
 
 # Diagnostic
-
-Gonorrhea

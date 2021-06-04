@@ -11,3 +11,5 @@
 Lyme Disease
 
 Syphilis
+
+Gonorrhea
