@@ -2,15 +2,13 @@
 
 # Epidemiology
 
+Antibiotics
+
 # Symptom
 
 # Sign
 
-Thin Discahrge
-
-Gray Discahrge
-
-Malodorous Discahrge
+Thin Gray Malodorous Discahrge
 
 # Diagnostic
 
@@ -18,12 +16,4 @@ pH
 (Greater than 4.5)
 
 Gardnerella vaginalis
-(Wet mount with clue cells with irregular boarder with bacteria)
-
-# Diagnostic
-
-# $
-
-Metronidazole
-
-# !
+(Microscopy of clue cells, whose borders are covered by bacteria)
