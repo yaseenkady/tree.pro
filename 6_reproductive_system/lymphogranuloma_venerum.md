@@ -1,24 +1,16 @@
-# "
+# Comment
 
-# <
+# Epidemiology
 
-Endemic to tropics.
+Endemic
+(Tropics)
 
-# +
+# Symptom
 
-# @
+# Sign
 
-Cervical Lymphadenopathy
+Lymphadenopathy
 
-# /
+# Diagnostic
 
 Chlamydia trachomatis
-(L1, L2, L3)
-
-# \
-
-# $
-
-Doxycycling
-
-# !

@@ -7,3 +7,5 @@
 # Sign
 
 # Diagnostic
+
+Syphilis

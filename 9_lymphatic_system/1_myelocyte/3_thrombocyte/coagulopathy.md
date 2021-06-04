@@ -7,3 +7,7 @@
 # Sign
 
 # Diagnostic
+
+Hepatitis
+
+Clotting Factor
