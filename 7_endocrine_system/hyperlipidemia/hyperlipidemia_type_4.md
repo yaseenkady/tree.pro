@@ -2,17 +2,13 @@
 
 Familial hypertriglyceridemia.
 
-1 in 100.
-
-High VLDL.
-
 # Epidemiology
 
 Diabetes Mellitus
 
 Uremia
 
-Estrogen Use
+Estrogen
 
 # Symptom
 
@@ -20,10 +16,13 @@ Estrogen Use
 
 # Diagnostic
 
-LPL
-(Loss of function heterozygous)
-
 VLDL
 (High)
+
+Triglyceride
+(High)
+
+Serum
+(Turbid)
 
 Pancreatitis

@@ -1,9 +1,5 @@
 # Comment
 
-Low LPL.
-
-High VLDL.
-
 # Epidemiology
 
 Stress
@@ -12,16 +8,20 @@ Glucocorticoid
 
 Alcohol
 
-Dysglobulinemia
-
 # Symptom
 
 # Sign
 
 # Diagnostic
 
+LPL
+(Loss of function)
+
 Chylomicron
 (High)
 
 VLDL
 (High)
+
+Serum
+(Creamy top)

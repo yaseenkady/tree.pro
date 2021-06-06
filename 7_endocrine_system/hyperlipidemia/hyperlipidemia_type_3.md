@@ -2,10 +2,6 @@
 
 Familial dysbetalipoproteinemia.
 
-1 in 10000.
-
-Low ApoE2.
-
 # Epidemiology
 
 Tuberous Xanthoma
@@ -24,8 +20,14 @@ Diabetes Mellitus
 
 # Diagnostic
 
-ApoE2
-(Loss of function)
+APOE
+(E2/E2)
+
+BVLDL
+(High)
 
 IDL
 (High)
+
+Serum
+(Turbid)

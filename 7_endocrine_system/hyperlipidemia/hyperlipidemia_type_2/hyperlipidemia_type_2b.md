@@ -2,12 +2,6 @@
 
 Familial combined hyperlipidemia.
 
-1 in 100.
-
-Low LDL receptor.
-
-High ApoB.
-
 # Epidemiology
 
 # Symptom
@@ -16,11 +10,14 @@ High ApoB.
 
 # Diagnostic
 
-LDL
-(High)
-
-ApoB
+APOB
 (Gain of function)
 
 VLDL
 (High)
+
+Triglyceride
+(High)
+
+Serum
+(Turbid)
