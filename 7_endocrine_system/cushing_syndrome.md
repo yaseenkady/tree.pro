@@ -7,9 +7,3 @@
 # Sign
 
 # Diagnostic
-
-Obesity
-
-Hepatitis
-
-Clotting Factor

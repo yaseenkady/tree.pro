@@ -1,5 +1,7 @@
 # Comment
 
+Mellitus means no taste.
+
 # Epidemiology
 
 # Symptom
@@ -7,9 +9,3 @@
 # Sign
 
 # Diagnostic
-
-Obesity
-
-Hepatitis
-
-Clotting Factor
