@@ -1,8 +1,8 @@
 # Comment
 
-Not-miss diagnosis.
-
 # Epidemiology
+
+Not-miss.
 
 # Symptom
 
@@ -21,3 +21,5 @@ Neisseria gonorrhea
 Fitz-Hugh-Curtis Syndrome
 
 Infertility
+
+# Treatment and Management

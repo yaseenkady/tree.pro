@@ -9,3 +9,5 @@
 # Diagnostic
 
 Reactive arthritis
+
+# Treatment and Management

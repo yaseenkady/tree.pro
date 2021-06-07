@@ -21,4 +21,5 @@ Vaginal pH
 (Less than 4.5.)
 
 Trichomonas vaginalis
-(Microscopy of 10um protozoa with flagella.)
+
+# Treatment and Management

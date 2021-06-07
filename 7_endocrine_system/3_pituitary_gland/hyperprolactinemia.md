@@ -24,24 +24,26 @@ Seizure
 
 Polycystic ovary diease
 
-varicella zoster virus
+Varicella zoster virus
 
 Chronic renal failure
 
 Cirrhosis
 
-Antihypertensive
+Antihypertensive use
 
-Psychotropic
+Psychotropic use
 
-Estrogen
+Estrogen use
 
-Opiate
+Opiate use
 
-Cocaine
+Cocaine use
 
 # Symptom
 
 # Sign
 
 # Diagnostic
+
+# Treatment and Management

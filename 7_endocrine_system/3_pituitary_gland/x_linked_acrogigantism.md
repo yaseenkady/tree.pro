@@ -10,7 +10,9 @@ Early onset growth hormone excess.
 
 # Diagnostic
 
-GPR101
+Genome GPR101
 (Gain of function.)
 
 Acromegaly
+
+# Treatment and Management

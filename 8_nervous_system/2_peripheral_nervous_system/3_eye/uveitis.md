@@ -4,8 +4,6 @@
 
 # Symptom
 
-Eye redness
-
 Eye pain
 
 Light sensitivity
@@ -14,12 +12,14 @@ Blurry vision
 
 Floater
 
-Decreased vision
-
 # Sign
+
+Eye redness
 
 Poor vision
 
 # Diagnostic
 
 Reactive arthritis
+
+# Treatment and Management

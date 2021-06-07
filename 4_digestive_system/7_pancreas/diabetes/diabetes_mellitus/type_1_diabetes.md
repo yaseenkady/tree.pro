@@ -4,7 +4,7 @@ Pancreatic B cell destruction by autoimmunity and lack of insulin.
 
 # Epidemiology
 
-Age adolescent
+Adolescent
 
 Family history
 
@@ -19,3 +19,5 @@ Blood insulin
 
 Blood antibody
 (Against pancreatic B cell.)
+
+# Treatment and Management

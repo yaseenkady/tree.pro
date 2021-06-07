@@ -10,5 +10,7 @@ Familial hyperchylomicronemia.
 
 # Diagnostic
 
-Blood LPL
+Genome LPL
 (Loss of function.)
+
+# Treatment and Management

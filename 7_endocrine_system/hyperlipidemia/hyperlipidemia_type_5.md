@@ -4,9 +4,9 @@
 
 Stress
 
-Glucocorticoid
+Glucocorticoid use
 
-Alcohol
+Alcohol use
 
 # Symptom
 
@@ -25,3 +25,5 @@ Blood VLDL
 
 Serum
 (Creamy top)
+
+# Treatment and Management

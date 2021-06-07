@@ -5,9 +5,9 @@
 Common
 (1/3 US population.)
 
-Socioeconomic status low
+Low socioeconomic status
 
-Ethnicity non-White
+Non-White
 
 # Symptom
 

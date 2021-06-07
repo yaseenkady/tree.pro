@@ -18,4 +18,5 @@ Rash on palm and sole
 # Diagnostic
 
 Treponema pallidum
-(Dark field microscopy. Specific antigen test remains positive for life, so use non-specific antigen to follow up a treatment.)
+
+# Treatment and Management

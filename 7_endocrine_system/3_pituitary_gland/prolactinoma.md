@@ -24,3 +24,5 @@ Delayed puberty
 # Diagnostic
 
 Blood prolactin
+
+# Treatment and Management

@@ -9,3 +9,5 @@
 # Diagnostic
 
 Neisseria gonorrhea
+
+# Treatment and Management

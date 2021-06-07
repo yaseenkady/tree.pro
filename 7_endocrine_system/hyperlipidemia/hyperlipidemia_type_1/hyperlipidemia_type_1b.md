@@ -10,5 +10,7 @@ Familial apoprotein C2 deficiency.
 
 # Diagnostic
 
-APOC2
+Genome APOC2
 (Loss of function.)
+
+# Treatment and Management

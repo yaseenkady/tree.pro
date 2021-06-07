@@ -2,13 +2,13 @@
 
 # Epidemiology
 
-Age infant
+Infant
 
-Age preschool child
+Preschool child
 
-Age child
+Child
 
-Age aged
+Elderly
 
 # Symptom
 
@@ -23,12 +23,12 @@ Headache
 
 # Sign
 
+Paresthesia
+
 Palpitation
 (Glocose below 55mg/gl.)
 
 Tachycardia
-
-Paresthesia
 
 Tremor
 (Glocose below 55mg/gl.)

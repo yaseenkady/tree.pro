@@ -11,7 +11,7 @@
 Blood growth hormone
 (High)
 
-Heart disease
+Myopathy
 
 Hypertension
 
@@ -24,3 +24,5 @@ Headache
 Cerebrovascular event
 
 Arthritis
+
+# Treatment and Management

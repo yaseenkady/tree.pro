@@ -2,7 +2,7 @@
 
 # Epidemiology
 
-Alcohol
+Alcohol use
 
 Obesity
 

@@ -13,3 +13,5 @@ Genital ulcer
 Herpes symplex virus 1
 
 Herpes symplex virus 2
+
+# Treatment and Management

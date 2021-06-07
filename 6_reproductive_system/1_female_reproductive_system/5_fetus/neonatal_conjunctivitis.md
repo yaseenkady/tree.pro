@@ -12,3 +12,5 @@ Delivery transmission
 # Diagnostic
 
 Neisseria gonorrhea
+
+# Treatment and Management

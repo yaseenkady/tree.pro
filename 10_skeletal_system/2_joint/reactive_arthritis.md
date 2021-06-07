@@ -2,7 +2,7 @@
 
 Used to be called Reiter syndrome.
 
-# Risk Factor
+# Epidemiology
 
 Infection
 
@@ -22,7 +22,7 @@ Clostridium dificile
 
 HLA B27
 
-Age adult
+Adult
 
 # Symptom
 
@@ -38,17 +38,17 @@ Joint effusion
 
 # Diagnostic
 
-Uveitis
-
-Conjunctivitis
-
-Urethritis
-
 Blood white blood cell
 
 Blood uric acid
 
 Joint x-ray
+
+Uveitis
+
+Conjunctivitis
+
+Urethritis
 
 # Treatment and Management
 

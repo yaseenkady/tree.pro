@@ -6,17 +6,17 @@ Pancreatic B cell dysfunction and insulin resistance.
 
 Common
 
-Age middle aged
+Middle aged
 
-Age aged
+Elderly
 
 Obesity
 
 Smoking
 
-Socioeconomic status low
+Low socioeconomic status
 
-Ethnicity non-White
+Non-White
 
 Family history
 (More accosiated than in type 1 diabetes.)

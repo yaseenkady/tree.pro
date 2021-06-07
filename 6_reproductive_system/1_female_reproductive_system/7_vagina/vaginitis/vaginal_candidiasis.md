@@ -18,4 +18,5 @@ Vaginal pH
 (Less than 4.5.)
 
 Candida albicans
-(Commensal false positive. Microscopy.)
+
+# Treatment and Management

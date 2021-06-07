@@ -15,3 +15,5 @@ Fatigue
 # Diagnostic
 
 Hyperlipidemia
+
+# Treatment and Management

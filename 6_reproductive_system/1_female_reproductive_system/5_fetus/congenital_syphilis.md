@@ -6,6 +6,8 @@ Some newborns are asymptomatic until their immune system develops and recognizes
 
 Delivery transmission
 
+Congenital abnormality
+
 # Symptom
 
 # Sign
@@ -17,8 +19,6 @@ Rhinorrhea
 Lymphadenopathy
 
 Hepatomegaly
-
-Congenital abnormality
 
 # Diagnostic
 

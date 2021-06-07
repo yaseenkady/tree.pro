@@ -8,7 +8,7 @@ Diabetes mellitus
 
 Uremia
 
-Estrogen
+Estrogen use
 
 # Symptom
 
@@ -26,3 +26,5 @@ Serum
 (Turbid.)
 
 Pancreatitis
+
+# Treatment and Management

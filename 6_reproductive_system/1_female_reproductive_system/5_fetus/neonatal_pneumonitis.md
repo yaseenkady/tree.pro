@@ -11,3 +11,5 @@ Delivery transmission
 # Diagnostic
 
 Chlamydia trachomatis
+
+# Treatment and Management

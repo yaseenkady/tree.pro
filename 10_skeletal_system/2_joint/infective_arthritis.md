@@ -6,6 +6,8 @@ Infection
 
 # Symptom
 
+Pain in joint
+
 # Sign
 
 # Diagnostic

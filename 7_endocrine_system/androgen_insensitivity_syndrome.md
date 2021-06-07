@@ -8,11 +8,11 @@ Adolescent
 
 # Symptom
 
+# Sign
+
 Absent axillary hair
 
 Absent pubic hair
-
-# Sign
 
 Undescended testes
 
@@ -22,3 +22,5 @@ Genome XY
 
 Genome AR
 (Loss of function.)
+
+# Treatment and Management

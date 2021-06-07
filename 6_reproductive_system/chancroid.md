@@ -16,3 +16,5 @@ Lymphadenopathy
 # Diagnostic
 
 Haemophilus ducreyi
+
+# Treatment and Management

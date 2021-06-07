@@ -1,10 +1,9 @@
 # Comment
 
-Not-miss diagnosis.
-
-Mortality 5% in age below 40 and 20% in elderly.
-
 # Epidemiology
+
+Not-miss
+(Mortality 5% in adult and 20% in elderly.)
 
 Precipitating factor
 

@@ -21,3 +21,5 @@ Blood triglyceride
 
 Serum
 (Turbid.)
+
+# Treatment and Management

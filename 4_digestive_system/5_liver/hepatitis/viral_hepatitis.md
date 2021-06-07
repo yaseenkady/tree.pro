@@ -9,7 +9,7 @@ Infection of hepatitis B virus and hepatitis C virus can become chronic.
 Common
 (Many are infected without knowing.)
 
-Hygiene poor
+Poor hygiene
 
 Long term care
 

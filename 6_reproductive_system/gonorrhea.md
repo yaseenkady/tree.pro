@@ -16,5 +16,4 @@ Dyscharge
 
 Neisseria gonorrhea
 
-Chlamydia trachomatis
-(20% coinfection.)
+# Treatment and Management
