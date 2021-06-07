@@ -8,6 +8,8 @@
 
 # Diagnostic
 
+Genome MEN2A
+
 Primary hyperparathyroidism
 
 # Treatment and Management

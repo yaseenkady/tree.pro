@@ -17,6 +17,11 @@ Adult
 
 # Diagnostic
 
+Genome RET
+(20-30% heritable.)
+
+Blood calcitonin
+
 Multiple endocrine neoplasia syndrome 2A
 
 Multiple endocrine neoplasia syndrome 2B
