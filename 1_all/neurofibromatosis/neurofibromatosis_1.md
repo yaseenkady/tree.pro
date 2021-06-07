@@ -8,10 +8,6 @@
 
 # Diagnostic
 
-Genome RET
-
-Genome MEN2A
-
-Primary hyperparathyroidism
+Pheochromocytoma
 
 # Treatment and Management
