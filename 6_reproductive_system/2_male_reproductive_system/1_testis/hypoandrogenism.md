@@ -1,27 +1,26 @@
 # Comment
 
-Driven not by growth hormone.
-
 # Epidemiology
+
+Chemotherapy
 
 # Symptom
 
+Erectile dysfunction
+
+Low libido
+
 # Sign
 
-Early puberty
-
-Fast growth
-(Short adult if untreated.)
+Small testes
 
 # Diagnostic
 
-Blood gonadotropic hormone
-(High.)
+Blood testosterone
+(Low.)
 
 Blood follicle stimulating hormone
-(High.)
 
 Blood leutenizing hormone
-(High.)
 
 # Treatment and Management

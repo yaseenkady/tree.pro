@@ -8,8 +8,6 @@
 
 # Diagnostic
 
-Mycobacteria tuberculosis
-
-Neisseria gonorrhea
+Treponema pallidum
 
 # Treatment and Management

@@ -1,5 +1,7 @@
 # Comment
 
+Vein enlargement.
+
 # Epidemiology
 
 # Symptom
@@ -8,8 +10,6 @@
 
 # Diagnostic
 
-Mycobacteria tuberculosis
-
-Neisseria gonorrhea
+Infertility
 
 # Treatment and Management

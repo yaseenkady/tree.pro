@@ -1,5 +1,7 @@
 # Comment
 
+Undescended testes.
+
 # Epidemiology
 
 # Symptom
@@ -8,8 +10,10 @@
 
 # Diagnostic
 
-Mycobacteria tuberculosis
+Infertility
 
-Neisseria gonorrhea
+Germ cell cancer
 
 # Treatment and Management
+
+Orchiopexy

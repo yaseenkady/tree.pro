@@ -8,8 +8,4 @@
 
 # Diagnostic
 
-Mycobacteria tuberculosis
-
-Neisseria gonorrhea
-
 # Treatment and Management
