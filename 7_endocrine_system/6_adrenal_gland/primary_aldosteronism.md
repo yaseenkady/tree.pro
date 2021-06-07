@@ -1,5 +1,7 @@
 # Comment
 
+Conn syndrome.
+
 # Epidemiology
 
 # Symptom
@@ -9,7 +11,5 @@
 # Diagnostic
 
 Hypertension
-
-Multiple endocrine neoplasia syndrome 2
 
 # Treatment and Management

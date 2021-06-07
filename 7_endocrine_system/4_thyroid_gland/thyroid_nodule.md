@@ -15,7 +15,7 @@ Common
 
 Blood thyroid stimulating hormone
 
-Radioiodine scan
+Iodine scan
 (If blood thyroid stimulating hormone is low.)
 
 Neck ultrasound

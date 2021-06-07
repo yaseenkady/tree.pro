@@ -8,8 +8,9 @@
 
 # Diagnostic
 
-Hypertension
+Blood adrenocorticotropic hormone
 
-Multiple endocrine neoplasia syndrome 2
+Cushing disease
+(12% of.)
 
 # Treatment and Management

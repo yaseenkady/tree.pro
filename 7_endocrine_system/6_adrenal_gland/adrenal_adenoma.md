@@ -8,8 +8,7 @@
 
 # Diagnostic
 
-Hypertension
-
-Multiple endocrine neoplasia syndrome 2
+Cushing disease
+(10% of.)
 
 # Treatment and Management

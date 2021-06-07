@@ -2,6 +2,9 @@
 
 # Epidemiology
 
+Estrogen use
+(Increases thyroxine-binding globulin, which take up available thyroxine.)
+
 # Symptom
 
 Feeling cold
@@ -26,7 +29,15 @@ Mental status change
 
 # Diagnostic
 
+Blood Free T4
+(Low.)
+
+Blood thyroid stimulating hormone
+(High.)
+
 Brain function
 (In children.)
 
 # Treatment and Management
+
+Thyroxine

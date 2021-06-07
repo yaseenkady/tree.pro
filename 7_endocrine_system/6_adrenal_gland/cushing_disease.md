@@ -8,8 +8,6 @@
 
 # Diagnostic
 
-Hypertension
-
-Multiple endocrine neoplasia syndrome 2
+Blood cortisol
 
 # Treatment and Management

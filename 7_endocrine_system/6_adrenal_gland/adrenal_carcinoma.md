@@ -8,4 +8,7 @@
 
 # Diagnostic
 
+Cushing disease
+(7% of.)
+
 # Treatment and Management
