@@ -8,9 +8,13 @@
 
 # Diagnostic
 
+Blood adrenocorticotropic hormone
+(High.)
+
 Cushing syndrome
-(10% of.)
 
 # Treatment and Management
 
-Resection
+Transsphenoidal hypophyseal surgery
+
+Radiation

@@ -1,5 +1,7 @@
 # Comment
 
+Less dramatic than primary adrenal insufficiency.
+
 # Epidemiology
 
 # Symptom
@@ -9,12 +11,6 @@
 # Diagnostic
 
 Blood adrenocorticotropic hormone
-
-Cushing syndrome
-(12% of.)
+(Low.)
 
 # Treatment and Management
-
-Resection
-
-Biochemical inhibition of steroid synthesis

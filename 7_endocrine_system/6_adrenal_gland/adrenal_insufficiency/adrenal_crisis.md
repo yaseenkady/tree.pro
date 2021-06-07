@@ -2,12 +2,18 @@
 
 # Epidemiology
 
+Precipitating factor
+
 # Symptom
 
 # Sign
 
+Shock
+
+Fever
+
 # Diagnostic
 
-Blood cortisol
+Hypoglycemia
 
 # Treatment and Management

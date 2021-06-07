@@ -8,7 +8,9 @@
 
 # Diagnostic
 
-Cushing disease
+Cushing syndrome
 (7% of.)
 
 # Treatment and Management
+
+Resection
