@@ -2,7 +2,7 @@
 
 # Epidemiology
 
-Maternal Infection
+Delivery transmission
 
 # Symptom
 

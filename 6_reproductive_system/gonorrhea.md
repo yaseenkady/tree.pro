@@ -2,11 +2,9 @@
 
 # Epidemiology
 
-High Sexual Activity
+High sexual activity
 
 # Symptom
-
-Asymptomatic
 
 Dysuria
 
@@ -17,6 +15,6 @@ Dyscharge
 # Diagnostic
 
 Neisseria gonorrhea
-(20% coinfection with Chlamydia trachomatis)
 
 Chlamydia trachomatis
+(20% coinfection.)

@@ -7,32 +7,36 @@ Infection of hepatitis B virus and hepatitis C virus can become chronic.
 # Epidemiology
 
 Common
-(Many are infected without knowing)
+(Many are infected without knowing.)
 
-Poor Sanitation
+Hygiene poor
 
-Long Term Care
+Long term care
 
 Endemic
 
 # Symptom
 
-Flu-Like Symptoms
+Flu-like
 
 # Sign
 
 # Diagnostic
 
-Hepatitis A Virus
+Hepatitis A virus
 
-Hepatitis E Virus
+Hepatitis E virus
 
-Herpes Symplex Virus 1
+Herpes symplex virus 1
 
-Herpes Symplex Virus 2
+Herpes symplex virus 2
 
 Adenovirus
 
-Hepatitis B Virus
+Hepatitis D virus
 
-Hepatitis C Virus
+Hepatitis C virus
+
+# Treatment and Management
+
+Self-limited

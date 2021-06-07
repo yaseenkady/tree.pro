@@ -14,14 +14,14 @@ Alcohol
 
 # Diagnostic
 
-LPL
-(Loss of function)
+Genome LPL
+(Loss of function.)
 
-Chylomicron
-(High)
+Blood chylomicron
+(High.)
 
-VLDL
-(High)
+Blood VLDL
+(High.)
 
 Serum
 (Creamy top)

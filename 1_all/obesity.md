@@ -3,12 +3,11 @@
 # Epidemiology
 
 Common
-(1/3 US population)
+(1/3 US population.)
 
-Low Socioeconomic Status
+Socioeconomic status low
 
-Ethnicity
-(More common in non-White)
+Ethnicity non-White
 
 # Symptom
 
@@ -16,19 +15,21 @@ Ethnicity
 
 # Diagnostic
 
-Body Mass Index
-(30kg/m2)
+Body mass index
+(30kg/m2.)
 
 Arthritis
 
 Asthma
 
-Heart Disease
+Coronary artery disease
 
 Hypertension
 
 Hyperlipidemia
 
-Type 2 Diabetes
+Type 2 diabetes
 
 Coagulopathy
+
+# Treatment and Management

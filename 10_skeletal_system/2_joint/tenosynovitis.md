@@ -8,4 +8,6 @@
 
 # Diagnostic
 
-Gonorrhea
+Neisseria gonorrhea
+
+# Treatment and Management

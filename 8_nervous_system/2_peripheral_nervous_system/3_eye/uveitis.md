@@ -4,22 +4,22 @@
 
 # Symptom
 
-Eye Redness
+Eye redness
 
-Eye Pain
+Eye pain
 
-Light Sensitivity
+Light sensitivity
 
-Blurry Vision
+Blurry vision
 
 Floater
 
-Decreased Vision
+Decreased vision
 
 # Sign
 
-Poor Vision
+Poor vision
 
 # Diagnostic
 
-Reactive Arthritis
+Reactive arthritis

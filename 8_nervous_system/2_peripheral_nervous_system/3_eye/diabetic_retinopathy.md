@@ -10,8 +10,8 @@ Diabetes
 
 # Sign
 
-Retinal Hemorrhage
+Retinal hemorrhage
 
-Retinal Aneurysm
+Retinal aneurysm
 
 # Diagnostic

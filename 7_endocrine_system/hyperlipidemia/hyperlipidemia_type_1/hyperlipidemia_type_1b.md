@@ -11,4 +11,4 @@ Familial apoprotein C2 deficiency.
 # Diagnostic
 
 APOC2
-(Loss of function)
+(Loss of function.)

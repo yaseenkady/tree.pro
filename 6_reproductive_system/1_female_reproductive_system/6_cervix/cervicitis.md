@@ -6,10 +6,10 @@
 
 # Sign
 
-Strawberry Cervix
+Strawberry cervix
 
 # Diagnostic
 
-Gonorrhea
+Neisseria gonorrhea
 
-Reactive Arthritis
+Reactive arthritis

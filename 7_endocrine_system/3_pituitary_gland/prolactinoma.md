@@ -5,22 +5,22 @@
 # Symptom
 
 Amenorrhea
-(Adult female)
+(In adult female.)
 
 Infertility
-(Adult female)
+(In adult female.)
 
 Impotence
-(Adult male)
+(In adult male.)
 
 Headache
-(Adult male)
+(In adult male.)
 
-Delayed Puberty
-(Child)
+Delayed puberty
+(In child.)
 
 # Sign
 
 # Diagnostic
 
-Prolactin
+Blood prolactin

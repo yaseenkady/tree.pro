@@ -8,6 +8,8 @@
 
 # Diagnostic
 
-Gonorrhea
+Reactive arthritis
 
-Reactive Arthritis
+Neisseria gonorrhea
+
+# Treatment and Management

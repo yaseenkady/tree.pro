@@ -2,14 +2,18 @@
 
 # Epidemiology
 
+Infection
+
 # Symptom
 
 # Sign
 
 # Diagnostic
 
-Lyme Disease
+Borrelia burgdorferi
 
-Syphilis
+Treponema pallidum
 
-Gonorrhea
+Neisseria gonorrhea
+
+# Treatment and Management

@@ -10,10 +10,14 @@ Demyelination of the posterior columns and degeneration of the dorsal root gangl
 
 # Sign
 
-Wide Gait
+Wide gait
 
 Ataxia
 
 Areflexia
 
 Akinesthesia
+
+# Diagnostic
+
+# Treatment and Management

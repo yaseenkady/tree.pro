@@ -12,10 +12,12 @@ Obesity
 
 Splenomegaly
 
-Abdominal Swelling
+Abdominal swelling
 
 Ascite
 
 # Diagnostic
 
-Portal Hypertension
+Portal hypertension
+
+# Treatment and Management

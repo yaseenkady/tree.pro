@@ -4,14 +4,13 @@ Some newborns are asymptomatic until their immune system develops and recognizes
 
 # Epidemiology
 
-Maternal Infection
+Delivery transmission
 
 # Symptom
 
 # Sign
 
-Rash
-(Palms and soles)
+Rash on palm and sole
 
 Rhinorrhea
 
@@ -19,8 +18,10 @@ Lymphadenopathy
 
 Hepatomegaly
 
-Congenital Abnormality
+Congenital abnormality
 
 # Diagnostic
 
-Syphilis
+Treponema pallidum
+
+# Treatment and Management

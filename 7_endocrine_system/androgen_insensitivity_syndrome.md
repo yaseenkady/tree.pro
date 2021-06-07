@@ -1,25 +1,24 @@
 # Comment
 
-AR loss of function.
 Fail to develop male characteristics.
 
 # Epidemiology
 
-Age 13-19
+Adolescent
 
 # Symptom
 
-Absent Axillary Hair
+Absent axillary hair
 
-Absent Pubic Hair
+Absent pubic hair
 
 # Sign
 
-Undescended Testes
+Undescended testes
 
 # Diagnostic
 
-XY
+Genome XY
 
-AR
-(Mutation)
+Genome AR
+(Loss of function.)

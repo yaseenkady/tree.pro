@@ -10,14 +10,14 @@ Familial combined hyperlipidemia.
 
 # Diagnostic
 
-APOB
-(Gain of function)
+Genome APOB
+(Gain of function.)
 
-VLDL
-(High)
+Blood VLDL
+(High.)
 
-Triglyceride
-(High)
+Blood triglyceride
+(High.)
 
 Serum
-(Turbid)
+(Turbid.)

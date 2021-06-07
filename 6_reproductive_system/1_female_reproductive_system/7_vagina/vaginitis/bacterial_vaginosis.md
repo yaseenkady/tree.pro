@@ -2,18 +2,18 @@
 
 # Epidemiology
 
-Antibiotics
+Antibiotic
 
 # Symptom
 
 # Sign
 
-Thin Gray Malodorous Discahrge
+Vaginal thin gray malodorous discahrge
 
 # Diagnostic
 
-pH
-(Greater than 4.5)
+Vaginal pH
+(Greater than 4.5.)
 
 Gardnerella vaginalis
-(Microscopy of clue cells, whose borders are covered by bacteria)
+(Microscopy of clue cells, whose borders are covered by bacteria.)

@@ -16,17 +16,17 @@ Natural causes:
 
 Prolactinoma
 
-Hypothalamic and Pituitary Stalk Disease
+Hypothalamic and pituitary stalk disease
 
-Primary Hypothyroidism
+Primary hypothyroidism
 
 Seizure
 
-Polycystic Ovary Diease
+Polycystic ovary diease
 
-Herpes Zoster Infection
+varicella zoster virus
 
-Chronic Renal Failure
+Chronic renal failure
 
 Cirrhosis
 

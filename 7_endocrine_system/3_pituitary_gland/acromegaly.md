@@ -8,19 +8,19 @@
 
 # Diagnostic
 
-Growth Hormone
+Blood growth hormone
 (High)
 
-Heart Disease
+Heart disease
 
 Hypertension
 
-Sleep Apnea
+Sleep apnea
 
-Type 2 Diabetes
+Type 2 diabetes
 
 Headache
 
-Cerebrovascular Event
+Cerebrovascular event
 
 Arthritis

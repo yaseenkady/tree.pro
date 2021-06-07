@@ -5,7 +5,7 @@ Difficult to diagnose.
 # Epidemiology
 
 Rare
-(In the US)
+(In the US.)
 
 # Symptom
 

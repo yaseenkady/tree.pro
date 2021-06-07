@@ -8,4 +8,4 @@
 
 # Diagnostic
 
-Gonorrhea
+Neisseria gonorrhea

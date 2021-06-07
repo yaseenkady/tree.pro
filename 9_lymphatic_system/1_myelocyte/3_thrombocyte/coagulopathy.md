@@ -12,4 +12,4 @@ Obesity
 
 Hepatitis
 
-Clotting Factor
+Blood clotting factor

@@ -4,21 +4,19 @@
 
 # Symptom
 
-Delayed Puberty
+Delayed puberty
 
 # Sign
 
-Midline Defect
-
-Nervous System Disease
+Midline defect
 
 # Diagnostic
 
-Leutenizing Hormone
-(Low)
+Blood leutenizing hormone
+(Low.)
 
-Follicle Stimulating Hormone
-(Low)
+Blood follicle stimulating hormone
+(Low.)
 
-Testosterone
-(Low)
+Blood testosterone
+(Low.)

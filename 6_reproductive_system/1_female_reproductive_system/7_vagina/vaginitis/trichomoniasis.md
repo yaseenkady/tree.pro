@@ -2,23 +2,23 @@
 
 # Epidemiology
 
-High Sexual Activity
+High sexual activity
 
 # Symptom
 
-Burning Sensation
+Burning sensation during urination
 
 # Sign
 
-Thin Green Malodorous Discahrge
+Vaginal thin green malodorous discahrge
 
-Strawberry Cervix
-(2%)
+Strawberry cervix
+(2% of the time)
 
 # Diagnostic
 
-pH
-(Less than 4.5)
+Vaginal pH
+(Less than 4.5.)
 
 Trichomonas vaginalis
-(Microscopy of 10um protozoa with flagella)
+(Microscopy of 10um protozoa with flagella.)

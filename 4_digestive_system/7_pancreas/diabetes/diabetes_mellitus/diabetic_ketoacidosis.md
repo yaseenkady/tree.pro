@@ -1,15 +1,16 @@
 # Comment
 
 Not-miss diagnosis.
+
 Mortality 5% in age below 40 and 20% in elderly.
 
 # Epidemiology
 
-Precipitating Factor
+Precipitating factor
 
 Infection
 
-Myocardial Infarction
+Myocardial infarction
 
 Trauma
 
@@ -23,16 +24,18 @@ Tachycardia
 
 # Diagnostic
 
-Ketone
-(High)
+Blood ketone
+(High.)
 
-pH
-(Anion gap acidosis)
+Blood pH
+(Anion gap acidosis.)
 
-Electrolyte
-(Hyperkalemia and hypokalemia)
+Blood electrolyte
+(Hyperkalemia and hypokalemia.)
 
-Urine Analysis
+Urine
 (Glucose and ketone)
 
-Cerebral Edema
+Cerebral edema
+
+# Treatment and Management

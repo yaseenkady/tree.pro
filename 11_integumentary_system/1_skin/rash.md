@@ -8,4 +8,10 @@
 
 # Diagnostic
 
-Gonorrhea
+Borrelia burgdorferi
+
+Treponema pallidum
+
+Neisseria gonorrhea
+
+# Treatment and Management

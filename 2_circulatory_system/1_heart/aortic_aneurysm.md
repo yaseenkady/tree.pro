@@ -8,4 +8,6 @@
 
 # Diagnostic
 
-Syphilis
+Treponema pallidum
+
+# Treatment and Management

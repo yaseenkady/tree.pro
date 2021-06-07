@@ -9,3 +9,5 @@ Rare complication of pelvic inflammatory disease involving liver capsule inflamm
 # Sign
 
 # Diagnostic
+
+# Treatment and Management

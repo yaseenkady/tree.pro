@@ -4,7 +4,7 @@ Familial hypertriglyceridemia.
 
 # Epidemiology
 
-Diabetes Mellitus
+Diabetes mellitus
 
 Uremia
 
@@ -16,13 +16,13 @@ Estrogen
 
 # Diagnostic
 
-VLDL
-(High)
+Blood VLDL
+(High.)
 
-Triglyceride
-(High)
+Blood triglyceride
+(High.)
 
 Serum
-(Turbid)
+(Turbid.)
 
 Pancreatitis

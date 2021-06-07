@@ -8,4 +8,4 @@
 
 # Diagnostic
 
-Lyme Disease
+Borrelia burgdorferi

@@ -2,20 +2,20 @@
 
 # Epidemiology
 
-Hormonal Change
+Hormonal change
 
-Antibiotics
+Antibiotic
 
 # Symptom
 
 # Sign
 
-Clumpy White Discharge
+Vaginal clumpy white discharge
 
 # Diagnostic
 
-pH
-(Less than 4.5)
+Vaginal pH
+(Less than 4.5.)
 
 Candida albicans
-(Commensal false positive; Microscopy)
+(Commensal false positive. Microscopy.)

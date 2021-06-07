@@ -8,15 +8,15 @@ Not-miss diagnosis.
 
 # Sign
 
-Uterine Tenderness
+Uterine tenderness
 
-Adnexal Tenderness
+Adnexal tenderness
 
-Cervical Motion Tenderness
+Cervical motion tenderness
 
 # Diagnostic
 
-Gonorrhea
+Neisseria gonorrhea
 
 Fitz-Hugh-Curtis Syndrome
 

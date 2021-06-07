@@ -2,8 +2,8 @@
 
 # Epidemiology
 
-Maternal Infection
-(28% of delivery)
+Delivery transmission
+(28%.)
 
 # Symptom
 
@@ -11,4 +11,4 @@ Maternal Infection
 
 # Diagnostic
 
-Gonorrhea
+Neisseria gonorrhea

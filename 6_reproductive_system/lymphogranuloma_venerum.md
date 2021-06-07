@@ -3,7 +3,7 @@
 # Epidemiology
 
 Endemic
-(Tropics)
+(Tropics.)
 
 # Symptom
 

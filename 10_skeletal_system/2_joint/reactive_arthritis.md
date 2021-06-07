@@ -1,23 +1,42 @@
 # Comment
 
-Reiter syndrome.
+Used to be called Reiter syndrome.
 
-Self-limited.
+# Risk Factor
 
-# Epidemiology
+Infection
 
-Age 20-40.
+Chlamydia
 
-HLA-B27
+Salmonella
 
-Post Infection
-(Chlamydia, Salmonella, Shigella, Yersinia, Campylobacter, Gonorrhea, and Clostridium dificile)
+Shigella
+
+Yersinia
+
+Campylobacter
+
+Neisseria gonorrhea
+
+Clostridium dificile
+
+HLA B27
+
+Age adult
 
 # Symptom
 
-Lower Back Pain
+Pain in joint
+
+Pain in lower back
 
 # Sign
+
+Rash on palm and sole
+
+Joint effusion
+
+# Diagnostic
 
 Uveitis
 
@@ -25,13 +44,12 @@ Conjunctivitis
 
 Urethritis
 
-Rash
-(Palms, soles, mouth)
+Blood white blood cell
 
-# Diagnostic
+Blood uric acid
 
-White Blood Cell Count
+Joint x-ray
 
-Uric Acid
+# Treatment and Management
 
-X-Ray
+Self-limited

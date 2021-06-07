@@ -10,5 +10,5 @@ Familial hyperchylomicronemia.
 
 # Diagnostic
 
-LPL
-(Loss of function)
+Blood LPL
+(Loss of function.)

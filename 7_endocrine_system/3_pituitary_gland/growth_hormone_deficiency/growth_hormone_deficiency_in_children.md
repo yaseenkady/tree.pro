@@ -5,12 +5,12 @@ Failure of linear growth.
 # Epidemiology
 
 Hypoglycemia
-(Infancy)
+(In infancy.)
 
 # Symptom
 
 # Sign
 
-Short Stature
+Short stature
 
 # Diagnostic

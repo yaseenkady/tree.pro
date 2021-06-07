@@ -4,15 +4,15 @@ Familial dysbetalipoproteinemia.
 
 # Epidemiology
 
-Tuberous Xanthoma
+Tuberous xanthoma
 
-Palmar Xanthoma
+Palmar xanthoma
 
 Hypothyroidism
 
-Systemic Lupus Erythematosus
+Systemic lupus erythematosus
 
-Diabetes Mellitus
+Diabetes mellitus
 
 # Symptom
 
@@ -20,14 +20,14 @@ Diabetes Mellitus
 
 # Diagnostic
 
-APOE
-(E2/E2)
+Genome APOE
+(E2/E2.)
 
-BVLDL
-(High)
+Blood BVLDL
+(High.)
 
-IDL
-(High)
+Blood IDL
+(High.)
 
 Serum
-(Turbid)
+(Turbid.)

@@ -6,17 +6,16 @@ There are 4 stages: local ulcer, systemic rash, latent, and organ damages.
 
 # Symptom
 
-Flu-Like Symptoms
+Flu-like
 
 # Sign
 
-Ulcer
+Genital ulcer
 (Painless chancre)
 
-Rash
-(Palms and soles)
+Rash on palm and sole
 
 # Diagnostic
 
 Treponema pallidum
-(Dark field microscopy; Non-specific antigen testing for following up treatment; Specific antigen testing, which remains positive for life and can not be used to follow up a treatment)
+(Dark field microscopy. Specific antigen test remains positive for life, so use non-specific antigen to follow up a treatment.)

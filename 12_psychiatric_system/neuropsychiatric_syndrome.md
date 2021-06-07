@@ -8,4 +8,6 @@
 
 # Diagnostic
 
-Lyme Disease
+Borrelia burgdorferi
+
+# Treatment and Management

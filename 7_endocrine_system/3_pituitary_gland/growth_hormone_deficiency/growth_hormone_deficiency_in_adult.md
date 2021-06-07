@@ -2,11 +2,11 @@
 
 # Epidemiology
 
-Growth Hormone Deficiency in Children
+Growth hormone deficiency in children
 
 # Symptom
 
-Muscle Weakness
+Muscle weakness
 
 Fatigue
 

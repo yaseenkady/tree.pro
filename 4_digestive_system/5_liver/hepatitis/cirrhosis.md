@@ -12,4 +12,8 @@ Some hepatitis rapidly progresses to cirrhosis.
 
 # Diagnostic
 
-Hepatocellular Carcinoma
+Hepatocellular carcinoma
+
+# Treatment and Management
+
+Liver transplant

@@ -6,10 +6,10 @@
 
 # Sign
 
-Ulcer
+Genital ulcer
 
 # Diagnostic
 
-Herpes Symplex Virus 1
+Herpes symplex virus 1
 
-Herpes Symplex Virus 2
+Herpes symplex virus 2

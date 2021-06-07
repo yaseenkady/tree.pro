@@ -11,6 +11,6 @@ Early onset growth hormone excess.
 # Diagnostic
 
 GPR101
-(Gain of function)
+(Gain of function.)
 
 Acromegaly
