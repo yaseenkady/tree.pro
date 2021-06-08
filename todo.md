@@ -135,7 +135,7 @@ Practice more case:
 
 - [] Case 16
 - [] Case 17
-- [] Case 18
+- [x] Case 18
 - [] Case 19
 - [] Case 20
 
