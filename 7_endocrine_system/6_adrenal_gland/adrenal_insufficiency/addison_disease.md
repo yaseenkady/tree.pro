@@ -1,7 +1,5 @@
 # Comment
 
-Addision disease.
-
 # Epidemiology
 
 Infection
