@@ -2,16 +2,18 @@
 
 # Epidemiology
 
+Family history
+
 # Symptom
 
 # Sign
 
 # Diagnostic
 
-Genome RET
-
-Medullary thyroid carcinoma
-
 Pheochromocytoma
 
+Paraganglioma
+
 # Treatment and Management
+
+Genome VHL

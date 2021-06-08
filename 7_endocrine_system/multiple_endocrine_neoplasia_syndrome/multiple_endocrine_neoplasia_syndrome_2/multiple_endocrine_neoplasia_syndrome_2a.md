@@ -8,8 +8,6 @@
 
 # Diagnostic
 
-Genome RET
-
 Genome MEN2A
 
 Primary hyperparathyroidism

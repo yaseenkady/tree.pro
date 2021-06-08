@@ -1,5 +1,12 @@
 # Comment
 
+Neoplasm secreting catacholamines.
+
+10% extra adrenal
+10% bilateral
+10% malignant and metastasizes
+10% not associated with hypertension
+
 # Epidemiology
 
 Family history
@@ -49,10 +56,21 @@ Myocardiopathy
 Myocardial infarction
 (In the absence of coronary artery disease)
 
-Refractory hypertension
-
-Neurofibromatosis
+Hypertension
+(90%. Paroxysmal. Refractory.)
 
 Multiple endocrine neoplasia syndrome 2
 
+Neurofibromatosis 1
+
+Von Hippel-Lindau
+
+Familial paraganglioma 1
+
+Familial paraganglioma 3
+
+Familial paraganglioma 4
+
 # Treatment and Management
+
+Resection

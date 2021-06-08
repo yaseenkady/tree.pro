@@ -2,13 +2,21 @@
 
 # Epidemiology
 
-Infection
+Autoimmunity
+(The most common cause.)
+
+Metastasis to adrenal gland
+(Common cause.)
 
 Immunodeficiency
 
+Infection
+
 Human immunodeficiency virus
+(Common cause.)
 
 Mycobacteria tuberculosis
+(Common cause.)
 
 Cytomegalovirus
 
@@ -18,9 +26,13 @@ Coccidioides
 
 Cryptococcus
 
-Autoimmunity
+Lymphoma
 
-Metastasis to adrenal gland
+Amyloidosis
+
+Sarcoidosis
+
+Hemochromatosis
 
 Medication use
 
