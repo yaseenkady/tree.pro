@@ -12,6 +12,7 @@ Blood adrenocorticotropic hormone
 (High.)
 
 Cushing syndrome
+(70% of endogeneous cause.)
 
 # Treatment and Management
 

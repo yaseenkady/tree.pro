@@ -2,18 +2,14 @@
 
 # Epidemiology
 
-Stress
-
-Glucocorticoid use
-
 # Symptom
 
 # Sign
 
-Short stature
-
-Obesity
-
 # Diagnostic
+
+Genome PRKARIA
+
+Genome PDE11
 
 # Treatment and Management

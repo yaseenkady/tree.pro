@@ -8,6 +8,10 @@ Aldosteronoma.
 
 Family history
 
+Adult
+
+Women
+
 # Symptom
 
 # Sign
@@ -23,6 +27,8 @@ Blood sodium
 Blood potassium
 (Low.)
 
+Hypokalemia
+
 Blood renin
 (Low.)
 
@@ -30,6 +36,11 @@ Blood pH
 (Metabolic alkalosis.)
 
 Refractory hypertension
+
+Hypertension
+
+Blood aldosterone
+(High)
 
 # Treatment and Management
 

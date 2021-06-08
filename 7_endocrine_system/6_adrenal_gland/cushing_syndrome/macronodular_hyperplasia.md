@@ -1,5 +1,7 @@
 # Comment
 
+Ectopic expression of hormone receptors.
+
 # Epidemiology
 
 # Symptom
@@ -8,9 +10,4 @@
 
 # Diagnostic
 
-Cushing syndrome
-(7% of.)
-
 # Treatment and Management
-
-Resection

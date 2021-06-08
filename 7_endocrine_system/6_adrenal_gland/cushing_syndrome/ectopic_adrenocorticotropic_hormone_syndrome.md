@@ -8,9 +8,10 @@
 
 # Diagnostic
 
-Cushing syndrome
-(10% of.)
+Blood adrenocorticotropic hormone
 
 # Treatment and Management
 
 Resection
+
+Biochemical inhibition of steroid synthesis
