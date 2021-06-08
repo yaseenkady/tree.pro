@@ -13,11 +13,11 @@
 
 Read Symptoms to Diagnosis:
 
-- [ ] Chapter 1
-- [ ] Chapter 2
-- [ ] Chapter 3
-- [ ] Chapter 4
-- [ ] Chapter 5
+- [x] Chapter 1: diagnostic process
+- [ ] Chapter 2: screening and health maintenance
+- [ ] Chapter 3: abdominal pain
+- [ ] Chapter 4: acid-base abnormalities
+- [ ] Chapter 5: AIDS/HIV infection
 
 Review cardiac block:
 
@@ -39,11 +39,11 @@ Work on case with Dr Pompei.
 
 Read Symptoms to Diagnosis:
 
-- [ ] Chapter 6
-- [ ] Chapter 7
-- [ ] Chapter 8
-- [ ] Chapter 9
-- [ ] Chapter 10
+- [ ] Chapter 6: anemia
+- [ ] Chapter 7: back pain
+- [ ] Chapter 8: bleeding disorder
+- [ ] Chapter 9: chest pain
+- [ ] Chapter 10: cough, fever, and respiratory infections
 
 Review pulmonary block:
 
@@ -67,11 +67,11 @@ Work on case with Dr Danit.
 
 Read Symptoms to Diagnosis:
 
-- [ ] Chapter 11
-- [ ] Chapter 12
-- [ ] Chapter 13
-- [ ] Chapter 14
-- [ ] Chapter 15
+- [ ] Chapter 11: delirium and dimentia
+- [ ] Chapter 12: diabetes
+- [ ] Chapter 13: diarrhea, acute
+- [ ] Chapter 14: dizziness
+- [ ] Chapter 15: dyspnea
 
 Review gastrointestinal block:
 
@@ -93,11 +93,11 @@ Work on case with Dr Pompei.
 
 Read Symptoms to Diagnosis:
 
-- [ ] Chapter 16
-- [ ] Chapter 17
-- [x] Chapter 18
-- [ ] Chapter 19
-- [ ] Chapter 20
+- [ ] Chapter 16: dysuria
+- [ ] Chapter 17: edema
+- [x] Chapter 18: fatigue
+- [ ] Chapter 19: GI bleeding
+- [ ] Chapter 20: headache
 
 Review renal block:
 
@@ -119,11 +119,11 @@ Work on case with Dr Pompei.
 
 Read Symptoms to Diagnosis:
 
-- [ ] Chapter 21
-- [ ] Chapter 22
-- [ ] Chapter 23
-- [ ] Chapter 24
-- [ ] Chapter 25
+- [ ] Chapter 21: hematuria
+- [ ] Chapter 22: hypercalcemia
+- [ ] Chapter 23: hypertension
+- [ ] Chapter 24: hyponatremia and hypernatremia
+- [ ] Chapter 25: hypotension
 
 Review reproductive block:
 
@@ -145,11 +145,11 @@ Work on case with Dr Pompei.
 
 Read Symptoms to Diagnosis:
 
-- [ ] Chapter 26
-- [ ] Chapter 27
-- [ ] Chapter 28
-- [ ] Chapter 29
-- [ ] Chapter 30
+- [ ] Chapter 26: juandice and abnormal liver enzymes
+- [ ] Chapter 27: joint pain
+- [ ] Chapter 28: kidney injury, acute
+- [ ] Chapter 29: rash
+- [ ] Chapter 30: sore throat
 
 Review endocrine block:
 
@@ -166,3 +166,27 @@ Practice more case:
 - [ ] Case 25
 
 Work on case with Dr Pompei.
+
+## 0712
+
+Read Symptoms to Diagnosis:
+
+- [ ] Chapter 31: syncope
+- [ ] Chapter 32: weight loss, unintentional
+- [ ] Chapter 33: wheezing and stridor
+
+Review neuro block:
+
+- [ ] Science of Medicine
+- [ ] Science of Medicine cases
+- [ ] Practice of Medicine cases
+
+Practice more case:
+
+- [ ] Case 26
+- [ ] Case 27
+- [ ] Case 28
+- [ ] Case 29
+- [ ] Case 30
+
+[ ] Work on case with Dr Pompei.
