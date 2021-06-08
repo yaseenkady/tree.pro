@@ -1,6 +1,10 @@
 # Comment
 
+Originates from primary spermatocyte.
+
 # Epidemiology
+
+Elderly
 
 # Symptom
 
@@ -9,3 +13,5 @@
 # Diagnostic
 
 # Treatment and Management
+
+Good prognosis
