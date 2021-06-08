@@ -8,6 +8,7 @@
 
 # Diagnostic
 
-Multiple endocrine neoplasia syndrome 1
+Hypoglycemia
+(Multiple episode.)
 
 # Treatment and Management
