@@ -2,12 +2,12 @@
 
 # Epidemiology
 
+Neisseria gonorrhea
+
 # Symptom
 
 # Sign
 
 # Diagnostic
-
-Neisseria gonorrhea
 
 # Treatment and Management

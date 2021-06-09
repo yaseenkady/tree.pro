@@ -12,8 +12,8 @@ Macrosomia
 
 # Diagnostic
 
-Polycythemia
+Blood insulin
 
-Neonatal hypoglycemia
+Blood glucose
 
 # Treatment and Management

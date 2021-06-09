@@ -1,10 +1,25 @@
 # Comment
 
-Mellitus means no taste.
+Diabetes means polyuria.
+Insipidus means no taste.
 
 # Epidemiology
 
 # Symptom
+
+Polyuria
+
+Nocturia
+
+Weight loss
+
+Thirst
+
+Trouble sleeping
+
+Nausea
+
+Vomiting
 
 # Sign
 

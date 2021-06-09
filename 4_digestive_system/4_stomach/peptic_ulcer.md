@@ -6,14 +6,14 @@ Stress
 
 Helicobacter pylori
 
+Gastrinoma
+
+Islet cell tumor
+
 # Symptom
 
 # Sign
 
 # Diagnostic
-
-Islet cell cancer
-
-Gastrinoma
 
 # Treatment and Management

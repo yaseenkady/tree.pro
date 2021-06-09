@@ -2,14 +2,14 @@
 
 # Epidemiology
 
+Reactive arthritis
+
+Neisseria gonorrhea
+
 # Symptom
 
 # Sign
 
 # Diagnostic
-
-Reactive arthritis
-
-Neisseria gonorrhea
 
 # Treatment and Management

@@ -2,12 +2,12 @@
 
 # Epidemiology
 
+Treponema pallidum
+
 # Symptom
 
 # Sign
 
 # Diagnostic
-
-Treponema pallidum
 
 # Treatment and Management

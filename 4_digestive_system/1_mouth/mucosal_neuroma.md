@@ -2,12 +2,12 @@
 
 # Epidemiology
 
+Multiple endocrine neoplasia syndrome 2b
+
 # Symptom
 
 # Sign
 
 # Diagnostic
-
-Multiple endocrine neoplasia syndrome 2b
 
 # Treatment and Management

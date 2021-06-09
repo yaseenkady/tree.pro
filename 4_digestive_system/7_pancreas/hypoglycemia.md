@@ -4,6 +4,8 @@
 
 Infant
 
+Fetal hyperinsulinemia
+
 Preschool child
 
 Child
@@ -51,5 +53,6 @@ Death
 # Diagnostic
 
 Blood glucose
+(Low.)
 
 # Treatment and Management

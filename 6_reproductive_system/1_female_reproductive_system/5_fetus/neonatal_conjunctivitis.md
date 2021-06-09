@@ -2,15 +2,15 @@
 
 # Epidemiology
 
+Neisseria gonorrhea
+
 Delivery transmission
-(28%.)
+(28% of delivery.)
 
 # Symptom
 
 # Sign
 
 # Diagnostic
-
-Neisseria gonorrhea
 
 # Treatment and Management

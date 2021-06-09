@@ -4,6 +4,8 @@ Rare complication of pelvic inflammatory disease involving liver capsule inflamm
 
 # Epidemiology
 
+Pelvic inflammatory disease
+
 # Symptom
 
 # Sign

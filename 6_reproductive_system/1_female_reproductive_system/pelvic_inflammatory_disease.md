@@ -4,6 +4,8 @@
 
 Not-miss.
 
+Neisseria gonorrhea
+
 # Symptom
 
 # Sign
@@ -15,11 +17,5 @@ Adnexal tenderness
 Cervical motion tenderness
 
 # Diagnostic
-
-Neisseria gonorrhea
-
-Fitz-Hugh-Curtis Syndrome
-
-Infertility
 
 # Treatment and Management

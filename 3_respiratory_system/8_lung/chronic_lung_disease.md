@@ -2,11 +2,13 @@
 
 # Epidemiology
 
+Smoking
+
 # Symptom
 
-Fatigue
-
 Dyspnea
+
+Fatigue
 
 Cachexia
 

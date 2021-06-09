@@ -8,19 +8,19 @@ Fatigue
 
 Dyspnea
 
-Orthopnea
-
-Bendopnea
-
 Paroxysmal nocturnal dyspnea
 
 # Sign
 
-Edema
-
 Jagular venous distention
 
 S3 gallop
+
+Orthopnea
+
+Bendopnea
+
+Pitting edema
 
 # Diagnostic
 

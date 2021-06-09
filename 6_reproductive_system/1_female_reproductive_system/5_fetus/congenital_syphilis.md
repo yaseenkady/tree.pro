@@ -4,9 +4,11 @@ Some newborns are asymptomatic until their immune system develops and recognizes
 
 # Epidemiology
 
+Treponema pallidum
+
 Delivery transmission
 
-Congenital abnormality
+Congenital defect
 
 # Symptom
 
@@ -21,7 +23,5 @@ Lymphadenopathy
 Hepatomegaly
 
 # Diagnostic
-
-Treponema pallidum
 
 # Treatment and Management

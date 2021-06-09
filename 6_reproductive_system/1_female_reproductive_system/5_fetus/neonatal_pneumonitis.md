@@ -2,6 +2,8 @@
 
 # Epidemiology
 
+Chlamydia trachomatis
+
 Delivery transmission
 
 # Symptom
@@ -9,7 +11,5 @@ Delivery transmission
 # Sign
 
 # Diagnostic
-
-Chlamydia trachomatis
 
 # Treatment and Management

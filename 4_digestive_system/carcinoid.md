@@ -9,8 +9,6 @@ Neuroendocrine tumor originating in:
 - Rectum
 - Lung
 
-Slow growing and usually benign.
-
 Commonly makes multiple hormones:
 
 - Insulin
@@ -21,6 +19,9 @@ Commonly makes multiple hormones:
 - Somatostatin
 
 # Epidemiology
+
+Common
+(The most common neuroendocrine tumor.)
 
 # Symptom
 
@@ -34,6 +35,7 @@ Flushing
 
 # Diagnostic
 
-Islet cell cancer
-
 # Treatment and Management
+
+Good prognosis
+(Slow growing and benign.)

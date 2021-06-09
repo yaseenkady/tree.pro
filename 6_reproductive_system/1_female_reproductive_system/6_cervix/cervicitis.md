@@ -2,17 +2,17 @@
 
 # Epidemiology
 
+Neisseria gonorrhea
+
+Reactive arthritis
+
 # Symptom
 
 # Sign
 
 Strawberry cervix
-(2%.)
+(2% of cases.)
 
 # Diagnostic
-
-Neisseria gonorrhea
-
-Reactive arthritis
 
 # Treatment and Management

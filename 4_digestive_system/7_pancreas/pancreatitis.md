@@ -3,7 +3,7 @@
 # Epidemiology
 
 Hypertriglyceridemia
-(500mg/dl.)
+(Blood triglyceride of 500mg/dl.)
 
 # Symptom
 
