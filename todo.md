@@ -1,9 +1,8 @@
 ## Goal
 
-1. Finish Symptoms to Diagnosis.
-   Work through each question and compare with responses.
+1. Review science of medicine.
 
-2. Review science of medicine.
+2. Finish Symptoms to Diagnosis.
 
 3. Improve diagnosis.
 
@@ -11,19 +10,18 @@
 
 ## 0531
 
+Review endocrine system:
+
+- [x] Science of Medicine
+- [ ] Science of Medicine cases
+- [ ] Practice of Medicine cases
+
 Read Symptoms to Diagnosis:
 
 - [x] Chapter 1: diagnostic process
-- [ ] Chapter 2: screening and health maintenance
-- [ ] Chapter 3: abdominal pain
-- [ ] Chapter 4: acid-base abnormalities
-- [ ] Chapter 5: AIDS/HIV infection
-
-Review cardiac block:
-
-- [ ] Science of Medicine
-- [ ] Science of Medicine cases
-- [ ] Practice of Medicine cases
+- [ ] Chapter 12: diabetes
+- [x] Chapter 18: fatigue
+- [ ] Chapter 22: hypercalcemia
 
 Review Practice of Medicine clinical reasoning exam:
 
@@ -33,25 +31,19 @@ Review Practice of Medicine clinical reasoning exam:
 - [ ] CR exam 5
 - [ ] CR exam 5.2
 
-Work on case with Dr Pompei.
-
 ## 0607
 
-Read Symptoms to Diagnosis:
-
-- [ ] Chapter 6: anemia
-- [ ] Chapter 7: back pain
-- [ ] Chapter 8: bleeding disorder
-- [ ] Chapter 9: chest pain
-- [ ] Chapter 10: cough, fever, and respiratory infections
-
-Review pulmonary block:
+Review reproductive system:
 
 - [ ] Science of Medicine
 - [ ] Science of Medicine cases
 - [ ] Practice of Medicine cases
 
-Practice more case:
+Read Symptoms to Diagnosis:
+
+- [ ] Chapter 5: AIDS/HIV infection
+
+Practice more cases:
 
 - [ ] Case 1
 - [ ] Case 2
@@ -59,27 +51,23 @@ Practice more case:
 - [ ] Case 4
 - [ ] Case 5
 
-Work on case with Dr Pompei.
-
-Work on case with Dr Danit.
-
 ## 0614
 
-Read Symptoms to Diagnosis:
-
-- [ ] Chapter 11: delirium and dimentia
-- [ ] Chapter 12: diabetes
-- [ ] Chapter 13: diarrhea, acute
-- [ ] Chapter 14: dizziness
-- [ ] Chapter 15: dyspnea
-
-Review gastrointestinal block:
+Review urinary system:
 
 - [ ] Science of Medicine
 - [ ] Science of Medicine cases
 - [ ] Practice of Medicine cases
 
-Practice more case:
+Read Symptoms to Diagnosis:
+
+- [ ] Chapter 28: kidney injury, acute
+- [ ] Chapter 16: dysuria
+- [ ] Chapter 21: hematuria
+- [ ] Chapter 24: hyponatremia and hypernatremia
+- [ ] Chapter 4: acid-base abnormalities
+
+Practice more cases:
 
 - [ ] Case 6
 - [ ] Case 7
@@ -87,25 +75,24 @@ Practice more case:
 - [ ] Case 9
 - [ ] Case 10
 
-Work on case with Dr Pompei.
-
 ## 0621
 
-Read Symptoms to Diagnosis:
-
-- [ ] Chapter 16: dysuria
-- [ ] Chapter 17: edema
-- [x] Chapter 18: fatigue
-- [ ] Chapter 19: GI bleeding
-- [ ] Chapter 20: headache
-
-Review renal block:
+Review circulatory system:
 
 - [ ] Science of Medicine
 - [ ] Science of Medicine cases
 - [ ] Practice of Medicine cases
 
-Practice more case:
+Read Symptoms to Diagnosis:
+
+- [ ] Chapter 9: chest pain
+- [ ] Chapter 23: hypertension
+- [ ] Chapter 25: hypotension
+- [ ] Chapter 14: dizziness
+- [ ] Chapter 31: syncope
+- [ ] Chapter 17: edema
+
+Practice more cases:
 
 - [ ] Case 11
 - [ ] Case 12
@@ -113,25 +100,22 @@ Practice more case:
 - [ ] Case 14
 - [ ] Case 15
 
-Work on case with Dr Pompei.
-
 ## 0628
 
-Read Symptoms to Diagnosis:
-
-- [ ] Chapter 21: hematuria
-- [ ] Chapter 22: hypercalcemia
-- [ ] Chapter 23: hypertension
-- [ ] Chapter 24: hyponatremia and hypernatremia
-- [ ] Chapter 25: hypotension
-
-Review reproductive block:
+Review respiratory system:
 
 - [ ] Science of Medicine
 - [ ] Science of Medicine cases
 - [ ] Practice of Medicine cases
 
-Practice more case:
+Read Symptoms to Diagnosis:
+
+- [ ] Chapter 30: sore throat
+- [ ] Chapter 10: cough, fever, and respiratory infections
+- [ ] Chapter 33: wheezing and stridor
+- [ ] Chapter 15: dyspnea
+
+Practice more cases:
 
 - [ ] Case 16
 - [ ] Case 17
@@ -139,25 +123,23 @@ Practice more case:
 - [ ] Case 19
 - [ ] Case 20
 
-Work on case with Dr Pompei.
-
 ## 0705
 
-Read Symptoms to Diagnosis:
+Review digestive system:
 
-- [ ] Chapter 26: juandice and abnormal liver enzymes
-- [ ] Chapter 27: joint pain
-- [ ] Chapter 28: kidney injury, acute
-- [ ] Chapter 29: rash
-- [ ] Chapter 30: sore throat
-
-Review endocrine block:
-
-- [x] Science of Medicine
+- [ ] Science of Medicine
 - [ ] Science of Medicine cases
 - [ ] Practice of Medicine cases
 
-Practice more case:
+Read Symptoms to Diagnosis:
+
+- [ ] Chapter 3: abdominal pain
+- [ ] Chapter 13: diarrhea, acute
+- [ ] Chapter 19: GI bleeding
+- [ ] Chapter 26: juandice and abnormal liver enzymes
+- [ ] Chapter 32: weight loss, unintentional
+
+Practice more cases:
 
 - [ ] Case 21
 - [ ] Case 22
@@ -165,28 +147,23 @@ Practice more case:
 - [ ] Case 24
 - [ ] Case 25
 
-Work on case with Dr Pompei.
-
 ## 0712
 
 Read Symptoms to Diagnosis:
 
-- [ ] Chapter 31: syncope
-- [ ] Chapter 32: weight loss, unintentional
-- [ ] Chapter 33: wheezing and stridor
+- [ ] Chapter 2: screening and health maintenance
+- [ ] Chapter 20: headache
+- [ ] Chapter 11: delirium and dimentia
+- [ ] Chapter 6: anemia
+- [ ] Chapter 8: bleeding disorder
+- [ ] Chapter 29: rash
+- [ ] Chapter 27: joint pain
+- [ ] Chapter 7: back pain
 
-Review neuro block:
-
-- [ ] Science of Medicine
-- [ ] Science of Medicine cases
-- [ ] Practice of Medicine cases
-
-Practice more case:
+Practice more cases:
 
 - [ ] Case 26
 - [ ] Case 27
 - [ ] Case 28
 - [ ] Case 29
 - [ ] Case 30
-
-[ ] Work on case with Dr Pompei.
