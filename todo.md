@@ -167,3 +167,33 @@ Practice more cases:
 - [ ] Case 28
 - [ ] Case 29
 - [ ] Case 30
+
+## 0719
+
+Practice more cases:
+
+- [ ] Case 31
+- [ ] Case 32
+- [ ] Case 33
+- [ ] Case 34
+- [ ] Case 35
+- [ ] Case 36
+- [ ] Case 37
+- [ ] Case 38
+- [ ] Case 39
+- [ ] Case 40
+
+## 0726
+
+Practice more cases:
+
+- [ ] Case 41
+- [ ] Case 42
+- [ ] Case 43
+- [ ] Case 44
+- [ ] Case 45
+- [ ] Case 46
+- [ ] Case 47
+- [ ] Case 48
+- [ ] Case 49
+- [ ] Case 50
