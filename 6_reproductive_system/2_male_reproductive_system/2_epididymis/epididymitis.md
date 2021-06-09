@@ -2,14 +2,14 @@
 
 # Epidemiology
 
+Mycobacteria tuberculosis
+
+Neisseria gonorrhea
+
 # Symptom
 
 # Sign
 
 # Diagnostic
-
-Mycobacteria tuberculosis
-
-Neisseria gonorrhea
 
 # Treatment and Management

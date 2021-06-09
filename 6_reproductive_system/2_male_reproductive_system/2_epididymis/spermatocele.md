@@ -1,6 +1,6 @@
 # Comment
 
-Fluid collecting cyst.
+Fluid cyst in epididymis.
 
 # Epidemiology
 

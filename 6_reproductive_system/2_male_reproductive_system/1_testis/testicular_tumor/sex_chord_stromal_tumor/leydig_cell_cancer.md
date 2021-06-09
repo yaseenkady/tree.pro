@@ -1,21 +1,15 @@
 # Comment
 
-Types:
+4-5% of germ cell tumor.
 
-- 95% Germ cell
-- 4-5% Sex chord
-- 1% Other
-
-Over 50% germ cell cancers are mixed.
-
-Spreads lymphatically:
+Spreads lymphatically to:
 
 - Para-aortic nodes
 - Retroperitoneal nodes
 - Mediastinal nodes
 - Supraclavicular nodes
 
-Spreads hematogeneously:
+Spreads hematogeneously to:
 
 - Lungs
 - Brain
@@ -24,8 +18,13 @@ Spreads hematogeneously:
 
 # Epidemiology
 
+Common
+(The most common sex chord stromal tumor.)
+
+Adult
+
 Cryptorchidism
-(10%)
+(10% progression rate.)
 
 Klinefelter syndrome
 
@@ -33,9 +32,11 @@ Family history
 
 # Symptom
 
+# Sign
+
 Testicular mass
 
-# Sign
+Gynecomastia
 
 # Diagnostic
 
@@ -53,4 +54,7 @@ Testicular ultrasound
 Computer tomography
 (For staging.)
 
+Resection
+
 Good prognosis
+(10% malignant.)

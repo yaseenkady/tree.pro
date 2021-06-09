@@ -16,11 +16,11 @@ Small testes
 
 # Diagnostic
 
-Blood testosterone
-(Low.)
-
 Blood follicle stimulating hormone
 
 Blood leutenizing hormone
+
+Blood testosterone
+(Low.)
 
 # Treatment and Management

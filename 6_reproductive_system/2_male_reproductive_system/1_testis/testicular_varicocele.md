@@ -10,6 +10,4 @@ Vein enlargement.
 
 # Diagnostic
 
-Infertility
-
 # Treatment and Management

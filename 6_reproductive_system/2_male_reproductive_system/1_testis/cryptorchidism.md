@@ -10,10 +10,6 @@ Undescended testes.
 
 # Diagnostic
 
-Infertility
-
-Germ cell cancer
-
 # Treatment and Management
 
 Orchiopexy
