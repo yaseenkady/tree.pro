@@ -2,15 +2,13 @@
 
 # Epidemiology
 
-Hypoglycemia
-(In infancy.)
-
 # Symptom
 
 # Sign
 
-Short stature
-
 # Diagnostic
+
+Blood potassium
+(High.)
 
 # Treatment and Management

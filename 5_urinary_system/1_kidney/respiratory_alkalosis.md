@@ -2,15 +2,13 @@
 
 # Epidemiology
 
-Hypoglycemia
-(In infancy.)
-
 # Symptom
 
 # Sign
 
-Short stature
-
 # Diagnostic
+
+Blood pH
+(High.)
 
 # Treatment and Management

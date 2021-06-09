@@ -1,7 +1,5 @@
 # Comment
 
-Conn syndrome.
-
 Aldosteronoma.
 
 # Epidemiology
@@ -21,26 +19,17 @@ Women
 Blood aldosterone
 (High.)
 
-Blood sodium
-(High.)
-
-Blood potassium
-(Low.)
+Hypernatremia
 
 Hypokalemia
 
 Blood renin
 (Low.)
 
-Blood pH
-(Metabolic alkalosis.)
-
-Refractory hypertension
+Metabolic alkalosis
 
 Hypertension
-
-Blood aldosterone
-(High)
+(Refractory.)
 
 # Treatment and Management
 

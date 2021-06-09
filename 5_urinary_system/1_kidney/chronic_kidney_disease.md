@@ -2,15 +2,22 @@
 
 # Epidemiology
 
-Hypoglycemia
-(In infancy.)
-
 # Symptom
+
+Fatigue
+
+Anorexia
+
+Nausea
 
 # Sign
 
-Short stature
+Edema
 
 # Diagnostic
+
+Blood urea nitrogen
+
+Blood creatine
 
 # Treatment and Management

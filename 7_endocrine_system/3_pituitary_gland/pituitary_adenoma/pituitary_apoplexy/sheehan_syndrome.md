@@ -5,7 +5,7 @@
 Rare
 
 Peripartum
-(Blood loss. Lactation.)
+(From blood loss and lactation.)
 
 # Symptom
 

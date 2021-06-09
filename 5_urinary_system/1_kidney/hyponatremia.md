@@ -2,15 +2,13 @@
 
 # Epidemiology
 
-Hypoglycemia
-(In infancy.)
-
 # Symptom
 
 # Sign
 
-Short stature
-
 # Diagnostic
+
+Blood sodium
+(Low.)
 
 # Treatment and Management

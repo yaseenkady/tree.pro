@@ -2,14 +2,11 @@
 
 # Epidemiology
 
-Hypoglycemia
-(In infancy.)
-
 # Symptom
 
-# Sign
+Fatigue
 
-Short stature
+# Sign
 
 # Diagnostic
 

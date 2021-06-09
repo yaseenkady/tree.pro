@@ -2,14 +2,13 @@
 
 # Epidemiology
 
-Hypoglycemia
-(In infancy.)
-
 # Symptom
 
-# Sign
+Somatic symptom
 
-Short stature
+Fatigue
+
+# Sign
 
 # Diagnostic
 

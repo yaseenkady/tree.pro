@@ -2,14 +2,15 @@
 
 # Epidemiology
 
-Hypoglycemia
-(In infancy.)
-
 # Symptom
 
-# Sign
+Psychiatric disease
 
-Short stature
+Anxiety
+
+Panic attack
+
+# Sign
 
 # Diagnostic
 

@@ -2,15 +2,18 @@
 
 # Epidemiology
 
-Hypoglycemia
-(In infancy.)
-
 # Symptom
+
+Fatigue
+
+Dyspnea
+
+Cachexia
 
 # Sign
 
-Short stature
-
 # Diagnostic
+
+Pulmonary function test
 
 # Treatment and Management

@@ -2,15 +2,12 @@
 
 # Epidemiology
 
-Hypoglycemia
-(In infancy.)
-
 # Symptom
 
 # Sign
 
-Short stature
-
 # Diagnostic
+
+Chronic liver disease
 
 # Treatment and Management

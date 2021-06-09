@@ -2,15 +2,20 @@
 
 # Epidemiology
 
-Hypoglycemia
-(In infancy.)
+Sleep deficit
+
+Obesity
+
+Hypertension
 
 # Symptom
 
+Fatigue
+
 # Sign
 
-Short stature
-
 # Diagnostic
+
+Polysomnogram
 
 # Treatment and Management
