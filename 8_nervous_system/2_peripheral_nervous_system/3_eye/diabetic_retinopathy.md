@@ -4,7 +4,9 @@ Increaed retinal blood flow leads to hemorrhage.
 
 # Epidemiology
 
-Diabetes
+Diabetes mellitus type 1
+
+Diabetes mellitus type 2
 
 # Symptom
 

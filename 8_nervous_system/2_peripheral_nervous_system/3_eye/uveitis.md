@@ -2,6 +2,8 @@
 
 # Epidemiology
 
+Reactive arthritis
+
 # Symptom
 
 Eye pain
@@ -20,6 +22,5 @@ Poor vision
 
 # Diagnostic
 
-Reactive arthritis
 
 # Treatment and Management

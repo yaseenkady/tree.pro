@@ -2,14 +2,13 @@
 
 # Epidemiology
 
-Diabetes mellitus type 1
-
-Diabetes mellitus type 2
+Borrelia burgdorferi
 
 # Symptom
 
 # Sign
 
 # Diagnostic
+
 
 # Treatment and Management

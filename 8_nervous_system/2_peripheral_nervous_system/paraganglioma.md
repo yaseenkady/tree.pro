@@ -2,13 +2,13 @@
 
 # Epidemiology
 
+Pheochromocytoma
+
 # Symptom
 
 # Sign
 
 # Diagnostic
-
-Pheochromocytoma
 
 Genome SDHD
 (Type 1.)
