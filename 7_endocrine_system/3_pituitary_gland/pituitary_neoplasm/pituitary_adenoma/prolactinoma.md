@@ -1,8 +1,14 @@
 # Comment
 
+40% caused by Gsa constitutive cAMP activation.
+
 # Epidemiology
 
-# Symptom
+Common
+(The most common pituitary tumor.)
+
+Multiple endocrine neoplasia syndrome 1
+(Anterior adenoma.)
 
 Amenorrhea
 (In adult female.)
@@ -10,16 +16,18 @@ Amenorrhea
 Infertility
 (In adult female.)
 
-Impotence
+# Symptom
+
+Erectile dysfunction
 (In adult male.)
 
 Headache
 (In adult male.)
 
+# Sign
+
 Delayed puberty
 (In child.)
-
-# Sign
 
 # Diagnostic
 

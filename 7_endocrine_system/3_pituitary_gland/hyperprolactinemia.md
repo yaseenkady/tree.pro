@@ -1,24 +1,18 @@
 # Comment
 
-Natural causes:
-
-- Sleep
-- Exercise
-- Stress
-- Ovulation
-- Coitus
-- Pregnancy
-- Postpartum
-- Suckling
-- Lactation
-
 # Epidemiology
+
+Stress
+
+Pregnancy
+
+Lactation
+
+High sexual activity
 
 Prolactinoma
 
-Hypothalamic and pituitary stalk disease
-
-Primary hypothyroidism
+Hypothyroidism
 
 Seizure
 
@@ -26,7 +20,7 @@ Polycystic ovary diease
 
 Varicella zoster virus
 
-Chronic renal failure
+Chronic renal disease
 
 Cirrhosis
 

@@ -1,6 +1,6 @@
 # Comment
 
-Epithelial.
+Originates from epithelial cell.
 
 # Epidemiology
 

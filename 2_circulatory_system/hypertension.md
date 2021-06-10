@@ -17,6 +17,8 @@ Diabetes mellitus type 2
 
 Gestational diabetes
 
+Acromegaly
+
 # Symptom
 
 # Sign

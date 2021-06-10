@@ -10,6 +10,8 @@ Elderly
 
 Glucocorticoid use
 
+Acromegaly
+
 # Symptom
 
 # Sign

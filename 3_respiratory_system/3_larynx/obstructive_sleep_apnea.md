@@ -15,6 +15,8 @@ Obesity
 
 Coronary artery disease
 
+Acromegaly
+
 # Symptom
 
 Sleepiness

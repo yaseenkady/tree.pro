@@ -2,9 +2,14 @@
 
 # Epidemiology
 
+Hypoglycemia
+(In infancy.)
+
 # Symptom
 
 Fatigue
+
+Muscle weakness
 
 # Sign
 
@@ -19,5 +24,7 @@ Blood growth hormone
 
 Bone density
 (Low.)
+
+Hyperlipidemia
 
 # Treatment and Management

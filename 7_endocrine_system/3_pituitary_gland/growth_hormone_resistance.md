@@ -15,12 +15,12 @@ Short stature
 # Diagnostic
 
 Genome GHR
-(Long of function.)
+(Loss of function.)
 
 Genome IGF1
-(Long of function.)
+(Loss of function.)
 
 Genome IGF1R
-(Long of function.)
+(Loss of function.)
 
 # Treatment and Management

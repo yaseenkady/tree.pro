@@ -1,15 +1,14 @@
 # Comment
 
+Multinucleated giant cells in neurohypophysis.
+
 # Epidemiology
 
-Hypoglycemia
-(In infancy.)
+Sarcoidosis
 
 # Symptom
 
 # Sign
-
-Short stature
 
 # Diagnostic
 

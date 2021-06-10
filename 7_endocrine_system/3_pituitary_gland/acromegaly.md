@@ -2,27 +2,17 @@
 
 # Epidemiology
 
+Pituitary adenoma
+
 # Symptom
+
+Headache
 
 # Sign
 
 # Diagnostic
 
 Blood growth hormone
-(High)
-
-Myopathy
-
-Hypertension
-
-Sleep apnea
-
-Type 2 diabetes
-
-Headache
-
-Cerebrovascular event
-
-Arthritis
+(High.)
 
 # Treatment and Management

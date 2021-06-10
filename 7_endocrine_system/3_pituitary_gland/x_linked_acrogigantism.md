@@ -4,6 +4,8 @@ Early onset growth hormone excess.
 
 # Epidemiology
 
+Acromegaly
+
 # Symptom
 
 # Sign
@@ -12,7 +14,5 @@ Early onset growth hormone excess.
 
 Genome GPR101
 (Gain of function.)
-
-Acromegaly
 
 # Treatment and Management

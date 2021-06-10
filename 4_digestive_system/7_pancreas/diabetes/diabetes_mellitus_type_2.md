@@ -26,6 +26,8 @@ Low socioeconomic status
 
 Non-White
 
+Acromegaly
+
 # Symptom
 
 Polyuria

@@ -1,6 +1,6 @@
 # Comment
 
-Multinucleated giant cells in neurohypophysis.
+Originates from epithelial cell.
 
 # Epidemiology
 
@@ -9,7 +9,5 @@ Multinucleated giant cells in neurohypophysis.
 # Sign
 
 # Diagnostic
-
-Sarcoidosis
 
 # Treatment and Management
