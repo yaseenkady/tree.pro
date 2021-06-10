@@ -11,6 +11,8 @@ Non-White
 
 Osteoarthritis
 
+Cushing syndrome
+
 # Symptom
 
 # Sign

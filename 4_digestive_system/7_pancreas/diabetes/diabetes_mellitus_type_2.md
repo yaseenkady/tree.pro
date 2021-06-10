@@ -28,6 +28,8 @@ Non-White
 
 Acromegaly
 
+Cushing syndrome
+
 # Symptom
 
 Polyuria

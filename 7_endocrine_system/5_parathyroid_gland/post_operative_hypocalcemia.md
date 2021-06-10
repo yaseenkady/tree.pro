@@ -4,6 +4,8 @@ Operation increases calcium, which supressed parathyroid hormone.
 
 # Epidemiology
 
+Post-operation
+
 # Symptom
 
 # Sign

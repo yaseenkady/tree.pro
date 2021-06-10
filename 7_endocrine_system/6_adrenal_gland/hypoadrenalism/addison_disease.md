@@ -3,10 +3,10 @@
 # Epidemiology
 
 Autoimmunity
-(The most common cause.)
+(The most common cause Addison disease.)
 
 Metastasis to adrenal gland
-(Common cause.)
+(Common cause Addison disease.)
 
 Immunodeficiency
 
@@ -48,22 +48,36 @@ Etomidate use
 
 # Symptom
 
+Fatigue
+
+Weight loss
+
+Syncopy
+
+Anorexia
+
+Nausea
+
+Vomiting
+
 Pain in abdomen
-(55%.)
-
-Hypotension
-(80%.)
-
-Orthostatic hypotension
 
 # Sign
 
+Muslce weakness
+
 Hyperpigmentation
-(95%.)
+
+Orthostatic hypotension
 
 # Diagnostic
+
+Blood cortisol
+(Low.)
 
 Blood potassium
 (High.)
 
 # Treatment and Management
+
+Glucocorticoid

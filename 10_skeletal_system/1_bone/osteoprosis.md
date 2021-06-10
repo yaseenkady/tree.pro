@@ -22,6 +22,8 @@ Smoking
 
 Furosemide use
 
+Cushing syndrome
+
 # Symptom
 
 # Sign

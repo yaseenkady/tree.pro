@@ -2,14 +2,13 @@
 
 Zollinger-Ellison syndrome.
 
+2% of pancreatic neoplasm is islet cell tumor.
+
 # Epidemiology
 
 Multiple endocrine neoplasia syndrome 1
 
 Carcinoid
-
-Rare
-(2% of pancreatic neoplasm is islet cell tumor.)
 
 # Symptom
 

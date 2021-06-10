@@ -19,6 +19,11 @@ Gestational diabetes
 
 Acromegaly
 
+Pheochromocytoma
+(Pheochromocytoma causes paroxysmal and refractory hypertension.)
+
+Cushing syndrome
+
 # Symptom
 
 # Sign

@@ -6,9 +6,6 @@ Difficult to diagnose.
 
 Haemophilus ducreyi
 
-Rare
-(In the US.)
-
 # Symptom
 
 # Sign

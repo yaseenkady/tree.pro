@@ -2,8 +2,6 @@
 
 # Epidemiology
 
-Rare
-
 Peripartum
 (Blood loss and the demand for lactation infarcs the pituitary gland, causing Sheehan syndrome.)
 

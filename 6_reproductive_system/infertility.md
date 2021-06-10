@@ -8,6 +8,8 @@ Cryptorchidism
 
 Testicular varicocele
 
+Cushing syndrome
+
 # Symptom
 
 # Sign

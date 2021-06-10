@@ -4,6 +4,8 @@
 
 Acromegaly
 
+Pheochromocytoma
+
 # Symptom
 
 # Sign

@@ -2,6 +2,9 @@
 
 # Epidemiology
 
+Cushing syndrome
+(10% of.)
+
 # Symptom
 
 # Sign

@@ -2,13 +2,23 @@
 
 Familial hypertriglyceridemia.
 
+High VLDL.
+
+1 in 100 people.
+
 # Epidemiology
 
-Diabetes mellitus
+Family history
+
+Diabetes mellitus type 1
+
+Diabetes mellitus type 2
 
 Uremia
 
 Estrogen use
+
+Pancreatitis
 
 # Symptom
 
@@ -19,12 +29,13 @@ Estrogen use
 Blood VLDL
 (High.)
 
+Blood cholesterol
+(High.)
+
 Blood triglyceride
 (High.)
 
 Serum
 (Turbid.)
-
-Pancreatitis
 
 # Treatment and Management

@@ -4,9 +4,7 @@ Growth hormone receptor deficiency.
 
 # Epidemiology
 
-Rare
-
-# Symptom
+Symptom
 
 # Sign
 

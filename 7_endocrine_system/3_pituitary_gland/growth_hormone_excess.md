@@ -2,8 +2,6 @@
 
 # Epidemiology
 
-Rare
-
 # Symptom
 
 # Sign

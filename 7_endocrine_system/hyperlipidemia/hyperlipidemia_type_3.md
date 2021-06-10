@@ -2,21 +2,29 @@
 
 Familial dysbetalipoproteinemia.
 
+High BVLDL and IDL.
+
+1 in 10000 people.
+
 # Epidemiology
 
-Tuberous xanthoma
+Family history
 
-Palmar xanthoma
+Diabetes mellitus type 1
+
+Diabetes mellitus type 2
 
 Hypothyroidism
 
 Systemic lupus erythematosus
 
-Diabetes mellitus
-
 # Symptom
 
 # Sign
+
+Tuberous xanthoma
+
+Palmar xanthoma
 
 # Diagnostic
 
@@ -28,6 +36,11 @@ Blood BVLDL
 
 Blood IDL
 (High.)
+
+Blood cholesterol
+(High.)
+
+Blood triglyceride
 
 Serum
 (Turbid.)
