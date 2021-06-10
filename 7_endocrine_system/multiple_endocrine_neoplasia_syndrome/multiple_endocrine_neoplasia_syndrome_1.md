@@ -2,17 +2,23 @@
 
 # Epidemiology
 
+Family history
+
+Young adult
+
+Adult
+
+Pituitary adenoma
+(Anterior.)
+
+Primary hyperparathyroidism
+
+Pancreatic islet cell tumor
+
 # Symptom
 
 # Sign
 
 # Diagnostic
-
-Primary hyperparathyroidism
-
-Pituitary adenoma
-(Anterior.)
-
-Pancreatic islet cell cancer
 
 # Treatment and Management

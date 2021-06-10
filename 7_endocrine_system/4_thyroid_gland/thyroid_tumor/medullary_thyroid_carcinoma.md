@@ -13,6 +13,10 @@ Adult
 Family history
 (20-30% heritable.)
 
+Multiple endocrine neoplasia syndrome 2A
+
+Multiple endocrine neoplasia syndrome 2B
+
 # Symptom
 
 # Sign

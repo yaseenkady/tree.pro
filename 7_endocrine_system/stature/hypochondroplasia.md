@@ -2,12 +2,19 @@
 
 # Epidemiology
 
+Family history
+
 # Symptom
 
 # Sign
 
+Short stature
+
+Short limb
+
 # Diagnostic
 
-Hepatitis
+Genome FGFR3
+(Loss of function.)
 
 # Treatment and Management

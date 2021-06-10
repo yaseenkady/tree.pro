@@ -1,13 +1,17 @@
 # Comment
 
+Cartilage fail to ossify.
+
 # Epidemiology
+
+Family history
 
 # Symptom
 
 # Sign
 
-# Diagnostic
+Short stature
 
-Hepatitis
+# Diagnostic
 
 # Treatment and Management

@@ -15,7 +15,9 @@ Neoplasm secreting catacholamines.
 Family history
 (70-80% sporadic.)
 
-Multiple endocrine neoplasia syndrome 2
+Multiple endocrine neoplasia syndrome 2A
+
+Multiple endocrine neoplasia syndrome 2B
 
 Neurofibromatosis 1
 

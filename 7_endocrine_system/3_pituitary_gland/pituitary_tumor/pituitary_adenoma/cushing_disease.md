@@ -5,7 +5,7 @@
 # Epidemiology
 
 Multiple endocrine neoplasia syndrome 1
-(Anterior adenoma.)
+(Anterior.)
 
 Cushing syndrome
 (Cushing disease causes 70% of cushing syndrome.)

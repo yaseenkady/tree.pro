@@ -8,7 +8,7 @@ Common
 (The most common pituitary tumor.)
 
 Multiple endocrine neoplasia syndrome 1
-(Anterior adenoma.)
+(Anterior.)
 
 Amenorrhea
 (In adult female.)

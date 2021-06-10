@@ -4,15 +4,24 @@
 
 Family history
 
+Young adult
+
+Adult
+
+Medullary thyroid carcinoma
+
+Pheochromocytoma
+
+Marfanoid
+
 # Symptom
 
 # Sign
 
-Short limb
-
 # Diagnostic
 
-Genome FGFR3
-(Loss of function.)
+Genome RET
+
+Genome MEN2B
 
 # Treatment and Management

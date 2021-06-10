@@ -6,7 +6,7 @@ Skeletally milder Marfan syndrome.
 
 # Epidemiology
 
-Multiple endocrine neoplasia syndrome 2b
+Multiple endocrine neoplasia syndrome 2B
 
 # Symptom
 

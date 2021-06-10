@@ -13,6 +13,8 @@ Early puberty
 Fast growth
 (Short adult if untreated.)
 
+Short stature
+
 # Diagnostic
 
 Blood gonadotropic hormone
