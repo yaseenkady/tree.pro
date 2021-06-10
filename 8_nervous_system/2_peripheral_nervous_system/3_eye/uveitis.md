@@ -22,5 +22,4 @@ Poor vision
 
 # Diagnostic
 
-
 # Treatment and Management

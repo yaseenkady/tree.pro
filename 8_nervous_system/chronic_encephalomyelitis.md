@@ -10,5 +10,4 @@ Borrelia burgdorferi
 
 # Diagnostic
 
-
 # Treatment and Management

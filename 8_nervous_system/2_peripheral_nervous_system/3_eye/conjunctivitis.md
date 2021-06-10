@@ -10,5 +10,4 @@ Reactive arthritis
 
 # Diagnostic
 
-
 # Treatment and Management
