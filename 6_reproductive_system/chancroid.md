@@ -4,6 +4,8 @@ Difficult to diagnose.
 
 # Epidemiology
 
+Haemophilus ducreyi
+
 Rare
 (In the US.)
 
@@ -14,7 +16,5 @@ Rare
 Lymphadenopathy
 
 # Diagnostic
-
-Haemophilus ducreyi
 
 # Treatment and Management

@@ -3,7 +3,7 @@
 # Epidemiology
 
 Common
-(2-15% general population. 10-35% elderly.)
+(2-15% of people. 10-35% of elderly.)
 
 Iron deficient anemia
 
@@ -18,11 +18,5 @@ Movement during sleep
 # Sign
 
 # Diagnostic
-
-Obstructive sleep apnea
-
-Secondary insomnia
-
-Polysomnogram
 
 # Treatment and Management

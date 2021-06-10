@@ -1,8 +1,6 @@
 # Comment
 
-Mixure of germ layers.
-
-Ovarian type is histologically subtyped by maturity.
+Skeletal muscle cancer.
 
 # Epidemiology
 
@@ -10,8 +8,8 @@ Ovarian type is histologically subtyped by maturity.
 
 # Sign
 
+Testicular mass
+
 # Diagnostic
 
 # Treatment and Management
-
-Resection

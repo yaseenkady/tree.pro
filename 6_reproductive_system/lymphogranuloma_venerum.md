@@ -2,6 +2,8 @@
 
 # Epidemiology
 
+Chlamydia trachomatis
+
 Endemic
 (Tropics.)
 
@@ -12,5 +14,3 @@ Endemic
 Lymphadenopathy
 
 # Diagnostic
-
-Chlamydia trachomatis

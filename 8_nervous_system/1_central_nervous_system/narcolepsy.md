@@ -4,10 +4,12 @@
 
 # Symptom
 
+Sleepiness
+
+Fatigue
+
 # Sign
 
 # Diagnostic
-
-Secondary insomnia
 
 # Treatment and Management

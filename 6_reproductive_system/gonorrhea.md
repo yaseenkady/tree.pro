@@ -2,6 +2,8 @@
 
 # Epidemiology
 
+Neisseria gonorrhea
+
 High sexual activity
 
 # Symptom
@@ -13,7 +15,5 @@ Dyscharge
 # Sign
 
 # Diagnostic
-
-Neisseria gonorrhea
 
 # Treatment and Management

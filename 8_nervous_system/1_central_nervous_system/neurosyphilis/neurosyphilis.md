@@ -2,11 +2,13 @@
 
 # Epidemiology
 
-Cryptorchidism
+Treponema pallidum
 
 # Symptom
 
 # Sign
+
+Paresthesia
 
 # Diagnostic
 

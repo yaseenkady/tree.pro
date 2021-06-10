@@ -8,6 +8,8 @@ Fatigue
 
 # Sign
 
+Paresthesia
+
 # Diagnostic
 
 # Treatment and Management

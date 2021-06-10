@@ -6,9 +6,13 @@ Demyelination of the posterior columns and degeneration of the dorsal root gangl
 
 # Epidemiology
 
+Neurosyphilis
+
 # Symptom
 
 # Sign
+
+Paresthesia
 
 Wide gait
 

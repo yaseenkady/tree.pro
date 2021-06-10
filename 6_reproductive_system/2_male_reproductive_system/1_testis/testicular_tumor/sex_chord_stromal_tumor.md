@@ -1,6 +1,12 @@
 # Comment
 
-4-5% of germ cell tumor.
+4-5% of testicular tumors.
+
+Can originatee from:
+
+- Leydig cell (most common)
+- Sertoli cell
+- Other cells
 
 Spreads lymphatically to:
 
@@ -17,9 +23,6 @@ Spreads hematogeneously to:
 - Bones
 
 # Epidemiology
-
-Common
-(The most common sex chord stromal tumor.)
 
 Adult
 
