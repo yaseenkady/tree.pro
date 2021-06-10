@@ -9,6 +9,8 @@ Low socioeconomic status
 
 Non-White
 
+Osteoarthritis
+
 # Symptom
 
 # Sign
@@ -22,19 +24,5 @@ Fast growth
 
 Body mass index
 (30kg/m2.)
-
-Arthritis
-
-Asthma
-
-Coronary artery disease
-
-Hypertension
-
-Hyperlipidemia
-
-Type 2 diabetes
-
-Coagulopathy
 
 # Treatment and Management

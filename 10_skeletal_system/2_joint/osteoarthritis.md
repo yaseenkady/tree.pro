@@ -2,11 +2,15 @@
 
 # Epidemiology
 
+Obesity
+
+Middle aged
+
+Elderly
+
+Glucocorticoid use
+
 # Symptom
-
-Somatic symptom
-
-Fatigue
 
 # Sign
 

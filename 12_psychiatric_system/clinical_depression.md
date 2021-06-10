@@ -2,17 +2,17 @@
 
 # Epidemiology
 
-Loss of person
+Family history
 
-Depression
+Loss of person
 
 Postpartum
 
-Family history
+Depression
 
 # Symptom
 
-Psychiatric disease
+Fatigue
 
 # Sign
 

@@ -2,12 +2,14 @@
 
 # Epidemiology
 
+Borrelia burgdorferi
+
 # Symptom
+
+Fatigue
 
 # Sign
 
 # Diagnostic
-
-Borrelia burgdorferi
 
 # Treatment and Management

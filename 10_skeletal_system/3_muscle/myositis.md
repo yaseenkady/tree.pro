@@ -4,6 +4,8 @@
 
 # Symptom
 
+Fatigue
+
 # Sign
 
 # Diagnostic

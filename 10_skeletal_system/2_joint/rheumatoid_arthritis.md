@@ -6,6 +6,8 @@
 
 Fatigue
 
+Pain in join
+
 # Sign
 
 # Diagnostic

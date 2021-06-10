@@ -2,15 +2,23 @@
 
 # Epidemiology
 
+Obesity
+
+Viral hepatitis
+
+Steatohepatitis
+
+Chronic hepatitis
+
+Cirrhosis
+
+Hepatocellular carcinoma
+
 # Symptom
 
 # Sign
 
 # Diagnostic
-
-Obesity
-
-Hepatitis
 
 Blood clotting factor
 

@@ -1,36 +1,36 @@
 # Comment
 
+Congenital syndrome.
+
 # Epidemiology
 
 Female
-(1/2000.)
+(1 in 2000.)
 
 Family history
+
+Gonadal failure
+(In 96% of people with turner syndrome.)
+
+Heart disease
+(In 55% of people with turner syndrome.)
+
+Kidney disease
+(In 39% of people with turner syndrome.)
 
 # Symptom
 
 # Sign
 
 Short stature
-(100%)
+(In 100% of people with turner syndrome.)
 
 Cubitus valgus
-(47%)
+(In 47% of people with turner syndrome.)
 
 Webbed neck
-(25%)
+(In 25% of people with turner syndrome.)
 
 # Diagnostic
-
-Genome
-
-Gonadal failure
-(96%)
-
-Heart disease
-(55%)
-
-Kidney disease
-(39%)
 
 # Treatment and Management

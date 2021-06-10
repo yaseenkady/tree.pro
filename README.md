@@ -25,9 +25,3 @@ Tag free text with "()".
 `Symptom` terms satisfy "... presents with {}".
 
 `Sign` terms satisfy "... exam reveals {}".
-
-`Diagnostic` terms can be: test or disease.
-
-Assume that a parent's `Diagnosis` includes its children.
-
-Assume that a child inherits from its parent.

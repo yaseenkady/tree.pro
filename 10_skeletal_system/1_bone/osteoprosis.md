@@ -6,9 +6,9 @@ Thin
 
 Elderly
 
-White
-
 Female
+
+White
 
 Low UV light exposure
 
@@ -37,10 +37,10 @@ Vitamin D
 Estrogen
 
 Biphosphonate
-(Alendronate)
+(Alendronate.)
 
 RANKL inhibitor
-(Denusomab)
+(Denusomab.)
 
 Parathyroid hormone
-(Teriparatide)
+(Teriparatide.)

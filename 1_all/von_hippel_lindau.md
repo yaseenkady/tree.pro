@@ -4,15 +4,15 @@
 
 Family history
 
+Pheochromocytoma
+
+Paraganglioma
+
 # Symptom
 
 # Sign
 
 # Diagnostic
-
-Pheochromocytoma
-
-Paraganglioma
 
 # Treatment and Management
 

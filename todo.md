@@ -15,6 +15,7 @@ Review endocrine system:
 - [x] Science of Medicine
 - [ ] Science of Medicine cases
 - [ ] Practice of Medicine cases
+- [ ] First Aid
 
 Read Symptoms to Diagnosis:
 
@@ -38,6 +39,7 @@ Review reproductive system:
 - [ ] Science of Medicine
 - [ ] Science of Medicine cases
 - [ ] Practice of Medicine cases
+- [ ] First Aid
 
 Read Symptoms to Diagnosis:
 
@@ -58,6 +60,7 @@ Review urinary system:
 - [ ] Science of Medicine
 - [ ] Science of Medicine cases
 - [ ] Practice of Medicine cases
+- [ ] First Aid
 
 Read Symptoms to Diagnosis:
 
@@ -82,6 +85,7 @@ Review circulatory system:
 - [ ] Science of Medicine
 - [ ] Science of Medicine cases
 - [ ] Practice of Medicine cases
+- [ ] First Aid
 
 Read Symptoms to Diagnosis:
 
@@ -107,6 +111,7 @@ Review respiratory system:
 - [ ] Science of Medicine
 - [ ] Science of Medicine cases
 - [ ] Practice of Medicine cases
+- [ ] First Aid
 
 Read Symptoms to Diagnosis:
 
@@ -130,6 +135,7 @@ Review digestive system:
 - [ ] Science of Medicine
 - [ ] Science of Medicine cases
 - [ ] Practice of Medicine cases
+- [ ] First Aid
 
 Read Symptoms to Diagnosis:
 

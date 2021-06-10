@@ -23,7 +23,7 @@ Blood parathyroid hormone
 # Treatment and Management
 
 Biphosphonate
-(Alendronate)
+(Alendronate.)
 
 RANKL inhibitor
-(Denusomab)
+(Denusomab.)

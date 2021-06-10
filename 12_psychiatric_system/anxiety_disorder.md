@@ -4,7 +4,7 @@
 
 # Symptom
 
-Psychiatric disease
+Fatigue
 
 Anxiety
 
