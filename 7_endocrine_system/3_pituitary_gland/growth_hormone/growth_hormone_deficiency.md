@@ -5,6 +5,10 @@
 Hypoglycemia
 (In infancy.)
 
+Hypopituitarism
+
+Hyperlipidemia
+
 # Symptom
 
 Fatigue
@@ -22,9 +26,9 @@ Short stature
 Blood growth hormone
 (Low.)
 
+Blood insulin-like growth factor 1
+
 Bone density
 (Low.)
-
-Hyperlipidemia
 
 # Treatment and Management

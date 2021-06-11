@@ -11,7 +11,7 @@ Infertility
 
 # Symptom
 
-Feeling cold
+Cold intolerance
 
 Fatigue
 

@@ -6,6 +6,8 @@ Multinucleated giant cells in neurohypophysis.
 
 Sarcoidosis
 
+Hypopituitarism
+
 # Symptom
 
 # Sign

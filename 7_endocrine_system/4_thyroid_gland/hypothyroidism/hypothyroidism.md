@@ -31,9 +31,24 @@ Hyperlipidemia type 2a
 
 Hyperlipidemia type 2b
 
+Hyponatremia
+(Hypothyroidism decreases water clearance and causes dilutional hyponatremia.)
+
+Hypothyroid myopathy
+
+Carpal tunnel syndrome
+
+Myoedema
+
+Infertility
+
+Low libido
+
 # Symptom
 
-Feeling cold
+Cold intolerance
+
+Anhidrosis
 
 Fatigue
 
@@ -41,7 +56,13 @@ Weight gain
 
 Constipation
 
+Anorexia
+
+Exertional dyspnea
+
 # Sign
+
+Dry and cool skin
 
 Bradycardia
 
@@ -51,7 +72,11 @@ Nonpitting edema
 
 Dry skin
 
-Fragile hair
+Coarse and brittle hair
+
+Diffuse alopecia
+
+Brittle nail
 
 Hyporeflexia
 
@@ -60,6 +85,10 @@ Hypoventilation
 Delayed puberty
 
 Short stature
+
+Proximal muscle weakness
+
+Depression
 
 # Diagnostic
 
@@ -70,6 +99,12 @@ Blood iodine
 
 Blood free thyroxine
 (If blood thyroid stimulating hormone is high. Low.)
+
+Blood LDL
+(High.)
+
+Blood cholesterol
+(High.)
 
 Brain function
 (In children.)

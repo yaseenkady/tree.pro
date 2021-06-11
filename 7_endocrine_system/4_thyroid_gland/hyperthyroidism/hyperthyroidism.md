@@ -4,9 +4,57 @@
 
 Graves disease
 
+Thyrotoxic myopathy
+
+Osteoperosis
+
+Low libido
+
+Infertility
+
+Hyperactivity
+
+Restlesness
+
+Anxiety
+
+Insomnia
+
+Tremor
+
+Hyperreflexia
+
+Tachycardia
+
+Palpitation
+
+Dyspnea
+
+Arrhythmia
+
+Chest pain
+
+Hypertension
+
 # Symptom
 
+Heat intolerance
+
+Diaphoresis
+
+Weight loss
+
+Diarrhea
+
+Increased appetite
+
+Uterine bleeding
+
 # Sign
+
+Warm and moist skin
+
+Onycholysis
 
 Lid lag
 
@@ -16,15 +64,26 @@ Proptosis
 
 Fast growth
 
+Gynecomastia
+
 # Diagnostic
 
 Blood thyroid stimulating hormone
+(Low.)
 
-Antibody against thyroid stimulating hormone receptor
+Blood thyroxine
+(High.)
 
-Iodine scan
-(If blood thyroid stimulating hormone is low.)
+Blood T3
+(High.)
 
-Neck ultrasound
+Blood LDL
+(Low.)
+
+Blood HDL
+(Low.)
+
+Blood cholesterol
+(Low.)
 
 # Treatment and Management

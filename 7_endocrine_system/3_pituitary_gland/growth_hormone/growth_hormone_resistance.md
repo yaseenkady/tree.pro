@@ -1,10 +1,8 @@
 # Comment
 
-Growth hormone receptor deficiency.
-
 # Epidemiology
 
-Symptom
+# Symptom
 
 # Sign
 
@@ -20,5 +18,9 @@ Genome IGF1
 
 Genome IGF1R
 (Loss of function.)
+
+Blood growth hormone
+
+Blood insulin-like growth factor 1
 
 # Treatment and Management

@@ -1,38 +1,20 @@
 # Comment
 
-Pituitary gland hemorrhage, infarction, or swelling.
+Atrophy or compression of pituitary gland.
 
 # Epidemiology
 
-Pituitary adenoma
+Obese
 
-Prolactinoma
+Female
 
-Cushing disease
-
-Trauma in head
+Intracranial hypertension
 
 Hypopituitarism
 
 # Symptom
 
-Headache
-
-Nausea
-
-Vomiting
-
 # Sign
-
-Mental status change
-
-Visual deficit
-
-Bitemporal hemianopia
-
-Diplopia
-
-Cranial nerve 3 palsy
 
 # Diagnostic
 

@@ -5,25 +5,23 @@
 Peripartum
 (Blood loss and the demand for lactation infarcs the pituitary gland, causing Sheehan syndrome.)
 
+Hypopituitarism
+
 # Symptom
 
-Headache
+Failure to lactate
 
-Nausea
+Amenorrhea
 
-Vomiting
+Cold intolerance
 
 # Sign
 
-Mental status change
-
-Visual deficit
-
 # Diagnostic
 
-Hypertension
-
 Blood thyroid stimulating hormone
+
+Blood prolactin
 
 Blood growth hormone
 
@@ -33,6 +31,6 @@ Blood leutenizing hormone
 
 Blood follicle stimulating hormone
 
-Blood prolactin
-
 # Treatment and Management
+
+Hormone replacement
