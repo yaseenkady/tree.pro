@@ -113,3 +113,7 @@ Brain function
 
 Thyroxine
 (Best absorbed in empty stomach. Reaches steady concentration in 6 weeks.)
+
+# >
+
+Hyperprolactinemia

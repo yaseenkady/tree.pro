@@ -8,9 +8,6 @@ Young adult
 
 Adult
 
-Pituitary adenoma
-(Anterior.)
-
 Primary hyperparathyroidism
 
 Pancreatic islet cell tumor
@@ -22,3 +19,8 @@ Pancreatic islet cell tumor
 # Diagnostic
 
 # Treatment and Management
+
+# >
+
+Pituitary adenoma
+(Anterior.)

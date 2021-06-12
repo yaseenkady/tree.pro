@@ -1,14 +1,6 @@
-# Comment
+# "
 
-# Epidemiology
-
-# Symptom
-
-# Sign
-
-Short stature
-
-# Diagnostic
+# <
 
 Genome GHR
 (Loss of function.)
@@ -19,8 +11,12 @@ Genome IGF1
 Genome IGF1R
 (Loss of function.)
 
+# >
+
+Short stature
+
 Blood growth hormone
+(High.)
 
 Blood insulin-like growth factor 1
-
-# Treatment and Management
+(High or low.)
