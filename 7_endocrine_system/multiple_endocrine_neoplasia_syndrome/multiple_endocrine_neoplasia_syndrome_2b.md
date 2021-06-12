@@ -8,8 +8,6 @@ Young adult
 
 Adult
 
-Medullary thyroid carcinoma
-
 Pheochromocytoma
 
 Marfanoid
@@ -23,5 +21,9 @@ Marfanoid
 Genome RET
 
 Genome MEN2B
+
+# >
+
+Medullary thyroid carcinoma
 
 # Treatment and Management

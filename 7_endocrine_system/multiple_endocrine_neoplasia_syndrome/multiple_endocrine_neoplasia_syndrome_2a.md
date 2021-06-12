@@ -8,8 +8,6 @@ Young adult
 
 Adult
 
-Medullary thyroid carcinoma
-
 Primary hyperparathyroidism
 
 Pheochromocytoma
@@ -23,5 +21,9 @@ Pheochromocytoma
 Genome RET
 
 Genome MEN2A
+
+# >
+
+Medullary thyroid carcinoma
 
 # Treatment and Management

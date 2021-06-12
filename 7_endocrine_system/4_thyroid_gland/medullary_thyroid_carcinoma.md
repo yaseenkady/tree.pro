@@ -1,0 +1,22 @@
+# "
+
+# <
+
+Young Adult
+
+Adult
+
+Family history
+(20-30% heritable.)
+
+(Neuroendocrine cancer from the parafollicular C cells, which are the neural crest cells.)
+
+(5% of thyroid tumors.)
+
+# >
+
+Blood calcitonin
+(High.)
+
+Good prognosis
+(95% 10 year survival.)

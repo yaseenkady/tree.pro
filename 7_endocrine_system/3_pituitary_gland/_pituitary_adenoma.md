@@ -4,6 +4,9 @@
 
 # >
 
+Diffuse goiter
+(In adenoma secreting thyroid stimulating hormone.)
+
 Prolactinoma
 
 Acromegaly
