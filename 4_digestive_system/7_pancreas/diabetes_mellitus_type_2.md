@@ -4,6 +4,9 @@
 
 Common
 
+Family history
+(90% concordance in identical twins.)
+
 Middle aged
 
 Elderly
@@ -24,3 +27,5 @@ Blood insulin
 (High then low.)
 
 Diabetes mellitus
+
+Hyperosmolar hyperglycemic state

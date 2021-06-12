@@ -7,6 +7,8 @@ Not-miss
 
 Precipitating factor
 
+Stress
+
 Infection
 
 Myocardial infarction
@@ -17,16 +19,42 @@ Surgery
 
 # >
 
-Tachycardia
+Pain in abdomen
 
-Metabolic acidosis
+Nausea
 
-Hypokalemia
-
-Hyperkalemia
+Vomiting
 
 Blood ketone
 (High.)
 
 Urine ketone
 (High.)
+
+Fruity breath
+
+Anion gap metabolic acidosis
+
+Hyperventilation
+
+Kussmaul respiration
+
+Tachycardia
+
+(Blood potassium increases but the total potassium decreases. Decreased Na-K ATPase activity and acidosis shifts potassium out of the cells. Osmotic diuresis excretes potassium.)
+
+Hyperkalemia
+
+Hypokalemia
+
+Arrhythmia
+
+Cerebral edema
+
+Mental status change
+
+Delirium
+
+Leukocytosis
+
+Fungus

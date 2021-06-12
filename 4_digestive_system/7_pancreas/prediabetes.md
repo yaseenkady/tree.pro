@@ -5,7 +5,7 @@
 # >
 
 Blood glucose
-(Fasting 100-125mg/dl and 2hr 140-199mg/dl.)
+(High. Fasting 100-125mg/dl and 2hr 140-199mg/dl.)
 
 Blood hemoglobin A1c
-(5.7-6.4%.)
+(High. 5.7-6.4%.)
