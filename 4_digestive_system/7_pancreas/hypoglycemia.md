@@ -1,10 +1,8 @@
-# Comment
+# "
 
-# Epidemiology
+# <
 
 Infant
-
-Fetal hyperinsulinemia
 
 Preschool child
 
@@ -12,18 +10,25 @@ Child
 
 Elderly
 
-# Symptom
+Exercise
+
+Deficiency in nutrition
+
+# >
+
+Blood glucose
+(Low.)
+
+Hunger
 
 Anxiety
 (Glocose below 55mg/gl.)
 
-Sweating
+Diaphoresis
 (Glocose below 55mg/gl.)
 
 Headache
 (Glocose below 50mg/gl.)
-
-# Sign
 
 Paresthesia
 
@@ -49,10 +54,3 @@ Coma
 
 Death
 (Glocose below 50mg/gl.)
-
-# Diagnostic
-
-Blood glucose
-(Low.)
-
-# Treatment and Management

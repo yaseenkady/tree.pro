@@ -1,19 +1,14 @@
-# Comment
+# "
 
-# Epidemiology
+# <
 
 Maternal hyperinsulinemia
 
-# Symptom
-
-# Sign
-
-Macrosomia
-
-# Diagnostic
+# >
 
 Blood insulin
+(High.)
 
-Blood glucose
+Hypoglycemia
 
-# Treatment and Management
+Macrosomia
