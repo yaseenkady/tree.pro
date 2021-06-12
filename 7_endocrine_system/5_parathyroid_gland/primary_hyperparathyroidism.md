@@ -1,18 +1,18 @@
-# Comment
+# "
 
-# Epidemiology
+# <
 
-# Symptom
+# >
 
-# Sign
+Hyperparathyroidism
 
-# Diagnostic
+Hypercalcemia
 
-Multiple endocrine neoplasia syndrome 1
+Polyuria
 
-Multiple endocrine neoplasia syndrome 2A
+Blood phosphate
+(Low.)
 
-Hand x-ray
-(Bone resorption. Osteitis fibrosa cystica.)
+Weakness
 
-# Treatment and Management
+Constipation

@@ -8,8 +8,6 @@ Young adult
 
 Adult
 
-Primary hyperparathyroidism
-
 Pancreatic islet cell tumor
 
 # Symptom
@@ -24,3 +22,7 @@ Pancreatic islet cell tumor
 
 Pituitary adenoma
 (Anterior.)
+
+# >
+
+Primary hyperparathyroidism

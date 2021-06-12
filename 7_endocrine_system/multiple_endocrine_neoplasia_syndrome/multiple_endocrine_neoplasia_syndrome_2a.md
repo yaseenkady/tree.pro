@@ -8,8 +8,6 @@ Young adult
 
 Adult
 
-Primary hyperparathyroidism
-
 Pheochromocytoma
 
 # Symptom
@@ -27,3 +25,7 @@ Genome MEN2A
 Medullary thyroid carcinoma
 
 # Treatment and Management
+
+# >
+
+Primary hyperparathyroidism

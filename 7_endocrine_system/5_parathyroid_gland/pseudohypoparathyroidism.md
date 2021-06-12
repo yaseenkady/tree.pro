@@ -1,32 +1,23 @@
-# Comment
+# "
 
-# Epidemiology
+# <
 
-# Symptom
+Family history
+(Maternal or paternal transmission.)
 
-# Sign
+Genome GNAS
+(Loss of function. Parathyroid hormone receptors use GNAS signaling. Autosomal dominant.)
 
-# Diagnostic
+# >
 
-Hand x-ray
+Hypocalcemia
+(Maternal transmission.)
 
 Blood parathyroid hormone
-(High.)
-
-Blood calcium
-(Low.)
+(Maternal transmission. High.)
 
 Blood phosphate
-(High.)
+(Maternal transmission. High.)
 
-Blood vitamin D
-(Low.)
-
-# Treatment and Management
-
-Calcium
-
-Vitamin D
-(Improve intestinal calcium absorption.)
-
-Phosphate binder
+Albright hereditary osteodystrophy
+(Maternal or paternal transmission.)
