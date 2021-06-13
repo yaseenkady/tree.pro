@@ -78,3 +78,5 @@ Liver transplant
 # >
 
 Hyperprolactinemia
+
+Secondary hyperaldosteronism

@@ -15,3 +15,5 @@ Adrenal atrophy
 
 Blood adrenocorticotropic hormone
 (Low.)
+
+Conn syndrome
