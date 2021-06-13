@@ -1,9 +1,0 @@
-# "
-
-# <
-
-Family history
-
-# >
-
-Adrenal adenoma

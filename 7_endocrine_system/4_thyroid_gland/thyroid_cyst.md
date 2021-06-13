@@ -1,7 +1,0 @@
-# "
-
-# <
-
-# >
-
-Nodular goiter

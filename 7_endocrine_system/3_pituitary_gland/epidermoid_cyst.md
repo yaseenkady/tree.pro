@@ -1,7 +1,0 @@
-# "
-
-# <
-
-(Originates from epithelial cell.)
-
-# >
