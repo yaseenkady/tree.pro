@@ -15,7 +15,7 @@ Review endocrine system:
 - [x] Science of Medicine
 - [ ] Science of Medicine cases
 - [ ] Practice of Medicine cases
-- [ ] First Aid
+- [x] First Aid
 
 Read Symptoms to Diagnosis:
 
