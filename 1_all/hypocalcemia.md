@@ -1,8 +1,0 @@
-# "
-
-# <
-
-# >
-
-Blood calcium
-(Low.)

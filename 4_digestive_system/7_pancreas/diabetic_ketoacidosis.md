@@ -56,5 +56,3 @@ Mental status change
 Delirium
 
 Leukocytosis
-
-Fungus

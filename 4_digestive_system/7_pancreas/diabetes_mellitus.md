@@ -72,3 +72,5 @@ Gastroparesis
 Diabetic diarrhea
 
 Cataract
+
+Fungus

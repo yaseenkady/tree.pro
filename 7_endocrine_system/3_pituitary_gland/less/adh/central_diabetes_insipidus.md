@@ -4,6 +4,8 @@
 
 Idiopathic
 
+Sarcoidosis
+
 Trauma in head
 
 # >
