@@ -14,7 +14,6 @@ Hyperlipidemia type 2b
 
 # Treatment and Management
 
-
 # >
 
 Secondary hyperaldosteronism

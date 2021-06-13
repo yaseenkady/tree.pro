@@ -23,6 +23,6 @@ Pancreatic islet cell tumor
 Pituitary adenoma
 (Anterior.)
 
-# >
-
 Primary hyperparathyroidism
+
+Gastrinoma

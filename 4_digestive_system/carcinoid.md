@@ -1,13 +1,6 @@
-# Comment
+# "
 
-Neuroendocrine tumor originating in:
-
-- Stomach
-- Small intestine
-- Appendix
-- Colon
-- Rectum
-- Lung
+Neuroendocrine tumor of the gastrointestinal system.
 
 Commonly makes multiple hormones:
 
@@ -18,24 +11,20 @@ Commonly makes multiple hormones:
 - Adrenocorticotropic hormone
 - Somatostatin
 
-# Epidemiology
+# <
 
 Common
 (The most common neuroendocrine tumor.)
 
-# Symptom
+# >
 
 Diarrhea
 
 Apnea
 
-# Sign
-
 Flushing
-
-# Diagnostic
-
-# Treatment and Management
 
 Good prognosis
 (Slow growing and benign.)
+
+Gastrinoma

@@ -16,4 +16,4 @@ Nocturia
 
 # >
 
-Secondary yperparathyroidism
+Secondary hyperaldosteronism
