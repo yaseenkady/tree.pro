@@ -1,31 +1,24 @@
-# Comment
+# "
 
-# Epidemiology
+# <
 
 Family history
+(Autosomal dominant.)
 
 Young adult
 
 Adult
 
-Pheochromocytoma
-
-# Symptom
-
-# Sign
-
-# Diagnostic
-
 Genome RET
+(Autosomal dominant.)
 
 Genome MEN2A
+(Autosomal dominant.)
 
 # >
 
 Medullary thyroid carcinoma
 
-# Treatment and Management
+Parathyroid adenoma
 
-# >
-
-Primary hyperparathyroidism
+Pheochromocytoma

@@ -1,8 +1,8 @@
-# Comment
+# "
 
 Originates from epithelial cell.
 
-# Epidemiology
+# <
 
 Infant
 (Adamantinomatous.)
@@ -18,14 +18,6 @@ Adolescent
 
 Adult
 (Papillary.)
-
-# Symptom
-
-# Sign
-
-# Diagnostic
-
-# Treatment and Management
 
 # >
 

@@ -1,16 +1,14 @@
-# Comment
+# "
 
 Also called marfanoid habitus.
 
 Skeletally milder Marfan syndrome.
 
-# Epidemiology
+# <
 
 Multiple endocrine neoplasia syndrome 2B
 
-# Symptom
-
-# Sign
+# >
 
 Long limb
 (Arm spam is at least 1.03 of the height.)
@@ -22,10 +20,6 @@ Scoliosis
 
 Dysphagia
 
-Midline defect
+Defect in midline
 
 Hearing deficit
-
-# Diagnostic
-
-# Treatment and Management

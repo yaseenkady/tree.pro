@@ -1,29 +1,26 @@
-# Comment
+# "
 
-# Epidemiology
+# <
 
 Family history
+(Autosomal dominant.)
 
 Young adult
 
 Adult
 
-Pheochromocytoma
-
-Marfanoid
-
-# Symptom
-
-# Sign
-
-# Diagnostic
-
 Genome RET
+(Autosomal dominant.)
 
 Genome MEN2B
+(Autosomal dominant.)
 
 # >
 
 Medullary thyroid carcinoma
 
-# Treatment and Management
+Pheochromocytoma
+
+Mucosal neuroma
+
+Marfanoid

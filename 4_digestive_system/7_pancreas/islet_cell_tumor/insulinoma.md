@@ -1,26 +1,25 @@
-# Comment
+# "
 
 2% of pancreatic neoplasm is islet cell tumor.
 
-# Epidemiology
+# <
 
-Multiple endocrine neoplasia syndrome 1
+(Originates from pancreatic B cell.)
 
-Carcinoid
+(10% is associated with multiple endocrine neoplasia syndrome 1.)
 
 Common
 (The most common islet cell tumor.)
 
-# Symptom
+# >
 
-# Sign
-
-# Diagnostic
+Blood insulin
+(High.)
 
 Hypoglycemia
-(Multiple episode.)
+(Multiple episodes.)
 
-# Treatment and Management
+Carcinoid
 
 Good prognosis
 (90% of cases are benign.)

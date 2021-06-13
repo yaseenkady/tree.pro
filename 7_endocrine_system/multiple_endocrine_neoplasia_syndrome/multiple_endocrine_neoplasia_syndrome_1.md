@@ -1,6 +1,6 @@
-# Comment
+# "
 
-# Epidemiology
+# <
 
 Family history
 
@@ -8,21 +8,15 @@ Young adult
 
 Adult
 
-Pancreatic islet cell tumor
-
-# Symptom
-
-# Sign
-
-# Diagnostic
-
-# Treatment and Management
+Genome MEN1
+(Autosomal dominant.)
 
 # >
 
 Pituitary adenoma
-(Anterior.)
+(Prolactinoma or growth hormonoma.)
 
-Primary hyperparathyroidism
+Parathyroid adenoma
 
-Gastrinoma
+Islet cell tumor
+(Zollinger Ellison syndrome, insulinoma, VIPoma, glucagonoma.)

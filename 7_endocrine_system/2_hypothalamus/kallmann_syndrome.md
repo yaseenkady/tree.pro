@@ -1,16 +1,10 @@
-# Comment
+# "
 
-# Epidemiology
+# <
 
-# Symptom
+# >
 
-Delayed puberty
-
-# Sign
-
-Midline defect
-
-# Diagnostic
+Defect in midline
 
 Blood leutenizing hormone
 (Low.)
@@ -21,4 +15,4 @@ Blood follicle stimulating hormone
 Blood testosterone
 (Low.)
 
-# Treatment and Management
+Delayed puberty

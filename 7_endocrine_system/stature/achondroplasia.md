@@ -1,17 +1,11 @@
-# Comment
+# "
 
-Cartilage fail to ossify.
-
-# Epidemiology
+# <
 
 Family history
 
-# Symptom
+# >
 
-# Sign
+(Cartilage fail to ossify.)
 
 Short stature
-
-# Diagnostic
-
-# Treatment and Management
