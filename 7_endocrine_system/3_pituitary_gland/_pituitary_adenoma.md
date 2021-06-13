@@ -18,3 +18,8 @@ Pituitary apoplexy
 Hypopituitarism
 
 Central diabetes insipidus
+
+Headache
+
+Visual deficit
+(Bitemporal hemianopia.)

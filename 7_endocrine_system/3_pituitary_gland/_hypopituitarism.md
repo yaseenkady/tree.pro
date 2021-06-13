@@ -13,8 +13,7 @@ Blood prolactin
 
 Growth hormone deficiency
 
-Blood adrenocorticotropic hormone
-(Low.)
+Secondary adrenal insufficiency
 
 Blood leutenizing hormone
 (Low.)

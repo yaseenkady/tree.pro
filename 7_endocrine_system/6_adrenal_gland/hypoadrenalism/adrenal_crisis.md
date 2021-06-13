@@ -1,28 +1,19 @@
-# Comment
+# "
 
-# Epidemiology
-
-Addison disease
-
-Waterhouse friderichsen syndrome
+# <
 
 Precipitating factor
 
 Glucocorticoid use
 (Withdraw.)
 
-Infant
-(Coagulation deficiency and adrenal hemorrhage.)
+# >
 
-Anticoagulant use
+(Acute.)
 
-# Symptom
+Adrenal insufficiency
 
-Fatigue
-
-Weight loss
-
-Syncopy
+Pain in abdomen
 
 Anorexia
 
@@ -30,28 +21,6 @@ Nausea
 
 Vomiting
 
-Pain in abdomen
-
-# Sign
-
-Muslce weakness
-
-Hyperpigmentation
-
-Orthostatic hypotension
-
-Fever
+Mental status change
 
 Shock
-
-# Diagnostic
-
-Blood cortisol
-(Low.)
-
-Blood potassium
-(High.)
-
-# Treatment and Management
-
-Glucocorticoid

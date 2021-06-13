@@ -1,19 +1,17 @@
-# Comment
+# "
 
-Adenoma and carcinoma are equally common in adults.
-Carcinoma is more common in children.
+# <
 
-# Epidemiology
+Adult
+(Adenoma and carcinoma are equally common in adults.)
+
+# >
 
 Cushing syndrome
 (10% of.)
 
-# Symptom
+Adrenal atrophy
+(Of uninvolved adrenal gland.)
 
-# Sign
-
-# Diagnostic
-
-# Treatment and Management
-
-Resection
+Blood adrenocorticotropic hormone
+(Low.)

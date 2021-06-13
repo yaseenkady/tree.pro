@@ -1,12 +1,9 @@
-# Comment
+# "
 
-# Epidemiology
+# <
 
 Autoimmunity
-(The most common cause Addison disease.)
-
-Metastasis to adrenal gland
-(Common cause Addison disease.)
+(The most common cause in the developed world.)
 
 Immunodeficiency
 
@@ -16,7 +13,7 @@ Human immunodeficiency virus
 (Common cause.)
 
 Mycobacteria tuberculosis
-(Common cause.)
+(The most common cause in the developing world.)
 
 Cytomegalovirus
 
@@ -25,6 +22,9 @@ Histoplasma
 Coccidioides
 
 Cryptococcus
+
+Metastasis to adrenal gland
+(Common cause.)
 
 Lymphoma
 
@@ -46,38 +46,7 @@ Mitotane use
 
 Etomidate use
 
-# Symptom
+# >
 
-Fatigue
-
-Weight loss
-
-Syncopy
-
-Anorexia
-
-Nausea
-
-Vomiting
-
-Pain in abdomen
-
-# Sign
-
-Muslce weakness
-
-Hyperpigmentation
-
-Orthostatic hypotension
-
-# Diagnostic
-
-Blood cortisol
-(Low.)
-
-Blood potassium
-(High.)
-
-# Treatment and Management
-
-Glucocorticoid
+Primary adrenal insufficiency
+(Chronic.)

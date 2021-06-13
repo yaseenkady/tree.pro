@@ -2,9 +2,6 @@
 
 # Epidemiology
 
-Cushing syndrome
-(12% of.)
-
 # Symptom
 
 # Sign
@@ -18,3 +15,8 @@ Blood adrenocorticotropic hormone
 Resection
 
 Biochemical inhibition of steroid synthesis
+
+# >
+
+Cushing syndrome
+(12% of.)

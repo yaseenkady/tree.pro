@@ -1,12 +1,14 @@
-# Comment
+# "
 
-Adrenal hemorrhage from infection.
+# <
 
-# Epidemiology
+Infant
+(Coagulation deficiency.)
 
-Adrenal crisis
+Infection
 
 Neisseria meningitis
+(Common cause.)
 
 Pseudomonas
 
@@ -16,40 +18,18 @@ Haemophilus influenza
 
 Staphylococcus aureus
 
-# Symptom
+Anticoagulant use
 
-Fatigue
+# >
 
-Weight loss
+(Bilateral adrenal hemorrhage.)
 
-Syncopy
-
-Anorexia
-
-Nausea
-
-Vomiting
-
-Pain in abdomen
-
-# Sign
-
-Muslce weakness
-
-Hyperpigmentation
-
-Orthostatic hypotension
+Fever
 
 Petechiae
 
 Purpuric rash
 
-# Diagnostic
+Sepsis
 
-Blood cortisol
-(Low.)
-
-Blood potassium
-(High.)
-
-# Treatment and Management
+Adrenal crisis
