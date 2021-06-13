@@ -4,7 +4,7 @@
 
 Common
 
-Family history
+Polygenic
 (90% concordance in identical twins.)
 
 Middle aged

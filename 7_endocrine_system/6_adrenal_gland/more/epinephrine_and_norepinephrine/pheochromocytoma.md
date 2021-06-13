@@ -57,7 +57,11 @@ Paroxysmal tachycardia
 
 Paroxysmal palpitation
 
+Hypertension
+(Common.)
+
 Orthostatic hypotension
+(Reduced response to catacholamines.)
 
 Pallor
 
@@ -68,3 +72,8 @@ Blood catecholamine
 
 Urine catecholamine
 (High.)
+
+Cardiac hypertrophy
+
+Myocardial infarction
+(Causes even in the absence of coronary artery disease.)

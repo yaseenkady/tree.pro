@@ -40,3 +40,5 @@ Hypertension
 Colorectal polyp
 
 Cancer
+
+Obstructive sleep apnea

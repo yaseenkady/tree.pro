@@ -1,8 +1,6 @@
 # "
 
-2% of pancreatic neoplasm is islet cell tumor.
-
-Also called Zollinger-Ellison syndrome.
+Zollinger-Ellison syndrome.
 
 # <
 
@@ -13,9 +11,7 @@ Blood gastrin
 
 Peptic ulcer disease
 
-Ulcer in duodenum
-
-Ulcer in jejunum
+Intestinal ulcer disease
 
 Pain in abdomen
 

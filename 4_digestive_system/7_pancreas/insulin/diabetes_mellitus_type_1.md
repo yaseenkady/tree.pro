@@ -2,7 +2,7 @@
 
 # <
 
-Family history
+Polygenic
 (50% concordance in identical twins.)
 
 Adolescent

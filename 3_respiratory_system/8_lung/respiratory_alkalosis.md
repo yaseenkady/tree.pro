@@ -1,14 +1,10 @@
-# Comment
+# "
 
-# Epidemiology
+# <
 
-# Symptom
+Hyperventilation
 
-# Sign
-
-# Diagnostic
+# >
 
 Blood pH
 (High.)
-
-# Treatment and Management

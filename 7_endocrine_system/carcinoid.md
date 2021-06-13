@@ -2,15 +2,6 @@
 
 Neuroendocrine tumor of the gastrointestinal system and lung.
 
-Commonly makes multiple hormones:
-
-- Insulin
-- Gastrin
-- Glucagon
-- VIP
-- Adrenocorticotropic hormone
-- Somatostatin
-
 # <
 
 Common
@@ -19,6 +10,28 @@ Common
 # >
 
 (1/3 metastasizes, 1/3 results in multiple tumors, and 1/3 occurs with another cancer.)
+
+(Can make multiple hormones.)
+
+Blood adrenocorticotropic hormone
+(High.)
+
+Blood somatostatin
+(High.)
+
+Blood vasoactive intestinal peptide
+(High.)
+
+Blood gastrin
+(High.)
+
+Blood glucagon
+(High.)
+
+Blood insulin
+(High.)
+
+Islet cell tumor
 
 Flushing
 

@@ -19,4 +19,3 @@ Pituitary adenoma
 Parathyroid adenoma
 
 Islet cell tumor
-(Zollinger Ellison syndrome, insulinoma, VIPoma, glucagonoma.)

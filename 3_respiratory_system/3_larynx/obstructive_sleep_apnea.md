@@ -1,23 +1,15 @@
-# Comment
+# "
 
-# Epidemiology
+# <
 
 Common
 (9-17% of people.)
 
 Male
 
-Heart failure
-
-Hypertension
-
 Obesity
 
-Coronary artery disease
-
-Acromegaly
-
-# Symptom
+# >
 
 Sleepiness
 (35-40% of people.)
@@ -25,14 +17,7 @@ Sleepiness
 Fatigue
 (60% of people.)
 
-Morning headache
-
-# Sign
+Headache
+(After waking up.)
 
 Depression
-
-# Diagnostic
-
-Polysomnogram
-
-# Treatment and Management

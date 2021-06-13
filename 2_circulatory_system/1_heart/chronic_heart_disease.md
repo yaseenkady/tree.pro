@@ -1,16 +1,14 @@
-# Comment
+# "
 
-# Epidemiology
+# <
 
-# Symptom
+# >
 
 Fatigue
 
 Dyspnea
 
 Paroxysmal nocturnal dyspnea
-
-# Sign
 
 Jagular venous distention
 
@@ -21,13 +19,3 @@ Orthopnea
 Bendopnea
 
 Pitting edema
-
-# Diagnostic
-
-Electrocardiogram
-
-Echocardiography
-
-Stress test
-
-# Treatment and Management

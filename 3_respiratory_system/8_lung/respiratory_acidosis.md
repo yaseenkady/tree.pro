@@ -1,14 +1,10 @@
-# Comment
+# "
 
-# Epidemiology
+# <
 
-# Symptom
+Hypoventilation
 
-# Sign
-
-# Diagnostic
+# >
 
 Blood pH
 (Low.)
-
-# Treatment and Management

@@ -1,7 +1,5 @@
 # "
 
-2% of pancreatic neoplasm is islet cell tumor.
-
 # <
 
 (Originates from pancreatic A cell.)
@@ -14,12 +12,12 @@ Blood glucagon
 Hyperglycemia
 (Multiple episodes.)
 
-Dermatitis
-
-Deep vein thrombosis
-
 Weight loss
+
+Diarrhea
+
+Dermatitis
 
 Depression
 
-Diarrhea
+Deep vein thrombosis

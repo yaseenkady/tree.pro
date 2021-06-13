@@ -2,7 +2,7 @@
 
 # <
 
-Family history
+Polygenic
 (Associated more in type 2.)
 
 # >
@@ -62,6 +62,8 @@ Myocardial infarction
 (The most common cause of death.)
 
 (Osmotic damage.)
+
+Hypertension
 
 Peripheral neuropathy
 

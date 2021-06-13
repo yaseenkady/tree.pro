@@ -1,7 +1,5 @@
 # "
 
-2% of pancreatic neoplasm is islet cell tumor.
-
 # <
 
 (Originates from pancreatic D cell.)
@@ -14,17 +12,17 @@ Blood somatostatin
 Blood secretin
 (Low.)
 
-Cholecystokinin
-(Low.)
-
-Blood glucagon
-(Low.)
-
-Blood insulin
+Blood cholecystokinin
 (Low.)
 
 Blood gastrin
 (Low.)
 
 Blood gastric inhibitory peptide
+(Low.)
+
+Blood glucagon
+(Low.)
+
+Blood insulin
 (Low.)
