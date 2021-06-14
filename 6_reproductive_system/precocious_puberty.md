@@ -9,15 +9,11 @@ Driven not by growth hormone.
 Early puberty
 
 Fast growth
-(Short adult if untreated.)
 
 Short stature
 
-Blood gonadotropic hormone
-(High.)
+High blood gonadotropic hormone
 
-Blood follicle stimulating hormone
-(High.)
+High blood follicle stimulating hormone
 
-Blood leutenizing hormone
-(High.)
+High blood leutenizing hormone

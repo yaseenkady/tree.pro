@@ -6,11 +6,9 @@ Genome LDLR
 
 # >
 
-Blood LDL
-(High.)
+High blood LDL
 
-Blood cholesterol
-(High.)
+High blood cholesterol
 
 Xanthelasma
 

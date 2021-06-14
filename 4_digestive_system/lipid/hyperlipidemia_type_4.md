@@ -11,16 +11,12 @@ Use of estrogen
 
 # >
 
-Blood VLDL
-(High.)
+High blood VLDL
 
-Blood cholesterol
-(High.)
+High blood cholesterol
 
-Blood triglyceride
-(High.)
+High blood triglyceride
 
-Serum
-(Turbid.)
+Turbid serum
 
 Pancreatitis

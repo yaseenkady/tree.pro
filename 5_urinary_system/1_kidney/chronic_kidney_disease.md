@@ -4,21 +4,17 @@
 
 # >
 
-Blood urea nitrogen
-(High.)
+High blood urea nitrogen
 
-Blood creatine
-(High.)
+High blood creatine
 
 Hyperprolactinemia
 
 Renal osteodystrophy
 
-Blood vitamin D
-(Low.)
+Low blood vitamin D
 
-Blood phosphate
-(High.)
+High blood phosphate
 
 Fatigue
 

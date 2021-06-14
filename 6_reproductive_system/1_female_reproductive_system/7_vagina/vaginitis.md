@@ -32,7 +32,7 @@ Thin green malodorous discahrge
 (Trichomonas.)
 
 Strawberry cervix
-(Trichomonas. 2% of cases.)
+(Trichomonas. 2%.)
 
 Burning sensation during urination
 (Trichomonas.)

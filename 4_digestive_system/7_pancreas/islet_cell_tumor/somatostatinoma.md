@@ -6,23 +6,16 @@
 
 # >
 
-Blood somatostatin
-(High.)
+High blood somatostatin
 
-Blood secretin
-(Low.)
+Low blood secretin
 
-Blood cholecystokinin
-(Low.)
+Low blood cholecystokinin
 
-Blood gastrin
-(Low.)
+Low blood gastrin
 
-Blood gastric inhibitory peptide
-(Low.)
+Low blood gastric inhibitory peptide
 
-Blood glucagon
-(Low.)
+Low blood glucagon
 
-Blood insulin
-(Low.)
+Low blood insulin

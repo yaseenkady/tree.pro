@@ -13,13 +13,10 @@ Genome APOB
 
 Hyperlipidemia type 2
 
-Blood VLDL
-(High.)
+High blood VLDL
 
-Blood triglyceride
-(High.)
+High blood triglyceride
 
-Serum
-(Turbid.)
+Turbid serum
 
 Pancreatitis

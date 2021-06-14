@@ -6,11 +6,9 @@
 
 # >
 
-Blood glucagon
-(High.)
+High blood glucagon
 
-Hyperglycemia
-(Multiple episodes.)
+Episodic hyperglycemia
 
 Weight loss
 

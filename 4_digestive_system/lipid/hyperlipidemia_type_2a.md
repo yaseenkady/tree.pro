@@ -11,5 +11,4 @@ Common
 
 Hyperlipidemia type 2
 
-Serum
-(Clear.)
+Clear serum

@@ -5,7 +5,7 @@ Viral infection activates the immune system which damages the liver.
 # <
 
 Common
-(Many are infected without knowing.)
+(Many people are infected asymptomatically.)
 
 Poor hygiene
 

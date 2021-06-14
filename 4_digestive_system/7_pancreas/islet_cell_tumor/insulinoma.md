@@ -9,8 +9,6 @@ Common
 
 # >
 
-Blood insulin
-(High.)
+High blood insulin
 
-Hypoglycemia
-(Episodic.)
+Episodic hypoglycemia

@@ -10,20 +10,15 @@ Genome APOE
 
 # >
 
-Blood BVLDL
-(High.)
+High blood BVLDL
 
-Blood IDL
-(High.)
+High blood IDL
 
-Blood cholesterol
-(High.)
+High blood cholesterol
 
-Blood triglyceride
-(High.)
+High blood triglyceride
 
-Serum
-(Turbid.)
+Turbid serum
 
 Pancreatitis
 

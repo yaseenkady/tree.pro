@@ -17,5 +17,5 @@ Germ cell tumor
 
 Blood lactate dehydrogenase
 
-Blood B human chorionic gonadotropin
-(High if there is syncytiotrophoblast.)
+High blood B human chorionic gonadotropin
+(If there is syncytiotrophoblast.)

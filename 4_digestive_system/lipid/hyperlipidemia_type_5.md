@@ -14,19 +14,14 @@ Intake of alcohol
 
 # >
 
-Blood chylomicron
-(High.)
+High blood chylomicron
 
-Blood VLDL
-(High.)
+High blood VLDL
 
-Blood cholesterol
-(High.)
+High blood cholesterol
 
-Blood triglyceride
-(High.)
+High blood triglyceride
 
-Serum
-(Creamy top.)
+Creamy top serum
 
 Pancreatitis

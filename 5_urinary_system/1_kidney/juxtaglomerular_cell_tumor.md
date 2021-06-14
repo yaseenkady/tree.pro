@@ -4,7 +4,6 @@
 
 # >
 
-Blood renin
-(High.)
+High blood renin
 
 Secondary hyperaldosteronism

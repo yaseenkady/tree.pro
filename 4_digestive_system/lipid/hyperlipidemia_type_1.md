@@ -10,14 +10,11 @@ Young adult
 
 # >
 
-Blood chylomicron
-(High.)
+High blood chylomicron
 
-Blood triglyceride
-(High.)
+High blood triglyceride
 
-Serum
-(Creamy top.)
+Creamy top serum
 
 Pancreatitis
 
