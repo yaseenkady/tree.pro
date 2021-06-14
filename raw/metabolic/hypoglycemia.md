@@ -16,7 +16,7 @@ Low intake of carbohydrate
 
 # >
 
-Hypoglycemia
+High blood glucose
 
 Hunger
 

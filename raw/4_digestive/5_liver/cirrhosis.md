@@ -1,3 +1,7 @@
+# ~
+
+Hepatitis
+
 # .
 
 # <
@@ -5,8 +9,6 @@
 Fibrosis
 
 # >
-
-Coagulopathy
 
 Portal hypertension
 

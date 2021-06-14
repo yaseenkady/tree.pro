@@ -45,8 +45,6 @@ Nephropathy
 
 Chronic kidney disease
 
-Atherosclerosis
-
 Coronary artery disease
 
 Gangrene

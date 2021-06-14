@@ -43,8 +43,6 @@ Vomiting
 
 Cerebral edema
 
-Mental status change
-
 Depression
 
 Seizure

@@ -53,13 +53,4 @@ High blood albumin
 
 Low blood clotting factor
 
-Chronic hepatitis
-
-Viral hepatitis
-
-Cirrhosis
-(Some hepatitis rapidly progresses.)
-
-Hepatocellular carcinoma
-
 Coagulopathy

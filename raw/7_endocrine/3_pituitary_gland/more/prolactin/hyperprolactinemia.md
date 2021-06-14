@@ -23,3 +23,15 @@ Use of cocaine
 # >
 
 High blood prolactin
+
+Delayed puberty
+(In child.)
+
+Amenorrhea
+(In adult female.)
+
+Erectile dysfunction
+(In adult male.)
+
+Infertility
+(In adult female.)
