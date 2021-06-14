@@ -96,8 +96,8 @@ Blood thyroid stimulating hormone
 Blood free thyroxine
 (Low.)
 
-Hyperlipidemia type 2A
+Hyperlipidemia type 2
 
-Hyperlipidemia type 2B
+Hyperlipidemia type 3
 
 Hyperprolactinemia

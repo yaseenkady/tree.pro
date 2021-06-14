@@ -31,9 +31,3 @@ Testicular mass
 # Diagnostic
 
 Blood A fetoprotein
-
-# Treatment and Management
-
-Chemotherapy
-
-Good prognosis

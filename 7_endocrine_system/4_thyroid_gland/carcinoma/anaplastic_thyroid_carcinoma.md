@@ -32,6 +32,3 @@ Vocal cord paralysis
 Pain in neck
 
 Dyspnea
-
-Poor prognosis
-(Death in less than 1 year.)

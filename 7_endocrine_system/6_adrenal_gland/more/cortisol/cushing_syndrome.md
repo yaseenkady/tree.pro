@@ -22,8 +22,7 @@ Blood glucose
 
 Diabetes mellitus type 2
 
-Blood cholesterol
-(High.)
+Hyperlipidemia type 2
 
 Blood aldosterone
 (High.)

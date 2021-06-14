@@ -28,7 +28,4 @@ Lymphadenopathy of neck
 
 (Spreads lymphatically.)
 
-Good prognosis
-(95% 10 year survival.)
-
 Anaplastic thyroid carcinoma

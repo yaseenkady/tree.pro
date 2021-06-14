@@ -19,7 +19,4 @@ Nodular goiter
 
 (Spreads hematogeneously.)
 
-Good prognosis
-(95% 10 year survival.)
-
 Anaplastic thyroid carcinoma

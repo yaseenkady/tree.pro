@@ -23,9 +23,3 @@ Testicular mass
 # Diagnostic
 
 Blood B human chorionic gonadotropin
-
-# Treatment and Management
-
-Chemotherapy
-
-Poor prognosis

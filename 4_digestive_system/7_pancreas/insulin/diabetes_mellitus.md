@@ -2,8 +2,8 @@
 
 # <
 
-Polygenic
-(Associated more in type 2.)
+Genome polygenic
+(50% and 90% concordances in twins in type 1 and type 2 respectively.)
 
 # >
 
@@ -64,6 +64,8 @@ Myocardial infarction
 (Osmotic damage.)
 
 Hypertension
+
+Hyperlipidemia type 2
 
 Peripheral neuropathy
 

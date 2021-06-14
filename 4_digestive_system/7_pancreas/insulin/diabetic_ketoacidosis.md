@@ -7,11 +7,7 @@ Not-miss
 
 Precipitating factor
 
-Stress
-
 Infection
-
-Myocardial infarction
 
 Trauma
 

@@ -25,13 +25,3 @@ Blood lactate dehydrogenase
 
 Blood B human chorionic gonadotropin
 (High if there is syncytiotrophoblast.)
-
-# Treatment and Management
-
-Chemotherapy
-
-Radiation
-(95% cure rate.)
-
-Good prognosis
-(Least aggressive germ cell tumor.)

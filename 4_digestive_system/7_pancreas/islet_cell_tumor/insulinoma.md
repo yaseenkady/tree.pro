@@ -13,7 +13,4 @@ Blood insulin
 (High.)
 
 Hypoglycemia
-(Episodes.)
-
-Good prognosis
-(90% of cases are benign.)
+(Episodic.)

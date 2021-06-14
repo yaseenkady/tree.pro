@@ -21,6 +21,3 @@ Blood calcitonin
 (High.)
 
 Hypocalcemia
-
-Good prognosis
-(95% 10 year survival.)

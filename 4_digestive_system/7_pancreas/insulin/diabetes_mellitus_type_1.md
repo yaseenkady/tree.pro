@@ -2,18 +2,15 @@
 
 # <
 
-Polygenic
-(50% concordance in identical twins.)
-
 Adolescent
 
 Young adult
 
 Autoimmunity
 
-Genome HLA-DR4
-
 Genome HLA-DR3
+
+Genome HLA-DR4
 
 # >
 

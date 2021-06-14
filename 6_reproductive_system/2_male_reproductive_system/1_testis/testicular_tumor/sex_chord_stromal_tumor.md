@@ -50,14 +50,3 @@ Blood A fetoprotein
 Blood B human chorionic gonadotropin
 
 Blood lactate dehydrogenase
-
-Testicular ultrasound
-(For confirming.)
-
-Computer tomography
-(For staging.)
-
-Resection
-
-Good prognosis
-(10% malignant.)

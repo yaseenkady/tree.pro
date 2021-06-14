@@ -10,10 +10,4 @@ Elderly
 
 # Sign
 
-Testicular mass
-
-# Diagnostic
-
-# Treatment and Management
-
-Good prognosis
+Mass in testis
