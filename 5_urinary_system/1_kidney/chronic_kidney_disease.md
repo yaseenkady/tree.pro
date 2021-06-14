@@ -5,8 +5,10 @@
 # >
 
 Blood urea nitrogen
+(High.)
 
 Blood creatine
+(High.)
 
 Hyperprolactinemia
 

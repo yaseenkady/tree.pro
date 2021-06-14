@@ -2,14 +2,11 @@
 
 # <
 
-Family history
-
 Genome ADHR
-(Loos of function.)
 
-Lithium use
+Exposure to lithium
 
-Dececlocycline use
+Use of dececlocycline
 
 # >
 

@@ -1,7 +1,0 @@
-# "
-
-# <
-
-# >
-
-Nephrotic diabetes insipidus

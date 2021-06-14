@@ -2,6 +2,9 @@
 
 # <
 
+Intake of potassium
+(Low.)
+
 # >
 
 Blood potassium

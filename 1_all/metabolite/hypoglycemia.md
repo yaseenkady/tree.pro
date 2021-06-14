@@ -12,7 +12,8 @@ Elderly
 
 Exercise
 
-Deficiency in nutrition
+Intake of carbohydrate
+(Low.)
 
 # >
 
