@@ -2,8 +2,6 @@
 
 # <
 
-Family history
-
 Adult
 
 Women

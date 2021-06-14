@@ -66,3 +66,5 @@ Cirrhosis
 (Some hepatitis rapidly progresses.)
 
 Hepatocellular carcinoma
+
+Coagulopathy

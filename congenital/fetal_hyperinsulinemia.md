@@ -12,3 +12,5 @@ Blood insulin
 Hypoglycemia
 
 Macrosomia
+
+Polycythemia vera

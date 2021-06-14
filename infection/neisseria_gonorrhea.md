@@ -26,4 +26,10 @@ Prostatitis
 
 Pelvic inflammatory disease
 
+Infective arthritis
+
 Reactive arthritis
+
+Tenosynovitis
+
+Rash

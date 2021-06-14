@@ -23,7 +23,6 @@ Children
 
 Adult
 
-Family history
 (70-80% sporadic.)
 
 # >

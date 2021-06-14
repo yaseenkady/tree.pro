@@ -1,6 +1,6 @@
-# Comment
+# "
 
-# Epidemiology
+# <
 
 Thin
 
@@ -12,37 +12,16 @@ White
 
 Low UV light exposure
 
-Low calcium diet
+Low intake of calcium
 
-Sedentary
+Low intake of vitamin D
+
+Sedentary lifestyle
 
 Early menopause
 
 Smoking
 
-Furosemide use
+Use of furosemide
 
-Cushing syndrome
-
-# Symptom
-
-# Sign
-
-# Diagnostic
-
-# Treatment and Management
-
-Calcium
-
-Vitamin D
-
-Estrogen
-
-Biphosphonate
-(Alendronate.)
-
-RANKL inhibitor
-(Denusomab.)
-
-Parathyroid hormone
-(Teriparatide.)
+# >

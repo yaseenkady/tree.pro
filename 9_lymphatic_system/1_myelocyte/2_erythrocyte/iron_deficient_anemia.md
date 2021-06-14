@@ -1,23 +1,19 @@
-# Comment
+# "
 
-# Epidemiology
+# <
 
-Iron deficiency
+Low intake of iron
 
-# Symptom
+# >
 
 Fatigue
 
 Dyspnea
 
-# Sign
-
 Pale conjunctiva
 
-# Diagnostic
+Low blood hemoglobin
 
-Blood hemoglobin
+Low blood ferritin
 
-Blood ferritin
-
-# Treatment and Management
+Periodic leg movement disease

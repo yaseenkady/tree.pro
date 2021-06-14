@@ -2,7 +2,6 @@
 
 # <
 
-Family history
 (Maternal or paternal transmission.)
 
 Genome GNAS

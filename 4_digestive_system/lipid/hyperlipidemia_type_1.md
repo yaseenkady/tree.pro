@@ -28,3 +28,9 @@ Hepatomegaly
 Splenomegaly
 
 Eruptive xanthoma
+
+Coagulopathy
+
+Thrombocytopenia
+
+Hemolytic anemia

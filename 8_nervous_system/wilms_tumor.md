@@ -4,8 +4,4 @@
 
 # >
 
-Firm mass
-
-Smooth mass
-
-Unilateral mass
+Firm, smooth, and unilateral mass in abdomen

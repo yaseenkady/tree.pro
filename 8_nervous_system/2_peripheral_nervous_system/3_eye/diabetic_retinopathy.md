@@ -1,21 +1,12 @@
-# Comment
+# "
 
-Increaed retinal blood flow leads to hemorrhage.
+# <
 
-# Epidemiology
+Hemorrhage
+(From increaed retinal blood flow.)
 
-Diabetes mellitus type 1
+# >
 
-Diabetes mellitus type 2
+Hemorrhage in retina
 
-# Symptom
-
-# Sign
-
-Retinal hemorrhage
-
-Retinal aneurysm
-
-# Diagnostic
-
-# Treatment and Management
+Aneurysm in retina

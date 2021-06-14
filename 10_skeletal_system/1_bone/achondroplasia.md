@@ -2,8 +2,6 @@
 
 # <
 
-Family history
-
 # >
 
 (Cartilage fail to ossify.)

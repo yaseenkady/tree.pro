@@ -2,6 +2,8 @@
 
 # <
 
+Psychiatric disease
+
 Lesion in hypothalamus
 (Results in less inhibition.)
 

@@ -27,3 +27,5 @@ Edema
 Anorexia
 
 Nausea
+
+Periodic leg movement disease

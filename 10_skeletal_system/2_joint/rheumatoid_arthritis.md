@@ -1,16 +1,12 @@
-# Comment
+# "
 
-# Epidemiology
+# <
 
-# Symptom
+# >
 
 Fatigue
 
-Pain in join
-
-# Sign
-
-# Diagnostic
+Pain in joint
 
 Antibody against nucleic acid
 
@@ -23,5 +19,3 @@ Erythrocyte sedimentation rate
 Blood C reactive protein
 
 Blood white blood cell
-
-# Treatment and Management

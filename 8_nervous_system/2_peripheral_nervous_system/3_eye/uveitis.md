@@ -1,25 +1,13 @@
-# Comment
+# "
 
-# Epidemiology
+# <
 
-Reactive arthritis
+# >
 
-# Symptom
-
-Eye pain
-
-Light sensitivity
-
-Blurry vision
-
-Floater
-
-# Sign
+Pain in eye
 
 Eye redness
 
-Poor vision
+Light sensitivity
 
-# Diagnostic
-
-# Treatment and Management
+Visual deficit

@@ -11,3 +11,5 @@ Blood calcium
 (Low.)
 
 Secondary hyperparathyroidism
+
+Osteoperosis

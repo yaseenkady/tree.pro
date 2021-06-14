@@ -2,10 +2,7 @@
 
 # <
 
-Family history
-
 Genome FGFR3
-(Loss of function.)
 
 # >
 

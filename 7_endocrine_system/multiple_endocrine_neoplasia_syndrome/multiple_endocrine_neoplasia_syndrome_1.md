@@ -2,8 +2,6 @@
 
 # <
 
-Family history
-
 Young adult
 
 Adult

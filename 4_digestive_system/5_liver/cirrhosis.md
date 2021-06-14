@@ -6,6 +6,8 @@ Fibrosis
 
 # >
 
+Coagulopathy
+
 Portal hypertension
 
 Hyperprolactinemia

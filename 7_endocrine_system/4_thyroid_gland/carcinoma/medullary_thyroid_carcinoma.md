@@ -6,7 +6,6 @@ Young Adult
 
 Adult
 
-Family history
 (20-30% heritable.)
 
 (Neuroendocrine cancer from the parafollicular C cells, which are the neural crest cells.)

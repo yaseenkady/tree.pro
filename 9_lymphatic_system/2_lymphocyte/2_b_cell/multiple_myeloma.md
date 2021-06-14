@@ -1,29 +1,13 @@
-# Comment
+# "
 
-Cancer increases RANKL, driving osteoclast differentiation.
+# <
 
-# Epidemiology
+# >
 
-# Symptom
+(Cancer increases RANKL, driving osteoclast differentiation.)
 
 Pain in bone
 
-# Sign
+Hypercalcemia
 
-# Diagnostic
-
-Bone x-ray
-
-Blood calcium
-(High.)
-
-Blood parathyroid hormone
-(Low.)
-
-# Treatment and Management
-
-Biphosphonate
-(Alendronate.)
-
-RANKL inhibitor
-(Denusomab.)
+Low blood parathyroid hormone

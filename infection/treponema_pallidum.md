@@ -18,3 +18,9 @@ Aortic aneurysm
 Congenital syphilis
 
 Orchitis
+
+Neurosyphilis
+
+Infective arthritis
+
+Rash

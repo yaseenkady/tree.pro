@@ -42,3 +42,5 @@ Colorectal polyp
 Cancer
 
 Obstructive sleep apnea
+
+Osteoarthritis

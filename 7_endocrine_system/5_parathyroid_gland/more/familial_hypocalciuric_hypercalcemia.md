@@ -2,8 +2,6 @@
 
 # <
 
-Family history
-
 # >
 
 (G protein coupled calcium receptors are less sensitive in parathyroid gland and kidneys.)

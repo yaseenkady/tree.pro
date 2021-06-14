@@ -2,7 +2,6 @@
 
 # <
 
-Family history
 (Autosomal dominant.)
 
 Young adult
