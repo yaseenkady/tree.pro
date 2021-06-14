@@ -1,0 +1,19 @@
+# Comment
+
+# Epidemiology
+
+# Cause
+
+HYPERLIPIDEMIA_TYPE_1
+
+HYPERLIPIDEMIA_TYPE_2B
+
+HYPERLIPIDEMIA_TYPE_3
+
+HYPERLIPIDEMIA_TYPE_4
+
+HYPERLIPIDEMIA_TYPE_5
+
+# Symptom and Sign
+
+Pain in abdomen

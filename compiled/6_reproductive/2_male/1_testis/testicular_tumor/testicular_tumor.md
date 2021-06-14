@@ -1,0 +1,19 @@
+# Comment
+
+# Epidemiology
+
+# Cause
+
+GERM_CELL_TUMOR
+
+SPERMATOCYTIC_CANCER
+
+SEX_CHORD_STROMAL_TUMOR
+
+TESTICULAR_LYMPHOMA
+
+TESTICULAR_RHABDOMYOSARCOMA
+
+# Symptom and Sign
+
+Mass in testis
