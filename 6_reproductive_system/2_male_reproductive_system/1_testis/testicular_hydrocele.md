@@ -1,15 +1,9 @@
-# Comment
+# "
 
 Fluid collection in the thin sheath surrounding a testicle.
 
-# Epidemiology
+# <
 
-Newborn
+Infant
 
-# Symptom
-
-# Sign
-
-# Diagnostic
-
-# Treatment and Management
+# >

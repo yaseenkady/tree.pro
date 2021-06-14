@@ -1,8 +1,6 @@
-# Comment
+# "
 
-95% of testicular tumors are germ cell tumors, which are mostly malignant and 50% of which become invasive in 5 years.
-
-# Epidemiology
+# <
 
 Common
 (50% of germ cell tumors.)
@@ -13,13 +11,9 @@ Young adult
 
 Adult
 
-# Symptom
+# >
 
-# Sign
-
-Testicular mass
-
-# Diagnostic
+Germ cell tumor
 
 Blood lactate dehydrogenase
 

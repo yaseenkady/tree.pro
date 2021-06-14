@@ -1,16 +1,11 @@
-# Comment
+# "
 
-95% of testicular tumors are germ cell tumors, which are mostly malignant and 50% of which become invasive in 5 years.
+Endodermal sinus tumor.
 
-Also called endodermal sinus tumor.
-
-# Epidemiology
+# <
 
 Common
-(The most common subtype in infants and preschool children.)
-
-Embryonal carcinoma
-(In young adult and adult.)
+(The most common in infants and preschool children.)
 
 Infant
 
@@ -22,12 +17,11 @@ Young adult
 
 Adult
 
-# Symptom
+# >
 
-# Sign
+Germ cell tumor
 
-Testicular mass
-
-# Diagnostic
+Embryonal carcinoma
+(In young adult and adult.)
 
 Blood A fetoprotein

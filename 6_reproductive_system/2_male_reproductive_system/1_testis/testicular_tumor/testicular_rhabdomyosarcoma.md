@@ -1,15 +1,9 @@
-# Comment
+# "
 
-Skeletal muscle cancer.
+# <
 
-# Epidemiology
+(Originates from muscle cell.)
 
-# Symptom
+# >
 
-# Sign
-
-Testicular mass
-
-# Diagnostic
-
-# Treatment and Management
+Testicular tumor

@@ -1,9 +1,0 @@
-# "
-
-# <
-
-# >
-
-Pharyngitis
-
-Pelvic inflammatory disease

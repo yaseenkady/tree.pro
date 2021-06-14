@@ -9,4 +9,4 @@ Elderly
 
 # >
 
-Mass in testis
+Testicular tumor

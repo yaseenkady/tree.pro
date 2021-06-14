@@ -1,10 +1,8 @@
-# Comment
+# "
 
-95% of testicular tumors are germ cell tumors, which are mostly malignant and 50% of which become invasive in 5 years.
+# <
 
-Has syncytiotrophoblast and cytotrophoblast.
-
-# Epidemiology
+(Originates from syncytiotrophoblast and cytotrophoblast.)
 
 Adolescent
 
@@ -14,12 +12,8 @@ Pregnancy
 
 Adult
 
-# Symptom
+# >
 
-# Sign
-
-Testicular mass
-
-# Diagnostic
+Germ cell tumor
 
 Blood B human chorionic gonadotropin

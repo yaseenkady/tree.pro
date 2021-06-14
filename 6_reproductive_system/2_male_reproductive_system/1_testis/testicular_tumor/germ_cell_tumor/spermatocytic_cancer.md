@@ -1,13 +1,11 @@
-# Comment
+# "
 
-Originates from primary spermatocyte.
+# <
 
-# Epidemiology
+(Originates from primary spermatocyte.)
 
 Elderly
 
-# Symptom
+# >
 
-# Sign
-
-Mass in testis
+Testicular tumor

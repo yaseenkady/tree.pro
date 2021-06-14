@@ -45,6 +45,8 @@ Amenorrhea
 
 Erectile dysfunction
 
+Infertility
+
 Immunodeficiency
 
 Osteoperosis
