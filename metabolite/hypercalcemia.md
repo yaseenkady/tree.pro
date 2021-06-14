@@ -2,21 +2,17 @@
 
 # <
 
-Intake of calcium
-(High.)
+High intake of calcium
 
-Intake of vitamin D
-(High.)
+High intake of vitamin D
 
 Cancer
 
 # >
 
-Blood calcium
-(High.)
+High blood calcium
 
-Urine calcium
-(High.)
+High urine calcium
 
 Kidney stone
 

@@ -4,17 +4,16 @@
 
 # >
 
-Blood cortisol
-(Low.)
+Low blood cortisol
 
-Blood aldosterone
-(Low. If adrenal gland is the problem.)
+Low blood aldosterone
+(If adrenal gland is the problem.)
 
-Blood potassium
-(Low. If adrenal gland is the problem.)
+Low blood potassium
+(If adrenal gland is the problem.)
 
-Metabolic acidosis
-(Low. If adrenal gland is the problem.)
+Low metabolic acidosis
+(If adrenal gland is the problem.)
 
 Weight loss
 (If adrenal gland is the problem.)

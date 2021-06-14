@@ -13,11 +13,11 @@ Polydipsia
 
 Polyuria
 
-Urine osmolality
-(Less than 300mOsm/kg.)
+Low urine osmolality
+(300mOsm/kg.)
 
-Urine specific gravity
-(Less than 1.006.)
+Low urine specific gravity
+(1.006.)
 
 Nocturia
 
@@ -27,13 +27,9 @@ Nausea
 
 Vomiting
 
-Blood antidiuretic hormone
-(Low or normal.)
+Low blood antidiuretic hormone
+(Can be normal.)
 
 Weight gain
 
-Blood osmolality
-(Low.)
-
-Urine osmolality after water restriction
-(Increase above 700mOsm/kg.)
+Low blood osmolality

@@ -4,11 +4,9 @@
 
 # >
 
-Blood growth hormone
-(Low.)
+Low blood growth hormone
 
-Blood insulin-like growth factor 1
-(Low.)
+Low blood insulin-like growth factor 1
 
 Fatigue
 
@@ -18,7 +16,6 @@ Central obesity
 
 Hyperlipidemia
 
-Bone density
-(Low.)
+Low bone density
 
 Short stature

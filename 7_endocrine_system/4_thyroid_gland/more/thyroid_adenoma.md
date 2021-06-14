@@ -7,9 +7,9 @@ Common
 
 # >
 
-Nodular goiter
-
 (Cold and benign.)
+
+Nodular goiter
 
 Hyperthyroidism
 (Rare.)

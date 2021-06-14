@@ -9,8 +9,7 @@ Autoimmunity
 
 # >
 
-Blood parathyroid hormone
-(Low.)
+Low blood parathyroid hormone
 
 Hypocalcemia
 

@@ -8,13 +8,11 @@ Viral infection
 
 # >
 
-Hyperthyroidism
-(Transient.)
+Transient hyperthyroidism
 
 Hypothyroidism
 
-Erythrocyte sedimentation rate
-(High.)
+High erythrocyte sedimentation rate
 
 Pain in jaw
 

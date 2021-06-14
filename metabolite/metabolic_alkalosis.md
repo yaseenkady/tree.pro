@@ -4,5 +4,4 @@
 
 # >
 
-Blood pH
-(High.)
+High blood pH

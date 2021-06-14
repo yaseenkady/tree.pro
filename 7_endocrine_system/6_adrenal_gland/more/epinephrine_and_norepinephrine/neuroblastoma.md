@@ -25,10 +25,8 @@ Hypertension
 
 (Increased norepinephrine and epinephrine.)
 
-Blood catecholamine
-(High.)
+High blood catecholamine
 
-Urine catecholamine
-(High.)
+High urine catecholamine
 
 Opsoclonus myoclonus syndrome

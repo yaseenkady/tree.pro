@@ -44,8 +44,7 @@ Anxiety
 
 Insomnia
 
-Tremor
-(Fine.)
+Fine tremor
 
 (Increased B adrenergic activity.)
 
@@ -65,22 +64,17 @@ Hypertension
 
 Fast growth
 
-Blood thyroid stimulating hormone
-(Low if primary hyperthyroidism.)
+Low blood thyroid stimulating hormone
+(If primary hyperthyroidism.)
 
-Blood free thyroxine
-(High.)
+High blood free thyroxine
 
-Blood free T3
-(High.)
+High blood free T3
 
-Blood LDL
-(Low.)
+Low blood LDL
 
-Blood HDL
-(Low.)
+Low blood HDL
 
-Blood cholesterol
-(Low.)
+Low blood cholesterol
 
 Thyroid storm

@@ -4,8 +4,7 @@
 
 Precipitating factor
 
-Glucocorticoid use
-(Withdraw.)
+Use of glucocorticoid use
 
 # >
 

@@ -4,5 +4,4 @@
 
 # >
 
-Blood pH
-(Low.)
+Low blood pH

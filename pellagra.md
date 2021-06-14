@@ -2,8 +2,7 @@
 
 # <
 
-Intake of vitamin B3
-(Low.)
+Low intake of vitamin B3
 
 # >
 

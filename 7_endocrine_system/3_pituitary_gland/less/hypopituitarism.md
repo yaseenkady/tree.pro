@@ -12,15 +12,12 @@ Brain disease
 
 Hypothyroidism
 
-Blood prolactin
-(Low.)
+Low blood prolactin
 
 Growth hormone deficiency
 
 Secondary adrenal insufficiency
 
-Blood leutenizing hormone
-(Low.)
+Low blood leutenizing hormone
 
-Blood follicle stimulating hormone
-(Low.)
+Low blood follicle stimulating hormone

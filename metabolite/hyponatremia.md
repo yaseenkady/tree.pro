@@ -4,5 +4,4 @@
 
 # >
 
-Blood sodium
-(Low.)
+Low blood sodium

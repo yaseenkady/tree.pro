@@ -5,18 +5,18 @@
 (Maternal or paternal transmission.)
 
 Genome GNAS
-(Loss of function. Parathyroid hormone receptors use GNAS signaling. Autosomal dominant.)
+(Autosomal dominant. Parathyroid hormone receptors use GNAS signaling.)
 
 # >
 
 Hypocalcemia
 (Maternal transmission.)
 
-Blood parathyroid hormone
-(Maternal transmission. High.)
+High blood parathyroid hormone
+(Maternal transmission.)
 
-Blood phosphate
-(Maternal transmission. High.)
+High blood phosphate
+(Maternal transmission.)
 
 Albright hereditary osteodystrophy
 (Maternal or paternal transmission.)

@@ -10,8 +10,6 @@ Dyspnea
 
 Pale conjunctiva
 
-Blood hemoglobin
-(Low.)
+Low blood hemoglobin
 
-Blood ferritin
-(Low.)
+Low blood ferritin

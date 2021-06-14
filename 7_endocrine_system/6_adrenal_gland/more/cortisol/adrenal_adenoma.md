@@ -13,7 +13,6 @@ Cushing syndrome
 Adrenal atrophy
 (Of uninvolved adrenal gland.)
 
-Blood adrenocorticotropic hormone
-(Low.)
+Low blood adrenocorticotropic hormone
 
 Conn syndrome

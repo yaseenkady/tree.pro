@@ -22,5 +22,4 @@ Cocaine use
 
 # >
 
-Blood prolactin
-(High.)
+High blood prolactin

@@ -11,11 +11,10 @@ Glucocorticoid use
 
 # >
 
-Blood cortisol
-(High. 100mcg/24hr.)
+High blood cortisol
+(100mcg/24hr.)
 
-Urine cortisol
-(High.)
+High urine cortisol
 
 Hyperglycemia
 
@@ -23,8 +22,7 @@ Diabetes mellitus type 2
 
 Hyperlipidemia type 2
 
-Blood aldosterone
-(High.)
+High blood aldosterone
 
 Hypertension
 

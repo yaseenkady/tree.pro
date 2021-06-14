@@ -6,8 +6,7 @@
 
 (There are 4 stages: local ulcer, systemic rash, latent, and organ damages.)
 
-Ulcer in genitalia
-(Painless.)
+Painless ulcer in genitalia
 
 Flu-like
 

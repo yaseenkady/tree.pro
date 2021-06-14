@@ -6,18 +6,14 @@ Genome CBS
 
 Genome MTR
 
-Intake of B6
-(Low.)
+Low intake of B6
 
-Intake of B9
-(Low.)
+Low intake of B9
 
-Intake of B12
-(Low.)
+Low intake of B12
 
 # >
 
-Urine homocysteine
-(High.)
+High urine homocysteine
 
 Tall stature

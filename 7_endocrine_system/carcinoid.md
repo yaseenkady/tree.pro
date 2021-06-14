@@ -11,25 +11,17 @@ Common
 
 (1/3 metastasizes, 1/3 results in multiple tumors, and 1/3 occurs with another cancer.)
 
-(Can make multiple hormones.)
+High blood adrenocorticotropic hormone
 
-Blood adrenocorticotropic hormone
-(High.)
+High blood somatostatin
 
-Blood somatostatin
-(High.)
+High blood vasoactive intestinal peptide
 
-Blood vasoactive intestinal peptide
-(High.)
+High blood gastrin
 
-Blood gastrin
-(High.)
+High blood glucagon
 
-Blood glucagon
-(High.)
-
-Blood insulin
-(High.)
+High blood insulin
 
 Islet cell tumor
 

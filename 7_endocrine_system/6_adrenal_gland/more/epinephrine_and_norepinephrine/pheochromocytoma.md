@@ -19,7 +19,7 @@ Common
 (The most common tumor of the adrenal medulla in adult.)
 
 Children
-(10%)
+(10%.)
 
 Adult
 
@@ -27,8 +27,7 @@ Adult
 
 # >
 
-Blood erythropoietin
-(High.)
+High blood erythropoietin
 
 Polycythemia
 
@@ -66,13 +65,11 @@ Pallor
 
 Perspiration
 
-Blood catecholamine
-(High.)
+High blood catecholamine
 
-Urine catecholamine
-(High.)
+High urine catecholamine
 
 Cardiac hypertrophy
 
 Myocardial infarction
-(Causes even in the absence of coronary artery disease.)
+(Even in the absence of coronary artery disease.)

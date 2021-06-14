@@ -87,14 +87,12 @@ Brain function
 
 Short stature
 
-Muscle weakness
-(Proximal)
+Proximal muscle weakness
 
-Blood thyroid stimulating hormone
-(High in primary hypothyroidism.)
+High blood thyroid stimulating hormone
+(In primary hypothyroidism.)
 
-Blood free thyroxine
-(Low.)
+Low blood free thyroxine
 
 Hyperlipidemia type 2
 

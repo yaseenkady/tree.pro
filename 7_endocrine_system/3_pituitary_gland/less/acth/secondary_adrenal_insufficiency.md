@@ -4,7 +4,6 @@
 
 # >
 
-Blood adrenocorticotropic hormone
-(Low.)
+Low blood adrenocorticotropic hormone
 
 Adrenal insufficiency

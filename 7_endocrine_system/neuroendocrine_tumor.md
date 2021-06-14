@@ -1,8 +1,8 @@
 # "
 
-Common in gastrointestinal system.
-
 # <
+
+(Common in gastrointestinal system.)
 
 # >
 

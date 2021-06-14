@@ -2,10 +2,8 @@
 
 # <
 
-Intake of potassium
-(High.)
+High intake of potassium
 
 # >
 
-Blood potassium
-(High.)
+High blood potassium

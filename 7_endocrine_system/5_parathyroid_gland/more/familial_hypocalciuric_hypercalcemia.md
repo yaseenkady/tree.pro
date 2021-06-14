@@ -9,8 +9,8 @@
 Hypercalcemia
 (Mild.)
 
-Urine calcium
-(Low. Mild.)
+Low urine calcium
+(Mild.)
 
 Hyperparathyroidism
 (Mild.)

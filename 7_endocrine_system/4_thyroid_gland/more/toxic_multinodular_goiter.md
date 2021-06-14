@@ -3,7 +3,7 @@
 # <
 
 Genome TSHR
-(Gain of function. Causes 60% of cases.)
+(Causes 60% of cases.)
 
 Cyst
 

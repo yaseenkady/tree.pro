@@ -3,7 +3,7 @@
 # <
 
 Infant
-(Coagulation deficiency.)
+(Due to coagulation deficiency.)
 
 Infection
 

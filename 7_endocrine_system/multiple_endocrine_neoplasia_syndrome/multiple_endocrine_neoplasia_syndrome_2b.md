@@ -2,8 +2,6 @@
 
 # <
 
-(Autosomal dominant.)
-
 Young adult
 
 Adult

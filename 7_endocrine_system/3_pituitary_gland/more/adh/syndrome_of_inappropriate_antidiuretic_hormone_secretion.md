@@ -16,26 +16,19 @@ Cyclophosphamide use
 
 # >
 
-Blood antidiuretic hormone
-(High.)
+High blood antidiuretic hormone
 
-Blood aldosterone
-(Low.)
+Low blood aldosterone
 
-Blood atrium natriuretic peptide
-(High.)
+High blood atrium natriuretic peptide
 
-Blood brain natriuretic peptide
-(High.)
+High blood brain natriuretic peptide
 
-Urine sodium
-(High.)
+High urine sodium
 
-Urine osmolality
-(High.)
+High urine osmolality
 
-Blood osmolality
-(Low.)
+Low blood osmolality
 
 Hyponatremia
 (From increased sodium secretion and water retention.)

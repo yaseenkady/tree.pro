@@ -16,7 +16,6 @@ Adult
 
 Nodular goiter
 
-Blood calcitonin
-(High.)
+High blood calcitonin
 
 Hypocalcemia

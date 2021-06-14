@@ -4,8 +4,7 @@
 
 # >
 
-Blood parathyroid hormone
-(High.)
+High blood parathyroid hormone
 
 Osteitis fibrosa cystica
 

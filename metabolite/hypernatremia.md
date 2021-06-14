@@ -4,5 +4,4 @@
 
 # >
 
-Blood sodium
-(High.)
+High blood sodium

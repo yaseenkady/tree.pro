@@ -2,13 +2,11 @@
 
 # <
 
-Intake of calcium
-(Low.)
+Low intake of calcium
 
 # >
 
-Blood calcium
-(Low.)
+Low blood calcium
 
 Secondary hyperparathyroidism
 

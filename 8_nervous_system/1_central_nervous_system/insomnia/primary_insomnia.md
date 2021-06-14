@@ -8,8 +8,6 @@
 
 Insomnia
 
-Blood cortisol
-(High.)
+High blood cortisol
 
-Blood aldosterone
-(High.)
+High blood aldosterone

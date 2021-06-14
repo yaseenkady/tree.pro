@@ -2,12 +2,10 @@
 
 # <
 
-Intake of potassium
-(Low.)
+Low intake of potassium
 
 # >
 
-Blood potassium
-(Low.)
+Low blood potassium
 
 Nephrotic diabetes insipidus

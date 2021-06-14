@@ -6,13 +6,10 @@
 
 Defect in midline
 
-Blood leutenizing hormone
-(Low.)
+Low blood leutenizing hormone
 
-Blood follicle stimulating hormone
-(Low.)
+Low blood follicle stimulating hormone
 
-Blood testosterone
-(Low.)
+Low blood testosterone
 
 Delayed puberty

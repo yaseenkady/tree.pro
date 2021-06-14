@@ -10,8 +10,7 @@ Hypercalcemia
 
 Polyuria
 
-Blood phosphate
-(Low.)
+Low blood phosphate
 
 Weakness
 

@@ -4,8 +4,7 @@
 
 # >
 
-Blood renin
-(Low.)
+Low blood renin
 
 Hyperaldosteronism
 

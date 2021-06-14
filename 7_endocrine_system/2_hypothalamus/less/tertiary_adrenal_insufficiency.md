@@ -2,12 +2,11 @@
 
 # <
 
-Glucocorticoid use
+Use of glucocorticoid
 (Withdraw.)
 
 # >
 
-Blood corticotropin releasing hormone
-(Low.)
+Low blood corticotropin releasing hormone
 
 Secondary adrenal insufficiency

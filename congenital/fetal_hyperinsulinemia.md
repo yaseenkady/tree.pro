@@ -6,8 +6,7 @@ Maternal transmission
 
 # >
 
-Blood insulin
-(High.)
+High blood insulin
 
 Hypoglycemia
 

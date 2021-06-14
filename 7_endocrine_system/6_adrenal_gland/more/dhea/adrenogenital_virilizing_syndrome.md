@@ -10,7 +10,6 @@ Adrenal adenoma
 
 # Diagnostic
 
-Blood androgen
-(High.)
+High blood androgen
 
 # Treatment and Management

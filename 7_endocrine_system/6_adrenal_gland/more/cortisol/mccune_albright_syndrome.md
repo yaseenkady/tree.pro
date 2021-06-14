@@ -3,7 +3,6 @@
 # <
 
 Genome GNAS
-(Loss of function.)
 
 # >
 

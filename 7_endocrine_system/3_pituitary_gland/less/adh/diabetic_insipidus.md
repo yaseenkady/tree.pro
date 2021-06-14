@@ -9,11 +9,11 @@ Insipidus means no taste.
 
 Polyuria
 
-Urine osmolality
-(Less than 300mOsm/kg.)
+Low urine osmolality
+(300mOsm/kg.)
 
-Urine specific gravity
-(Less than 1.006.)
+Low urine specific gravity
+(1.006.)
 
 Nocturia
 
@@ -23,12 +23,8 @@ Polydipsia
 
 Weight loss
 
-Blood osmolality
-(High.)
+High blood osmolality
 
 Nausea
 
 Vomiting
-
-Urine osmolality after water restriction
-(No change or small increase.)

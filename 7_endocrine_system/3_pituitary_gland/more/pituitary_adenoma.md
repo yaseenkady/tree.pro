@@ -24,4 +24,3 @@ Central diabetes insipidus
 Headache
 
 Visual deficit
-(Bitemporal hemianopia.)

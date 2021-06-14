@@ -4,8 +4,7 @@
 
 # >
 
-Blood adrenocorticotropic hormone
-(High.)
+High blood adrenocorticotropic hormone
 
 Hyperpigmentation
 

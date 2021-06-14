@@ -4,15 +4,14 @@
 
 # >
 
-Blood aldosterone
-(High.)
+High blood aldosterone
 
 Hypertension
 
 Hypernatremia
-(May.)
+(Can be.)
 
 Hypokalemia
-(May.)
+(Can be.)
 
 Metabolic alkalosis
