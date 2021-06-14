@@ -1,9 +1,0 @@
-# "
-
-Difficult to diagnose.
-
-# <
-
-# >
-
-Lymphadenopathy

@@ -1,9 +1,0 @@
-# "
-
-# <
-
-# >
-
-Sleepiness
-
-Fatigue

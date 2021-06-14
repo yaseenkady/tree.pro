@@ -1,9 +1,0 @@
-# "
-
-# <
-
-# >
-
-Adrenal insufficiency
-
-Hyperpigmentation

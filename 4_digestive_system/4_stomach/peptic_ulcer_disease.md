@@ -1,9 +1,0 @@
-# "
-
-# <
-
-Stress
-
-Use of antiacid
-
-# >

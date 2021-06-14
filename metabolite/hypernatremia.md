@@ -1,7 +1,0 @@
-# "
-
-# <
-
-# >
-
-High blood sodium

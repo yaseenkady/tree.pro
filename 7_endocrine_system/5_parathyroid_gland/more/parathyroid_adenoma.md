@@ -1,7 +1,0 @@
-# "
-
-# <
-
-# >
-
-Primary hyperparathyroidism

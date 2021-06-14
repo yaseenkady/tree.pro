@@ -1,7 +1,0 @@
-# "
-
-# <
-
-# >
-
-Periodic leg movement disease

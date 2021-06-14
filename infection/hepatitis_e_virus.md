@@ -1,9 +1,0 @@
-# "
-
-# <
-
-# >
-
-Flu-like
-
-Viral hepatitis

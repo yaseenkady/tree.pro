@@ -1,0 +1,9 @@
+# .
+
+# <
+
+Hypoventilation
+
+# >
+
+Low blood pH

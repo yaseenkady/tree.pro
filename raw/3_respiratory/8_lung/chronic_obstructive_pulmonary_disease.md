@@ -1,0 +1,13 @@
+# .
+
+# <
+
+Smoking
+
+# >
+
+Dyspnea
+
+Fatigue
+
+Cachexia

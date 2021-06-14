@@ -1,7 +1,0 @@
-# "
-
-Fluid cyst in epididymis.
-
-# <
-
-# >

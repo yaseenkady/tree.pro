@@ -1,7 +1,0 @@
-# "
-
-# <
-
-# >
-
-Infective arthritis

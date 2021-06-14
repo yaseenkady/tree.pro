@@ -1,9 +1,0 @@
-# "
-
-# <
-
-Obesity
-
-# >
-
-Obstructive sleep apnea

@@ -1,7 +1,0 @@
-# "
-
-# <
-
-# >
-
-Secondary hyperaldosteronism

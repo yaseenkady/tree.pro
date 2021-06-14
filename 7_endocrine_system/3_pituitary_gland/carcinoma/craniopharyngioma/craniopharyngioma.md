@@ -1,9 +1,0 @@
-# "
-
-# <
-
-Carcinoma
-
-# >
-
-Hypopituitarism

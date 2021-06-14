@@ -1,0 +1,11 @@
+# .
+
+# <
+
+Adult
+
+Female
+
+# >
+
+Primary hyperaldosteronism

@@ -1,7 +1,0 @@
-# "
-
-# <
-
-# >
-
-Central diabetes insipidus

@@ -1,7 +1,0 @@
-# "
-
-# <
-
-# >
-
-Mass in testis

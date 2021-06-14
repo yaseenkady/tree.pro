@@ -1,9 +1,0 @@
-# "
-
-# <
-
-# >
-
-Tall stature
-
-Fast growth
