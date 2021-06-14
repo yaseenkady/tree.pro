@@ -17,7 +17,6 @@ Sleepiness
 Fatigue
 (60% of people.)
 
-Headache
-(After waking up.)
+Headache after waking up
 
 Depression

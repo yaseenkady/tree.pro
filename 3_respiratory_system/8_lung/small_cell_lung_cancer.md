@@ -6,7 +6,6 @@
 
 Syndrome of inappropriate antidiuretic hormone secretion
 
-Blood adrenocorticotropic hormone
-(High.)
+High blood adrenocorticotropic hormone
 
 Cushing syndrome

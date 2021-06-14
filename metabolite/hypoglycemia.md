@@ -17,8 +17,7 @@ Intake of carbohydrate
 
 # >
 
-Blood glucose
-(Low.)
+Hypoglycemia
 
 Hunger
 

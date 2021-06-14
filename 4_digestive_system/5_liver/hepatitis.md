@@ -40,23 +40,18 @@ Juandice
 
 Spider angioma
 
-Blood alanine aminotransferase
-(High. The most specific test for hepatocyte damage.)
+High blood alanine aminotransferase
+(The most specific test for hepatocyte damage.)
 
-Blood aspartate aminotransferase
-(High.)
+High blood aspartate aminotransferase
 
-Blood bilirubin
-(High.)
+High blood bilirubin
 
-Blood alkaline phosphatase
-(High.)
+High blood alkaline phosphatase
 
-Blood albumin
-(High.)
+High blood albumin
 
-Blood clotting factor
-(Low.)
+Low blood clotting factor
 
 Chronic hepatitis
 

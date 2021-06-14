@@ -4,8 +4,8 @@
 
 # >
 
-Blood glucose
-(High. Fasting 100-125mg/dl and 2hr 140-199mg/dl.)
+Hyperglycemia
+(100-125mg/dl 8hr after eating. 140-199mg/dl 2hr after eating.)
 
-Blood hemoglobin A1c
-(High. 5.7-6.4%.)
+High blood hemoglobin A1c
+(5.7-6.4%.)

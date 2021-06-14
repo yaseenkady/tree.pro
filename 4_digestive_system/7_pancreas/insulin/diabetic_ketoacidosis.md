@@ -21,11 +21,9 @@ Nausea
 
 Vomiting
 
-Blood ketone
-(High.)
+Hihg blood ketone
 
-Urine ketone
-(High.)
+High urine ketone
 
 Fruity breath
 

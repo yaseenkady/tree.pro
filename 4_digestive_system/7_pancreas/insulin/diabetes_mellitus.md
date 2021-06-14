@@ -3,42 +3,39 @@
 # <
 
 Genome polygenic
-(50% and 90% concordances in twins in type 1 and type 2 respectively.)
+(Concordance in twins is 50% in type 1 and 90% in type 2.)
 
 # >
 
 Fatigue
 
-Blood glucose
-(High. Fasting 8hr 126mg/dl and 2hr and random 200mg/dl.)
+Hyperglycemia
+(126mg/dl 8hr after eating. 200mg/dl 2hr after eating or random.)
 
-Blood osmolality
-(High.)
+High blood osmolality
 
 Dehydration
 
-Blood hemoglobin A1c
-(High. 6.5%.)
+High blood hemoglobin A1c
+(6.5%.)
 
-Urine glucose
-(High. "Mellitus".)
+High urine glucose
+("Mellitus".)
 
 Polyuria
-("Diabetes". Associated more in type 1.)
+("Diabetes". More in type 1.)
 
 Polydipsia
-(Associated more in type 1.)
+(More in type 1.)
 
 Polyphagia
-(Associated more in type 1.)
+(More in type 1.)
 
 Weight loss
-(Associated more in type 1.)
+(More in type 1.)
 
 Diabetic ketoacidosis
-(Associated more in type 1.)
-
-(Microangiopathy.)
+(More in type 1.)
 
 Retinopathy
 
@@ -47,8 +44,6 @@ Glaucoma
 Nephropathy
 
 Chronic kidney disease
-
-(Macroangiopathy.)
 
 Atherosclerosis
 
@@ -61,8 +56,6 @@ Stroke
 Myocardial infarction
 (The most common cause of death.)
 
-(Osmotic damage.)
-
 Hypertension
 
 Hyperlipidemia type 2
@@ -73,7 +66,7 @@ Gastroesophageal reflux disease
 
 Gastroparesis
 
-Diabetic diarrhea
+Diarrhea
 
 Cataract
 

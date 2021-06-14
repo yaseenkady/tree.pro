@@ -4,11 +4,11 @@
 
 # >
 
-Blood glucose
-(Very high. 600mg/dl.)
+Hyperglycemia
+(600mg/dl.)
 
-Blood osmolality
-(Very high. 320mOsm/kg.)
+High blood osmolality
+(320mOsm/kg.)
 
 Dehydration
 

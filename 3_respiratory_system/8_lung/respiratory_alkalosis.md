@@ -6,5 +6,4 @@ Hyperventilation
 
 # >
 
-Blood pH
-(High.)
+High blood pH

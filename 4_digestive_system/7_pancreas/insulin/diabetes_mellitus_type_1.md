@@ -16,7 +16,6 @@ Genome HLA-DR4
 
 Antibody against pancreatic B cell
 
-Blood insulin
-(Very low.)
+Low blood insulin
 
 Diabetes mellitus

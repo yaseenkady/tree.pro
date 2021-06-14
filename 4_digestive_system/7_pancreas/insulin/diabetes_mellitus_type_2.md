@@ -20,8 +20,9 @@ Non-White
 
 # >
 
-Blood insulin
-(High then low.)
+High blood insulin
+
+Low blood insulin
 
 Diabetes mellitus
 

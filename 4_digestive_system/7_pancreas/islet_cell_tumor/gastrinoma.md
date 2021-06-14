@@ -6,8 +6,7 @@ Zollinger-Ellison syndrome.
 
 # >
 
-Blood gastrin
-(High.)
+High blood gastrin
 
 Peptic ulcer disease
 

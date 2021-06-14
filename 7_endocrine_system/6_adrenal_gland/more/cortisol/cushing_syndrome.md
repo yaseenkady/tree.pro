@@ -17,8 +17,7 @@ Blood cortisol
 Urine cortisol
 (High.)
 
-Blood glucose
-(High.)
+Hyperglycemia
 
 Diabetes mellitus type 2
 
