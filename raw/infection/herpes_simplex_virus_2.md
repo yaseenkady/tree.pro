@@ -4,8 +4,8 @@
 
 # >
 
-Flu-like
+Flu-like symptoms
+
+Genital ulcer
 
 Viral hepatitis
-
-Ulcer in genitalia

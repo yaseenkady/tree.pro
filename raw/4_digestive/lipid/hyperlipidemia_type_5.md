@@ -22,6 +22,6 @@ High blood cholesterol
 
 High blood triglyceride
 
-Creamy top serum
+Serum with creamy top
 
 Pancreatitis

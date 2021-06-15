@@ -6,7 +6,7 @@
 
 Petechiae
 
-Easy bruising
+Bruising easily
 
 Low blood clotting factor
 

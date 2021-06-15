@@ -6,17 +6,23 @@ Sexual activity
 
 # >
 
-Dysuria
+Peeing trouble
 
-Dyscharge from genitalia
+Genital discharge
+
+Urethritis
+
+Tenosynovitis
+
+Rash
+
+(Common.)
 
 Uveitis
 
 Neonatal conjunctivitis
 
 Pharyngitis
-
-Urethritis
 
 Cervicitis
 
@@ -30,9 +36,4 @@ Infective arthritis
 
 Reactive arthritis
 
-Tenosynovitis
-
-Rash
-
 Waterhouse friderichsen syndrome
-(Common.)

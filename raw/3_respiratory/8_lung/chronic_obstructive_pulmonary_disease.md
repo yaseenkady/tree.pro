@@ -6,8 +6,8 @@ Smoking
 
 # >
 
-Dyspnea
+Breathing trouble
 
-Fatigue
+Tired
 
 Cachexia

@@ -14,25 +14,32 @@ Use of antibiotic
 
 # >
 
-Itchy vagina
+Vaginal itch
 
-Vaginal pH greater than 4.5
+Vaginal pH more than 4.5
+
 (Gardnerella.)
 
 Vaginal pH less than 4.5
+
 (Candida and Trichomonas.)
 
-Thin gray malodorous discahrge
+Vaginal discharge that is thin, gray, and malodorous
+
 (Gardnerella.)
 
-Clumpy white discharge
+Vaginal discharge that is clumpy and white
+
 (Candida.)
 
-Thin green malodorous discahrge
+Vaginal discharge that is thin, green, and malodorous
+
 (Trichomonas.)
 
 Strawberry cervix
+
 (Trichomonas. 2%.)
 
-Burning sensation during urination
+Peeing with pain
+
 (Trichomonas.)

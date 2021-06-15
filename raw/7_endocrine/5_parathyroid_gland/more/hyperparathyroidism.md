@@ -8,6 +8,6 @@ High blood parathyroid hormone
 
 Osteitis fibrosa cystica
 
-Pain in bone
+Bone pain
 
 Neuropsychiatric overtone

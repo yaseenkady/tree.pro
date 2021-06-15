@@ -6,11 +6,9 @@
 
 # >
 
-Islet cell tumor
-
 High blood glucagon
 
-Episodic hyperglycemia
+Hyperglycemia that is episodic
 
 Weight loss
 
@@ -18,6 +16,8 @@ Diarrhea
 
 Dermatitis
 
-Depression
+Depressed
 
 Deep vein thrombosis
+
+Islet cell tumor

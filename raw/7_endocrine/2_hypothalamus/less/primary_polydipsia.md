@@ -5,29 +5,33 @@
 Psychiatric disease
 
 Lesion in hypothalamus
+
 (Results in less inhibition.)
 
 # >
 
-Polydipsia
+Thirsty
 
-Polyuria
+Peeing frequently
 
 Low urine osmolality
+
 (300mOsm/kg.)
 
 Low urine specific gravity
+
 (1.006.)
 
-Nocturia
+Peeing at night
 
-Trouble sleeping
+Sleeping trouble
 
-Nausea
+Nauseated
 
 Vomiting
 
 Low blood antidiuretic hormone
+
 (Can be normal.)
 
 Weight gain

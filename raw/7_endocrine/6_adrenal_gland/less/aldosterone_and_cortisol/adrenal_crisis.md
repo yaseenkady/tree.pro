@@ -10,16 +10,16 @@ Use of glucocorticoid
 
 (Acute.)
 
-Adrenal insufficiency
+Abdominal pain
 
-Pain in abdomen
+Appetite loss
 
-Anorexia
-
-Nausea
+Nauseated
 
 Vomiting
 
 Mental status change
 
 Shock
+
+Adrenal insufficiency

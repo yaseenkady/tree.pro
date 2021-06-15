@@ -4,11 +4,11 @@
 
 # >
 
-Fatigue
+Tired
 
-Dyspnea
+Breathing trouble
 
-Pale conjunctiva
+Conjunctiva that is pale
 
 Low blood hemoglobin
 

@@ -3,6 +3,7 @@
 # <
 
 Not-miss
+
 (Mortality 5% in adult and 20% in elderly.)
 
 Precipitating factor
@@ -15,38 +16,38 @@ Surgery
 
 # >
 
-Pain in abdomen
+Abdominal pain
 
-Nausea
+Nauseated
 
 Vomiting
 
-Hihg blood ketone
+High blood ketone
 
 High urine ketone
 
-Fruity breath
+Breath with fruity smell
 
 Anion gap metabolic acidosis
 
-Hyperventilation
+Breathing more
 
 Kussmaul respiration
 
-Tachycardia
+Heart rate increase
 
 (Blood potassium increases but the total potassium decreases. Decreased Na-K ATPase activity and acidosis shifts potassium out of the cells. Osmotic diuresis excretes potassium.)
 
-Hyperkalemia
-
-Hypokalemia
-
 Arrhythmia
-
-Cerebral edema
 
 Mental status change
 
 Delirium
 
 Leukocytosis
+
+Hyperkalemia
+
+Hypokalemia
+
+Cerebral edema

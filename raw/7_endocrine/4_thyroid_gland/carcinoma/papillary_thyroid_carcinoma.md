@@ -5,6 +5,7 @@
 Adult
 
 Female
+
 (3 times more than males.)
 
 Exposure to radiation
@@ -12,6 +13,7 @@ Exposure to radiation
 (Originates from epithelial cell.)
 
 Common
+
 (85% of thyroid tumors.)
 
 Genome RET
@@ -22,9 +24,9 @@ Genome BRAF
 
 # >
 
-Nodular goiter
+Goiter that is nodular
 
-Lymphadenopathy of neck
+Neck lymphadenopathy
 
 (Spreads lymphatically.)
 

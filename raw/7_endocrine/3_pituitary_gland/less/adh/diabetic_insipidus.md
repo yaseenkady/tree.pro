@@ -1,30 +1,33 @@
 # .
 
 Diabetes means polyuria.
+
 Insipidus means no taste.
 
 # <
 
 # >
 
-Polyuria
+Peeing frequently
 
 Low urine osmolality
+
 (300mOsm/kg.)
 
 Low urine specific gravity
+
 (1.006.)
 
-Nocturia
+Peeing at night
 
-Trouble sleeping
+Sleeping trouble
 
-Polydipsia
+Thirsty
 
 Weight loss
 
 High blood osmolality
 
-Nausea
+Nauseated
 
 Vomiting

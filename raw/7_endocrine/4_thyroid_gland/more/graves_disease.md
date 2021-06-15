@@ -3,6 +3,7 @@
 # <
 
 Common
+
 (The most common cause.)
 
 Stress
@@ -17,14 +18,16 @@ Genome HLA-B8
 
 Antibody against thyroid stimulating hormone receptor
 
-Hyperthyroidism
-
-Diffuse goiter
+Goiter that is diffuse
 
 Pretibial myxedema
+
 (Antibody stimulates dermal fibroblast.)
 
 Graves orbitopathy
+
 (Antibody stimulates orbital fibroblast.)
 
 Proptosis
+
+Hyperthyroidism

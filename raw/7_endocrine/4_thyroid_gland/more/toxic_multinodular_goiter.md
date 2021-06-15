@@ -3,15 +3,17 @@
 # <
 
 Genome TSHR
+
 (Causes 60% of cases.)
 
 Cyst
 
 # >
 
-Nodular goiter
+Goiter that is nodular
+
 (Like in thyroid neoplasm.)
 
-Thyroid nodule
+Thyroid mass
 
 Hyperthyroidism

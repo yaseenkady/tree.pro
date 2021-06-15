@@ -4,6 +4,6 @@
 
 # >
 
-Tall stature
+Tall
 
-Fast growth
+Growing fast

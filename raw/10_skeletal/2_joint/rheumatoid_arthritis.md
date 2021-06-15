@@ -4,9 +4,7 @@
 
 # >
 
-Fatigue
-
-Arthritis
+Tired
 
 Antibody against nucleic acid
 
@@ -19,3 +17,5 @@ Erythrocyte sedimentation rate
 Blood C reactive protein
 
 Blood white blood cell
+
+Arthritis

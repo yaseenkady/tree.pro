@@ -2,7 +2,7 @@
 
 # <
 
-Hypoventilation
+Breathing less
 
 # >
 

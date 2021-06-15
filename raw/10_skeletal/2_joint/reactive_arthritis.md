@@ -10,6 +10,6 @@ Adult
 
 # >
 
-Arthritis
+Palm and sole rash
 
-Rash on palm and sole
+Arthritis

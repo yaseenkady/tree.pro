@@ -10,12 +10,14 @@ Ectopic lentis
 
 Aortic abnormality
 
-Tall stature
+Tall
 
 Scoliosis
+
 (Greater than 20 degrees.)
 
-Long limb
+Limbs that are long
+
 (Arm spam is at least 1.05 of the height.)
 
-Arachnodactyly
+Fingers that are spidery

@@ -4,7 +4,7 @@
 
 # >
 
-Defect in midline
+Midline defect
 
 Low blood leutenizing hormone
 
@@ -12,4 +12,4 @@ Low blood follicle stimulating hormone
 
 Low blood testosterone
 
-Delayed puberty
+Puberty that is late

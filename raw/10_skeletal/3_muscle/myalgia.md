@@ -4,4 +4,4 @@
 
 # >
 
-Fatigue
+Tired

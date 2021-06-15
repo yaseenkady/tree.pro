@@ -8,10 +8,10 @@ Maternal transmission
 
 (Some newborns are asymptomatic until their immune system develops and recognizes the bacteria.)
 
-Rash on palm and sole
+Palm and sole rash
 
 Rhinorrhea
 
 Lymphadenopathy
 
-Hepatomegaly
+Liver enlargement

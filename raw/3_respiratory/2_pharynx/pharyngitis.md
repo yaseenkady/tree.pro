@@ -4,4 +4,4 @@
 
 # >
 
-Pain in throat
+Throat pain

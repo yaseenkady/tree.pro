@@ -16,4 +16,4 @@ Low intake of B12
 
 High urine homocysteine
 
-Tall stature
+Tall

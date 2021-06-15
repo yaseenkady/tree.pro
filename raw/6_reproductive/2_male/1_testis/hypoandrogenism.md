@@ -10,7 +10,7 @@ Erectile dysfunction
 
 Low libido
 
-Small testes
+Testes that are small
 
 Blood follicle stimulating hormone
 

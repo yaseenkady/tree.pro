@@ -12,8 +12,8 @@ Dementia
 
 Dermatitis
 
-Nausea
+Nauseated
 
-Anorexia
+Appetite loss
 
-Watery diarrhea
+Diarrhea that is watery

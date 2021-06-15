@@ -1,10 +1,9 @@
-# ~
-
 # .
 
 # <
 
 Common
+
 (The most common pituitary neoplasm.)
 
 # >

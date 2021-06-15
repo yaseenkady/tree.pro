@@ -6,10 +6,10 @@ Loss of person
 
 Postpartum
 
-Depression
+Depressed
 
 # >
 
-Fatigue
+Tired
 
 Loss of interest

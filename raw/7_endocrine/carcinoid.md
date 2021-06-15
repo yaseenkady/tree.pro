@@ -5,6 +5,7 @@ Neuroendocrine tumor of the gastrointestinal system and lung.
 # <
 
 Common
+
 (The most common neuroendocrine tumor.)
 
 # >
@@ -23,8 +24,6 @@ High blood glucagon
 
 High blood insulin
 
-Islet cell tumor
-
 Flushing
 
 Diarrhea
@@ -34,6 +33,8 @@ Wheezing
 Tricuspid regurgitation
 
 Pulmonic stenosis
+
+Islet cell tumor
 
 Pellagra
 

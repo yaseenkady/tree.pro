@@ -6,8 +6,8 @@
 
 (Cancer increases RANKL, driving osteoclast differentiation.)
 
-Pain in bone
-
-Hypercalcemia
+Bone pain
 
 Low blood parathyroid hormone
+
+Hypercalcemia

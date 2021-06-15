@@ -4,17 +4,17 @@
 
 # >
 
-Heat intolerance
+Feeling hot
 
-Diaphoresis
+Sweating more
 
 (Increased Na-K ATPase expression results in increased matabolism.)
 
 Weight loss
 
-Warm and moist skin
+Skin that is moist and warm
 
-Fine hair
+Hair that is fine
 
 Onycholysis
 
@@ -24,7 +24,7 @@ Lid lag
 
 Diarrhea
 
-Increased appetite
+Hungry
 
 Thyrotoxic myopathy
 
@@ -38,33 +38,30 @@ Low libido
 
 Infertility
 
-Restlesness
+Restless
 
-Anxiety
+Anxious
 
-Insomnia
-
-Fine tremor
+Tremor that is fine
 
 (Increased B adrenergic activity.)
 
 Hyperreflexia
 
-Tachycardia
+Heart rate increase
 
-Palpitation
+Heart rate that is rapid, strong, or irregular
 
-Dyspnea
+Breathing trouble
 
 Arrhythmia
 
 Chest pain
 
-Hypertension
-
-Fast growth
+Growing fast
 
 Low blood thyroid stimulating hormone
+
 (If primary hyperthyroidism.)
 
 High blood free thyroxine
@@ -76,5 +73,9 @@ Low blood LDL
 Low blood HDL
 
 Low blood cholesterol
+
+Insomnia
+
+Hypertension
 
 Thyroid storm

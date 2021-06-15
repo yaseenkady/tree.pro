@@ -8,13 +8,14 @@ Autoimmunity
 
 # >
 
-Hypothyroidism
 (In 1/3 cases.)
 
 (Fibrosis of neighboring structures.)
 
-Large thyroid
+Thyroid enlargement
 
-Nontender thyroid
+Thyroid that is nontender
 
-Hard thyroid
+Thyroid mass that is hard
+
+Hypothyroidism

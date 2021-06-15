@@ -4,8 +4,8 @@
 
 # >
 
-Fatigue
+Tired
 
-Anxiety
+Anxious
 
 Panic attack

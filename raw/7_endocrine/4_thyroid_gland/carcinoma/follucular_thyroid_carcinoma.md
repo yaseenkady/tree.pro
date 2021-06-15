@@ -5,6 +5,7 @@
 Middle aged
 
 Female
+
 (3 times more than males.)
 
 Exposure to radiation
@@ -15,7 +16,7 @@ Exposure to radiation
 
 # >
 
-Nodular goiter
+Goiter that is nodular
 
 (Spreads hematogeneously.)
 

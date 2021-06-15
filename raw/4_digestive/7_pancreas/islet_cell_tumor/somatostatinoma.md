@@ -6,8 +6,6 @@
 
 # >
 
-Islet cell tumor
-
 High blood somatostatin
 
 Low blood secretin
@@ -21,3 +19,5 @@ Low blood gastric inhibitory peptide
 Low blood glucagon
 
 Low blood insulin
+
+Islet cell tumor

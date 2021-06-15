@@ -8,14 +8,14 @@ Low blood growth hormone
 
 Low blood insulin-like growth factor 1
 
-Fatigue
+Tired
 
 Muscle weakness
 
-Central obesity
+Abdominal obesity
 
 Hyperlipidemia
 
 Low bone density
 
-Short stature
+Short

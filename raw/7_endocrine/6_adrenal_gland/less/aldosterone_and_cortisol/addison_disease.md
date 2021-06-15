@@ -3,6 +3,7 @@
 # <
 
 Autoimmunity
+
 (The most common cause in the developed world.)
 
 Immunodeficiency
@@ -10,6 +11,7 @@ Immunodeficiency
 Infection
 
 Metastasis to adrenal gland
+
 (Common cause.)
 
 Lymphoma
@@ -34,5 +36,6 @@ Use of etomidate
 
 # >
 
-Primary adrenal insufficiency
 (Chronic.)
+
+Primary adrenal insufficiency

@@ -8,16 +8,18 @@ Marfanoid habitus.
 
 Hearing deficit
 
-Defect in midline
+Midline defect
 
 Dysphagia
 
 (Skeletally milder Marfan syndrome.)
 
 Scoliosis
+
 (Greater than 5 degrees.)
 
-Long limb
+Limbs that are long
+
 (Arm spam is at least 1.03 of the height.)
 
-Arachnodactyly
+Fingers that are spidery

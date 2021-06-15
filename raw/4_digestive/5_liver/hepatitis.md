@@ -14,25 +14,25 @@ Use of isoniazid
 
 # >
 
-Nausea
+Nauseated
 
-Anorexia
+Appetite loss
 
-Pain in abdomen right upper quadrant
+Abdominal right upper quadrant pain
 
 Edema
 
-Hepatomegaly
+Liver enlargement
 
-Splenomegaly
+Spleen enlargement
 
 Abdominal swelling
 
 Ascite
 
-Dark urine
+Urine that is dark
 
-Light colored stool
+Stool with light color
 
 Scleral icterus
 
@@ -41,6 +41,7 @@ Juandice
 Spider angioma
 
 High blood alanine aminotransferase
+
 (The most specific test for hepatocyte damage.)
 
 High blood aspartate aminotransferase

@@ -3,17 +3,21 @@
 # <
 
 Female
+
 (0.1% males and 1-2% females.)
 
 Elderly
+
 (20% in elderly females.)
 
 Low intake of iodine
+
 (The most common cause worldwide.)
 
 High intake of iodine
 
 Use of estrogen
+
 (Increases thyroxine-binding globulin, which take up available thyroxine.)
 
 Use of amiodarone
@@ -22,38 +26,39 @@ Exposure to lithium
 
 # >
 
-Diffuse goiter
+Goiter that is diffuse
+
 (If caused by iodine deficiency or Hashimoto thyroiditis.)
 
-Cold intolerance
+Feeling cold
 
-Anhidrosis
+Sweating less
 
 Weight gain
 
-Hyponatremia
 (From decreased water clearance.)
 
-Dry and cool skin
+Skin that is dry and cool
 
-Coarse and brittle hair
+Hair that is coarse and brittle
 
-Diffuse alopecia
+Alopecia
 
-Brittle nail
+Nails that are brittle
 
 (GAG accumulates in the interstitial space.)
 
-Nonpitting edema
+Edema that is nonpitting
 
 Myxedema
 
-Periorbital edema
+Edema around the eyes
 
-Constipation
+Constipated
+
 (From decreased gastrointestinal mobility.)
 
-Anorexia
+Appetite loss
 
 Hypothyroid myopathy
 
@@ -67,32 +72,37 @@ Low libido
 
 Infertility
 
-Fatigue
+Tired
 
-Depression
+Depressed
 
 Hyporeflexia
+
 (Slow relaxing phase.)
 
-Bradycardia
+Heart rate decrease
 
-Exertional dyspnea
+Breathing trouble during excertion
 
-Hypoventilation
+Breathing less
 
-Delayed puberty
+Puberty that is late
 
 Brain function
+
 (In children.)
 
-Short stature
+Short
 
-Proximal muscle weakness
+Muscle weakness in proximal groups
 
 High blood thyroid stimulating hormone
+
 (In primary hypothyroidism.)
 
 Low blood free thyroxine
+
+Hyponatremia
 
 Hyperlipidemia type 2
 

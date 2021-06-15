@@ -1,0 +1,93 @@
+# Comment
+
+Viral infection activates the immune system which damages the liver.
+
+# Epidemiology
+
+Common
+
+(Many people are infected asymptomatically.)
+
+Poor hygiene
+
+Long term care
+
+Endemic
+
+Exposure to toxin
+
+Use of alcohol
+
+Use of medication
+
+Use of tylenol
+
+Use of isoniazid
+
+# Cause
+
+adenovirus
+
+hepatitis_a_virus
+
+hepatitis_b_virus
+
+hepatitis_c_virus
+
+hepatitis_d_virus
+
+hepatitis_e_virus
+
+herpes_simplex_virus_1
+
+herpes_simplex_virus_2
+
+# Symptom
+
+Flu-like symptoms
+
+Nauseated
+
+Appetite loss
+
+Abdominal right upper quadrant pain
+
+Edema
+
+Liver enlargement
+
+Spleen enlargement
+
+Abdominal swelling
+
+Ascite
+
+Urine that is dark
+
+Stool with light color
+
+Scleral icterus
+
+Juandice
+
+Spider angioma
+
+High blood alanine aminotransferase
+
+(The most specific test for hepatocyte damage.)
+
+High blood aspartate aminotransferase
+
+High blood bilirubin
+
+High blood alkaline phosphatase
+
+High blood albumin
+
+Low blood clotting factor
+
+# Sign
+
+# Diagnostic
+
+# Treatment and Management

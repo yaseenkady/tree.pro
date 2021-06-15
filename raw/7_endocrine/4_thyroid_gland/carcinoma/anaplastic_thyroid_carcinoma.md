@@ -16,11 +16,11 @@ Genome TP53
 
 # >
 
-Nodular goiter
+Goiter that is nodular
 
 (Spreads hematogeneously.)
 
-Mass in neck
+Neck mass
 
 Hoarseness
 
@@ -28,6 +28,6 @@ Dysphagia
 
 Vocal cord paralysis
 
-Pain in neck
+Neck pain
 
-Dyspnea
+Breathing trouble

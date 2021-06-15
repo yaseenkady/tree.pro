@@ -4,14 +4,14 @@
 
 # >
 
-Hyperparathyroidism
-
-Hypercalcemia
-
-Polyuria
+Peeing frequently
 
 Low blood phosphate
 
-Weakness
+Muscle weakness
 
-Constipation
+Constipated
+
+Hyperparathyroidism
+
+Hypercalcemia

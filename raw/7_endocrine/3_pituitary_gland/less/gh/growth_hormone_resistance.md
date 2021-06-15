@@ -10,7 +10,7 @@ Genome IGF1R
 
 # >
 
-Short stature
+Short
 
 High blood growth hormone
 

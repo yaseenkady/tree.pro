@@ -6,7 +6,8 @@ Genome FGFR3
 
 # >
 
-Short stature
+Short
+
 (Milder than achondroplasia.)
 
-Short limb
+Limbs that are short

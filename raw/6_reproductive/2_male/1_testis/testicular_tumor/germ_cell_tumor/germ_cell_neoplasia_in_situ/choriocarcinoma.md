@@ -14,6 +14,6 @@ Adult
 
 # >
 
-Germ cell tumor
-
 Blood B human chorionic gonadotropin
+
+Germ cell tumor

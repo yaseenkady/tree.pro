@@ -6,7 +6,8 @@ Undescended testes.
 
 # >
 
-Sex chord stromal tumor
 (10%.)
 
 Infertility
+
+Sex chord stromal tumor

@@ -18,10 +18,10 @@ High blood cholesterol
 
 High blood triglyceride
 
-Turbid serum
-
-Pancreatitis
+Serum that is turbid
 
 Tuberous xanthoma
 
 Palmar xanthoma
+
+Pancreatitis

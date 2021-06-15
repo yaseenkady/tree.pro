@@ -5,19 +5,21 @@
 # >
 
 Hyperglycemia
+
 (600mg/dl.)
 
 High blood osmolality
+
 (320mOsm/kg.)
 
-Dehydration
+Dehydrated
 
-Lethargy
+Lethargic
 
-Focal neurologic deficit
-
-Seizure
+Neurological focal deficit
 
 Coma
 
 Death
+
+Seizure

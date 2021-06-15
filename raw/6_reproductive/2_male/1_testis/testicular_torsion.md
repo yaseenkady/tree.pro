@@ -4,4 +4,4 @@
 
 # >
 
-Pain in testis
+Testicular pain

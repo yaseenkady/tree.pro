@@ -4,4 +4,4 @@
 
 # >
 
-Firm, smooth, and unilateral mass in abdomen
+Abdominal mass that is firm, smooth, and unilateral

@@ -5,6 +5,7 @@ Neoplasm secreting catacholamines.
 10% bilateral.
 
 10% extra adrenal.
+
 (Bladder wall.)
 
 10% malignant and metastasizes.
@@ -16,9 +17,11 @@ Neoplasm secreting catacholamines.
 # <
 
 Common
+
 (The most common tumor of the adrenal medulla in adult.)
 
 Children
+
 (10%.)
 
 Adult
@@ -31,39 +34,39 @@ High blood erythropoietin
 
 Polycythemia
 
-Diaphoresis
+Sweating more
 
 Weight loss
 
 Vertigo
 
-Pain in chest
+Chest pain
 
-Pain in abdomen epigastric
+Abdominal epigastric pain
 
 Fever
 
-Apprehension
+Anxious
 
-Nervousness
+Nervous
 
 Visual deficit
 
-Paroxysmal headache
+Headache that is sudden
 
-Paroxysmal tachycardia
+Heart rate increase that is sudden
 
-Paroxysmal palpitation
+Heart rate that is suddenly rapid, strong, or irregular
 
-Hypertension
 (Common.)
 
-Orthostatic hypotension
+Blood pressure decrease when standing up
+
 (Reduced response to catacholamines.)
 
 Pallor
 
-Perspiration
+Sweating
 
 High blood catecholamine
 
@@ -71,5 +74,8 @@ High urine catecholamine
 
 Cardiac hypertrophy
 
-Myocardial infarction
 (Even in the absence of coronary artery disease.)
+
+Hypertension
+
+Myocardial infarction

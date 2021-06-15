@@ -7,18 +7,19 @@ Familial combined hyperlipidemia.
 Genome LDLR
 
 Common
+
 (1 in 100 people.)
 
 Genome APOB
 
 # >
 
-Hyperlipidemia type 2
-
 High blood VLDL
 
 High blood triglyceride
 
-Turbid serum
+Serum that is turbid
+
+Hyperlipidemia type 2
 
 Pancreatitis

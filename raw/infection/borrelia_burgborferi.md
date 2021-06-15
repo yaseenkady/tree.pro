@@ -4,14 +4,14 @@
 
 # >
 
-Peripheral neuropathy
-
 Polyneuropathy
 
 Mononeuritis multiplex
 
 Chronic encephalomyelitis
 
-Infective arthritis
-
 Rash
+
+Peripheral neuropathy
+
+Infective arthritis

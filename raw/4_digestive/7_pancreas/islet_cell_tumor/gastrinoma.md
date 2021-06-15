@@ -6,14 +6,14 @@ Zollinger-Ellison syndrome.
 
 # >
 
-Islet cell tumor
-
 High blood gastrin
-
-Peptic ulcer disease
 
 Intestinal ulcer disease
 
-Pain in abdomen
+Abdominal pain
 
 Diarrhea
+
+Islet cell tumor
+
+Peptic ulcer disease

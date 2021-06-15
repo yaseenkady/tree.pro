@@ -4,10 +4,10 @@
 
 # >
 
-Pain in eye
+Eye pain
 
 Eye redness
 
-Light sensitivity
+Sensitive to light
 
 Visual deficit

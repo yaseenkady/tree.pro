@@ -5,6 +5,7 @@ Viral infection activates the immune system which damages the liver.
 # <
 
 Common
+
 (Many people are infected asymptomatically.)
 
 Poor hygiene
@@ -25,6 +26,6 @@ Use of isoniazid
 
 # >
 
-Flu-like
+Flu-like symptoms
 
 Hepatitis

@@ -3,6 +3,7 @@
 # <
 
 Common
+
 (9-17% of people.)
 
 Male
@@ -11,12 +12,14 @@ Obesity
 
 # >
 
-Sleepiness
+Sleepy
+
 (35-40% of people.)
 
-Fatigue
+Tired
+
 (60% of people.)
 
 Headache after waking up
 
-Depression
+Depressed

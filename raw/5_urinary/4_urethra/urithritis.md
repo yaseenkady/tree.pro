@@ -4,4 +4,4 @@
 
 # >
 
-Pain during urination
+Peeing with pain

@@ -3,13 +3,15 @@
 # <
 
 Common
+
 (The most common benign neoplasm.)
 
 # >
 
 (Cold and benign.)
 
-Nodular goiter
+Goiter that is nodular
+
+(Rare.)
 
 Hyperthyroidism
-(Rare.)

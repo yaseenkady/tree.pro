@@ -30,21 +30,22 @@ High urine osmolality
 
 Low blood osmolality
 
-Hyponatremia
 (From increased sodium secretion and water retention.)
 
-Cramp
+Muscle cramp
 
 Tremor
 
-Nausea
+Nauseated
 
 Vomiting
 
-Cerebral edema
-
-Depression
-
-Seizure
+Depressed
 
 Osmotic demyelination syndrome
+
+Hyponatremia
+
+Cerebral edema
+
+Seizure

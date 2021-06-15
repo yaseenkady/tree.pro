@@ -12,6 +12,6 @@ Adnexal tenderness
 
 Cervical motion tenderness
 
-Fitz Hugh Curtis syndrome
-
 Infertility
+
+Fitz Hugh Curtis syndrome

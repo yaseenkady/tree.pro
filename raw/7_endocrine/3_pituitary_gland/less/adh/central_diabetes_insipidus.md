@@ -10,6 +10,6 @@ Trauma in head
 
 # >
 
-Diabetic insipidus
-
 Low blood antidiuretic hormone
+
+Diabetic insipidus

@@ -7,12 +7,14 @@ Young adult
 Adult
 
 Genome MEN1
+
 (Autosomal dominant.)
 
 # >
 
-Pituitary adenoma
 (Prolactinoma or growth hormonoma.)
+
+Pituitary adenoma
 
 Parathyroid adenoma
 

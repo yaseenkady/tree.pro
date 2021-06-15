@@ -8,20 +8,20 @@ High blood urea nitrogen
 
 High blood creatine
 
-Hyperprolactinemia
-
-Renal osteodystrophy
-
 Low blood vitamin D
 
 High blood phosphate
 
-Fatigue
+Tired
 
 Edema
 
-Anorexia
+Appetite loss
 
-Nausea
+Nauseated
+
+Hyperprolactinemia
+
+Renal osteodystrophy
 
 Periodic leg movement disease

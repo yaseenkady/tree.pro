@@ -8,14 +8,14 @@ Viral infection
 
 # >
 
-Transient hyperthyroidism
-
-Hypothyroidism
+Hyperthyroidism that is transient
 
 High erythrocyte sedimentation rate
 
-Pain in jaw
+Jaw pain
 
-Tender thyroid
+Thyroid tenderness
 
 Self-limited
+
+Hypothyroidism

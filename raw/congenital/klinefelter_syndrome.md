@@ -6,6 +6,6 @@ Genome XXY
 
 # >
 
-Tall stature
+Tall
 
 Sex chord stromal tumor

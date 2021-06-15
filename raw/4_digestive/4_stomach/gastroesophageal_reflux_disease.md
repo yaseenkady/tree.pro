@@ -4,4 +4,4 @@
 
 # >
 
-Pain in abdomen
+Abdominal pain

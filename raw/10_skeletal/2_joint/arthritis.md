@@ -4,6 +4,6 @@
 
 # >
 
-Pain in joint
+Joint pain
 
 Joint effusion

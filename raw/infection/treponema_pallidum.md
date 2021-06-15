@@ -6,13 +6,15 @@
 
 (There are 4 stages: local ulcer, systemic rash, latent, and organ damages.)
 
-Painless ulcer in genitalia
+Genital ulcer that is painless
 
-Flu-like
+Flu-like symptoms
 
-Rash on palm and sole
+Palm and sole rash
 
 Aortic aneurysm
+
+Rash
 
 Congenital syphilis
 
@@ -21,5 +23,3 @@ Orchitis
 Neurosyphilis
 
 Infective arthritis
-
-Rash

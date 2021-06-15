@@ -12,8 +12,8 @@ Adolescent
 
 # >
 
-Absent axillary hair
+Axillary hair absence
 
-Absent pubic hair
+Pubic hair absence
 
 Cryptorchidism

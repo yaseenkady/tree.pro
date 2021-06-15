@@ -6,10 +6,11 @@
 
 High blood adrenocorticotropic hormone
 
-Hyperpigmentation
+Skin darkening
+
+(Causes 70% of cushing syndrome.)
 
 Cushing syndrome
-(Causes 70% of cushing syndrome.)
 
 Nelson syndrome
 

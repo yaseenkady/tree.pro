@@ -7,28 +7,34 @@
 Low blood cortisol
 
 Low blood aldosterone
+
 (If adrenal gland is the problem.)
 
 Low blood potassium
+
 (If adrenal gland is the problem.)
 
 Low metabolic acidosis
+
 (If adrenal gland is the problem.)
 
 Weight loss
+
 (If adrenal gland is the problem.)
 
-Orthostatic hypotension
+Blood pressure decrease when standing up
+
 (If adrenal gland is the problem.)
 
-Syncopy
+Light headed
+
 (If adrenal gland is the problem.)
 
-Weakness
+Muscle weakness
 
-Fatigue
+Tired
 
-Muscle ache
+Muscle pain
 
 Craving sugar
 

@@ -6,4 +6,4 @@
 
 Paresthesia
 
-Fatigue
+Tired

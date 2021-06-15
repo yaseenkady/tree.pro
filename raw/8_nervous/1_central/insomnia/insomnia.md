@@ -5,6 +5,7 @@ Insomnia means a repeated difficulty with sleep initiation, duration, consolidat
 # <
 
 Common
+
 (35-50% people have insomnia symptoms and 12-20% people have insomnia.)
 
 Adult
@@ -19,11 +20,12 @@ Low socioeconomic status
 
 Single
 
-Depression
+Depressed
 
 # >
 
-Fatigue
+Tired
+
 (The most common cause of.)
 
-Sleepiness
+Sleepy

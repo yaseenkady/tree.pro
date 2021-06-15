@@ -14,7 +14,7 @@ Adult
 
 # >
 
-Nodular goiter
+Goiter that is nodular
 
 High blood calcitonin
 

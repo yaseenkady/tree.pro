@@ -3,10 +3,11 @@
 # <
 
 Hemorrhage
+
 (From increaed retinal blood flow.)
 
 # >
 
-Hemorrhage in retina
+Retinal hemorrhage
 
-Aneurysm in retina
+Retinal aneurysm

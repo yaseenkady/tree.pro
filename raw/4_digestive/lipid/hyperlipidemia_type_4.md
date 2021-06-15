@@ -5,6 +5,7 @@ Familial hypertriglyceridemia.
 # <
 
 Common
+
 (1 in 100 people.)
 
 Use of estrogen
@@ -17,6 +18,6 @@ High blood cholesterol
 
 High blood triglyceride
 
-Turbid serum
+Serum that is turbid
 
 Pancreatitis

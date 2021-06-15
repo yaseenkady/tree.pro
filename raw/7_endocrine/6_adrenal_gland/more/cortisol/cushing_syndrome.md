@@ -7,30 +7,26 @@ Obesity
 Stress
 
 Use of glucocorticoid
+
 (The most common cause of Cushing syndrome in the US.)
 
 # >
 
 High blood cortisol
+
 (100mcg/24hr.)
 
 High urine cortisol
 
 Hyperglycemia
 
-Diabetes mellitus type 2
-
-Hyperlipidemia type 2
-
 High blood aldosterone
-
-Hypertension
 
 Weight gain
 
-Central obesity
+Abdominal obesity
 
-Round face
+Face that is round
 
 Shoulder hump
 
@@ -48,11 +44,18 @@ Immunodeficiency
 
 Osteoperosis
 
-Short stature
+Short
+
 (In children.)
 
 Stretch mark
 
 Poor wound healing
 
-Easy bruise
+Bruising easily
+
+Diabetes mellitus type 2
+
+Hyperlipidemia type 2
+
+Hypertension

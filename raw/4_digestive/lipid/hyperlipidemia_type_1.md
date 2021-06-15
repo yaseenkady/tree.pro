@@ -14,19 +14,19 @@ High blood chylomicron
 
 High blood triglyceride
 
-Creamy top serum
-
-Pancreatitis
+Serum with creamy top
 
 Lipemia retinalis
 
-Hepatomegaly
+Liver enlargement
 
-Splenomegaly
+Spleen enlargement
 
-Eruptive xanthoma
+Xanthoma that is eruptive
 
 Coagulopathy
+
+Pancreatitis
 
 Thrombocytopenia
 

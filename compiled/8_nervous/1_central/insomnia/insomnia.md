@@ -1,0 +1,45 @@
+# Comment
+
+Insomnia means a repeated difficulty with sleep initiation, duration, consolidation, or quality that occurs despite adequate time and opportunity for sleep results in some form of daytime impairement and lasting for at least one month.
+
+# Epidemiology
+
+Common
+
+(35-50% people have insomnia symptoms and 12-20% people have insomnia.)
+
+Adult
+
+Elderly
+
+Female
+
+African-American
+
+Low socioeconomic status
+
+Single
+
+Depressed
+
+# Cause
+
+hyperthyroidism
+
+primary_insomnia
+
+secondary_insomnia
+
+# Symptom
+
+Tired
+
+(The most common cause of.)
+
+Sleepy
+
+# Sign
+
+# Diagnostic
+
+# Treatment and Management

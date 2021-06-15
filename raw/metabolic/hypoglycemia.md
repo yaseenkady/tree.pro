@@ -18,38 +18,48 @@ Low intake of carbohydrate
 
 High blood glucose
 
-Hunger
+Hungry
 
-Anxiety
+Anxious
+
 (Below 55mg/gl.)
 
-Diaphoresis
+Sweating more
+
 (Below 55mg/gl.)
 
 Headache
+
 (Below 50mg/gl.)
 
 Paresthesia
 
-Palpitation
+Heart rate that is rapid, strong, or irregular
+
 (Below 55mg/gl.)
 
-Tachycardia
+Heart rate increase
 
 Tremor
+
 (Below 55mg/gl.)
 
 Mental status change
+
 (Below 50mg/gl.)
 
-Slurred speech
+Speech that is slurred
+
 (Below 50mg/gl.)
 
-Seizure
 (Below 50mg/gl.)
 
 Coma
+
 (Below 50mg/gl.)
 
 Death
+
 (Below 50mg/gl.)
+
+Seizure

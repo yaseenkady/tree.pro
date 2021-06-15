@@ -6,11 +6,11 @@ Driven not by growth hormone.
 
 # >
 
-Early puberty
+Puberty that is early
 
-Fast growth
+Growing fast
 
-Short stature
+Short
 
 High blood gonadotropic hormone
 
