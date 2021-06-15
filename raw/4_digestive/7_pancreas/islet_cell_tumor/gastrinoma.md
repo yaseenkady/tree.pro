@@ -6,6 +6,8 @@ Zollinger-Ellison syndrome.
 
 # >
 
+Islet cell tumor
+
 High blood gastrin
 
 Peptic ulcer disease

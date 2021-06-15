@@ -12,4 +12,4 @@ Use of glucocorticoid
 
 # >
 
-Pain in joint
+Arthritis

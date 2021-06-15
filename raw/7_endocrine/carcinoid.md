@@ -36,3 +36,5 @@ Tricuspid regurgitation
 Pulmonic stenosis
 
 Pellagra
+
+Neuroendocrine tumor

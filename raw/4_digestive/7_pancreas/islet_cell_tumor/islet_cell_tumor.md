@@ -6,14 +6,4 @@
 
 # >
 
-Somatostatinoma
-
-VIPoma
-
-Gastrinoma
-
-Glucagonoma
-
-Insulinoma
-
-Carcinoid
+Neuroendocrine tumor

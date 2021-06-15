@@ -1,0 +1,24 @@
+# Comment
+
+# Epidemiology
+
+Low intake of calcium
+
+# Cause
+
+MEDULLARY_THYROID_CARCINOMA
+
+PRIMARY_HYPOPARATHYROIDISM
+
+PSEUDOHYPOPARATHYROIDISM
+
+SECONDARY_HYPERPARATHYROIDISM
+
+# Symptom and Sign
+
+Low blood calcium
+
+Osteoperosis
+
+SECONDARY_HYPERPARATHYROIDISM
+

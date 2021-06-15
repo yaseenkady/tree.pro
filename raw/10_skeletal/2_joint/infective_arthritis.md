@@ -4,4 +4,6 @@
 
 # >
 
-Pain in joint
+Fever
+
+Arthritis

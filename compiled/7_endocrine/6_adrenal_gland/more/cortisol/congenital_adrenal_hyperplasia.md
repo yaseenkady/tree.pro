@@ -1,0 +1,50 @@
+# Comment
+
+# Epidemiology
+
+# Cause
+
+# Symptom and Sign
+
+Fast growth
+
+CUSHING_SYNDROME
+
+High blood cortisol
+
+High urine cortisol
+
+Hyperglycemia
+
+High blood aldosterone
+
+Weight gain
+
+Central obesity
+
+Round face
+
+Shoulder hump
+
+Hirsutism
+
+Acne
+
+Amenorrhea
+
+Erectile dysfunction
+
+Infertility
+
+Immunodeficiency
+
+Osteoperosis
+
+Short stature
+
+Stretch mark
+
+Poor wound healing
+
+Easy bruise
+

@@ -6,6 +6,8 @@
 
 # >
 
+Islet cell tumor
+
 High blood glucagon
 
 Episodic hyperglycemia

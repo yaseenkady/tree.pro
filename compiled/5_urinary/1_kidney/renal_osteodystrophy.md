@@ -1,0 +1,16 @@
+# Comment
+
+# Epidemiology
+
+# Cause
+
+CHRONIC_KIDNEY_DISEASE
+
+# Symptom and Sign
+
+Lesion in bone
+
+SECONDARY_HYPERPARATHYROIDISM
+
+TERTIARY_HYPERPARATHYROIDISM
+

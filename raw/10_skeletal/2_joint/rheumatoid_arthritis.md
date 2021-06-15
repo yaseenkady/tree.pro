@@ -6,7 +6,7 @@
 
 Fatigue
 
-Pain in joint
+Arthritis
 
 Antibody against nucleic acid
 

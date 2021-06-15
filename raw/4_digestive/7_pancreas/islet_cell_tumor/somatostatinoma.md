@@ -6,6 +6,8 @@
 
 # >
 
+Islet cell tumor
+
 High blood somatostatin
 
 Low blood secretin

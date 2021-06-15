@@ -10,10 +10,6 @@ Adult
 
 # >
 
-Pain in joint
-
-Pain in lower back
+Arthritis
 
 Rash on palm and sole
-
-Joint effusion

@@ -53,4 +53,6 @@ High blood albumin
 
 Low blood clotting factor
 
-Coagulopathy
+Cirrhosis
+
+Hepatocellular carcinoma
