@@ -32,7 +32,7 @@ Muscle cramp
 
 Tremor
 
-Nauseated
+Nausea
 
 Vomiting
 

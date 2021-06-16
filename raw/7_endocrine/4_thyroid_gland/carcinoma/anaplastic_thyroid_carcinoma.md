@@ -22,4 +22,4 @@ Vocal cord paralysis
 
 Neck pain
 
-Breathing trouble
+Dyspnea

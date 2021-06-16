@@ -38,7 +38,7 @@ Edema that is nonpitting
 
 Edema around the eyes
 
-Constipated
+Constipation
 
 Appetite loss
 
@@ -56,7 +56,7 @@ Hyporeflexia
 
 Heart rate decrease
 
-Breathing trouble during excertion
+Dyspnea during excertion
 
 Breathing less
 

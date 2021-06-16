@@ -12,7 +12,7 @@ Abdominal pain
 
 Appetite loss
 
-Nauseated
+Nausea
 
 Vomiting
 

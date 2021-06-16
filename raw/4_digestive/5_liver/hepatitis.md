@@ -14,7 +14,7 @@ Use of isoniazid
 
 # >
 
-Nauseated
+Nausea
 
 Appetite loss
 

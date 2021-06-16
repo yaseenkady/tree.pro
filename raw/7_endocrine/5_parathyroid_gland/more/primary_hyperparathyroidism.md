@@ -10,7 +10,7 @@ Low blood phosphate
 
 Muscle weakness
 
-Constipated
+Constipation
 
 Hyperparathyroidism
 

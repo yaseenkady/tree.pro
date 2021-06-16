@@ -16,7 +16,7 @@ Surgery
 
 Abdominal pain
 
-Nauseated
+Nausea
 
 Vomiting
 

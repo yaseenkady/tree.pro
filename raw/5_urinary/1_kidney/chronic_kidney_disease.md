@@ -18,7 +18,7 @@ Edema
 
 Appetite loss
 
-Nauseated
+Nausea
 
 Hyperprolactinemia
 

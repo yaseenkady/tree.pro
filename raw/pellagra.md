@@ -12,7 +12,7 @@ Dementia
 
 Dermatitis
 
-Nauseated
+Nausea
 
 Appetite loss
 

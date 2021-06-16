@@ -20,7 +20,7 @@ Peeing at night
 
 Sleeping trouble
 
-Nauseated
+Nausea
 
 Vomiting
 

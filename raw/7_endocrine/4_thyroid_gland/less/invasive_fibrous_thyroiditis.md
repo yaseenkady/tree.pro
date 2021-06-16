@@ -12,7 +12,7 @@ Goiter that is nodular
 
 Hoarseness
 
-Breathing trouble
+Dyspnea
 
 Dysphagia
 

@@ -40,7 +40,7 @@ Heart rate increase
 
 Heart rate that is rapid, strong, or irregular
 
-Breathing trouble
+Dyspnea
 
 Chest pain
 

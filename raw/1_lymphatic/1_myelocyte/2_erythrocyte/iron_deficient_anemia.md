@@ -8,7 +8,7 @@ Low intake of iron
 
 Tired
 
-Breathing trouble
+Dyspnea
 
 Conjunctiva that is pale
 

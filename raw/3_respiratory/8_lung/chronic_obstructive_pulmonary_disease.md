@@ -6,7 +6,7 @@ Smoking
 
 # >
 
-Breathing trouble
+Dyspnea
 
 Tired
 

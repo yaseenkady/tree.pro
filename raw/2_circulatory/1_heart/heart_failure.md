@@ -8,17 +8,17 @@ Tired
 
 Peeing at night
 
-Breathing trouble
+Dyspnea
 
-Breathing trouble that is sudden at night
+Dyspnea that is sudden at night
 
 Jagular venous distention
 
 S3 gallop
 
-Breathing trouble when lying down
+Dyspnea when lying down
 
-Breathing trouble after bending
+Dyspnea after bending
 
 Edema that is pitting
 

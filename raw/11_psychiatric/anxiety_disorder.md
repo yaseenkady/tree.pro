@@ -8,4 +8,4 @@ Tired
 
 Anxious
 
-Panic attack
+Panic

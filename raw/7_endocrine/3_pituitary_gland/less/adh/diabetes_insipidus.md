@@ -24,6 +24,6 @@ Weight loss
 
 High blood osmolality
 
-Nauseated
+Nausea
 
 Vomiting

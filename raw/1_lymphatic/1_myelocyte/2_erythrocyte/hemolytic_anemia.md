@@ -6,7 +6,7 @@
 
 Tired
 
-Breathing trouble
+Dyspnea
 
 Conjunctiva that is pale
 

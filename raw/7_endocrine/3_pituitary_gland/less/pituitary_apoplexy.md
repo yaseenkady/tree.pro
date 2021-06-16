@@ -10,7 +10,7 @@ Headache
 
 Visual deficit
 
-Nauseated
+Nausea
 
 Vomiting
 
