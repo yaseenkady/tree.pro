@@ -1,13 +1,13 @@
 Feature	Priority
 Easy bruising	1.1
-Eye pain	1.1
 Flu like symptoms	1.1
-Headache	1.1
-Muscle weakness	1.1
-Paresthesia	1.1
-Paroxysmal headache	1.1
-Proximal muscle weakness	1.1
-Vertigo	1.1
+Eye pain	1.10
+Headache	1.10
+Muscle weakness	1.10
+Paresthesia	1.10
+Paroxysmal headache	1.10
+Proximal muscle weakness	1.10
+Vertigo	1.10
 Chest pain	1.2
 Dizziness	1.2
 Bendopnea	1.3
@@ -66,11 +66,11 @@ Stress	2.0
 Surgery	2.0
 Trauma	2.0
 Autoimmunity	2.1
-Brain disease	2.1
 Cancer	2.1
-Head trauma	2.1
 Immunodeficiency	2.1
-Intracranial hypertension	2.1
+Brain disease	2.10
+Head trauma	2.10
+Intracranial hypertension	2.10
 Heart disease	2.2
 Kidney disease	2.5
 Early menopause	2.6
@@ -110,10 +110,10 @@ Mitotane	2.12
 Psychotropic	2.12
 SSRI	2.12
 Maternal transmission	3.0
-African-American	4.1
+African-American	4.10
+Non-White	4.10
+White	4.10
 Infant	4.1
-Non-White	4.1
-White	4.1
 Preschool child	4.2
 Child	4.3
 Adolescent	4.4
@@ -125,7 +125,7 @@ Female	4.9
 Male	4.9
 Endemic	4.11
 Endemic in tropics	4.11
-Long term care	4.11
+Long term care	4.12
 Low socioeconomic status	4.12
 Poor hygiene	4.12
 Poor sleep hygiene	4.13
@@ -159,40 +159,42 @@ Cafe-au-lait spot	6.0
 Ectopic lentis	6.0
 Hand defect	6.0
 Midline defect	6.0
-Akinesthesia	6.1
-Areflexia	6.1
-Ataxia	6.1
+Arachnodactyly	6.0
+Cubitus valgus	6.0
+Akinesthesia	6.10
+Areflexia	6.10
+Ataxia	6.10
+Coma	6.10
+Delirium	6.10
+Dementia	6.10
+Dysphagia	6.10
+Fine tremor	6.10
+Hearing deficit	6.10
+Hyperreflexia	6.10
+Hyporeflexia	6.10
+Mental status change	6.10
+Myoclonus	6.10
+Neurological focal deficit	6.10
+Opsoclonus	6.10
+Photophobia	6.10
+Red eye	6.10
+Retinal aneurysm	6.10
+Retinal hemorrhage	6.10
+Slurred speech	6.10
+Tremor	6.10
+Visual deficit	6.10
+Vocal cord paralysis	6.10
+Wide gait	6.10
 Cachexia	6.1
-Coma	6.1
-Delirium	6.1
-Dementia	6.1
-Dysphagia	6.1
 Fever	6.1
-Fine tremor	6.1
-Hearing deficit	6.1
-Hyperreflexia	6.1
-Hyporeflexia	6.1
 Lethargy	6.1
 Lymphadenopathy	6.1
-Mental status change	6.1
-Myoclonus	6.1
 Neck lymphadenopathy	6.1
-Neurological focal deficit	6.1
-Opsoclonus	6.1
 Pale conjunctiva	6.1
 Pallor	6.1
 Petechiae	6.1
-Photophobia	6.1
 Poor wound healing	6.1
-Red eye	6.1
-Retinal aneurysm	6.1
-Retinal hemorrhage	6.1
-Slurred speech	6.1
 Splenomegaly	6.1
-Tremor	6.1
-Visual deficit	6.1
-Vocal cord paralysis	6.1
-Wide gait	6.1
 Bradycardia	6.2
 Dry and cool skin	6.2
 Edema	6.2
@@ -213,7 +215,7 @@ Wheezing	6.3
 Abdominal swelling	6.4
 Arcus senilis	6.4
 Ascite	6.4
-Crossing midline, firm, and irregular abdominal mass	6.4
+"Crossing midline, firm, and irregular abdominal mass"	6.4
 Eruptive xanthoma	6.4
 Hepatomegaly	6.4
 Juandice	6.4
@@ -239,8 +241,8 @@ Painless genital ulcer	6.6
 Small testis	6.6
 Strawberry cervix	6.6
 Testicular mass	6.6
-Thin, gray, and malodorous vaginal discharge	6.6
-Thin, green, and malodorous vaginal discharge	6.6
+"Thin, gray, and malodorous vaginal discharge"	6.6
+"Thin, green, and malodorous vaginal discharge"	6.6
 Uterine bleeding	6.6
 Uterine tenderness	6.6
 Vaginal itch	6.6
@@ -287,8 +289,6 @@ Thin	6.7
 Thyroid tenderness	6.7
 Trousseau sign	6.7
 Webbed neck	6.7
-Arachnodactyly	6.8
-Cubitus valgus	6.8
 Joint effusion	6.8
 Scoliosis	6.8
 Alopecia	6.9
