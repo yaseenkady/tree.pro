@@ -1,114 +1,105 @@
 Feature	Priority
-Flu-like symptoms	1.1
 Bruising easily	1.1
-Paresthesia	1.1
-Vertigo	1.1
+Eye pain	1.1
+Flu-like symptoms	1.1
 Headache	1.1
 Headache that is sudden	1.1
-Eye pain	1.1
 Muscle weakness	1.1
 Muscle weakness in proximal groups	1.1
+Paresthesia	1.1
+Vertigo	1.1
 Chest pain	1.2
 Light headed	1.2
-Breathing trouble that is sudden at night	1.3
-Headache after waking up	1.3
-Dyspnea during excertion	1.3
 Dyspnea	1.3
-Throat pain	1.3
-Breathing trouble	1.3
-Breathing trouble after bending	1.3
-Dyspnea when lying down	1.3
-Breathing trouble during excertion	1.3
 Dyspnea after bending	1.3
+Dyspnea during excertion	1.3
 Dyspnea that is sudden at night	1.3
-Breathing trouble when lying down	1.3
-Diarrhea that is watery	1.4
-Abdominal right upper quadrant pain	1.4
-Constipated	1.4
-Nausea	1.4
-Abdominal pain	1.4
-Nauseated	1.4
-Appetite loss	1.4
+Dyspnea when lying down	1.3
+Headache after waking up	1.3
+Throat pain	1.3
 Abdominal epigastric pain	1.4
-Diarrhea	1.4
+Abdominal pain	1.4
+Abdominal right upper quadrant pain	1.4
+Appetite loss	1.4
 Constipation	1.4
+Diarrhea	1.4
+Diarrhea that is watery	1.4
+Nausea	1.4
 Vomiting	1.4
 Peeing at night	1.5
 Peeing frequently	1.5
 Peeing trouble	1.5
 Peeing with pain	1.5
+Amenorrhea	1.6
 Cervical motion tenderness	1.6
+Erectile dysfunction	1.6
 Low libido	1.6
 Testicular pain	1.6
-Amenorrhea	1.6
-Erectile dysfunction	1.6
-Feeling cold	1.7
-Sweating less	1.7
-Feeling hot	1.7
-Weight loss	1.7
-Hungry	1.7
-Weight gain	1.7
-Craving sugar	1.7
-Sweating more	1.7
 Craving salt	1.7
+Craving sugar	1.7
+Feeling cold	1.7
+Feeling hot	1.7
+Hungry	1.7
 Neck pain	1.7
+Sweating less	1.7
+Sweating more	1.7
 Thirsty	1.7
-Myalgia	1.8
+Weight gain	1.7
+Weight loss	1.7
+Bone pain	1.8
+Jaw pain	1.8
 Joint pain	1.8
 Muscle cramp	1.8
-Jaw pain	1.8
-Bone pain	1.8
-Panic	1.11
-Sleeping with movement	1.11
-Tired	1.11
-Nervous	1.11
-Panic attack	1.11
-Sleeping trouble	1.11
-Depressed	1.11
+Myalgia	1.8
 Anxious	1.11
+Depressed	1.11
+Nervous	1.11
+Panic	1.11
+Sleeping trouble	1.11
+Sleeping with movement	1.11
 Sleepy	1.11
-Surgery	2.0
-Precipitating factor	2.0
-Trauma	2.0
-Infection	2.0
-Congenital defect	2.0
-Not-miss	2.0
+Tired	1.11
 Common	2.0
-Brain disease	2.1
+Congenital defect	2.0
+Infection	2.0
+Not-miss	2.0
+Precipitating factor	2.0
+Surgery	2.0
+Trauma	2.0
 Autoimmunity	2.1
+Brain disease	2.1
+Cancer	2.1
+Head trauma	2.1
 Immunodeficiency	2.1
 Intracranial hypertension	2.1
-Head trauma	2.1
-Cancer	2.1
 Heart disease	2.2
 Kidney disease	2.5
 Early menopause	2.6
-Puberty that is early	2.6
 Gonadal disease	2.6
-Pregnancy	2.6
-Postpartum	2.6
-Peripartum	2.6
 Lactation	2.6
+Peripartum	2.6
+Postpartum	2.6
+Pregnancy	2.6
+Puberty that is early	2.6
 Puberty that is late	2.6
+Growing fast	2.7
 Growing slow	2.7
 Hormonal change	2.7
-Growing fast	2.7
 Psychiatric disease	2.11
-Use of tylenol	2.12
-Use of furosemide	2.12
-Use of psychotropic	2.12
-Use of anticoagulant	2.12
-Use of selective serotonin reuptake inhibitor	2.12
-Use of antibiotic	2.12
-Use of antiacid	2.12
-Use of amiodarone	2.12
 Use of aminoglutethimide	2.12
+Use of amiodarone	2.12
+Use of antiacid	2.12
+Use of antibiotic	2.12
+Use of anticoagulant	2.12
 Use of antihypertensive	2.12
+Use of carbamazepine	2.12
+Use of chemotherapy	2.12
 Use of cyclophosphamide	2.12
 Use of dececlocycline	2.12
-Use of chemotherapy	2.12
-Use of etomidate	2.12
 Use of electrolyte	2.12
+Use of estrogen	2.12
+Use of etomidate	2.12
+Use of furosemide	2.12
 Use of glucocorticoid	2.12
 Use of intravenous contrast	2.12
 Use of isoniazid	2.12
@@ -116,11 +107,12 @@ Use of ketoconazole	2.12
 Use of medication	2.12
 Use of metyrapone	2.12
 Use of mitotane	2.12
-Use of estrogen	2.12
-Use of carbamazepine	2.12
+Use of psychotropic	2.12
+Use of selective serotonin reuptake inhibitor	2.12
+Use of tylenol	2.12
 Maternal transmission	3.0
-Infant	4.1
 African-American	4.1
+Infant	4.1
 Non-White	4.1
 White	4.1
 Preschool child	4.2
@@ -132,318 +124,318 @@ Middle aged	4.7
 Elderly	4.8
 Female	4.9
 Male	4.9
-Long term care	4.11
-Endemic in tropics	4.11
 Endemic	4.11
-Poor hygiene	4.12
+Endemic in tropics	4.11
+Long term care	4.11
 Low socioeconomic status	4.12
+Poor hygiene	4.12
 Poor sleep hygiene	4.13
 Sedentary lifestyle	4.14
-Low UV light exposure	4.15
-Exposure to toxin	4.15
 Exposure to lithium	4.15
 Exposure to radiation	4.15
-Low intake of vitamin B3	4.16
-High intake of iodine	4.16
-Low intake of iodine	4.16
-Low intake of vitamin D	4.16
-Low intake of potassium	4.16
-Low intake of iron	4.16
+Exposure to toxin	4.15
+Low UV light exposure	4.15
 High intake of calcium	4.16
-Low intake of carbohydrate	4.16
-Low intake of calcium	4.16
-Low intake of B9	4.16
-Low intake of B12	4.16
+High intake of iodine	4.16
 High intake of potassium	4.16
 High intake of vitamin D	4.16
+Low intake of B12	4.16
 Low intake of B6	4.16
-Stress	4.17
+Low intake of B9	4.16
+Low intake of calcium	4.16
+Low intake of carbohydrate	4.16
+Low intake of iodine	4.16
+Low intake of iron	4.16
+Low intake of potassium	4.16
+Low intake of vitamin B3	4.16
+Low intake of vitamin D	4.16
 Exercise	4.17
+Stress	4.17
 Use of alcohol	5.1
 Smoking	5.2
 Use of cocaine	5.3
 Use of opiate	5.3
 Sexual activity	5.4
 Single	5.4
-Loss of person	5.5
 Loss of interest	5.5
-Midline defect	6.0
+Loss of person	5.5
 Cafe-au-lait spot	6.0
-Hand defect	6.0
 Ectopic lentis	6.0
-Delirium	6.1
-Visual deficit	6.1
-Sensitive to light	6.1
-Retinal hemorrhage	6.1
-Retinal aneurysm	6.1
-Eye redness	6.1
-Mental status change	6.1
-Lethargic	6.1
-Myoclonus	6.1
-Vocal cord paralysis	6.1
-Dysphagia	6.1
-Tremor that is fine	6.1
-Fever	6.1
-Dementia	6.1
-Opsoclonus	6.1
-Coma	6.1
+Hand defect	6.0
+Midline defect	6.0
+Akinesthesia	6.1
+Areflexia	6.1
+Ataxia	6.1
 Cachexia	6.1
-Lymphadenopathy	6.1
-Hyperreflexia	6.1
+Coma	6.1
+Conjunctiva that is pale	6.1
+Delirium	6.1
+Dementia	6.1
+Dysphagia	6.1
+Eye redness	6.1
+Fever	6.1
+Gait that is wide	6.1
 Hearing deficit	6.1
+Hyperreflexia	6.1
+Hyporeflexia	6.1
+Lethargic	6.1
+Lymphadenopathy	6.1
+Mental status change	6.1
+Myoclonus	6.1
+Neck lymphadenopathy	6.1
+Neurological focal deficit	6.1
+Opsoclonus	6.1
+Pale	6.1
 Petechiae	6.1
 Poor wound healing	6.1
-Conjunctiva that is pale	6.1
-Pale	6.1
-Akinesthesia	6.1
-Ataxia	6.1
-Neck lymphadenopathy	6.1
-Tremor	6.1
-Hyporeflexia	6.1
+Retinal aneurysm	6.1
+Retinal hemorrhage	6.1
+Sensitive to light	6.1
 Speech that is slurred	6.1
-Neurological focal deficit	6.1
-Areflexia	6.1
-Gait that is wide	6.1
 Spleen enlargement	6.1
-S3 gallop	6.2
+Tremor	6.1
+Tremor that is fine	6.1
+Visual deficit	6.1
+Vocal cord paralysis	6.1
+Blood pressure decrease when standing up	6.2
+Edema	6.2
+Edema that is pitting	6.2
+Heart rate decrease	6.2
+Heart rate increase	6.2
+Heart rate increase that is sudden	6.2
 Heart rate that is rapid, strong, or irregular	6.2
+Heart rate that is suddenly rapid, strong, or irregular	6.2
+High blood pressure	6.2
+Jagular venous distention	6.2
+Low blood pressure	6.2
+S3 gallop	6.2
 Skin that is dry and cool	6.2
 Skin that is moist and warm	6.2
-Edema that is pitting	6.2
 Tricuspid regurgitation	6.2
-Heart rate increase that is sudden	6.2
-High blood pressure	6.2
-Edema	6.2
-Low blood pressure	6.2
-Blood pressure decrease when standing up	6.2
-Jagular venous distention	6.2
-Heart rate increase	6.2
-Heart rate decrease	6.2
-Heart rate that is suddenly rapid, strong, or irregular	6.2
-Rhinorrhea	6.3
-Hoarseness	6.3
 Breathing less	6.3
 Breathing more	6.3
+Hoarseness	6.3
+Rhinorrhea	6.3
 Wheezing	6.3
-Xanthoma that is eruptive	6.4
-Abdominal mass that is unilateral and smooth	6.4
-Juandice	6.4
-Protruding umbilicus	6.4
-Liver enlargement	6.4
-Portal hypertension	6.4
-Abdominal swelling	6.4
-Scleral icterus	6.4
-Palmar xanthoma	6.4
-Xanthelasma	6.4
-Spider angioma	6.4
-Tuberous xanthoma	6.4
-Arcus senilis	6.4
-Lipemia retinalis	6.4
-Tendon xanthoma	6.4
-Ascite	6.4
 Abdominal mass that is crossing midline, firm, and irregular	6.4
-Uterine bleeding	6.6
-Vaginal discharge that is thin, green, and malodorous	6.6
+Abdominal mass that is unilateral and smooth	6.4
+Abdominal swelling	6.4
+Arcus senilis	6.4
+Ascite	6.4
+Juandice	6.4
+Lipemia retinalis	6.4
+Liver enlargement	6.4
+Palmar xanthoma	6.4
+Portal hypertension	6.4
+Protruding umbilicus	6.4
+Scleral icterus	6.4
+Spider angioma	6.4
+Tendon xanthoma	6.4
+Tuberous xanthoma	6.4
+Xanthelasma	6.4
+Xanthoma that is eruptive	6.4
+Adnexal tenderness	6.6
 Axillary hair absence	6.6
+Genital discharge	6.6
+Genital ulcer	6.6
+Genital ulcer that is painless	6.6
+Gynecomastia	6.6
+Hirsutism	6.6
+Pubic hair absence	6.6
+Strawberry cervix	6.6
+Testes that are small	6.6
+Testicular mass	6.6
+Uterine bleeding	6.6
 Uterine tenderness	6.6
 Vaginal discharge that is clumpy and white	6.6
 Vaginal discharge that is thin, gray, and malodorous	6.6
+Vaginal discharge that is thin, green, and malodorous	6.6
 Vaginal itch	6.6
-Genital ulcer that is painless	6.6
-Testicular mass	6.6
-Gynecomastia	6.6
-Hirsutism	6.6
-Genital ulcer	6.6
-Vaginal pH more than 4.5	6.6
-Strawberry cervix	6.6
 Vaginal pH less than 4.5	6.6
-Pubic hair absence	6.6
-Adnexal tenderness	6.6
-Testes that are small	6.6
-Genital discharge	6.6
-Thyroid tenderness	6.7
-Tongue that is large with deep furrows	6.7
-Voice that is deep	6.7
-Breath with fruity smell	6.7
-Kussmaul respiration	6.7
-Goiter that is nodular	6.7
-Flushing	6.7
-Neck webbing	6.7
-Chvostek sign	6.7
-Trousseau sign	6.7
-Protuberant tongue	6.7
-Subcutaneous calcification	6.7
-Shoulder hump	6.7
-Hair that is fine	6.7
-Hypertension that is refractory	6.7
-Limbs that are short	6.7
-Acne	6.7
+Vaginal pH more than 4.5	6.6
 Abdominal obesity	6.7
+Acne	6.7
+Breath with fruity smell	6.7
+Chvostek sign	6.7
+Dehydrated	6.7
+Edema around the eyes	6.7
+Edema that is nonpitting	6.7
+Face that is round	6.7
+Facial feature coarsening	6.7
+Flushing	6.7
+Frontal bossing	6.7
+Gigantism	6.7
+Goiter that is nodular	6.7
+Goiter that is smooth and diffuse	6.7
+Graves orbitopathy	6.7
+Hair that is coarse and brittle	6.7
+Hair that is fine	6.7
+Hand and foot that are big	6.7
+Hypertension that is refractory	6.7
+Kussmaul respiration	6.7
+Lid lag	6.7
+Limbs that are long	6.7
+Limbs that are short	6.7
+Macrosomia	6.7
 Myxedema	6.7
 Nails that are brittle	6.7
-Limbs that are long	6.7
-Lid lag	6.7
+Neck webbing	6.7
 Obesity	6.7
+Proptosis	6.7
+Protuberant tongue	6.7
 Short	6.7
-Tall	6.7
-Thin	6.7
+Shoulder hump	6.7
 Skin darkening	6.7
 Stretch mark	6.7
-Gigantism	6.7
-Hand and foot that are big	6.7
-Face that is round	6.7
-Edema around the eyes	6.7
-Facial feature coarsening	6.7
-Frontal bossing	6.7
-Goiter that is smooth and diffuse	6.7
-Hair that is coarse and brittle	6.7
-Macrosomia	6.7
-Graves orbitopathy	6.7
-Edema that is nonpitting	6.7
-Proptosis	6.7
-Dehydrated	6.7
-Joint effusion	6.8
-Fingers that are spidery	6.8
-Scoliosis	6.8
+Subcutaneous calcification	6.7
+Tall	6.7
+Thin	6.7
+Thyroid tenderness	6.7
+Tongue that is large with deep furrows	6.7
+Trousseau sign	6.7
+Voice that is deep	6.7
 Cubitus valgus	6.8
-Purpuric rash	6.9
-Onycholysis	6.9
-Gangrene	6.9
+Fingers that are spidery	6.8
+Joint effusion	6.8
+Scoliosis	6.8
 Alopecia	6.9
 Dermatitis	6.9
-Rash	6.9
+Gangrene	6.9
+Onycholysis	6.9
 Palm and sole rash	6.9
+Purpuric rash	6.9
+Rash	6.9
+Irritability	6.11
 Neuropsychiatric overtone	6.11
 Restless	6.11
-Irritability	6.11
-Antibody against thyroglobulin	7.0
-Antibody against nucleic acid	7.0
 Antibody against cyclic citrullinated peptide	7.0
-Antibody against thyroid stimulating hormone receptor	7.0
+Antibody against nucleic acid	7.0
 Antibody against pancreatic B cell	7.0
+Antibody against thyroglobulin	7.0
 Antibody against thyroid peroxidase	7.0
-Low blood ferritin	7.1
-Low blood prolactin	7.1
-Low blood clotting factor	7.1
-Low blood cholesterol	7.1
-Low blood testosterone	7.1
-Low blood calcium	7.1
-Low blood gastric inhibitory peptide	7.1
-High blood B human chorionic gonadotropin	7.1
-Low blood cholecystokinin	7.1
-Low blood antidiuretic hormone	7.1
-Hyperglycemia that is episodic	7.1
-Low blood vitamin D	7.1
-High blood VLDL	7.1
-Low blood gastrin	7.1
-Low blood cortisol	7.1
-Hyperglycemia	7.1
-Hypoglycemia that is episodic	7.1
-High blood vasoactive intestinal peptide	7.1
-High blood urea nitrogen	7.1
-High blood thyroid stimulating hormone	7.1
-Low blood adrenocorticotropic hormone	7.1
-Low blood aldosterone	7.1
-Hyperlipidemia	7.1
-High blood sodium	7.1
-Low blood corticotropin releasing hormone	7.1
-Low blood sodium	7.1
-Low blood secretin	7.1
-Low blood renin	7.1
-Low blood thyroid stimulating hormone	7.1
-Low blood potassium	7.1
-Low blood phosphate	7.1
-Low blood parathyroid hormone	7.1
-Low blood leutenizing hormone	7.1
-Low blood LDL	7.1
-Low blood follicle stimulating hormone	7.1
-Low blood hemoglobin	7.1
-Low blood HDL	7.1
-Low blood insulin	7.1
-Urine white blood cell	7.1
-High blood somatostatin	7.1
-Low blood growth hormone	7.1
-Low blood insulin-like growth factor 1	7.1
-High blood bilirubin	7.1
-High blood prolactin	7.1
-High blood brain natriuretic peptide	7.1
-Low blood free thyroxine	7.1
-Low blood glucagon	7.1
-High blood atrium natriuretic peptide	7.1
-High blood ketone	7.1
-High blood aldosterone	7.1
-High blood alanine aminotransferase	7.1
-High blood triglyceride	7.1
-Blood rheumatoid factor	7.1
+Antibody against thyroid stimulating hormone receptor	7.0
 Blood A fetoprotein	7.1
-Blood lactate dehydrogenase	7.1
-High blood adrenocorticotropic hormone	7.1
-High blood antidiuretic hormone	7.1
-Blood leutenizing hormone	7.1
-High blood androgen	7.1
-Blood growth hormone after glucose	7.1
-High blood calcitonin	7.1
-High blood calcium	7.1
-Blood growth hormone	7.1
-High blood follicle stimulating hormone	7.1
-Blood C reactive protein	7.1
 Blood B human chorionic gonadotropin	7.1
-High blood erythropoietin	7.1
+Blood C reactive protein	7.1
+Blood follicle stimulating hormone	7.1
+Blood growth hormone	7.1
+Blood growth hormone after glucose	7.1
+Blood insulin-like growth factor 1	7.1
+Blood lactate dehydrogenase	7.1
+Blood leutenizing hormone	7.1
+Blood rheumatoid factor	7.1
+High blood B human chorionic gonadotropin	7.1
 High blood BVLDL	7.1
 High blood IDL	7.1
-Blood follicle stimulating hormone	7.1
-High blood renin	7.1
+High blood LDL	7.1
+High blood VLDL	7.1
+High blood adrenocorticotropic hormone	7.1
+High blood alanine aminotransferase	7.1
 High blood albumin	7.1
-High blood potassium	7.1
-High blood leutenizing hormone	7.1
-High blood parathyroid hormone	7.1
-High blood aspartate aminotransferase	7.1
-High blood glucagon	7.1
-High blood hemoglobin A1c	7.1
-High blood growth hormone	7.1
-High blood catecholamine	7.1
-Blood insulin-like growth factor 1	7.1
-High blood cholesterol	7.1
-High blood gonadotropic hormone	7.1
+High blood aldosterone	7.1
 High blood alkaline phosphatase	7.1
-High blood insulin	7.1
-High blood glucose	7.1
+High blood androgen	7.1
+High blood antidiuretic hormone	7.1
+High blood aspartate aminotransferase	7.1
+High blood atrium natriuretic peptide	7.1
+High blood bilirubin	7.1
+High blood brain natriuretic peptide	7.1
+High blood calcitonin	7.1
+High blood calcium	7.1
+High blood catecholamine	7.1
+High blood cholesterol	7.1
 High blood chylomicron	7.1
 High blood cortisol	7.1
 High blood creatine	7.1
-High blood insulin-like growth factor 1	7.1
-High blood phosphate	7.1
+High blood erythropoietin	7.1
+High blood follicle stimulating hormone	7.1
 High blood free T3	7.1
 High blood free thyroxine	7.1
 High blood gastrin	7.1
-High blood LDL	7.1
+High blood glucagon	7.1
+High blood glucose	7.1
+High blood gonadotropic hormone	7.1
+High blood growth hormone	7.1
+High blood hemoglobin A1c	7.1
+High blood insulin	7.1
+High blood insulin-like growth factor 1	7.1
+High blood ketone	7.1
+High blood leutenizing hormone	7.1
+High blood parathyroid hormone	7.1
+High blood phosphate	7.1
+High blood potassium	7.1
+High blood prolactin	7.1
+High blood renin	7.1
+High blood sodium	7.1
+High blood somatostatin	7.1
+High blood thyroid stimulating hormone	7.1
+High blood triglyceride	7.1
+High blood urea nitrogen	7.1
+High blood vasoactive intestinal peptide	7.1
+Hyperglycemia	7.1
+Hyperglycemia that is episodic	7.1
+Hyperlipidemia	7.1
+Hypoglycemia that is episodic	7.1
+Low blood HDL	7.1
+Low blood LDL	7.1
+Low blood adrenocorticotropic hormone	7.1
+Low blood aldosterone	7.1
+Low blood antidiuretic hormone	7.1
+Low blood calcium	7.1
+Low blood cholecystokinin	7.1
+Low blood cholesterol	7.1
+Low blood clotting factor	7.1
+Low blood corticotropin releasing hormone	7.1
+Low blood cortisol	7.1
+Low blood ferritin	7.1
+Low blood follicle stimulating hormone	7.1
+Low blood free thyroxine	7.1
+Low blood gastric inhibitory peptide	7.1
+Low blood gastrin	7.1
+Low blood glucagon	7.1
+Low blood growth hormone	7.1
+Low blood hemoglobin	7.1
+Low blood insulin	7.1
+Low blood insulin-like growth factor 1	7.1
+Low blood leutenizing hormone	7.1
+Low blood parathyroid hormone	7.1
+Low blood phosphate	7.1
+Low blood potassium	7.1
+Low blood prolactin	7.1
+Low blood renin	7.1
+Low blood secretin	7.1
+Low blood sodium	7.1
+Low blood testosterone	7.1
+Low blood thyroid stimulating hormone	7.1
+Low blood vitamin D	7.1
+Urine white blood cell	7.1
+Anion gap metabolic acidosis	7.2
 High blood pH	7.2
 Low blood pH	7.2
-Anion gap metabolic acidosis	7.2
+High blood osmolality	7.3
 Low blood osmolality	7.3
 Serum that is clear	7.3
 Serum that is turbid	7.3
 Serum with creamy top	7.3
-High blood osmolality	7.3
-Low blood platelet	7.5
-Leukocytosis	7.5
 Blood white blood cell	7.5
 High blood red blood cell	7.5
+Leukocytosis	7.5
+Low blood platelet	7.5
 Erythrocyte sedimentation rate	7.6
 High erythrocyte sedimentation rate	7.6
-High urine catecholamine	7.7
-High urine glucose	7.7
-High urine cortisol	7.7
 High urine calcium	7.7
+High urine catecholamine	7.7
+High urine cortisol	7.7
+High urine glucose	7.7
 High urine homocysteine	7.7
-Low urine calcium	7.7
 High urine ketone	7.7
 High urine sodium	7.7
+Low urine calcium	7.7
 High urine pH	7.8
 Low urine pH	7.8
+High urine osmolality	7.9
 Low urine osmolality	7.9
 Low urine specific gravity	7.9
-High urine osmolality	7.9
 Urine that is dark	7.11
 Stool with blood	7.12
 Stool with light color	7.13
@@ -452,38 +444,38 @@ Low bone density	7.14
 Genome X	8.1
 Genome XXY	8.1
 Genome XY	8.1
-Genome HLA-DR4	8.2
-Genome HLA-DR3	8.2
-Genome HLA-B8	8.2
 Genome HLA-B27	8.2
-Genome TP53	8.3
-Genome GHR	8.3
-Genome PTC	8.3
-Genome SDHB	8.3
-Genome VHL	8.3
-Genome SDHD	8.3
-Genome NF1	8.3
-Genome TSHR	8.3
-Genome PDE11	8.3
-Genome SDHC	8.3
-Genome MEN1	8.3
-Genome PRKARIA	8.3
-Genome RET	8.3
+Genome HLA-B8	8.2
+Genome HLA-DR3	8.2
+Genome HLA-DR4	8.2
 Genome ADHR	8.3
-Genome GNAS	8.3
-Genome APOC2	8.3
-Genome LDLR	8.3
 Genome APOB	8.3
+Genome APOC2	8.3
+Genome APOE	8.3
 Genome AR	8.3
-Genome CBS	8.3
-Genome MTR	8.3
-Genome FBN1	8.3
 Genome BRAF	8.3
+Genome CBS	8.3
+Genome FBN1	8.3
+Genome FGFR3	8.3
+Genome GHR	8.3
+Genome GNAS	8.3
 Genome GPR101	8.3
 Genome IGF1	8.3
 Genome IGF1R	8.3
+Genome LDLR	8.3
 Genome LPL	8.3
+Genome MEN1	8.3
 Genome MEN2A	8.3
-Genome APOE	8.3
 Genome MEN2B	8.3
-Genome FGFR3	8.3
+Genome MTR	8.3
+Genome NF1	8.3
+Genome PDE11	8.3
+Genome PRKARIA	8.3
+Genome PTC	8.3
+Genome RET	8.3
+Genome SDHB	8.3
+Genome SDHC	8.3
+Genome SDHD	8.3
+Genome TP53	8.3
+Genome TSHR	8.3
+Genome VHL	8.3
