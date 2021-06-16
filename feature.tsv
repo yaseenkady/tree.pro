@@ -1,464 +1,464 @@
 Feature	Priority
-Easy bruising	1.1
-Flu like symptoms	1.1
-Eye pain	1.10
-Headache	1.10
-Muscle weakness	1.10
-Paresthesia	1.10
-Paroxysmal headache	1.10
-Proximal muscle weakness	1.10
-Vertigo	1.10
-Chest pain	1.2
-Dizziness	1.2
-Bendopnea	1.3
-Dyspnea	1.3
-Exertional dyspnea	1.3
-Morning headache	1.3
-Nocturnal paroxysmal dyspnea	1.3
-Orthopnea	1.3
-Throat pain	1.3
-Abdominal pain	1.4
-Constipation	1.4
-Diarrhea	1.4
-Epigastric abdominal pain	1.4
-Loss of appetite	1.4
-Nausea	1.4
-Right upper quadrant abdominal pain	1.4
-Vomiting	1.4
-Watery diarrhea	1.4
-Dysuria	1.5
-Nocturia	1.5
-Polyuria	1.5
-Amenorrhea	1.6
-Cervical motion tenderness	1.6
-Erectile dysfunction	1.6
-Low libido	1.6
-Testicular pain	1.6
-Anhidrosis	1.7
-Cold intolerance	1.7
-Diaphoresis	1.7
-Heat intolerance	1.7
-Neck pain	1.7
-Polydipsia	1.7
-Polyphagia	1.7
-Salt craving	1.7
-Sugar craving	1.7
-Weight gain	1.7
-Weight loss	1.7
-Bone pain	1.8
-Jaw pain	1.8
-Joint pain	1.8
-Muscle cramp	1.8
-Myalgia	1.8
-Anxiousness	1.11
-Depression	1.11
-Fatigue	1.11
-Movement during sleep	1.11
-Nervousness	1.11
-Panic attack	1.11
-Sleepiness	1.11
-Trouble sleeping	1.11
-Common	2.0
-Congenital disease	2.0
-Infection	2.0
-Not miss	2.0
-Stress	2.0
-Surgery	2.0
-Trauma	2.0
-Autoimmunity	2.1
-Cancer	2.1
-Immunodeficiency	2.1
-Brain disease	2.10
-Head trauma	2.10
-Intracranial hypertension	2.10
-Heart disease	2.2
-Kidney disease	2.5
-Early menopause	2.6
-Early puberty	2.6
-Gonadal disease	2.6
-Lactation	2.6
-Late puberty	2.6
-Peripartum	2.6
-Postpartum	2.6
-Pregnancy	2.6
-Fast development	2.7
-Hormonal change	2.7
-Slow development	2.7
-Psychiatric disease	2.11
-Acetaminophen	2.12
-Aminoglutethimide	2.12
-Amiodarone	2.12
-Antiacid	2.12
-Antibiotic	2.12
-Anticoagulant	2.12
-Antihypertensive	2.12
-Carbamazepine	2.12
-Chemotherapy	2.12
-Cyclophosphamide	2.12
-Dececlocycline	2.12
-Electrolyte	2.12
-Estrogen	2.12
-Etomidate	2.12
-Furosemide	2.12
-Glucocorticoid	2.12
-Intravenous contrast	2.12
-Isoniazid	2.12
-Ketoconazole	2.12
-Medication	2.12
-Metyrapone	2.12
-Mitotane	2.12
-Psychotropic	2.12
-SSRI	2.12
-Maternal transmission	3.0
-African-American	4.10
-Non-White	4.10
-White	4.10
-Infant	4.1
-Preschool child	4.2
-Child	4.3
-Adolescent	4.4
-Young adult	4.5
-Adult	4.6
-Middle aged	4.7
-Elderly	4.8
-Female	4.9
-Male	4.9
-Endemic	4.11
-Endemic in tropics	4.11
-Long term care	4.12
-Low socioeconomic status	4.12
-Poor hygiene	4.12
-Poor sleep hygiene	4.13
-Sedentary lifestyle	4.14
-Exposure to lithium	4.15
-Exposure to radiation	4.15
-Exposure to toxin	4.15
-Low exposure to UV light	4.15
-High diet Ca	4.16
-High diet I	4.16
-High diet K	4.16
-High diet vitamin D	4.16
-Low diet Ca	4.16
-Low diet Fe	4.16
-Low diet I	4.16
-Low diet K	4.16
-Low diet carbohydrate	4.16
-Low diet vitamin B12	4.16
-Low diet vitamin B3	4.16
-Low diet vitamin B6	4.16
-Low diet vitamin B9	4.16
-Low diet vitamin D	4.16
-Exercise	4.17
-Alcohol	5.1
-Smoking	5.2
-Recreational drug	5.3
-High sexual activity	5.4
-Single	5.4
-Loss of interest	5.5
-Cafe-au-lait spot	6.0
-Ectopic lentis	6.0
-Hand defect	6.0
-Midline defect	6.0
-Arachnodactyly	6.0
-Cubitus valgus	6.0
-Akinesthesia	6.10
-Areflexia	6.10
-Ataxia	6.10
-Coma	6.10
-Delirium	6.10
-Dementia	6.10
-Dysphagia	6.10
-Fine tremor	6.10
-Hearing deficit	6.10
-Hyperreflexia	6.10
-Hyporeflexia	6.10
-Mental status change	6.10
-Myoclonus	6.10
-Neurological focal deficit	6.10
-Opsoclonus	6.10
-Photophobia	6.10
-Red eye	6.10
-Retinal aneurysm	6.10
-Retinal hemorrhage	6.10
-Slurred speech	6.10
-Tremor	6.10
-Visual deficit	6.10
-Vocal cord paralysis	6.10
-Wide gait	6.10
-Cachexia	6.1
-Fever	6.1
-Lethargy	6.1
-Lymphadenopathy	6.1
-Neck lymphadenopathy	6.1
-Pale conjunctiva	6.1
-Pallor	6.1
-Petechiae	6.1
-Poor wound healing	6.1
-Splenomegaly	6.1
-Bradycardia	6.2
-Dry and cool skin	6.2
-Edema	6.2
-Jagular venous distention	6.2
-Moist and warm skin	6.2
-Orthostatic hypotension	6.2
-Palpitation	6.2
-Paroxysmal palpitation	6.2
-Paroxysmal tachycardia	6.2
-S3 gallop	6.2
-Tachycardia	6.2
-Tricuspid regurgitation	6.2
-Hoarseness	6.3
-Hyperventilation	6.3
-Hypoventilation	6.3
-Rhinorrhea	6.3
-Wheezing	6.3
-Abdominal swelling	6.4
-Arcus senilis	6.4
-Ascite	6.4
-"Crossing midline, firm, and irregular abdominal mass"	6.4
-Eruptive xanthoma	6.4
-Hepatomegaly	6.4
-Juandice	6.4
-Lipemia retinalis	6.4
-Palmar xanthoma	6.4
-Portal hypertension	6.4
-Protruding umbilicus	6.4
-Scleral icterus	6.4
-Spider angioma	6.4
-Tendon xanthoma	6.4
-Tuberous xanthoma	6.4
-Unilateral and smooth abdominal mass	6.4
-Xanthelasma	6.4
-Absent axillary hair	6.6
-Absent pubic hair	6.6
-Adnexal tenderness	6.6
-Clumpy and white vaginal discharge	6.6
-Genital discharge	6.6
-Genital ulcer	6.6
-Gynecomastia	6.6
-Hirsutism	6.6
-Painless genital ulcer	6.6
-Small testis	6.6
-Strawberry cervix	6.6
-Testicular mass	6.6
-"Thin, gray, and malodorous vaginal discharge"	6.6
-"Thin, green, and malodorous vaginal discharge"	6.6
-Uterine bleeding	6.6
-Uterine tenderness	6.6
-Vaginal itch	6.6
-Vaginal pH less than 4.5	6.6
-Vaginal pH more than 4.5	6.6
-Abdominal obesity	6.7
-Acne	6.7
-Big hand and foot	6.7
-Brittle nail	6.7
-Chvostek sign	6.7
-Coarse and brittle hair	6.7
-Coarsening facial feature	6.7
-Deep voice	6.7
-Dehydration	6.7
-Eye edema	6.7
-Fine hair	6.7
-Flushing	6.7
-Frontal bossing	6.7
-Gigantism	6.7
-Graves orbitopathy	6.7
-Hyperpigmentation	6.7
-Kussmaul respiration	6.7
-Large and deep furrowed tongue	6.7
-Lid lag	6.7
-Long limb	6.7
-Macrosomia	6.7
-Myxedema	6.7
-Nodular goiter	6.7
-Non-pitting edema	6.7
-Obesity	6.7
-Proptosis	6.7
-Protuberant tongue	6.7
-Refractory hypertension	6.7
-Round face	6.7
-Short	6.7
-Short limb	6.7
-Shoulder hump	6.7
-Smooth and diffuse goiter	6.7
-Stretch mark	6.7
-Subcutaneous calcification	6.7
-Sweet breath	6.7
-Tall	6.7
-Thin	6.7
-Thyroid tenderness	6.7
-Trousseau sign	6.7
-Webbed neck	6.7
-Joint effusion	6.8
-Scoliosis	6.8
-Alopecia	6.9
-Dermatitis	6.9
-Gangrene	6.9
-Onycholysis	6.9
-Palm and sole rash	6.9
-Purpuric rash	6.9
-Rash	6.9
-Irritability	6.11
-Psychiatric overtone	6.11
-Restlessness	6.11
-Antibody for CCP	7.0
-Antibody for TSHR	7.0
-Antibody for nucleic acid	7.0
-Antibody for pancreatic B cell	7.0
-Antibody for thyroglobulin	7.0
-Antibody for thyroid peroxidase	7.0
-Episodic hyperglycemia	7.1
-Episodic hypoglycemia	7.1
-High blood ACTH	7.1
-High blood ADH	7.1
-High blood AFP	7.1
-High blood ALT	7.1
-High blood ANP	7.1
-High blood AST	7.1
-High blood BHCG	7.1
-High blood BNP	7.1
-High blood CRP	7.1
-High blood Ca	7.1
-High blood EPO	7.1
-High blood FSH	7.1
-High blood GH	7.1
-High blood GH after glucose	7.1
-High blood GRH	7.1
-High blood IDL	7.1
-High blood IGF1	7.1
-High blood K	7.1
-High blood LDH	7.1
-High blood LDL	7.1
-High blood LH	7.1
-High blood Na	7.1
-High blood PO4	7.1
-High blood PTH	7.1
-High blood RF	7.1
-High blood TSH	7.1
-High blood VIP	7.1
-High blood VLDL	7.1
-High blood albumin	7.1
-High blood aldosterone	7.1
-High blood alkaline phosphatase	7.1
-High blood androgen	7.1
-High blood bHCG	7.1
-High blood bVLDL	7.1
-High blood bilirubin	7.1
-High blood calcitonin	7.1
-High blood catecholamine	7.1
-High blood cholesterol	7.1
-High blood chylomicron	7.1
-High blood cortisol	7.1
-High blood creatine	7.1
-High blood free T3	7.1
-High blood free T4	7.1
-High blood gastrin	7.1
-High blood glucagon	7.1
-High blood glucose	7.1
-High blood hemoglobin A1c	7.1
-High blood insulin	7.1
-High blood ketone	7.1
-High blood prolactin	7.1
-High blood renin	7.1
-High blood somatostatin	7.1
-High blood triglyceride	7.1
-High blood urea nitrogen	7.1
-Hyperglycemia	7.1
-Hyperlipidemia	7.1
-Low blood ACTH	7.1
-Low blood ADH	7.1
-Low blood CRH	7.1
-Low blood Ca	7.1
-Low blood FSH	7.1
-Low blood GH	7.1
-Low blood HDL	7.1
-Low blood IGF1	7.1
-Low blood K	7.1
-Low blood LDL	7.1
-Low blood LH	7.1
-Low blood Na	7.1
-Low blood PO4	7.1
-Low blood PTH	7.1
-Low blood TSH	7.1
-Low blood aldosterone	7.1
-Low blood cholecystokinin	7.1
-Low blood cholesterol	7.1
-Low blood clotting factor	7.1
-Low blood cortisol	7.1
-Low blood ferritin	7.1
-Low blood free T4	7.1
-Low blood gastric inhibitory peptide	7.1
-Low blood gastrin	7.1
-Low blood glucagon	7.1
-Low blood hemoglobin	7.1
-Low blood insulin	7.1
-Low blood prolactin	7.1
-Low blood renin	7.1
-Low blood secretin	7.1
-Low blood testosterone	7.1
-Low blood vitamin D	7.1
-Anion gap metabolic acidosis	7.2
-High blood pH	7.2
-Low blood pH	7.2
-Clear serum	7.3
-Creamy-top serum	7.3
-High blood osmolality	7.3
-Low blood osmolality	7.3
-Turbid serum	7.3
-High blood RBC	7.5
-High blood WBC	7.5
-Low blood platelet	7.5
-High ESR	7.6
-High urine Ca	7.7
-High urine Na	7.7
-High urine catecholamine	7.7
-High urine cortisol	7.7
-High urine glucose	7.7
-High urine homocysteine	7.7
-High urine ketone	7.7
-Low urine Ca	7.7
-High urine osmolality	7.9
-Low urine osmolality	7.9
-Low urine specific gravity	7.9
-Dark urine	7.11
-Light colored stool	7.13
-Colorectal polyp	7.14
-Low bone density	7.14
-X	8.1
-XXY	8.1
-XY	8.1
-HLA-B27	8.2
-HLA-B8	8.2
-HLA-DR3	8.2
-HLA-DR4	8.2
-ADHR	8.3
-APOB	8.3
-APOC2	8.3
-APOE	8.3
-AR	8.3
-BRAF	8.3
-CBS	8.3
-FBN1	8.3
-FGFR3	8.3
-GHR	8.3
-GNAS	8.3
-GPR101	8.3
-IGF1	8.3
-IGF1R	8.3
-LDLR	8.3
-LPL	8.3
-MEN1	8.3
-MEN2A	8.3
-MEN2B	8.3
-MTR	8.3
-NF1	8.3
-PDE11	8.3
-PRKARIA	8.3
-PTC	8.3
-RET	8.3
-SDHB	8.3
-SDHC	8.3
-SDHD	8.3
-TP53	8.3
-TSHR	8.3
-VHL	8.3
+Easy bruising	1.1.0
+Flu like symptoms	1.1.0
+Chest pain	1.2.0
+Dizziness	1.2.0
+Bendopnea	1.3.0
+Dyspnea	1.3.0
+Exertional dyspnea	1.3.0
+Morning headache	1.3.0
+Nocturnal paroxysmal dyspnea	1.3.0
+Orthopnea	1.3.0
+Throat pain	1.3.0
+Abdominal pain	1.4.0
+Constipation	1.4.0
+Diarrhea	1.4.0
+Epigastric abdominal pain	1.4.0
+Loss of appetite	1.4.0
+Nausea	1.4.0
+Right upper quadrant abdominal pain	1.4.0
+Vomiting	1.4.0
+Watery diarrhea	1.4.0
+Dysuria	1.5.0
+Nocturia	1.5.0
+Polyuria	1.5.0
+Amenorrhea	1.6.0
+Cervical motion tenderness	1.6.0
+Erectile dysfunction	1.6.0
+Low libido	1.6.0
+Testicular pain	1.6.0
+Anhidrosis	1.7.0
+Cold intolerance	1.7.0
+Diaphoresis	1.7.0
+Heat intolerance	1.7.0
+Neck pain	1.7.0
+Polydipsia	1.7.0
+Polyphagia	1.7.0
+Salt craving	1.7.0
+Sugar craving	1.7.0
+Weight gain	1.7.0
+Weight loss	1.7.0
+Bone pain	1.8.0
+Jaw pain	1.8.0
+Joint pain	1.8.0
+Muscle cramp	1.8.0
+Myalgia	1.8.0
+Eye pain	1.10.0
+Headache	1.10.0
+Muscle weakness	1.10.0
+Paresthesia	1.10.0
+Paroxysmal headache	1.10.0
+Proximal muscle weakness	1.10.0
+Vertigo	1.10.0
+Anxiousness	1.11.0
+Depression	1.11.0
+Fatigue	1.11.0
+Movement during sleep	1.11.0
+Nervousness	1.11.0
+Panic attack	1.11.0
+Sleepiness	1.11.0
+Trouble sleeping	1.11.0
+Common	2.0.0
+Congenital disease	2.0.0
+Infection	2.0.0
+Not miss	2.0.0
+Stress	2.0.0
+Surgery	2.0.0
+Trauma	2.0.0
+Autoimmunity	2.1.0
+Cancer	2.1.0
+Immunodeficiency	2.1.0
+Heart disease	2.2.0
+Kidney disease	2.5.0
+Early menopause	2.6.0
+Early puberty	2.6.0
+Gonadal disease	2.6.0
+Lactation	2.6.0
+Late puberty	2.6.0
+Peripartum	2.6.0
+Postpartum	2.6.0
+Pregnancy	2.6.0
+Fast development	2.7.0
+Hormonal change	2.7.0
+Slow development	2.7.0
+Brain disease	2.10.0
+Head trauma	2.10.0
+Intracranial hypertension	2.10.0
+Psychiatric disease	2.11.0
+Acetaminophen	2.12.0
+Aminoglutethimide	2.12.0
+Amiodarone	2.12.0
+Antiacid	2.12.0
+Antibiotic	2.12.0
+Anticoagulant	2.12.0
+Antihypertensive	2.12.0
+Carbamazepine	2.12.0
+Chemotherapy	2.12.0
+Cyclophosphamide	2.12.0
+Dececlocycline	2.12.0
+Electrolyte	2.12.0
+Estrogen	2.12.0
+Etomidate	2.12.0
+Furosemide	2.12.0
+Glucocorticoid	2.12.0
+Intravenous contrast	2.12.0
+Isoniazid	2.12.0
+Ketoconazole	2.12.0
+Medication	2.12.0
+Metyrapone	2.12.0
+Mitotane	2.12.0
+Psychotropic	2.12.0
+SSRI	2.12.0
+Maternal transmission	3.0.0
+Infant	4.1.0
+Preschool child	4.2.0
+Child	4.3.0
+Adolescent	4.4.0
+Young adult	4.5.0
+Adult	4.6.0
+Middle aged	4.7.0
+Elderly	4.8.0
+Female	4.9.0
+Male	4.9.0
+African-American	4.10.0
+Non-White	4.10.0
+White	4.10.0
+Endemic	4.11.0
+Endemic in tropics	4.11.0
+Long term care	4.12.0
+Low socioeconomic status	4.12.0
+Poor hygiene	4.12.0
+Poor sleep hygiene	4.13.0
+Sedentary lifestyle	4.14.0
+Exposure to lithium	4.15.0
+Exposure to radiation	4.15.0
+Exposure to toxin	4.15.0
+Low exposure to UV light	4.15.0
+High diet Ca	4.16.0
+High diet I	4.16.0
+High diet K	4.16.0
+High diet vitamin D	4.16.0
+Low diet Ca	4.16.0
+Low diet Fe	4.16.0
+Low diet I	4.16.0
+Low diet K	4.16.0
+Low diet carbohydrate	4.16.0
+Low diet vitamin B12	4.16.0
+Low diet vitamin B3	4.16.0
+Low diet vitamin B6	4.16.0
+Low diet vitamin B9	4.16.0
+Low diet vitamin D	4.16.0
+Exercise	4.17.0
+Alcohol	5.1.0
+Smoking	5.2.0
+Recreational drug	5.3.0
+High sexual activity	5.4.0
+Single	5.4.0
+Loss of interest	5.5.0
+Arachnodactyly	6.0.0
+Cafe-au-lait spot	6.0.0
+Cubitus valgus	6.0.0
+Ectopic lentis	6.0.0
+Hand defect	6.0.0
+Midline defect	6.0.0
+Cachexia	6.1.0
+Fever	6.1.0
+Lethargy	6.1.0
+Lymphadenopathy	6.1.0
+Neck lymphadenopathy	6.1.0
+Pale conjunctiva	6.1.0
+Pallor	6.1.0
+Petechiae	6.1.0
+Poor wound healing	6.1.0
+Splenomegaly	6.1.0
+Bradycardia	6.2.0
+Dry and cool skin	6.2.0
+Edema	6.2.0
+Jagular venous distention	6.2.0
+Moist and warm skin	6.2.0
+Orthostatic hypotension	6.2.0
+Palpitation	6.2.0
+Paroxysmal palpitation	6.2.0
+Paroxysmal tachycardia	6.2.0
+S3 gallop	6.2.0
+Tachycardia	6.2.0
+Tricuspid regurgitation	6.2.0
+Hoarseness	6.3.0
+Hyperventilation	6.3.0
+Hypoventilation	6.3.0
+Rhinorrhea	6.3.0
+Wheezing	6.3.0
+Abdominal swelling	6.4.0
+Arcus senilis	6.4.0
+Ascite	6.4.0
+Crossing midline, firm, and irregular abdominal mass	6.4.0
+Eruptive xanthoma	6.4.0
+Hepatomegaly	6.4.0
+Juandice	6.4.0
+Lipemia retinalis	6.4.0
+Palmar xanthoma	6.4.0
+Portal hypertension	6.4.0
+Protruding umbilicus	6.4.0
+Scleral icterus	6.4.0
+Spider angioma	6.4.0
+Tendon xanthoma	6.4.0
+Tuberous xanthoma	6.4.0
+Unilateral and smooth abdominal mass	6.4.0
+Xanthelasma	6.4.0
+Absent axillary hair	6.6.0
+Absent pubic hair	6.6.0
+Adnexal tenderness	6.6.0
+Clumpy and white vaginal discharge	6.6.0
+Genital discharge	6.6.0
+Genital ulcer	6.6.0
+Gynecomastia	6.6.0
+Hirsutism	6.6.0
+Painless genital ulcer	6.6.0
+Small testis	6.6.0
+Strawberry cervix	6.6.0
+Testicular mass	6.6.0
+Thin, gray, and malodorous vaginal discharge	6.6.0
+Thin, green, and malodorous vaginal discharge	6.6.0
+Uterine bleeding	6.6.0
+Uterine tenderness	6.6.0
+Vaginal itch	6.6.0
+Vaginal pH less than 4.5	6.6.0
+Vaginal pH more than 4.5	6.6.0
+Abdominal obesity	6.7.0
+Acne	6.7.0
+Big hand and foot	6.7.0
+Brittle nail	6.7.0
+Chvostek sign	6.7.0
+Coarse and brittle hair	6.7.0
+Coarsening facial feature	6.7.0
+Deep voice	6.7.0
+Dehydration	6.7.0
+Eye edema	6.7.0
+Fine hair	6.7.0
+Flushing	6.7.0
+Frontal bossing	6.7.0
+Gigantism	6.7.0
+Graves orbitopathy	6.7.0
+Hyperpigmentation	6.7.0
+Kussmaul respiration	6.7.0
+Large and deep furrowed tongue	6.7.0
+Lid lag	6.7.0
+Long limb	6.7.0
+Macrosomia	6.7.0
+Myxedema	6.7.0
+Nodular goiter	6.7.0
+Non-pitting edema	6.7.0
+Obesity	6.7.0
+Proptosis	6.7.0
+Protuberant tongue	6.7.0
+Refractory hypertension	6.7.0
+Round face	6.7.0
+Short	6.7.0
+Short limb	6.7.0
+Shoulder hump	6.7.0
+Smooth and diffuse goiter	6.7.0
+Stretch mark	6.7.0
+Subcutaneous calcification	6.7.0
+Sweet breath	6.7.0
+Tall	6.7.0
+Thin	6.7.0
+Thyroid tenderness	6.7.0
+Trousseau sign	6.7.0
+Webbed neck	6.7.0
+Joint effusion	6.8.0
+Scoliosis	6.8.0
+Alopecia	6.9.0
+Dermatitis	6.9.0
+Gangrene	6.9.0
+Onycholysis	6.9.0
+Palm and sole rash	6.9.0
+Purpuric rash	6.9.0
+Rash	6.9.0
+Akinesthesia	6.10.0
+Areflexia	6.10.0
+Ataxia	6.10.0
+Coma	6.10.0
+Delirium	6.10.0
+Dementia	6.10.0
+Dysphagia	6.10.0
+Fine tremor	6.10.0
+Hearing deficit	6.10.0
+Hyperreflexia	6.10.0
+Hyporeflexia	6.10.0
+Mental status change	6.10.0
+Myoclonus	6.10.0
+Neurological focal deficit	6.10.0
+Opsoclonus	6.10.0
+Photophobia	6.10.0
+Red eye	6.10.0
+Retinal aneurysm	6.10.0
+Retinal hemorrhage	6.10.0
+Slurred speech	6.10.0
+Tremor	6.10.0
+Visual deficit	6.10.0
+Vocal cord paralysis	6.10.0
+Wide gait	6.10.0
+Irritability	6.11.0
+Psychiatric overtone	6.11.0
+Restlessness	6.11.0
+Antibody for CCP	7.0.0
+Antibody for TSHR	7.0.0
+Antibody for nucleic acid	7.0.0
+Antibody for pancreatic B cell	7.0.0
+Antibody for thyroglobulin	7.0.0
+Antibody for thyroid peroxidase	7.0.0
+Episodic hyperglycemia	7.1.0
+Episodic hypoglycemia	7.1.0
+High blood ACTH	7.1.0
+High blood ADH	7.1.0
+High blood AFP	7.1.0
+High blood ALT	7.1.0
+High blood ANP	7.1.0
+High blood AST	7.1.0
+High blood BHCG	7.1.0
+High blood BNP	7.1.0
+High blood CRP	7.1.0
+High blood Ca	7.1.0
+High blood EPO	7.1.0
+High blood FSH	7.1.0
+High blood GH	7.1.0
+High blood GH after glucose	7.1.0
+High blood GRH	7.1.0
+High blood IDL	7.1.0
+High blood IGF1	7.1.0
+High blood K	7.1.0
+High blood LDH	7.1.0
+High blood LDL	7.1.0
+High blood LH	7.1.0
+High blood Na	7.1.0
+High blood PO4	7.1.0
+High blood PTH	7.1.0
+High blood RF	7.1.0
+High blood TSH	7.1.0
+High blood VIP	7.1.0
+High blood VLDL	7.1.0
+High blood albumin	7.1.0
+High blood aldosterone	7.1.0
+High blood alkaline phosphatase	7.1.0
+High blood androgen	7.1.0
+High blood bHCG	7.1.0
+High blood bVLDL	7.1.0
+High blood bilirubin	7.1.0
+High blood calcitonin	7.1.0
+High blood catecholamine	7.1.0
+High blood cholesterol	7.1.0
+High blood chylomicron	7.1.0
+High blood cortisol	7.1.0
+High blood creatine	7.1.0
+High blood free T3	7.1.0
+High blood free T4	7.1.0
+High blood gastrin	7.1.0
+High blood glucagon	7.1.0
+High blood glucose	7.1.0
+High blood hemoglobin A1c	7.1.0
+High blood insulin	7.1.0
+High blood ketone	7.1.0
+High blood prolactin	7.1.0
+High blood renin	7.1.0
+High blood somatostatin	7.1.0
+High blood triglyceride	7.1.0
+High blood urea nitrogen	7.1.0
+Hyperglycemia	7.1.0
+Hyperlipidemia	7.1.0
+Low blood ACTH	7.1.0
+Low blood ADH	7.1.0
+Low blood CRH	7.1.0
+Low blood Ca	7.1.0
+Low blood FSH	7.1.0
+Low blood GH	7.1.0
+Low blood HDL	7.1.0
+Low blood IGF1	7.1.0
+Low blood K	7.1.0
+Low blood LDL	7.1.0
+Low blood LH	7.1.0
+Low blood Na	7.1.0
+Low blood PO4	7.1.0
+Low blood PTH	7.1.0
+Low blood TSH	7.1.0
+Low blood aldosterone	7.1.0
+Low blood cholecystokinin	7.1.0
+Low blood cholesterol	7.1.0
+Low blood clotting factor	7.1.0
+Low blood cortisol	7.1.0
+Low blood ferritin	7.1.0
+Low blood free T4	7.1.0
+Low blood gastric inhibitory peptide	7.1.0
+Low blood gastrin	7.1.0
+Low blood glucagon	7.1.0
+Low blood hemoglobin	7.1.0
+Low blood insulin	7.1.0
+Low blood prolactin	7.1.0
+Low blood renin	7.1.0
+Low blood secretin	7.1.0
+Low blood testosterone	7.1.0
+Low blood vitamin D	7.1.0
+Anion gap metabolic acidosis	7.2.0
+High blood pH	7.2.0
+Low blood pH	7.2.0
+Clear serum	7.3.0
+Creamy-top serum	7.3.0
+High blood osmolality	7.3.0
+Low blood osmolality	7.3.0
+Turbid serum	7.3.0
+High blood RBC	7.5.0
+High blood WBC	7.5.0
+Low blood platelet	7.5.0
+High ESR	7.6.0
+High urine Ca	7.7.0
+High urine Na	7.7.0
+High urine catecholamine	7.7.0
+High urine cortisol	7.7.0
+High urine glucose	7.7.0
+High urine homocysteine	7.7.0
+High urine ketone	7.7.0
+Low urine Ca	7.7.0
+High urine osmolality	7.9.0
+Low urine osmolality	7.9.0
+Low urine specific gravity	7.9.0
+Dark urine	7.11.0
+Light colored stool	7.13.0
+Colorectal polyp	7.14.0
+Low bone density	7.14.0
+X	8.1.0
+XXY	8.1.0
+XY	8.1.0
+HLA-B27	8.2.0
+HLA-B8	8.2.0
+HLA-DR3	8.2.0
+HLA-DR4	8.2.0
+ADHR	8.3.0
+APOB	8.3.0
+APOC2	8.3.0
+APOE	8.3.0
+AR	8.3.0
+BRAF	8.3.0
+CBS	8.3.0
+FBN1	8.3.0
+FGFR3	8.3.0
+GHR	8.3.0
+GNAS	8.3.0
+GPR101	8.3.0
+IGF1	8.3.0
+IGF1R	8.3.0
+LDLR	8.3.0
+LPL	8.3.0
+MEN1	8.3.0
+MEN2A	8.3.0
+MEN2B	8.3.0
+MTR	8.3.0
+NF1	8.3.0
+PDE11	8.3.0
+PRKARIA	8.3.0
+PTC	8.3.0
+RET	8.3.0
+SDHB	8.3.0
+SDHC	8.3.0
+SDHD	8.3.0
+TP53	8.3.0
+TSHR	8.3.0
+VHL	8.3.0
