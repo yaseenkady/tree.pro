@@ -1,6 +1,6 @@
 # Comment
 
-# Eppremiology
+# Epidemiology
 
 Endemic in tropics
 

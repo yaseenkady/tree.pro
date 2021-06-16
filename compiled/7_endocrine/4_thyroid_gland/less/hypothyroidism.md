@@ -1,6 +1,10 @@
 # Comment
 
-# Eppremiology
+# Epidemiology
+
+Amiodarone
+
+Estrogen
 
 Elderly
 
@@ -14,11 +18,11 @@ Low diet I
 
 # Cause
 
-Hypopituitarism
-
 Congenital Hypothyroidism
 
 Hashimoto Thyroiditis
+
+Hypopituitarism
 
 Invasive Fibrous Thyroiditis
 

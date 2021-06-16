@@ -1,6 +1,6 @@
 # Comment
 
-# Eppremiology
+# Epidemiology
 
 Low diet K
 
@@ -8,9 +8,9 @@ Low diet K
 
 Diabetic Ketoacidosis
 
-Vipoma
-
 Hyperaldosteronism
+
+Vipoma
 
 # Symptom
 

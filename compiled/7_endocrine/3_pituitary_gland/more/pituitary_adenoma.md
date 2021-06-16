@@ -1,16 +1,16 @@
 # Comment
 
-# Eppremiology
+# Epidemiology
 
 # Cause
 
-Cushing Disease
-
 Acromegaly
 
-Prolactinoma
+Cushing Disease
 
 Multiple Endocrine Neoplasia Syndrome 1
+
+Prolactinoma
 
 # Symptom
 

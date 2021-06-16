@@ -2,17 +2,17 @@
 
 Common in gastrointestinal system.
 
-# Eppremiology
+# Epidemiology
 
 # Cause
 
-Lung Small Cell Carcinoma
+Carcinoid
 
 Islet Cell Tumor
 
-Medullary Thyroid Carcinoma
+Lung Small Cell Carcinoma
 
-Carcinoid
+Medullary Thyroid Carcinoma
 
 # Symptom
 

@@ -1,14 +1,14 @@
 # Comment
 
-# Eppremiology
+# Epidemiology
 
 # Cause
-
-Secondary Adrenal Insufficiency
 
 Adrenal Crisis
 
 Primary Adrenal Insufficiency
+
+Secondary Adrenal Insufficiency
 
 # Symptom
 

@@ -2,7 +2,9 @@
 
 Endodermal sinus tumor.
 
-# Eppremiology
+# Epidemiology
+
+Common
 
 Infant
 

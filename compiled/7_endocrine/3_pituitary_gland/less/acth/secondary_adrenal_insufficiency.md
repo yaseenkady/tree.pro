@@ -1,12 +1,12 @@
 # Comment
 
-# Eppremiology
+# Epidemiology
 
 # Cause
 
-Tertiary Adrenal Insufficiency
-
 Hypopituitarism
+
+Tertiary Adrenal Insufficiency
 
 # Symptom
 

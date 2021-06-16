@@ -1,16 +1,16 @@
 # Comment
 
-# Eppremiology
+# Epidemiology
 
 # Cause
 
-Hashimoto Thyroiditis
-
-Subacute Granulomatous Thyroiditis
-
 Graves Disease
 
+Hashimoto Thyroiditis
+
 Jod Basedow Phenomenon
+
+Subacute Granulomatous Thyroiditis
 
 Thyroid Adenoma
 

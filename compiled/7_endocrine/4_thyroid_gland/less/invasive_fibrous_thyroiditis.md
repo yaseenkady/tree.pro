@@ -2,7 +2,9 @@
 
 Riedel thyroiditis.
 
-# Eppremiology
+# Epidemiology
+
+Autoimmunity
 
 # Cause
 

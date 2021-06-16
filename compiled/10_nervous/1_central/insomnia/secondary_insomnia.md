@@ -1,6 +1,8 @@
 # Comment
 
-# Eppremiology
+# Epidemiology
+
+Common
 
 Adult
 
@@ -13,6 +15,8 @@ African-American
 Low socioeconomic status
 
 Poor sleep hygiene
+
+Single
 
 # Cause
 

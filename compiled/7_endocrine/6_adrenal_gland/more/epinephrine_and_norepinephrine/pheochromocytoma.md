@@ -1,8 +1,8 @@
 # Comment
 
-Neoplasm secreting catacholamines.
-
 10% bilateral.
+
+10% calcify.
 
 10% extra adrenal.
 
@@ -10,9 +10,11 @@ Neoplasm secreting catacholamines.
 
 10% not associated with hypertension.
 
-10% calcify.
+Neoplasm secreting catacholamines.
 
-# Eppremiology
+# Epidemiology
+
+Common
 
 Child
 

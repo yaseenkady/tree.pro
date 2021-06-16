@@ -1,12 +1,12 @@
 # Comment
 
-# Eppremiology
+# Epidemiology
 
 # Cause
 
-Diabetes Mellitus
-
 Borrelia Burgborferi
+
+Diabetes Mellitus
 
 # Symptom
 

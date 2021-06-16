@@ -2,7 +2,7 @@
 
 Difficult to diagnose.
 
-# Eppremiology
+# Epidemiology
 
 # Cause
 

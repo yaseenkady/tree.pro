@@ -1,12 +1,12 @@
 # Comment
 
-# Eppremiology
+# Epidemiology
 
 # Cause
 
-Polycythemia Vera
-
 Pheochromocytoma
+
+Polycythemia Vera
 
 # Symptom
 

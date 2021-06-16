@@ -2,9 +2,15 @@
 
 Normal flora contains mostly Lactobacillus and other microbes including Candida albicans.
 
-# Eppremiology
+# Epidemiology
+
+Hormonal change
+
+Antibiotic
 
 Female
+
+High sexual activity
 
 # Cause
 

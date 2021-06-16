@@ -2,7 +2,9 @@
 
 Also called Quervain thyroiditis.
 
-# Eppremiology
+# Epidemiology
+
+Infection
 
 # Cause
 

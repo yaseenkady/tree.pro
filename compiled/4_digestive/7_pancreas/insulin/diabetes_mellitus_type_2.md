@@ -1,6 +1,8 @@
 # Comment
 
-# Eppremiology
+# Epidemiology
+
+Common
 
 Middle aged
 
@@ -10,13 +12,15 @@ Non-White
 
 Low socioeconomic status
 
-# Cause
+Smoking
 
-Gestational Diabetes
+# Cause
 
 Acromegaly
 
 Cushing Syndrome
+
+Gestational Diabetes
 
 # Symptom
 

@@ -1,14 +1,14 @@
 # Comment
 
-# Eppremiology
+# Epidemiology
 
 # Cause
 
 Hyperosmolar Hyperglycemic State
 
-Syndrome of Inappropriate Antidiuretic Hormone Secretion
-
 Hypoglycemia
+
+Syndrome of Inappropriate Antidiuretic Hormone Secretion
 
 # Symptom
 

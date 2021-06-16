@@ -4,13 +4,13 @@ Diabetes means polyuria.
 
 Insipidus means no taste.
 
-# Eppremiology
+# Epidemiology
 
 # Cause
 
-Nephrogenic Diabetes Insipidus
-
 Central Diabetes Insipidus
+
+Nephrogenic Diabetes Insipidus
 
 # Symptom
 

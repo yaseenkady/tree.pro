@@ -2,7 +2,7 @@
 
 Fail to develop male characteristics.
 
-# Eppremiology
+# Epidemiology
 
 Adolescent
 

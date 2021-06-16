@@ -2,7 +2,7 @@
 
 Driven not by growth hormone.
 
-# Eppremiology
+# Epidemiology
 
 # Cause
 

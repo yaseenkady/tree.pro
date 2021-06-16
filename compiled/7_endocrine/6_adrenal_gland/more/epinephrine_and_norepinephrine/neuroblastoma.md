@@ -2,7 +2,7 @@
 
 Similar to medulloblastoma.
 
-# Eppremiology
+# Epidemiology
 
 Preschool child
 

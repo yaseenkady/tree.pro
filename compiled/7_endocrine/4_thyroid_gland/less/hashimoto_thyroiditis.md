@@ -2,7 +2,11 @@
 
 Also called chronic autoimmune thyroiditis.
 
-# Eppremiology
+# Epidemiology
+
+Common
+
+Postpartum
 
 # Cause
 

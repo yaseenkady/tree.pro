@@ -1,6 +1,8 @@
 # Comment
 
-# Eppremiology
+# Epidemiology
+
+Common
 
 Non-White
 
@@ -8,17 +10,17 @@ Low socioeconomic status
 
 # Cause
 
-Hypertension
+Acromegaly
+
+Cushing Syndrome
 
 Diabetes Mellitus
 
-Acromegaly
-
-Hyperthyroidism
-
 Hyperaldosteronism
 
-Cushing Syndrome
+Hypertension
+
+Hyperthyroidism
 
 Neuroblastoma
 

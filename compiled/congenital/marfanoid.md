@@ -2,7 +2,7 @@
 
 Marfanoid habitus.
 
-# Eppremiology
+# Epidemiology
 
 # Cause
 

@@ -2,7 +2,7 @@
 
 Vein enlargement.
 
-# Eppremiology
+# Epidemiology
 
 # Cause
 

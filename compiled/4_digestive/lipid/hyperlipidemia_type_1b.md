@@ -2,7 +2,7 @@
 
 Familial apoprotein C2 deficiency.
 
-# Eppremiology
+# Epidemiology
 
 Adolescent
 

@@ -2,7 +2,7 @@
 
 Fluid cyst in epididymis.
 
-# Eppremiology
+# Epidemiology
 
 # Cause
 

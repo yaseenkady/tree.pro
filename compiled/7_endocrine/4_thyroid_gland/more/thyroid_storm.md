@@ -2,7 +2,17 @@
 
 Hyperthyroidism crisis.
 
-# Eppremiology
+# Epidemiology
+
+Infection
+
+Not miss
+
+Stress
+
+Surgery
+
+Trauma
 
 # Cause
 

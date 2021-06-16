@@ -2,7 +2,9 @@
 
 Familial hypercholesterolemia.
 
-# Eppremiology
+# Epidemiology
+
+Common
 
 # Cause
 

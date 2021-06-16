@@ -2,7 +2,7 @@
 
 Familial dysbetalipoproteinemia.
 
-# Eppremiology
+# Epidemiology
 
 # Cause
 

@@ -1,26 +1,26 @@
 # Comment
 
-# Eppremiology
+# Epidemiology
 
 # Cause
 
-Pelvic Inflammatory Disease
-
 Cryptorchidism
 
-Testicular Varicocele
+Cushing Syndrome
 
 Epididymitis
 
-Prostatitis
-
 Hyperprolactinemia
-
-Hypothyroidism
 
 Hyperthyroidism
 
-Cushing Syndrome
+Hypothyroidism
+
+Pelvic Inflammatory Disease
+
+Prostatitis
+
+Testicular Varicocele
 
 # Symptom
 

@@ -2,7 +2,9 @@
 
 Also called cretinism.
 
-# Eppremiology
+# Epidemiology
+
+Congenital disease
 
 # Cause
 

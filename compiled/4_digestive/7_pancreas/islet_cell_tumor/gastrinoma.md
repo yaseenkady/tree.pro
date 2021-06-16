@@ -2,7 +2,7 @@
 
 Zollinger-Ellison syndrome.
 
-# Eppremiology
+# Epidemiology
 
 # Cause
 

@@ -1,20 +1,38 @@
 # Comment
 
-# Eppremiology
+# Epidemiology
+
+Stress
+
+Lactation
+
+Pregnancy
+
+Antihypertensive
+
+Estrogen
+
+Psychotropic
+
+Recreational drug
+
+Recreational drug
+
+High sexual activity
 
 # Cause
 
-Seizure
+Chronic Kidney Disease
 
 Cirrhosis
 
-Chronic Kidney Disease
+Hypothyroidism
 
 Polycystic Ovary Disease
 
 Prolactinoma
 
-Hypothyroidism
+Seizure
 
 Varicella Zoster Virus
 

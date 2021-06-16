@@ -1,12 +1,12 @@
 # Comment
 
-# Eppremiology
+# Epidemiology
+
+Brain disease
 
 Exposure to radiation
 
 # Cause
-
-Sarcoidosis
 
 Craniopharyngioma
 
@@ -14,11 +14,13 @@ Empty Sella Syndrome
 
 Lymphocytic Hypophysitis
 
+Pituitary Adenoma
+
 Pituitary Apoplexy
 
-Sheehan Syndrome
+Sarcoidosis
 
-Pituitary Adenoma
+Sheehan Syndrome
 
 # Symptom
 

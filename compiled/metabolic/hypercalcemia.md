@@ -1,6 +1,8 @@
 # Comment
 
-# Eppremiology
+# Epidemiology
+
+Cancer
 
 High diet Ca
 
@@ -8,9 +10,9 @@ High diet vitamin D
 
 # Cause
 
-Multiple Myeloma
-
 Familial Hypocalciuric Hypercalcemia
+
+Multiple Myeloma
 
 Primary Hyperparathyroidism
 

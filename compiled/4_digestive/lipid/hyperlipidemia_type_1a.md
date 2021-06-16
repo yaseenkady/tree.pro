@@ -2,7 +2,7 @@
 
 Familial hyperchylomicronemia.
 
-# Eppremiology
+# Epidemiology
 
 Adolescent
 

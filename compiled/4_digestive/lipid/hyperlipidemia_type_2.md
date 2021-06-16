@@ -1,8 +1,10 @@
 # Comment
 
-# Eppremiology
+# Epidemiology
 
 # Cause
+
+Cushing Syndrome
 
 Diabetes Mellitus
 
@@ -10,11 +12,9 @@ Hyperlipidemia Type 2A
 
 Hyperlipidemia Type 2B
 
-Nephrotic Syndrome
-
 Hypothyroidism
 
-Cushing Syndrome
+Nephrotic Syndrome
 
 # Symptom
 

@@ -2,7 +2,7 @@
 
 Ectopic expression of hormone receptors.
 
-# Eppremiology
+# Epidemiology
 
 # Cause
 

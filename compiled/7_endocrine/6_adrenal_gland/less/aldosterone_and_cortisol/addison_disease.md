@@ -1,16 +1,30 @@
 # Comment
 
-# Eppremiology
+# Epidemiology
+
+Infection
+
+Autoimmunity
+
+Cancer
+
+Immunodeficiency
+
+Aminoglutethimide
+
+Etomidate
+
+Ketoconazole
+
+Medication
+
+Metyrapone
+
+Mitotane
 
 # Cause
 
 Amyloidosis
-
-Hemochromatosis
-
-Sarcoidosis
-
-Lymphoma
 
 Coccidioides
 
@@ -18,11 +32,17 @@ Cryptococcus
 
 Cytomegalovirus
 
+Hemochromatosis
+
 Histoplasma
 
 Human Immunodeficiency Virus
 
+Lymphoma
+
 Mycobacteria Tuberculosis
+
+Sarcoidosis
 
 # Symptom
 

@@ -1,8 +1,10 @@
 # Comment
 
-# Eppremiology
+# Epidemiology
 
 # Cause
+
+Carcinoid
 
 Gastrinoma
 
@@ -10,13 +12,11 @@ Glucagonoma
 
 Insulinoma
 
+Multiple Endocrine Neoplasia Syndrome 1
+
 Somatostatinoma
 
 Vipoma
-
-Carcinoid
-
-Multiple Endocrine Neoplasia Syndrome 1
 
 # Symptom
 

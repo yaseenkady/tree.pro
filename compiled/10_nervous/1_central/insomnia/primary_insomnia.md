@@ -1,6 +1,8 @@
 # Comment
 
-# Eppremiology
+# Epidemiology
+
+Common
 
 Adult
 
@@ -11,6 +13,8 @@ Female
 African-American
 
 Low socioeconomic status
+
+Single
 
 # Cause
 

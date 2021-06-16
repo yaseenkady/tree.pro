@@ -2,7 +2,9 @@
 
 Familial combined hyperlipidemia.
 
-# Eppremiology
+# Epidemiology
+
+Common
 
 # Cause
 

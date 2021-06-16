@@ -2,7 +2,7 @@
 
 Waterly diarrhea, hypokalemia, and achlorhydria syndrome.
 
-# Eppremiology
+# Epidemiology
 
 # Cause
 

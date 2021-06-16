@@ -1,12 +1,12 @@
 # Comment
 
-# Eppremiology
+# Epidemiology
 
 # Cause
 
-Syndrome of Inappropriate Antidiuretic Hormone Secretion
-
 Hypothyroidism
+
+Syndrome of Inappropriate Antidiuretic Hormone Secretion
 
 # Symptom
 

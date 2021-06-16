@@ -1,14 +1,14 @@
 # Comment
 
-# Eppremiology
+# Epidemiology
 
 # Cause
 
 Germ Cell Tumor
 
-Spermatocytic Cancer
-
 Sex Chord Stromal Tumor
+
+Spermatocytic Cancer
 
 Testicular Lymphoma
 

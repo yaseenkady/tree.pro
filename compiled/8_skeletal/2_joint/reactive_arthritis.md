@@ -2,7 +2,7 @@
 
 Reiter syndrome.
 
-# Eppremiology
+# Epidemiology
 
 Adult
 

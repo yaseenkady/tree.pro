@@ -2,7 +2,7 @@
 
 Lack of hydrochloric acid in the gastric juice.
 
-# Eppremiology
+# Epidemiology
 
 # Cause
 

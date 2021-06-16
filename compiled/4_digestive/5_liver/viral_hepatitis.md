@@ -2,7 +2,15 @@
 
 Viral infection activates the immune system which damages the liver.
 
-# Eppremiology
+# Epidemiology
+
+Common
+
+Acetaminophen
+
+Isoniazid
+
+Medication
 
 Endemic
 
@@ -12,11 +20,11 @@ Poor hygiene
 
 Exposure to toxin
 
+Alcohol
+
 # Cause
 
 Adenovirus
-
-Hepatitis a Virus
 
 Hepatitis B Virus
 
@@ -25,6 +33,8 @@ Hepatitis C Virus
 Hepatitis D Virus
 
 Hepatitis E Virus
+
+Hepatitis a Virus
 
 Herpes Simplex Virus 1
 

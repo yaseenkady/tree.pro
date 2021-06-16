@@ -2,7 +2,13 @@
 
 Mixure of hyperlipidemia type 1 and type 4.
 
-# Eppremiology
+# Epidemiology
+
+Stress
+
+Glucocorticoid
+
+Alcohol
 
 # Cause
 

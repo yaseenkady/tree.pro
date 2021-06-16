@@ -1,14 +1,14 @@
 # Comment
 
-# Eppremiology
+# Epidemiology
 
 Low diet vitamin D
 
 # Cause
 
-Renal Osteodystrophy
-
 Hypocalcemia
+
+Renal Osteodystrophy
 
 # Symptom
 

@@ -1,6 +1,10 @@
 # Comment
 
-# Eppremiology
+# Epidemiology
+
+Early menopause
+
+Furosemide
 
 Elderly
 
@@ -16,11 +20,13 @@ Low diet Ca
 
 Low diet vitamin D
 
+Smoking
+
 # Cause
 
-Hyperthyroidism
-
 Cushing Syndrome
+
+Hyperthyroidism
 
 Hypocalcemia
 

@@ -2,7 +2,11 @@
 
 Hungry thyroid phenomenon.
 
-# Eppremiology
+# Epidemiology
+
+Amiodarone
+
+Intravenous contrast
 
 Low diet I
 

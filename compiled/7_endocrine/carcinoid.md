@@ -2,7 +2,9 @@
 
 Neuroendocrine tumor of the gastrointestinal system and lung.
 
-# Eppremiology
+# Epidemiology
+
+Common
 
 # Cause
 
