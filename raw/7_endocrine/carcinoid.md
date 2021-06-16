@@ -8,11 +8,11 @@ Common
 
 # >
 
-High blood adrenocorticotropic hormone
+High blood ACTH
 
 High blood somatostatin
 
-High blood vasoactive intestinal peptide
+High blood VIP
 
 High blood gastrin
 

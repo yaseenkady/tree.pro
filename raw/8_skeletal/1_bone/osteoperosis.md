@@ -10,11 +10,11 @@ Female
 
 White
 
-Low UV light exposure
+Low exposure to UV light
 
-Low intake of calcium
+Low diet Ca
 
-Low intake of vitamin D
+Low diet vitamin D
 
 Sedentary lifestyle
 
@@ -22,6 +22,6 @@ Early menopause
 
 Smoking
 
-Use of furosemide
+Furosemide
 
 # >

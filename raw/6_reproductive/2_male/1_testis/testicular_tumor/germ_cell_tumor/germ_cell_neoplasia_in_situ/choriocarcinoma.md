@@ -12,6 +12,6 @@ Adult
 
 # >
 
-Blood B human chorionic gonadotropin
+High blood BHCG
 
 Germ cell tumor

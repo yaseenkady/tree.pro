@@ -14,6 +14,6 @@ Dysphagia
 
 Scoliosis
 
-Limbs that are long
+Long limb
 
-Fingers that are spidery
+Arachnodactyly

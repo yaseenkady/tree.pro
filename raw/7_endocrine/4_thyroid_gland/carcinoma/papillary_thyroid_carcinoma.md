@@ -10,15 +10,15 @@ Exposure to radiation
 
 Common
 
-Genome RET
+RET
 
-Genome PTC
+PTC
 
-Genome BRAF
+BRAF
 
 # >
 
-Goiter that is nodular
+Nodular goiter
 
 Neck lymphadenopathy
 

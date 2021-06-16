@@ -10,9 +10,9 @@ Brain disease
 
 Low blood prolactin
 
-Low blood leutenizing hormone
+Low blood LH
 
-Low blood follicle stimulating hormone
+Low blood FSH
 
 Hypothyroidism
 

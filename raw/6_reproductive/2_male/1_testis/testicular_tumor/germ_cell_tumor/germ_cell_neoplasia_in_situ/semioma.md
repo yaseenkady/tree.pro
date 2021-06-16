@@ -12,8 +12,8 @@ Adult
 
 # >
 
-Blood lactate dehydrogenase
+High blood LDH
 
-High blood B human chorionic gonadotropin
+High blood bHCG
 
 Germ cell tumor

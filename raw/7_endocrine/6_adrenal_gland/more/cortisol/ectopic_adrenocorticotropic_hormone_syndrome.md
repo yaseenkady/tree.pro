@@ -4,6 +4,6 @@
 
 # >
 
-High blood adrenocorticotropic hormone
+High blood ACTH
 
 Cushing syndrome

@@ -2,7 +2,7 @@
 
 # <
 
-Low intake of vitamin B3
+Low diet vitamin B3
 
 # >
 
@@ -14,6 +14,6 @@ Dermatitis
 
 Nausea
 
-Appetite loss
+Loss of appetite
 
-Diarrhea that is watery
+Watery diarrhea

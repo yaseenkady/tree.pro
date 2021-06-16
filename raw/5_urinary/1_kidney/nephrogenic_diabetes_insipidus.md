@@ -2,14 +2,14 @@
 
 # <
 
-Genome ADHR
+ADHR
 
 Exposure to lithium
 
-Use of dececlocycline
+Dececlocycline
 
 # >
 
-High blood antidiuretic hormone
+High blood ADH
 
 Diabetes insipidus

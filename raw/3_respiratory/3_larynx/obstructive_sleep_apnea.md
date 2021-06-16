@@ -10,10 +10,10 @@ Obesity
 
 # >
 
-Sleepy
+Sleepiness
 
-Tired
+Fatigue
 
-Headache after waking up
+Morning headache
 
-Depressed
+Depression

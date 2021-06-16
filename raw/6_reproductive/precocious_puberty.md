@@ -6,14 +6,14 @@ Driven not by growth hormone.
 
 # >
 
-Puberty that is early
+Early puberty
 
-Growing fast
+Fast development
 
 Short
 
-High blood gonadotropic hormone
+High blood GRH
 
-High blood follicle stimulating hormone
+High blood FSH
 
-High blood leutenizing hormone
+High blood LH

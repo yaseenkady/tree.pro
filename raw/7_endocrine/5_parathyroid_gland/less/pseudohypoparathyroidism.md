@@ -2,13 +2,13 @@
 
 # <
 
-Genome GNAS
+GNAS
 
 # >
 
-High blood parathyroid hormone
+High blood PTH
 
-High blood phosphate
+High blood PO4
 
 Hypocalcemia
 

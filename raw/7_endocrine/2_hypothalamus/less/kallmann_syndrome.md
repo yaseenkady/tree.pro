@@ -6,10 +6,10 @@
 
 Midline defect
 
-Low blood leutenizing hormone
+Low blood LH
 
-Low blood follicle stimulating hormone
+Low blood FSH
 
 Low blood testosterone
 
-Puberty that is late
+Late puberty

@@ -4,6 +4,6 @@
 
 # >
 
-Flu-like symptoms
+Flu like symptoms
 
 Viral hepatitis

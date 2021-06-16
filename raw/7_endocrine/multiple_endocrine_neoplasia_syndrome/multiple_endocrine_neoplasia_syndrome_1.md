@@ -6,7 +6,7 @@ Young adult
 
 Adult
 
-Genome MEN1
+MEN1
 
 # >
 

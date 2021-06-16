@@ -4,35 +4,35 @@
 
 Exposure to toxin
 
-Use of alcohol
+Alcohol
 
-Use of medication
+Medication
 
-Use of tylenol
+Acetaminophen
 
-Use of isoniazid
+Isoniazid
 
 # >
 
 Nausea
 
-Appetite loss
+Loss of appetite
 
-Abdominal right upper quadrant pain
+Right upper quadrant abdominal pain
 
 Edema
 
-Liver enlargement
+Hepatomegaly
 
-Spleen enlargement
+Splenomegaly
 
 Abdominal swelling
 
 Ascite
 
-Urine that is dark
+Dark urine
 
-Stool with light color
+Light colored stool
 
 Scleral icterus
 
@@ -40,9 +40,9 @@ Juandice
 
 Spider angioma
 
-High blood alanine aminotransferase
+High blood ALT
 
-High blood aspartate aminotransferase
+High blood AST
 
 High blood bilirubin
 

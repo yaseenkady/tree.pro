@@ -4,6 +4,6 @@
 
 Stress
 
-Use of antiacid
+Antiacid
 
 # >

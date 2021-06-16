@@ -4,9 +4,9 @@ Hyperthyroidism crisis.
 
 # <
 
-Not-miss
+Not miss
 
-Precipitating factor
+Stress
 
 Infection
 

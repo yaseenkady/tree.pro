@@ -6,6 +6,6 @@
 
 Bone pain
 
-Low blood parathyroid hormone
+Low blood PTH
 
 Hypercalcemia

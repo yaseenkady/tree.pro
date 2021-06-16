@@ -6,8 +6,8 @@
 
 Eye pain
 
-Eye redness
+Red eye
 
-Sensitive to light
+Photophobia
 
 Visual deficit

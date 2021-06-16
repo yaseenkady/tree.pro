@@ -4,7 +4,7 @@
 
 # >
 
-Flu-like symptoms
+Flu like symptoms
 
 Genital ulcer
 

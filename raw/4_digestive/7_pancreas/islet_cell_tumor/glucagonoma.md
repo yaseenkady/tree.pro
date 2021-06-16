@@ -6,7 +6,7 @@
 
 High blood glucagon
 
-Hyperglycemia that is episodic
+Episodic hyperglycemia
 
 Weight loss
 
@@ -14,7 +14,7 @@ Diarrhea
 
 Dermatitis
 
-Depressed
+Depression
 
 Deep vein thrombosis
 

@@ -8,7 +8,7 @@ Autoimmunity
 
 # >
 
-Goiter that is nodular
+Nodular goiter
 
 Hoarseness
 

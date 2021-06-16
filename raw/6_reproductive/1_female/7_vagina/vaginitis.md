@@ -6,11 +6,11 @@ Normal flora contains mostly Lactobacillus and other microbes including Candida 
 
 Female
 
-Sexual activity
+High sexual activity
 
 Hormonal change
 
-Use of antibiotic
+Antibiotic
 
 # >
 
@@ -20,12 +20,12 @@ Vaginal pH more than 4.5
 
 Vaginal pH less than 4.5
 
-Vaginal discharge that is thin, gray, and malodorous
+Thin, gray, and malodorous vaginal discharge
 
-Vaginal discharge that is clumpy and white
+Clumpy and white vaginal discharge
 
-Vaginal discharge that is thin, green, and malodorous
+Thin, green, and malodorous vaginal discharge
 
 Strawberry cervix
 
-Peeing with pain
+Dysuria

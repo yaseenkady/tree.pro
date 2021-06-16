@@ -12,4 +12,4 @@ Rhinorrhea
 
 Lymphadenopathy
 
-Liver enlargement
+Hepatomegaly

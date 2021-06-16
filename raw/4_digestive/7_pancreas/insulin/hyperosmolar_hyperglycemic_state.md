@@ -8,9 +8,9 @@ Hyperglycemia
 
 High blood osmolality
 
-Dehydrated
+Dehydration
 
-Lethargic
+Lethargy
 
 Neurological focal deficit
 

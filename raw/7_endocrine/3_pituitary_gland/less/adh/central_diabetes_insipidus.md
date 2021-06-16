@@ -6,6 +6,6 @@ Head trauma
 
 # >
 
-Low blood antidiuretic hormone
+Low blood ADH
 
 Diabetes insipidus

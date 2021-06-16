@@ -8,7 +8,7 @@ Infection
 
 # >
 
-High erythrocyte sedimentation rate
+High ESR
 
 Jaw pain
 

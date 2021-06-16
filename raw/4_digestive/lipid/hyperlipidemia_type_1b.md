@@ -8,7 +8,7 @@ Adolescent
 
 Young adult
 
-Genome APOC2
+APOC2
 
 # >
 

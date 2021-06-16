@@ -4,11 +4,11 @@
 
 # >
 
-Low blood growth hormone
+Low blood GH
 
-Low blood insulin-like growth factor 1
+Low blood IGF1
 
-Tired
+Fatigue
 
 Muscle weakness
 

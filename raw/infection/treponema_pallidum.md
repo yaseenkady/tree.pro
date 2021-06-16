@@ -4,9 +4,9 @@
 
 # >
 
-Genital ulcer that is painless
+Painless genital ulcer
 
-Flu-like symptoms
+Flu like symptoms
 
 Palm and sole rash
 

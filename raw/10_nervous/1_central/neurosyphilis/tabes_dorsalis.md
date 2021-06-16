@@ -6,7 +6,7 @@ Demyelination of the posterior columns and degeneration of the dorsal root gangl
 
 # >
 
-Gait that is wide
+Wide gait
 
 Ataxia
 

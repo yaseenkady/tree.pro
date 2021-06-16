@@ -2,11 +2,11 @@
 
 # <
 
-Low intake of calcium
+Low diet Ca
 
 # >
 
-Low blood calcium
+Low blood Ca
 
 Osteoperosis
 

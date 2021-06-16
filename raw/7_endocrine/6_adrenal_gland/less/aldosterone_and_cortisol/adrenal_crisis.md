@@ -2,15 +2,15 @@
 
 # <
 
-Precipitating factor
+Stress
 
-Use of glucocorticoid
+Glucocorticoid
 
 # >
 
 Abdominal pain
 
-Appetite loss
+Loss of appetite
 
 Nausea
 

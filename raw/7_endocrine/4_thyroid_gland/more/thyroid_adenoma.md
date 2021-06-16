@@ -6,6 +6,6 @@ Common
 
 # >
 
-Goiter that is nodular
+Nodular goiter
 
 Hyperthyroidism

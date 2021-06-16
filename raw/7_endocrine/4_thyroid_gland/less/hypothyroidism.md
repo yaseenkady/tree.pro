@@ -6,41 +6,41 @@ Female
 
 Elderly
 
-Low intake of iodine
+Low diet I
 
-High intake of iodine
+High diet I
 
-Use of estrogen
+Estrogen
 
-Use of amiodarone
+Amiodarone
 
 Exposure to lithium
 
 # >
 
-Goiter that is smooth and diffuse
+Smooth and diffuse goiter
 
-Feeling cold
+Cold intolerance
 
-Sweating less
+Anhidrosis
 
 Weight gain
 
-Skin that is dry and cool
+Dry and cool skin
 
-Hair that is coarse and brittle
+Coarse and brittle hair
 
 Alopecia
 
-Nails that are brittle
+Brittle nail
 
-Edema that is nonpitting
+Non-pitting edema
 
-Edema around the eyes
+Eye edema
 
 Constipation
 
-Appetite loss
+Loss of appetite
 
 Myxedema
 
@@ -48,27 +48,27 @@ Uterine bleeding
 
 Low libido
 
-Tired
+Fatigue
 
-Depressed
+Depression
 
 Hyporeflexia
 
-Heart rate decrease
+Bradycardia
 
-Dyspnea during excertion
+Exertional dyspnea
 
-Breathing less
+Hypoventilation
 
-Puberty that is late
+Late puberty
 
 Short
 
-Muscle weakness in proximal groups
+Proximal muscle weakness
 
-High blood thyroid stimulating hormone
+High blood TSH
 
-Low blood free thyroxine
+Low blood free T4
 
 Hypothyroid myopathy
 

@@ -2,7 +2,7 @@
 
 # <
 
-Genome NF1
+NF1
 
 # >
 

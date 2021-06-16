@@ -2,10 +2,10 @@
 
 # <
 
-Genome FGFR3
+FGFR3
 
 # >
 
 Short
 
-Limbs that are short
+Short limb

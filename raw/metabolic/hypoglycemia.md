@@ -12,31 +12,31 @@ Elderly
 
 Exercise
 
-Low intake of carbohydrate
+Low diet carbohydrate
 
 # >
 
 High blood glucose
 
-Hungry
+Polyphagia
 
-Anxious
+Anxiousness
 
-Sweating more
+Diaphoresis
 
 Headache
 
 Paresthesia
 
-Heart rate that is rapid, strong, or irregular
+Palpitation
 
-Heart rate increase
+Tachycardia
 
 Tremor
 
 Mental status change
 
-Speech that is slurred
+Slurred speech
 
 Coma
 

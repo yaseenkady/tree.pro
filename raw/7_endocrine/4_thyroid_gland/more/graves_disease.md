@@ -8,15 +8,15 @@ Stress
 
 Pregnancy
 
-Genome HLA-DR3
+HLA-DR3
 
-Genome HLA-B8
+HLA-B8
 
 # >
 
-Antibody against thyroid stimulating hormone receptor
+Antibody for TSHR
 
-Goiter that is smooth and diffuse
+Smooth and diffuse goiter
 
 Myxedema
 

@@ -2,7 +2,7 @@
 
 # <
 
-Low intake of vitamin D
+Low diet vitamin D
 
 # >
 

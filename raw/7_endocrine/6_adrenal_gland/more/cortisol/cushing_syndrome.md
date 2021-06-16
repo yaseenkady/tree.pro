@@ -6,7 +6,7 @@ Obesity
 
 Stress
 
-Use of glucocorticoid
+Glucocorticoid
 
 # >
 
@@ -22,7 +22,7 @@ Weight gain
 
 Abdominal obesity
 
-Face that is round
+Round face
 
 Shoulder hump
 
@@ -42,7 +42,7 @@ Stretch mark
 
 Poor wound healing
 
-Bruising easily
+Easy bruising
 
 Infertility
 

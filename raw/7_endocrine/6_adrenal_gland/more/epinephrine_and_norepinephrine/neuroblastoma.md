@@ -10,7 +10,7 @@ Preschool child
 
 Abdominal swelling
 
-Abdominal mass that is crossing midline, firm, and irregular
+Crossing midline, firm, and irregular abdominal mass
 
 High blood catecholamine
 

@@ -4,7 +4,7 @@
 
 # >
 
-Goiter that is smooth and diffuse
+Smooth and diffuse goiter
 
 Headache
 

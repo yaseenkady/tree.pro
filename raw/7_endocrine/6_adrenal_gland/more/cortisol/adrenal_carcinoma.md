@@ -8,6 +8,6 @@ Adult
 
 # >
 
-Low blood adrenocorticotropic hormone
+Low blood ACTH
 
 Cushing syndrome

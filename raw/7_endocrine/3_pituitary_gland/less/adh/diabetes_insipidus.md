@@ -8,17 +8,17 @@ Insipidus means no taste.
 
 # >
 
-Peeing frequently
+Polyuria
 
 Low urine osmolality
 
 Low urine specific gravity
 
-Peeing at night
+Nocturia
 
-Sleeping trouble
+Trouble sleeping
 
-Thirsty
+Polydipsia
 
 Weight loss
 

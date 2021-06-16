@@ -8,23 +8,23 @@ Low blood cortisol
 
 Low blood aldosterone
 
-Low blood potassium
+Low blood K
 
 Weight loss
 
-Blood pressure decrease when standing up
+Orthostatic hypotension
 
-Light headed
+Dizziness
 
 Muscle weakness
 
-Tired
+Fatigue
 
 Myalgia
 
-Craving sugar
+Sugar craving
 
-Craving salt
+Salt craving
 
 Metabolic acidosis
 

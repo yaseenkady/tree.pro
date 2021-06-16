@@ -4,23 +4,23 @@
 
 # >
 
-Tired
+Fatigue
 
 Hyperglycemia
 
 High blood osmolality
 
-Dehydrated
+Dehydration
 
 High blood hemoglobin A1c
 
 High urine glucose
 
-Peeing frequently
+Polyuria
 
-Thirsty
+Polydipsia
 
-Hungry
+Polyphagia
 
 Weight loss
 

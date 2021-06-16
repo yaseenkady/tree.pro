@@ -6,6 +6,6 @@
 
 Low blood renin
 
-Hypertension that is refractory
+Refractory hypertension
 
 Hyperaldosteronism

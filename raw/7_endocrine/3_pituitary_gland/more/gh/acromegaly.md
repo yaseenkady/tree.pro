@@ -4,33 +4,33 @@
 
 Adult
 
-Genome GPR101
+GPR101
 
 # >
 
-Blood growth hormone
+High blood GH
 
-Blood insulin-like growth factor 1
-
-Blood growth hormone after glucose
+High blood IGF1
 
 Gigantism
 
-Tongue that is large with deep furrows
+Large and deep furrowed tongue
 
-Voice that is deep
+Deep voice
 
-Hand and foot that are big
+Big hand and foot
 
-Facial feature coarsening
+Coarsening facial feature
 
 Frontal bossing
 
-Sweating more
+Diaphoresis
 
 Colorectal polyp
 
 Cancer
+
+High blood GH after glucose
 
 Pituitary adenoma
 

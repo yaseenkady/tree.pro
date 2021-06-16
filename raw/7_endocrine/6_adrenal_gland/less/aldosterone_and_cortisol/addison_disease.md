@@ -10,17 +10,17 @@ Infection
 
 Cancer
 
-Use of medication
+Medication
 
-Use of ketoconazole
+Ketoconazole
 
-Use of metyrapone
+Metyrapone
 
-Use of aminoglutethimide
+Aminoglutethimide
 
-Use of mitotane
+Mitotane
 
-Use of etomidate
+Etomidate
 
 # >
 

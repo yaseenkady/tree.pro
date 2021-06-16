@@ -4,7 +4,7 @@
 
 # >
 
-Low urine calcium
+Low urine Ca
 
 Hypercalcemia
 

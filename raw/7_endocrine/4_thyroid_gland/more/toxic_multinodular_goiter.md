@@ -2,10 +2,10 @@
 
 # <
 
-Genome TSHR
+TSHR
 
 # >
 
-Goiter that is nodular
+Nodular goiter
 
 Hyperthyroidism

@@ -2,13 +2,13 @@
 
 # <
 
-Genome X
+X
 
 Female
 
 # >
 
-Neck webbing
+Webbed neck
 
 Heart disease
 

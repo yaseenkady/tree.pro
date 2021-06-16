@@ -4,4 +4,4 @@
 
 # >
 
-Low blood sodium
+Low blood Na

@@ -4,6 +4,6 @@
 
 # >
 
-Abdominal mass that is unilateral and smooth
+Unilateral and smooth abdominal mass
 
-Abdominal mass that is crossing midline, firm, and irregular
+Crossing midline, firm, and irregular abdominal mass

@@ -8,7 +8,7 @@ Autoimmunity
 
 # >
 
-Low blood parathyroid hormone
+Low blood PTH
 
 Chvostek sign
 

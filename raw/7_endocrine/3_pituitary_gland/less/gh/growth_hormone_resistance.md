@@ -2,18 +2,18 @@
 
 # <
 
-Genome GHR
+GHR
 
-Genome IGF1
+IGF1
 
-Genome IGF1R
+IGF1R
 
 # >
 
 Short
 
-High blood growth hormone
+High blood GH
 
-High blood insulin-like growth factor 1
+High blood IGF1
 
-Low blood insulin-like growth factor 1
+Low blood IGF1

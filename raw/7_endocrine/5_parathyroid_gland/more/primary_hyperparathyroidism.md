@@ -4,9 +4,9 @@
 
 # >
 
-Peeing frequently
+Polyuria
 
-Low blood phosphate
+Low blood PO4
 
 Muscle weakness
 

@@ -4,11 +4,11 @@ Hungry thyroid phenomenon.
 
 # <
 
-Low intake of iodine
+Low diet I
 
-Use of intravenous contrast
+Intravenous contrast
 
-Use of amiodarone
+Amiodarone
 
 # >
 

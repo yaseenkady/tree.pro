@@ -22,9 +22,9 @@ Adult
 
 # >
 
-High blood erythropoietin
+High blood EPO
 
-Sweating more
+Diaphoresis
 
 Weight loss
 
@@ -32,25 +32,25 @@ Vertigo
 
 Chest pain
 
-Abdominal epigastric pain
+Epigastric abdominal pain
 
 Fever
 
-Anxious
+Anxiousness
 
-Nervous
+Nervousness
 
 Visual deficit
 
-Headache that is sudden
+Paroxysmal headache
 
-Heart rate increase that is sudden
+Paroxysmal tachycardia
 
-Heart rate that is suddenly rapid, strong, or irregular
+Paroxysmal palpitation
 
-Blood pressure decrease when standing up
+Orthostatic hypotension
 
-Pale
+Pallor
 
 High blood catecholamine
 

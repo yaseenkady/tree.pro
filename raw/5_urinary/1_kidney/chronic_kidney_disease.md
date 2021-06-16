@@ -10,13 +10,13 @@ High blood creatine
 
 Low blood vitamin D
 
-High blood phosphate
+High blood PO4
 
-Tired
+Fatigue
 
 Edema
 
-Appetite loss
+Loss of appetite
 
 Nausea
 

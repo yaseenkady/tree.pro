@@ -2,15 +2,15 @@
 
 # <
 
-Genome CBS
+CBS
 
-Genome MTR
+MTR
 
-Low intake of B6
+Low diet vitamin B6
 
-Low intake of B9
+Low diet vitamin B9
 
-Low intake of B12
+Low diet vitamin B12
 
 # >
 

@@ -18,10 +18,10 @@ Low socioeconomic status
 
 Single
 
-Depressed
+Depression
 
 # >
 
-Tired
+Fatigue
 
-Sleepy
+Sleepiness

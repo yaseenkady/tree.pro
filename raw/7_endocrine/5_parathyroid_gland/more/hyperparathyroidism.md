@@ -4,10 +4,10 @@
 
 # >
 
-High blood parathyroid hormone
+High blood PTH
 
 Bone pain
 
-Neuropsychiatric overtone
+Psychiatric overtone
 
 Osteitis fibrosa cystica

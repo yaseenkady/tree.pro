@@ -4,9 +4,9 @@ Also called cretinism.
 
 # <
 
-Congenital defect
+Congenital disease
 
-Pale
+Pallor
 
 Protruding umbilicus
 

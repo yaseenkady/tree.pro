@@ -18,7 +18,7 @@ Adult
 
 # >
 
-Blood A fetoprotein
+High blood AFP
 
 Germ cell tumor
 

@@ -2,8 +2,8 @@
 
 # <
 
-High intake of potassium
+High diet K
 
 # >
 
-High blood potassium
+High blood K

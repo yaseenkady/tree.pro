@@ -2,17 +2,17 @@
 
 # <
 
-High intake of calcium
+High diet Ca
 
-High intake of vitamin D
+High diet vitamin D
 
 Cancer
 
 # >
 
-High blood calcium
+High blood Ca
 
-High urine calcium
+High urine Ca
 
 Acute pancreatitis
 

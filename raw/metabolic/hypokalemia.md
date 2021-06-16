@@ -2,10 +2,10 @@
 
 # <
 
-Low intake of potassium
+Low diet K
 
 # >
 
-Low blood potassium
+Low blood K
 
 Nephrogenic diabetes insipidus

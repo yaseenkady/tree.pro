@@ -6,9 +6,9 @@ Young adult
 
 Adult
 
-Genome RET
+RET
 
-Genome MEN2A
+MEN2A
 
 # >
 

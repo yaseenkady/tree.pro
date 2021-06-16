@@ -6,4 +6,4 @@ Common
 
 # >
 
-Sleeping with movement
+Movement during sleep

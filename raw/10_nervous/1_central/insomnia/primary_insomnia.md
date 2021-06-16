@@ -16,7 +16,7 @@ Low socioeconomic status
 
 Single
 
-Depressed
+Depression
 
 # >
 

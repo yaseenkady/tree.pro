@@ -2,9 +2,9 @@
 
 # <
 
-Genome PRKARIA
+PRKARIA
 
-Genome PDE11
+PDE11
 
 # >
 

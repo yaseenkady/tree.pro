@@ -6,7 +6,7 @@ Infant
 
 Infection
 
-Use of anticoagulant
+Anticoagulant
 
 # >
 

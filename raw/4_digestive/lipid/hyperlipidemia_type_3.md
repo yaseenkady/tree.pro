@@ -4,11 +4,11 @@ Familial dysbetalipoproteinemia.
 
 # <
 
-Genome APOE
+APOE
 
 # >
 
-High blood BVLDL
+High blood bVLDL
 
 High blood IDL
 
@@ -16,7 +16,7 @@ High blood cholesterol
 
 High blood triglyceride
 
-Serum that is turbid
+Turbid serum
 
 Tuberous xanthoma
 

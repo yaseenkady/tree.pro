@@ -14,16 +14,16 @@ Endemic
 
 Exposure to toxin
 
-Use of alcohol
+Alcohol
 
-Use of medication
+Medication
 
-Use of tylenol
+Acetaminophen
 
-Use of isoniazid
+Isoniazid
 
 # >
 
-Flu-like symptoms
+Flu like symptoms
 
 Hepatitis

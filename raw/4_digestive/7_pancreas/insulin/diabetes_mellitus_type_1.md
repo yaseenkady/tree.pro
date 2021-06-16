@@ -8,13 +8,13 @@ Young adult
 
 Autoimmunity
 
-Genome HLA-DR3
+HLA-DR3
 
-Genome HLA-DR4
+HLA-DR4
 
 # >
 
-Antibody against pancreatic B cell
+Antibody for pancreatic B cell
 
 Low blood insulin
 

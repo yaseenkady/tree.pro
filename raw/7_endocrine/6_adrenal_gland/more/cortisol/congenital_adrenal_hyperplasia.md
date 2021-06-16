@@ -4,6 +4,6 @@
 
 # >
 
-Growing fast
+Fast development
 
 Cushing syndrome

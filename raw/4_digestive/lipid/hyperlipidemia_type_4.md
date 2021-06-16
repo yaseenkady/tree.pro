@@ -6,7 +6,7 @@ Familial hypertriglyceridemia.
 
 Common
 
-Use of estrogen
+Estrogen
 
 # >
 
@@ -16,6 +16,6 @@ High blood cholesterol
 
 High blood triglyceride
 
-Serum that is turbid
+Turbid serum
 
 Acute pancreatitis

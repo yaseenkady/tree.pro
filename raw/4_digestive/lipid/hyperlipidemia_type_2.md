@@ -2,7 +2,7 @@
 
 # <
 
-Genome LDLR
+LDLR
 
 # >
 

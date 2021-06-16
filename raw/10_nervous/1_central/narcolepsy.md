@@ -4,6 +4,6 @@
 
 # >
 
-Sleepy
+Sleepiness
 
-Tired
+Fatigue

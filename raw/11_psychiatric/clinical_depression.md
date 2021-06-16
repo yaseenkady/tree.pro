@@ -2,14 +2,12 @@
 
 # <
 
-Loss of person
-
 Postpartum
 
-Depressed
+Depression
 
 # >
 
-Tired
+Fatigue
 
 Loss of interest

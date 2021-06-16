@@ -2,6 +2,6 @@
 
 # <
 
-Use of electrolyte
+Electrolyte
 
 # >

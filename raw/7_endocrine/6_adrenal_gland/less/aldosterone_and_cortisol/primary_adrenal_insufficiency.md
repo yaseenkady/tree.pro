@@ -4,6 +4,6 @@
 
 # >
 
-Skin darkening
+Hyperpigmentation
 
 Adrenal insufficiency

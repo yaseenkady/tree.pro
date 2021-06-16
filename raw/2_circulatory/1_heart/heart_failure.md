@@ -4,23 +4,23 @@
 
 # >
 
-Tired
+Fatigue
 
-Peeing at night
+Nocturia
 
 Dyspnea
 
-Dyspnea that is sudden at night
+Nocturnal paroxysmal dyspnea
 
 Jagular venous distention
 
 S3 gallop
 
-Dyspnea when lying down
+Orthopnea
 
-Dyspnea after bending
+Bendopnea
 
-Edema that is pitting
+Non-pitting edema
 
 Secondary hyperaldosteronism
 

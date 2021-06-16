@@ -6,23 +6,23 @@ Head trauma
 
 Brain disease
 
-Use of selective serotonin reuptake inhibitor
+SSRI
 
-Use of carbamazepine
+Carbamazepine
 
-Use of cyclophosphamide
+Cyclophosphamide
 
 # >
 
-High blood antidiuretic hormone
+High blood ADH
 
 Low blood aldosterone
 
-High blood atrium natriuretic peptide
+High blood ANP
 
-High blood brain natriuretic peptide
+High blood BNP
 
-High urine sodium
+High urine Na
 
 High urine osmolality
 
@@ -36,7 +36,7 @@ Nausea
 
 Vomiting
 
-Depressed
+Depression
 
 Osmotic demyelination syndrome
 

@@ -8,11 +8,11 @@ Elderly
 
 Exposure to radiation
 
-Genome TP53
+TP53
 
 # >
 
-Goiter that is nodular
+Nodular goiter
 
 Hoarseness
 

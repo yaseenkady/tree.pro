@@ -4,9 +4,9 @@
 
 # >
 
-High blood adrenocorticotropic hormone
+High blood ACTH
 
-Skin darkening
+Hyperpigmentation
 
 Cushing syndrome
 

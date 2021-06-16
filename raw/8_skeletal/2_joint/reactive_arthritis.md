@@ -4,7 +4,7 @@ Reiter syndrome.
 
 # <
 
-Genome HLA-B27
+HLA-B27
 
 Adult
 

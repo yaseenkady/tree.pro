@@ -8,23 +8,23 @@ Head trauma
 
 # >
 
-Thirsty
+Polydipsia
 
-Peeing frequently
+Polyuria
 
 Low urine osmolality
 
 Low urine specific gravity
 
-Peeing at night
+Nocturia
 
-Sleeping trouble
+Trouble sleeping
 
 Nausea
 
 Vomiting
 
-Low blood antidiuretic hormone
+Low blood ADH
 
 Weight gain
 

@@ -4,12 +4,12 @@ Familial hypercholesterolemia.
 
 # <
 
-Genome LDLR
+LDLR
 
 Common
 
 # >
 
-Serum that is clear
+Clear serum
 
 Hyperlipidemia type 2

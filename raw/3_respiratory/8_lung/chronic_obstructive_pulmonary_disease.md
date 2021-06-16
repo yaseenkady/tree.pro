@@ -8,6 +8,6 @@ Smoking
 
 Dyspnea
 
-Tired
+Fatigue
 
 Cachexia

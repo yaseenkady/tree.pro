@@ -8,23 +8,23 @@ Pregnancy
 
 Lactation
 
-Sexual activity
+High sexual activity
 
-Use of antihypertensive
+Antihypertensive
 
-Use of psychotropic
+Psychotropic
 
-Use of estrogen
+Estrogen
 
-Use of opiate
+Recreational drug
 
-Use of cocaine
+Recreational drug
 
 # >
 
 High blood prolactin
 
-Puberty that is late
+Late puberty
 
 Amenorrhea
 

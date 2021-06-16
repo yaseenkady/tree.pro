@@ -8,7 +8,7 @@ Middle aged
 
 Elderly
 
-Use of glucocorticoid
+Glucocorticoid
 
 # >
 

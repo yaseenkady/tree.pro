@@ -2,10 +2,10 @@
 
 # <
 
-Use of glucocorticoid
+Glucocorticoid
 
 # >
 
-Low blood corticotropin releasing hormone
+Low blood CRH
 
 Secondary adrenal insufficiency

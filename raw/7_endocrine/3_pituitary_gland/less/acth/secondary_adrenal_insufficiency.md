@@ -4,6 +4,6 @@
 
 # >
 
-Low blood adrenocorticotropic hormone
+Low blood ACTH
 
 Adrenal insufficiency

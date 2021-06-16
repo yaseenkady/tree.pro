@@ -4,15 +4,15 @@
 
 # >
 
-Feeling hot
+Heat intolerance
 
-Sweating more
+Diaphoresis
 
 Weight loss
 
-Skin that is moist and warm
+Moist and warm skin
 
-Hair that is fine
+Fine hair
 
 Onycholysis
 
@@ -20,7 +20,7 @@ Lid lag
 
 Diarrhea
 
-Hungry
+Polyphagia
 
 Uterine bleeding
 
@@ -28,27 +28,27 @@ Gynecomastia
 
 Low libido
 
-Restless
+Restlessness
 
-Anxious
+Anxiousness
 
-Tremor that is fine
+Fine tremor
 
 Hyperreflexia
 
-Heart rate increase
+Tachycardia
 
-Heart rate that is rapid, strong, or irregular
+Palpitation
 
 Dyspnea
 
 Chest pain
 
-Growing fast
+Fast development
 
-Low blood thyroid stimulating hormone
+Low blood TSH
 
-High blood free thyroxine
+High blood free T4
 
 High blood free T3
 

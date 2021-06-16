@@ -4,18 +4,18 @@
 
 # >
 
-Tired
+Fatigue
 
-Antibody against nucleic acid
+Antibody for nucleic acid
 
-Blood rheumatoid factor
+High blood RF
 
-Antibody against cyclic citrullinated peptide
+Antibody for CCP
 
-Erythrocyte sedimentation rate
+High ESR
 
-Blood C reactive protein
+High blood CRP
 
-Blood white blood cell
+High blood WBC
 
 Arthritis

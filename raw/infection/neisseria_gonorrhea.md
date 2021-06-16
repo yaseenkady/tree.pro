@@ -2,11 +2,11 @@
 
 # <
 
-Sexual activity
+High sexual activity
 
 # >
 
-Peeing trouble
+Dysuria
 
 Genital discharge
 

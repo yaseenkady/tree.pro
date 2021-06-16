@@ -8,8 +8,8 @@ Hand defect
 
 Short
 
-Face that is round
+Round face
 
 Subcutaneous calcification
 
-Growing slow
+Slow development

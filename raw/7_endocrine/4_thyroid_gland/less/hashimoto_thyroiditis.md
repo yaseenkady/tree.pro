@@ -8,15 +8,15 @@ Common
 
 Postpartum
 
-Genome HLA-DR3
+HLA-DR3
 
 # >
 
-Goiter that is smooth and diffuse
+Smooth and diffuse goiter
 
-Antibody against thyroid peroxidase
+Antibody for thyroid peroxidase
 
-Antibody against thyroglobulin
+Antibody for thyroglobulin
 
 Lymphoma
 

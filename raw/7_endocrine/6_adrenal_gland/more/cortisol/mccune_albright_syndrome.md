@@ -2,7 +2,7 @@
 
 # <
 
-Genome GNAS
+GNAS
 
 # >
 

@@ -4,4 +4,4 @@
 
 # >
 
-High blood red blood cell
+High blood RBC

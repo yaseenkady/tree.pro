@@ -2,7 +2,7 @@
 
 # <
 
-Genome VHL
+VHL
 
 # >
 

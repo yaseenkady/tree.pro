@@ -2,15 +2,15 @@
 
 # <
 
-Low intake of iron
+Low diet Fe
 
 # >
 
-Tired
+Fatigue
 
 Dyspnea
 
-Conjunctiva that is pale
+Pale conjunctiva
 
 Low blood hemoglobin
 

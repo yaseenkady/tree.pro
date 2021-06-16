@@ -4,7 +4,7 @@
 
 # >
 
-High blood adrenocorticotropic hormone
+High blood ACTH
 
 Syndrome of inappropriate antidiuretic hormone secretion
 

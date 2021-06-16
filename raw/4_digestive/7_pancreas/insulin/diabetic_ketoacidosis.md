@@ -2,9 +2,9 @@
 
 # <
 
-Not-miss
+Not miss
 
-Precipitating factor
+Stress
 
 Infection
 
@@ -24,15 +24,15 @@ High blood ketone
 
 High urine ketone
 
-Breath with fruity smell
+Sweet breath
 
 Anion gap metabolic acidosis
 
-Breathing more
+Hyperventilation
 
 Kussmaul respiration
 
-Heart rate increase
+Tachycardia
 
 Mental status change
 

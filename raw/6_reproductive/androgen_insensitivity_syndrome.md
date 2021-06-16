@@ -4,16 +4,16 @@ Fail to develop male characteristics.
 
 # <
 
-Genome XY
+XY
 
-Genome AR
+AR
 
 Adolescent
 
 # >
 
-Axillary hair absence
+Absent axillary hair
 
-Pubic hair absence
+Absent pubic hair
 
 Cryptorchidism

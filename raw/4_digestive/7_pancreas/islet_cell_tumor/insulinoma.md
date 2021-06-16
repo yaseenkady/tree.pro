@@ -8,6 +8,6 @@ Common
 
 High blood insulin
 
-Hypoglycemia that is episodic
+Episodic hypoglycemia
 
 Islet cell tumor

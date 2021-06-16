@@ -4,11 +4,11 @@ Familial combined hyperlipidemia.
 
 # <
 
-Genome LDLR
+LDLR
 
 Common
 
-Genome APOB
+APOB
 
 # >
 
@@ -16,7 +16,7 @@ High blood VLDL
 
 High blood triglyceride
 
-Serum that is turbid
+Turbid serum
 
 Acute pancreatitis
 

@@ -4,13 +4,13 @@ Mixure of hyperlipidemia type 1 and type 4.
 
 # <
 
-Genome LPL
+LPL
 
 Stress
 
-Use of glucocorticoid
+Glucocorticoid
 
-Use of alcohol
+Alcohol
 
 # >
 
@@ -22,6 +22,6 @@ High blood cholesterol
 
 High blood triglyceride
 
-Serum with creamy top
+Creamy-top serum
 
 Acute pancreatitis

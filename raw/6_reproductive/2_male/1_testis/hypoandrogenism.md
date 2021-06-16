@@ -2,7 +2,7 @@
 
 # <
 
-Use of chemotherapy
+Chemotherapy
 
 # >
 
@@ -10,10 +10,6 @@ Erectile dysfunction
 
 Low libido
 
-Testes that are small
-
-Blood follicle stimulating hormone
-
-Blood leutenizing hormone
+Small testis
 
 Low blood testosterone

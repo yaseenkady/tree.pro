@@ -8,10 +8,10 @@ Adult
 
 Gynecomastia
 
-Blood A fetoprotein
+High blood AFP
 
-Blood B human chorionic gonadotropin
+High blood BHCG
 
-Blood lactate dehydrogenase
+High blood LDH
 
 Testicular tumor
