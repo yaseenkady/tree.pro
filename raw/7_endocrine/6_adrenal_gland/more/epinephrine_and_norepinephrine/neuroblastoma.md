@@ -6,23 +6,11 @@ Similar to medulloblastoma.
 
 Preschool child
 
-(Originates from neural crest cell.)
-
-(Occurs anywhere along the sympathetic chain.)
-
 # >
 
 Abdominal swelling
 
-Firm mass
-
-Irregular mass
-
-Bilateral mass
-
-(Pheochromocytoma causes this more.)
-
-(Increased norepinephrine and epinephrine.)
+Abdominal mass that is crossing midline, firm, and irregular
 
 High blood catecholamine
 

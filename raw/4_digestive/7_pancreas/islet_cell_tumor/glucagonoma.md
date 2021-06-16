@@ -2,8 +2,6 @@
 
 # <
 
-(Originates from pancreatic A cell.)
-
 # >
 
 High blood glucagon

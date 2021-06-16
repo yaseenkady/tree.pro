@@ -4,7 +4,7 @@ Hyperthyroidism crisis.
 
 # <
 
-Not miss
+Not-miss
 
 Precipitating factor
 
@@ -23,5 +23,3 @@ Delirium
 Coma
 
 Fever
-
-Death

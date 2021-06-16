@@ -4,9 +4,7 @@
 
 # >
 
-(The most common cause of secondary hyperparathyroidism.)
-
-Lesion in bone
+Bone pain
 
 Secondary hyperparathyroidism
 

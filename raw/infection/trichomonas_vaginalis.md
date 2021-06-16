@@ -4,4 +4,4 @@
 
 # >
 
-Vaginal trichomoniasis
+Vaginitis

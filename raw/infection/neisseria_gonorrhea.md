@@ -10,13 +10,11 @@ Peeing trouble
 
 Genital discharge
 
+Rash
+
 Urethritis
 
 Tenosynovitis
-
-Rash
-
-(Common.)
 
 Uveitis
 

@@ -4,8 +4,6 @@
 
 Common
 
-(The most common cause.)
-
 Stress
 
 Pregnancy
@@ -18,16 +16,12 @@ Genome HLA-B8
 
 Antibody against thyroid stimulating hormone receptor
 
-Goiter that is diffuse
+Goiter that is smooth and diffuse
 
-Pretibial myxedema
-
-(Antibody stimulates dermal fibroblast.)
-
-Graves orbitopathy
-
-(Antibody stimulates orbital fibroblast.)
+Myxedema
 
 Proptosis
+
+Graves orbitopathy
 
 Hyperthyroidism

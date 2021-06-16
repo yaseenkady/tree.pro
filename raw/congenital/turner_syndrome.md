@@ -6,30 +6,16 @@ Genome X
 
 Female
 
-(1 in 2000.)
-
 # >
 
 Neck webbing
 
-(25%.)
-
 Heart disease
-
-(55%.)
 
 Kidney disease
 
-(39%.)
-
-Gonadal failure
-
-(96%.)
+Gonadal disease
 
 Short
 
-(100%.)
-
 Cubitus valgus
-
-(47%.)

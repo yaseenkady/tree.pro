@@ -8,13 +8,9 @@ Stress
 
 Use of glucocorticoid
 
-(The most common cause of Cushing syndrome in the US.)
-
 # >
 
 High blood cortisol
-
-(100mcg/24hr.)
 
 High urine cortisol
 
@@ -38,21 +34,19 @@ Amenorrhea
 
 Erectile dysfunction
 
-Infertility
-
 Immunodeficiency
 
-Osteoperosis
-
 Short
-
-(In children.)
 
 Stretch mark
 
 Poor wound healing
 
 Bruising easily
+
+Infertility
+
+Osteoperosis
 
 Diabetes mellitus type 2
 

@@ -4,8 +4,6 @@
 
 Use of glucocorticoid
 
-(Withdraw.)
-
 # >
 
 Low blood corticotropin releasing hormone

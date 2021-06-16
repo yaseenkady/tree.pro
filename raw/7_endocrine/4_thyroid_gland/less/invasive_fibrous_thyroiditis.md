@@ -1,6 +1,6 @@
 # .
 
-Also called Riedel thyroiditis.
+Riedel thyroiditis.
 
 # <
 
@@ -8,14 +8,12 @@ Autoimmunity
 
 # >
 
-(In 1/3 cases.)
+Goiter that is nodular
 
-(Fibrosis of neighboring structures.)
+Hoarseness
 
-Thyroid enlargement
+Breathing trouble
 
-Thyroid that is nontender
-
-Thyroid mass that is hard
+Dysphagia
 
 Hypothyroidism

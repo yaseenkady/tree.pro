@@ -8,11 +8,11 @@ Zollinger-Ellison syndrome.
 
 High blood gastrin
 
-Intestinal ulcer disease
-
 Abdominal pain
 
 Diarrhea
+
+Intestinal ulcer disease
 
 Islet cell tumor
 

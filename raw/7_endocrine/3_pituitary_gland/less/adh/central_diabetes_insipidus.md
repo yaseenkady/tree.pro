@@ -2,14 +2,10 @@
 
 # <
 
-Idiopathic
-
-Sarcoidosis
-
-Trauma in head
+Head trauma
 
 # >
 
 Low blood antidiuretic hormone
 
-Diabetic insipidus
+Diabetes insipidus

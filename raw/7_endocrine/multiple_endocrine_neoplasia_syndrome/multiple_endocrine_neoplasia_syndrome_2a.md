@@ -8,11 +8,7 @@ Adult
 
 Genome RET
 
-(Autosomal dominant.)
-
 Genome MEN2A
-
-(Autosomal dominant.)
 
 # >
 

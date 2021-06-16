@@ -2,8 +2,6 @@
 
 # <
 
-(1 in 1000000 people.)
-
 Adolescent
 
 Young adult
@@ -24,10 +22,4 @@ Spleen enlargement
 
 Xanthoma that is eruptive
 
-Coagulopathy
-
-Pancreatitis
-
-Thrombocytopenia
-
-Hemolytic anemia
+Acute pancreatitis

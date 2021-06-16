@@ -4,8 +4,6 @@
 
 Exposure to radiation
 
-Sarcoidosis
-
 Brain disease
 
 # >

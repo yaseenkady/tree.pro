@@ -10,7 +10,7 @@ Stress
 
 Use of glucocorticoid
 
-Intake of alcohol
+Use of alcohol
 
 # >
 
@@ -24,4 +24,4 @@ High blood triglyceride
 
 Serum with creamy top
 
-Pancreatitis
+Acute pancreatitis

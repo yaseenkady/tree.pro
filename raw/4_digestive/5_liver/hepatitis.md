@@ -42,8 +42,6 @@ Spider angioma
 
 High blood alanine aminotransferase
 
-(The most specific test for hepatocyte damage.)
-
 High blood aspartate aminotransferase
 
 High blood bilirubin

@@ -2,8 +2,6 @@
 
 # <
 
-(Originates from pancreatic D cell.)
-
 # >
 
 High blood somatostatin

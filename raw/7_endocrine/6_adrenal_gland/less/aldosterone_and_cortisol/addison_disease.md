@@ -4,23 +4,11 @@
 
 Autoimmunity
 
-(The most common cause in the developed world.)
-
 Immunodeficiency
 
 Infection
 
-Metastasis to adrenal gland
-
-(Common cause.)
-
-Lymphoma
-
-Sarcoidosis
-
-Amyloidosis
-
-Hemochromatosis
+Cancer
 
 Use of medication
 
@@ -35,7 +23,5 @@ Use of mitotane
 Use of etomidate
 
 # >
-
-(Chronic.)
 
 Primary adrenal insufficiency

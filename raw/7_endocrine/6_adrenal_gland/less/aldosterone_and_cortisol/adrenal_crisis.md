@@ -8,8 +8,6 @@ Use of glucocorticoid
 
 # >
 
-(Acute.)
-
 Abdominal pain
 
 Appetite loss

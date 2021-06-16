@@ -4,8 +4,6 @@
 
 Common
 
-(1/3 of US population.)
-
 Low socioeconomic status
 
 Non-White
@@ -13,5 +11,7 @@ Non-White
 Obesity
 
 # >
+
+High blood pressure
 
 Obstructive sleep apnea

@@ -4,8 +4,6 @@ Familial dysbetalipoproteinemia.
 
 # <
 
-(1 in 10000 people.)
-
 Genome APOE
 
 # >
@@ -24,4 +22,4 @@ Tuberous xanthoma
 
 Palmar xanthoma
 
-Pancreatitis
+Acute pancreatitis

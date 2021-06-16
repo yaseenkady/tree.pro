@@ -4,8 +4,6 @@
 
 # >
 
-(Refractory.)
-
 Hyperparathyroidism
 
 Hypercalcemia

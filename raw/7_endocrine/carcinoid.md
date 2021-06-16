@@ -6,11 +6,7 @@ Neuroendocrine tumor of the gastrointestinal system and lung.
 
 Common
 
-(The most common neuroendocrine tumor.)
-
 # >
-
-(1/3 metastasizes, 1/3 results in multiple tumors, and 1/3 occurs with another cancer.)
 
 High blood adrenocorticotropic hormone
 
@@ -32,7 +28,7 @@ Wheezing
 
 Tricuspid regurgitation
 
-Pulmonic stenosis
+Pulmonary valve stenosis
 
 Islet cell tumor
 

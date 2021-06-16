@@ -6,8 +6,6 @@ Endodermal sinus tumor.
 
 Common
 
-(The most common in infants and preschool children.)
-
 Infant
 
 Preschool child
@@ -19,8 +17,6 @@ Young adult
 Adult
 
 # >
-
-(In young adult and adult.)
 
 Blood A fetoprotein
 

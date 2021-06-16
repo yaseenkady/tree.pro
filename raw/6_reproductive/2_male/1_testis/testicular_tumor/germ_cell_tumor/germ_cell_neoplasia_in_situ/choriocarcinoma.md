@@ -2,8 +2,6 @@
 
 # <
 
-(Originates from syncytiotrophoblast and cytotrophoblast.)
-
 Adolescent
 
 Young adult

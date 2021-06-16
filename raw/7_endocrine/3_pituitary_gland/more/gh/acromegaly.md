@@ -6,25 +6,15 @@ Adult
 
 Genome GPR101
 
-(Gain of function causes early onset X-linked acrogigantism.)
-
 # >
 
 Blood growth hormone
 
-(High.)
-
 Blood insulin-like growth factor 1
-
-(High.)
 
 Blood growth hormone after glucose
 
-(High.)
-
 Gigantism
-
-(In children.)
 
 Tongue that is large with deep furrows
 

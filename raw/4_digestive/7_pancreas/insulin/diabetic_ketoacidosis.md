@@ -4,8 +4,6 @@
 
 Not-miss
 
-(Mortality 5% in adult and 20% in elderly.)
-
 Precipitating factor
 
 Infection
@@ -36,15 +34,13 @@ Kussmaul respiration
 
 Heart rate increase
 
-(Blood potassium increases but the total potassium decreases. Decreased Na-K ATPase activity and acidosis shifts potassium out of the cells. Osmotic diuresis excretes potassium.)
-
-Arrhythmia
-
 Mental status change
 
 Delirium
 
 Leukocytosis
+
+Arrhythmia
 
 Hyperkalemia
 

@@ -6,8 +6,6 @@ Neoplasm secreting catacholamines.
 
 10% extra adrenal.
 
-(Bladder wall.)
-
 10% malignant and metastasizes.
 
 10% not associated with hypertension.
@@ -18,21 +16,13 @@ Neoplasm secreting catacholamines.
 
 Common
 
-(The most common tumor of the adrenal medulla in adult.)
-
-Children
-
-(10%.)
+Child
 
 Adult
-
-(70-80% sporadic.)
 
 # >
 
 High blood erythropoietin
-
-Polycythemia
 
 Sweating more
 
@@ -58,23 +48,17 @@ Heart rate increase that is sudden
 
 Heart rate that is suddenly rapid, strong, or irregular
 
-(Common.)
-
 Blood pressure decrease when standing up
 
-(Reduced response to catacholamines.)
-
-Pallor
-
-Sweating
+Pale
 
 High blood catecholamine
 
 High urine catecholamine
 
-Cardiac hypertrophy
+Polycythemia
 
-(Even in the absence of coronary artery disease.)
+Cardiac hypertrophy
 
 Hypertension
 

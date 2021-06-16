@@ -2,8 +2,6 @@
 
 # <
 
-(Originates from primary spermatocyte.)
-
 Elderly
 
 # >

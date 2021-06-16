@@ -8,11 +8,7 @@ Adult
 
 Genome MEN1
 
-(Autosomal dominant.)
-
 # >
-
-(Prolactinoma or growth hormonoma.)
 
 Pituitary adenoma
 

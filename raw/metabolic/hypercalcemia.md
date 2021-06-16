@@ -14,8 +14,8 @@ High blood calcium
 
 High urine calcium
 
-Kidney stone
-
 Acute pancreatitis
 
-Nephrotic diabetes insipidus
+Nephrogenic diabetes insipidus
+
+Kidney stone

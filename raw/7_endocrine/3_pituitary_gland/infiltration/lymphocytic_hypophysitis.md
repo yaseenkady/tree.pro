@@ -2,8 +2,6 @@
 
 # <
 
-(Lymphocytes in neurohypophysis.)
-
 Pregnancy
 
 Peripartum

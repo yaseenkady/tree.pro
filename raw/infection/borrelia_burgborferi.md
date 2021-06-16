@@ -4,13 +4,13 @@
 
 # >
 
+Rash
+
 Polyneuropathy
 
 Mononeuritis multiplex
 
 Chronic encephalomyelitis
-
-Rash
 
 Peripheral neuropathy
 

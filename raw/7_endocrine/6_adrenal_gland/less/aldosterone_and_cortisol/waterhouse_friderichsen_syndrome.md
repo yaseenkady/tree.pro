@@ -4,15 +4,11 @@
 
 Infant
 
-(Due to coagulation deficiency.)
-
 Infection
 
 Use of anticoagulant
 
 # >
-
-(Bilateral adrenal hemorrhage.)
 
 Fever
 

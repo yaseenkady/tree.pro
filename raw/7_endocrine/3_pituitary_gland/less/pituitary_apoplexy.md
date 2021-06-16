@@ -2,19 +2,13 @@
 
 # <
 
-Trauma in head
-
-(Hemorrhage in pituitary gland.)
+Head trauma
 
 # >
 
 Headache
 
-(Sudden and severe.)
-
 Visual deficit
-
-(Bitemporal hemianopia, diplopia, or cranial nerve 3 palsy.)
 
 Nauseated
 

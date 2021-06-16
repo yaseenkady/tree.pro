@@ -8,7 +8,7 @@ Pregnancy
 
 Lactation
 
-High sexual activity
+Sexual activity
 
 Use of antihypertensive
 
@@ -26,16 +26,8 @@ High blood prolactin
 
 Puberty that is late
 
-(In child.)
-
 Amenorrhea
-
-(In adult female.)
 
 Erectile dysfunction
 
-(In adult male.)
-
 Infertility
-
-(In adult female.)

@@ -5,5 +5,3 @@
 # >
 
 Strawberry cervix
-
-(2%.)

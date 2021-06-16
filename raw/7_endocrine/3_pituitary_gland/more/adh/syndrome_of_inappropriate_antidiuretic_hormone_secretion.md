@@ -2,9 +2,7 @@
 
 # <
 
-Ectopic
-
-Trauma in head
+Head trauma
 
 Brain disease
 
@@ -29,8 +27,6 @@ High urine sodium
 High urine osmolality
 
 Low blood osmolality
-
-(From increased sodium secretion and water retention.)
 
 Muscle cramp
 
