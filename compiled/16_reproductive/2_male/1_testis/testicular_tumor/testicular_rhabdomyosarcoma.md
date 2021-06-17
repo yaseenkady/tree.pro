@@ -1,4 +1,0 @@
-
-# Sign
-
-Testicular mass

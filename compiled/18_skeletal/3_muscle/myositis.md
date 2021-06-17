@@ -1,4 +1,0 @@
-
-# Symptom
-
-Fatigue

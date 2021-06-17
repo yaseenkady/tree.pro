@@ -1,6 +1,0 @@
-
-# Sign
-
-Short
-
-Short limb

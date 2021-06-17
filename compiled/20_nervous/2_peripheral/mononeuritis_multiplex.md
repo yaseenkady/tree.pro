@@ -1,4 +1,0 @@
-
-# Cause
-
-Borrelia Burgborferi

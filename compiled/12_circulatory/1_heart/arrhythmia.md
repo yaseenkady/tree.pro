@@ -1,6 +1,0 @@
-
-# Cause
-
-Diabetic Ketoacidosis
-
-Hyperthyroidism

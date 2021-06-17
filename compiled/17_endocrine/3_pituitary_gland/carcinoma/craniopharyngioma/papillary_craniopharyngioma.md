@@ -1,4 +1,0 @@
-
-# Epidemiology
-
-Elderly

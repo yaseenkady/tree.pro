@@ -1,4 +1,0 @@
-
-# Cause
-
-Diabetes Mellitus

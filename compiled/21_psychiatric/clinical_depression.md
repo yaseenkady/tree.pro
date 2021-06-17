@@ -1,8 +1,0 @@
-
-# Epidemiology
-
-Postpartum
-
-# Symptom
-
-Fatigue

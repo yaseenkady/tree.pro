@@ -1,6 +1,0 @@
-
-# Sign
-
-Fever
-
-Rash

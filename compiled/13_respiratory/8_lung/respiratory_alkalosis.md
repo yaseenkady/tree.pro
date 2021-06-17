@@ -1,4 +1,0 @@
-
-# Diagnostic
-
-High blood pH

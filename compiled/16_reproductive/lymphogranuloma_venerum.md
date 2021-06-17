@@ -1,8 +1,0 @@
-
-# Cause
-
-Chlamydia
-
-# Sign
-
-Lymphadenopathy
