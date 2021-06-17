@@ -4,9 +4,9 @@
 
 # >
 
-Hypercalcemia
+HYPERCALCEMIA
 
-Hyperparathyroidism
+HYPERPARATHYROIDISM
 
 Constipation
 

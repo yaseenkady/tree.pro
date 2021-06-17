@@ -4,7 +4,7 @@
 
 # >
 
-Seizure
+SEIZURE
 
 Lethargy
 

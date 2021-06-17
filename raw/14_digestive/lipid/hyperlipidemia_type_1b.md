@@ -12,4 +12,4 @@ APOC2
 
 # >
 
-Hyperlipidemia type 1
+HYPERLIPIDEMIA TYPE 1

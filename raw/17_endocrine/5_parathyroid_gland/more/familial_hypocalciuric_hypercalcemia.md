@@ -4,8 +4,8 @@
 
 # >
 
-Hypercalcemia
+HYPERCALCEMIA
 
-Hyperparathyroidism
+HYPERPARATHYROIDISM
 
 Low urine Ca

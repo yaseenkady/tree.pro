@@ -4,10 +4,10 @@
 
 # >
 
-Addison disease
+ADDISON DISEASE
 
-Central diabetes insipidus
+CENTRAL DIABETES INSIPIDUS
 
-Hypopituitarism
+HYPOPITUITARISM
 
-Orchitis
+ORCHITIS

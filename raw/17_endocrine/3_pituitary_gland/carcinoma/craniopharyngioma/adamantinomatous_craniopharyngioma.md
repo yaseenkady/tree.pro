@@ -12,4 +12,4 @@ Adolescent
 
 # >
 
-Craniopharyngioma
+CRANIOPHARYNGIOMA

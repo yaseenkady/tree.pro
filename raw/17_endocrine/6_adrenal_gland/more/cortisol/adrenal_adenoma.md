@@ -6,10 +6,10 @@ Adult
 
 # >
 
-Adrenogenital virilizing syndrome
+ADRENOGENITAL VIRILIZING SYNDROME
 
-Conn syndrome
+CONN SYNDROME
 
-Cushing syndrome
+CUSHING SYNDROME
 
 Low blood ACTH

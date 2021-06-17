@@ -6,9 +6,9 @@ Maternal transmission
 
 # >
 
-Hypoglycemia
+HYPOGLYCEMIA
 
-Polycythemia vera
+POLYCYTHEMIA
 
 Macrosomia
 

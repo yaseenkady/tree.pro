@@ -4,4 +4,4 @@
 
 # >
 
-Vaginitis
+VAGINITIS

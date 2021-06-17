@@ -4,4 +4,4 @@
 
 # >
 
-Reactive arthritis
+REACTIVE ARTHRITIS

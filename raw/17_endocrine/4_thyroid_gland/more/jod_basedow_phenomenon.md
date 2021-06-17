@@ -12,4 +12,4 @@ Low diet I
 
 # >
 
-Hyperthyroidism
+HYPERTHYROIDISM

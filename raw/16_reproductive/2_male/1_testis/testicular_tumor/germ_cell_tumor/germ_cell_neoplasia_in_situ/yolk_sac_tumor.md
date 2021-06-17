@@ -18,8 +18,8 @@ Adult
 
 # >
 
-Embryonal carcinoma
+EMBRYONAL CARCINOMA
 
-Germ cell tumor
+GERM CELL TUMOR
 
 High blood AFP

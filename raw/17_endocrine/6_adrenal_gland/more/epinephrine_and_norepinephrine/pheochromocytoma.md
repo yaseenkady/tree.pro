@@ -22,13 +22,13 @@ Adult
 
 # >
 
-Cardiac hypertrophy
+CARDIAC HYPERTROPHY
 
-Hypertension
+HYPERTENSION
 
-Myocardial infarction
+MYOCARDIAL INFARCTION
 
-Polycythemia
+POLYCYTHEMIA
 
 Chest pain
 

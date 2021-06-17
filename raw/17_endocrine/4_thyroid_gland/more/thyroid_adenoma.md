@@ -6,6 +6,6 @@ Common
 
 # >
 
-Hyperthyroidism
+HYPERTHYROIDISM
 
 Nodular goiter

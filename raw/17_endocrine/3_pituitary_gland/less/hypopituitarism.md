@@ -8,11 +8,11 @@ Exposure to radiation
 
 # >
 
-Growth hormone deficiency
+GROWTH HORMONE DEFICIENCY
 
-Hypothyroidism
+HYPOTHYROIDISM
 
-Secondary adrenal insufficiency
+SECONDARY ADRENAL INSUFFICIENCY
 
 Low blood FSH
 

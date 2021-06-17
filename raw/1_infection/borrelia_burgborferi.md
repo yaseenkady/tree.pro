@@ -4,14 +4,14 @@
 
 # >
 
-Chronic encephalomyelitis
+CHRONIC ENCEPHALOMYELITIS
 
-Infective arthritis
+INFECTIVE ARTHRITIS
 
-Mononeuritis multiplex
+MONONEURITIS MULTIPLEX
 
-Peripheral neuropathy
+PERIPHERAL NEUROPATHY
 
-Polyneuropathy
+POLYNEUROPATHY
 
 Rash

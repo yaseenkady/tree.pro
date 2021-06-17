@@ -6,7 +6,7 @@ LDLR
 
 # >
 
-Atherosclerosis
+ATHEROSCLEROSIS
 
 Arcus senilis
 

@@ -12,10 +12,10 @@ RET
 
 # >
 
-Marfanoid
+MARFANOID
 
-Medullary thyroid carcinoma
+MEDULLARY THYROID CARCINOMA
 
-Mucosal neuroma
+MUCOSAL NEUROMA
 
-Pheochromocytoma
+PHEOCHROMOCYTOMA

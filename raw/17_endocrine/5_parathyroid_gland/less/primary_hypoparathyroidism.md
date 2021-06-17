@@ -8,7 +8,7 @@ Autoimmunity
 
 # >
 
-Hypocalcemia
+HYPOCALCEMIA
 
 Chvostek sign
 

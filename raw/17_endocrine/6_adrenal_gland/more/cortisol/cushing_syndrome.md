@@ -10,15 +10,15 @@ Obesity
 
 # >
 
-Diabetes mellitus type 2
+DIABETES MELLITUS TYPE 2
 
-Hyperlipidemia type 2
+HYPERLIPIDEMIA TYPE 2
 
-Hypertension
+HYPERTENSION
 
-Infertility
+INFERTILITY
 
-Osteoperosis
+OSTEOPEROSIS
 
 Easy bruising
 

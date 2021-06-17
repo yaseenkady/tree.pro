@@ -8,7 +8,7 @@ Autoimmunity
 
 # >
 
-Hypothyroidism
+HYPOTHYROIDISM
 
 Dyspnea
 

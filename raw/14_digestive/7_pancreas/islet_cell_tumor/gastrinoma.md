@@ -6,11 +6,11 @@ Zollinger-Ellison syndrome.
 
 # >
 
-Intestinal ulcer disease
+INTESTINAL ULCER DISEASE
 
-Islet cell tumor
+ISLET CELL TUMOR
 
-Peptic ulcer disease
+PEPTIC ULCER DISEASE
 
 Abdominal pain
 

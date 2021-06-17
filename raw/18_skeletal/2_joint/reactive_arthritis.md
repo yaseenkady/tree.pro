@@ -10,6 +10,6 @@ HLA-B27
 
 # >
 
-Arthritis
+ARTHRITIS
 
 Palm and sole rash

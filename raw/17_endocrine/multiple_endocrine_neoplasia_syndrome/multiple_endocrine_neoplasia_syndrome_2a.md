@@ -12,8 +12,8 @@ RET
 
 # >
 
-Medullary thyroid carcinoma
+MEDULLARY THYROID CARCINOMA
 
-Parathyroid adenoma
+PARATHYROID ADENOMA
 
-Pheochromocytoma
+PHEOCHROMOCYTOMA

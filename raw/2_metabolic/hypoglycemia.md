@@ -16,7 +16,7 @@ Exercise
 
 # >
 
-Seizure
+SEIZURE
 
 Diaphoresis
 
@@ -34,10 +34,10 @@ Tachycardia
 
 Coma
 
+Tremor
+
 Mental status change
 
 Slurred speech
-
-Tremor
 
 High blood glucose

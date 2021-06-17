@@ -4,4 +4,4 @@
 
 # >
 
-Primary hyperparathyroidism
+PRIMARY HYPERPARATHYROIDISM

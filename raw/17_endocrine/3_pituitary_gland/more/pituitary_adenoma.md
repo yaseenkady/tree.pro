@@ -4,13 +4,13 @@
 
 # >
 
-Central diabetes insipidus
+CENTRAL DIABETES INSIPIDUS
 
-Hypopituitarism
+HYPOPITUITARISM
 
-Nelson syndrome
+NELSON SYNDROME
 
-Pituitary apoplexy
+PITUITARY APOPLEXY
 
 Headache
 

@@ -4,7 +4,7 @@
 
 # >
 
-Viral hepatitis
+VIRAL HEPATITIS
 
 Flu-like symptom
 

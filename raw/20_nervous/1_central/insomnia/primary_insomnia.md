@@ -20,7 +20,7 @@ Single
 
 # >
 
-Insomnia
+INSOMNIA
 
 High blood aldosterone
 

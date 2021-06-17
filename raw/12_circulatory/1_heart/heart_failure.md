@@ -4,9 +4,9 @@
 
 # >
 
-Obstructive sleep apnea
+OBSTRUCTIVE SLEEP APNEA
 
-Secondary hyperaldosteronism
+SECONDARY HYPERALDOSTERONISM
 
 Bendopnea
 

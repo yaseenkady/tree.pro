@@ -4,7 +4,7 @@
 
 # >
 
-Hyperaldosteronism
+HYPERALDOSTERONISM
 
 Refractory hypertension
 

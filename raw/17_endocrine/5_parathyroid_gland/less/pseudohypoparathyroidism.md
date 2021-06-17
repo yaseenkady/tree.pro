@@ -6,9 +6,9 @@ GNAS
 
 # >
 
-Albright hereditary osteodystrophy
+ALBRIGHT HEREDITARY OSTEODYSTROPHY
 
-Hypocalcemia
+HYPOCALCEMIA
 
 High blood PO4
 

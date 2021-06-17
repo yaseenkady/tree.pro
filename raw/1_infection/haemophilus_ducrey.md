@@ -4,4 +4,4 @@
 
 # >
 
-Chancroid
+CHANCROID

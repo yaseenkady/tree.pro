@@ -6,8 +6,8 @@ Low diet Ca
 
 # >
 
-Osteoperosis
+OSTEOPEROSIS
 
-Secondary hyperparathyroidism
+SECONDARY HYPERPARATHYROIDISM
 
 Low blood Ca

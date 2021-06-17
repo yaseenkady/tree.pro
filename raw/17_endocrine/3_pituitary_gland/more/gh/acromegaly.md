@@ -8,15 +8,15 @@ GPR101
 
 # >
 
-Diabetes mellitus type 2
+DIABETES MELLITUS TYPE 2
 
-Hypertension
+HYPERTENSION
 
-Obstructive sleep apnea
+OBSTRUCTIVE SLEEP APNEA
 
-Osteoarthritis
+OSTEOARTHRITIS
 
-Pituitary adenoma
+PITUITARY ADENOMA
 
 Diaphoresis
 

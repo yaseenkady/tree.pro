@@ -4,11 +4,11 @@
 
 # >
 
-Hyperprolactinemia
+HYPERPROLACTINEMIA
 
-Periodic leg movement disease
+PERIODIC LEG MOVEMENT DISEASE
 
-Renal osteodystrophy
+RENAL OSTEODYSTROPHY
 
 Loss of appetite
 

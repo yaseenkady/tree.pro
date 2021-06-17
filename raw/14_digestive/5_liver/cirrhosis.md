@@ -14,10 +14,10 @@ Alcohol
 
 # >
 
-Hepatocellular carcinoma
+HEPATOCELLULAR CARCINOMA
 
-Hyperprolactinemia
+HYPERPROLACTINEMIA
 
-Secondary hyperaldosteronism
+SECONDARY HYPERALDOSTERONISM
 
 Portal hypertension

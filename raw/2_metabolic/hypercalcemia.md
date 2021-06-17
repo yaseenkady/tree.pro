@@ -10,11 +10,11 @@ High diet vitamin D
 
 # >
 
-Acute pancreatitis
+ACUTE PANCREATITIS
 
-Kidney stone
+KIDNEY STONE
 
-Nephrogenic diabetes insipidus
+NEPHROGENIC DIABETES INSIPIDUS
 
 High blood Ca
 

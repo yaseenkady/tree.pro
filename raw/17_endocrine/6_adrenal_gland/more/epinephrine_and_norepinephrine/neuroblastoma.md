@@ -8,9 +8,9 @@ Preschool child
 
 # >
 
-Hypertension
+HYPERTENSION
 
-Opsoclonus myoclonus syndrome
+OPSOCLONUS MYOCLONUS SYNDROME
 
 Abdominal swelling
 

@@ -8,13 +8,13 @@ Common
 
 # >
 
-Islet cell tumor
+ISLET CELL TUMOR
 
-Neuroendocrine tumor
+NEUROENDOCRINE TUMOR
 
-Pellagra
+PELLAGRA
 
-Pulmonary valve stenosis
+PULMONARY VALVE STENOSIS
 
 Diarrhea
 

@@ -18,9 +18,9 @@ Obesity
 
 # >
 
-Diabetes mellitus
+DIABETES MELLITUS
 
-Hyperosmolar hyperglycemic state
+HYPEROSMOLAR HYPERGLYCEMIC STATE
 
 High blood insulin
 

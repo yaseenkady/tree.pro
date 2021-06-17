@@ -12,7 +12,7 @@ Adult
 
 # >
 
-Germ cell tumor
+GERM CELL TUMOR
 
 High blood LDH
 

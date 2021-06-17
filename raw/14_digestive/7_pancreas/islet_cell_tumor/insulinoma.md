@@ -6,7 +6,7 @@ Common
 
 # >
 
-Islet cell tumor
+ISLET CELL TUMOR
 
 Episodic hypoglycemia
 

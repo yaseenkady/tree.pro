@@ -4,4 +4,4 @@
 
 # >
 
-Diabetic ketoacidosis
+DIABETIC KETOACIDOSIS

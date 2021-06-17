@@ -18,7 +18,7 @@ RET
 
 # >
 
-Anaplastic thyroid carcinoma
+ANAPLASTIC THYROID CARCINOMA
 
 Neck lymphadenopathy
 

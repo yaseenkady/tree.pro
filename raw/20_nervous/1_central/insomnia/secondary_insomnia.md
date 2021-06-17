@@ -22,4 +22,4 @@ Single
 
 # >
 
-Insomnia
+INSOMNIA

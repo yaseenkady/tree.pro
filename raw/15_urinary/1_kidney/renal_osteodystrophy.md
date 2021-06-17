@@ -4,8 +4,8 @@
 
 # >
 
-Secondary hyperparathyroidism
+SECONDARY HYPERPARATHYROIDISM
 
-Tertiary hyperparathyroidism
+TERTIARY HYPERPARATHYROIDISM
 
 Bone pain

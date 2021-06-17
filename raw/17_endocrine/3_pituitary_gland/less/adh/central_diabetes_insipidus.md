@@ -6,6 +6,6 @@ Head trauma
 
 # >
 
-Diabetes insipidus
+DIABETES INSIPIDUS
 
 Low blood ADH

@@ -4,7 +4,7 @@
 
 # >
 
-Islet cell tumor
+ISLET CELL TUMOR
 
 High blood somatostatin
 

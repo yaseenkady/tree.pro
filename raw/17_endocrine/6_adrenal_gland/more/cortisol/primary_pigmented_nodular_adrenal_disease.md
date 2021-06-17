@@ -8,4 +8,4 @@ PRKARIA
 
 # >
 
-Cushing syndrome
+CUSHING SYNDROME

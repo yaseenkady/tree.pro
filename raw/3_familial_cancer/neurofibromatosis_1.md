@@ -6,8 +6,8 @@ NF1
 
 # >
 
-Optic nerve glioma
+OPTIC NERVE GLIOMA
 
-Pheochromocytoma
+PHEOCHROMOCYTOMA
 
 Cafe-au-lait spot

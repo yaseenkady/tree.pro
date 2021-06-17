@@ -155,12 +155,6 @@ Recreational drug	5.3.0
 High sexual activity	5.4.0
 Single	5.4.0
 Loss of interest	5.5.0
-Arachnodactyly	6.0.0
-Cafe-au-lait spot	6.0.0
-Cubitus valgus	6.0.0
-Ectopic lentis	6.0.0
-Hand defect	6.0.0
-Midline defect	6.0.0
 Cachexia	6.1.0
 Fever	6.1.0
 Lethargy	6.1.0
@@ -268,9 +262,14 @@ Thin	6.7.0
 Thyroid tenderness	6.7.0
 Trousseau sign	6.7.0
 Webbed neck	6.7.0
+Arachnodactyly	6.8.0
+Cubitus valgus	6.8.0
+Hand defect	6.8.0
 Joint effusion	6.8.0
+Midline defect	6.8.0
 Scoliosis	6.8.0
 Alopecia	6.9.0
+Cafe-au-lait spot	6.9.0
 Dermatitis	6.9.0
 Gangrene	6.9.0
 Onycholysis	6.9.0
@@ -285,22 +284,23 @@ Delirium	6.10.0
 Dementia	6.10.0
 Dysphagia	6.10.0
 Fine tremor	6.10.0
-Hearing deficit	6.10.0
 Hyperreflexia	6.10.0
 Hyporeflexia	6.10.0
-Mental status change	6.10.0
 Myoclonus	6.10.0
 Neurological focal deficit	6.10.0
 Opsoclonus	6.10.0
-Photophobia	6.10.0
-Red eye	6.10.0
-Retinal aneurysm	6.10.0
-Retinal hemorrhage	6.10.0
-Slurred speech	6.10.0
 Tremor	6.10.0
-Visual deficit	6.10.0
-Vocal cord paralysis	6.10.0
-Wide gait	6.10.0
+Mental status change	6.10.1
+Wide gait	6.10.1
+Ectopic lentis	6.10.2
+Photophobia	6.10.2
+Red eye	6.10.2
+Retinal aneurysm	6.10.2
+Retinal hemorrhage	6.10.2
+Visual deficit	6.10.2
+Hearing deficit	6.10.8
+Slurred speech	6.10.9
+Vocal cord paralysis	6.10.9
 Irritability	6.11.0
 Psychiatric overtone	6.11.0
 Restlessness	6.11.0

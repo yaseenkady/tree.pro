@@ -4,11 +4,11 @@
 
 # >
 
-Cushing syndrome
+CUSHING SYNDROME
 
-Nelson syndrome
+NELSON SYNDROME
 
-Pituitary adenoma
+PITUITARY ADENOMA
 
 Hyperpigmentation
 

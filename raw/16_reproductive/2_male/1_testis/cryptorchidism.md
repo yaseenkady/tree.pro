@@ -6,6 +6,6 @@ Undescended testes.
 
 # >
 
-Infertility
+INFERTILITY
 
-Sex chord stromal tumor
+SEX CHORD STROMAL TUMOR

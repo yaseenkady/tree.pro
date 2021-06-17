@@ -14,8 +14,8 @@ Kidney disease
 
 Gonadal disease
 
-Cubitus valgus
-
 Short
 
 Webbed neck
+
+Cubitus valgus

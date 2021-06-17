@@ -6,6 +6,6 @@ XXY
 
 # >
 
-Sex chord stromal tumor
+SEX CHORD STROMAL TUMOR
 
 Tall

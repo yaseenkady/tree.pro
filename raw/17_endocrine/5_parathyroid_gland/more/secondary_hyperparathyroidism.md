@@ -6,6 +6,6 @@ Low diet vitamin D
 
 # >
 
-Hyperparathyroidism
+HYPERPARATHYROIDISM
 
-Hypocalcemia
+HYPOCALCEMIA

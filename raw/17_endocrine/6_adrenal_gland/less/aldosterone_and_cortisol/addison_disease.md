@@ -24,4 +24,4 @@ Mitotane
 
 # >
 
-Primary adrenal insufficiency
+PRIMARY ADRENAL INSUFFICIENCY

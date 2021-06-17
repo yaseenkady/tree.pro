@@ -4,6 +4,6 @@
 
 # >
 
-Secondary hyperaldosteronism
+SECONDARY HYPERALDOSTERONISM
 
 High blood renin

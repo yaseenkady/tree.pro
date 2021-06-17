@@ -4,4 +4,4 @@
 
 # >
 
-Central diabetes insipidus
+CENTRAL DIABETES INSIPIDUS

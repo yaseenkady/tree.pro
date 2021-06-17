@@ -12,7 +12,7 @@ AR
 
 # >
 
-Cryptorchidism
+CRYPTORCHIDISM
 
 Absent axillary hair
 

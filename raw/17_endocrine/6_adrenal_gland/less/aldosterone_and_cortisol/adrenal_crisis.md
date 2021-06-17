@@ -8,9 +8,9 @@ Glucocorticoid
 
 # >
 
-Adrenal insufficiency
+ADRENAL INSUFFICIENCY
 
-Shock
+SHOCK
 
 Abdominal pain
 

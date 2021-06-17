@@ -6,7 +6,7 @@ Adult
 
 # >
 
-Testicular tumor
+TESTICULAR TUMOR
 
 Gynecomastia
 

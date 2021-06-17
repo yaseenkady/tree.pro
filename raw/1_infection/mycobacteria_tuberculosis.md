@@ -4,6 +4,6 @@
 
 # >
 
-Addison disease
+ADDISON DISEASE
 
-Epididymitis
+EPIDIDYMITIS

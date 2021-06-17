@@ -12,13 +12,13 @@ HLA-DR3
 
 # >
 
-Diffuse large B cell lymphoma
+DIFFUSE LARGE B CELL LYMPHOMA
 
-Hyperthyroidism
+HYPERTHYROIDISM
 
-Hypothyroidism
+HYPOTHYROIDISM
 
-Lymphoma
+LYMPHOMA
 
 Smooth and diffuse goiter
 

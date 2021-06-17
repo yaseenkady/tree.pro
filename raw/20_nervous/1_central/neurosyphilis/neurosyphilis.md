@@ -4,6 +4,6 @@
 
 # >
 
-Tabes dorsalis
+TABES DORSALIS
 
 Paresthesia

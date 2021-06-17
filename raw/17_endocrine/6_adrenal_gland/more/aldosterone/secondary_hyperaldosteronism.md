@@ -4,6 +4,6 @@
 
 # >
 
-Hyperaldosteronism
+HYPERALDOSTERONISM
 
 Edema

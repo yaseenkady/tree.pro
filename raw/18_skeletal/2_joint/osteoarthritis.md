@@ -12,4 +12,4 @@ Obesity
 
 # >
 
-Arthritis
+ARTHRITIS

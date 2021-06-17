@@ -4,10 +4,10 @@
 
 # >
 
-Cushing syndrome
+CUSHING SYNDROME
 
-Neuroendocrine tumor
+NEUROENDOCRINE TUMOR
 
-Syndrome of inappropriate antidiuretic hormone secretion
+SYNDROME OF INAPPROPRIATE ANTIDIURETIC HORMONE SECRETION
 
 High blood ACTH

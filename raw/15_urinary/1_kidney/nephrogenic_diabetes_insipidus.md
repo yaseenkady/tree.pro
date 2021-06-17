@@ -10,6 +10,6 @@ ADHR
 
 # >
 
-Diabetes insipidus
+DIABETES INSIPIDUS
 
 High blood ADH

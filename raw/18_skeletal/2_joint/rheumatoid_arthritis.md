@@ -4,7 +4,7 @@
 
 # >
 
-Arthritis
+ARTHRITIS
 
 Fatigue
 

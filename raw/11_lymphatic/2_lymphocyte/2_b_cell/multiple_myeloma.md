@@ -4,7 +4,7 @@
 
 # >
 
-Hypercalcemia
+HYPERCALCEMIA
 
 Bone pain
 

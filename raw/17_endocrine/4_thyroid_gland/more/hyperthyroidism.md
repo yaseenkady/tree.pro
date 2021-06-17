@@ -4,19 +4,19 @@
 
 # >
 
-Arrhythmia
+ARRHYTHMIA
 
-Hypertension
+HYPERTENSION
 
-Infertility
+INFERTILITY
 
-Insomnia
+INSOMNIA
 
-Osteoperosis
+OSTEOPEROSIS
 
-Thyroid storm
+THYROID STORM
 
-Thyrotoxic myopathy
+THYROTOXIC MYOPATHY
 
 Chest pain
 

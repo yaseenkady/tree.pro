@@ -4,6 +4,6 @@
 
 # >
 
-Arthritis
+ARTHRITIS
 
 Fever

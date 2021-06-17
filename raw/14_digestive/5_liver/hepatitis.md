@@ -14,9 +14,9 @@ Alcohol
 
 # >
 
-Cirrhosis
+CIRRHOSIS
 
-Hepatocellular carcinoma
+HEPATOCELLULAR CARCINOMA
 
 Loss of appetite
 

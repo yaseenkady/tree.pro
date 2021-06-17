@@ -6,9 +6,9 @@ Not miss
 
 # >
 
-Fitz Hugh Curtis syndrome
+FITZ HUGH CURTIS SYNDROME
 
-Infertility
+INFERTILITY
 
 Cervical motion tenderness
 

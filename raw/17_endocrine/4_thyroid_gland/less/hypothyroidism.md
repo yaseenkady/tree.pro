@@ -18,19 +18,19 @@ Low diet I
 
 # >
 
-Carpal tunnel syndrome
+CARPAL TUNNEL SYNDROME
 
-Hyperlipidemia type 2
+HYPERLIPIDEMIA TYPE 2
 
-Hyperlipidemia type 3
+HYPERLIPIDEMIA TYPE 3
 
-Hyperprolactinemia
+HYPERPROLACTINEMIA
 
-Hyponatremia
+HYPONATREMIA
 
-Hypothyroid myopathy
+HYPOTHYROID MYOPATHY
 
-Infertility
+INFERTILITY
 
 Exertional dyspnea
 

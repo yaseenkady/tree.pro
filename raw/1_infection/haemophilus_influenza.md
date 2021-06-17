@@ -4,4 +4,4 @@
 
 # >
 
-Waterhouse friderichsen syndrome
+WATERHOUSE FRIDERICHSEN SYNDROME

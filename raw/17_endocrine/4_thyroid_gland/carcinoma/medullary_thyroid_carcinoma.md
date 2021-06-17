@@ -8,9 +8,9 @@ Adult
 
 # >
 
-Hypocalcemia
+HYPOCALCEMIA
 
-Neuroendocrine tumor
+NEUROENDOCRINE TUMOR
 
 Nodular goiter
 

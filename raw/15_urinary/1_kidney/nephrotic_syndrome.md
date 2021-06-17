@@ -4,6 +4,6 @@
 
 # >
 
-Hyperlipidemia type 2
+HYPERLIPIDEMIA TYPE 2
 
-Secondary hyperaldosteronism
+SECONDARY HYPERALDOSTERONISM

@@ -10,6 +10,6 @@ Adult
 
 # >
 
-Germ cell tumor
+GERM CELL TUMOR
 
-Yolk sac tumor
+YOLK SAC TUMOR

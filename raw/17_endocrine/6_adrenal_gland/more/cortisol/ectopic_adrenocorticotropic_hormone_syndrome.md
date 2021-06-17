@@ -4,6 +4,6 @@
 
 # >
 
-Cushing syndrome
+CUSHING SYNDROME
 
 High blood ACTH

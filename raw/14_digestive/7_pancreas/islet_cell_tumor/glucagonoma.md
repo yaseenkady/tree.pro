@@ -4,9 +4,9 @@
 
 # >
 
-Deep vein thrombosis
+DEEP VEIN THROMBOSIS
 
-Islet cell tumor
+ISLET CELL TUMOR
 
 Diarrhea
 

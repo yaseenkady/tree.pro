@@ -8,4 +8,4 @@ Young adult
 
 # >
 
-Hyperlipidemia type 1
+HYPERLIPIDEMIA TYPE 1

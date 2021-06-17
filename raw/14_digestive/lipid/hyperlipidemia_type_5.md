@@ -14,7 +14,7 @@ LPL
 
 # >
 
-Acute pancreatitis
+ACUTE PANCREATITIS
 
 High blood VLDL
 

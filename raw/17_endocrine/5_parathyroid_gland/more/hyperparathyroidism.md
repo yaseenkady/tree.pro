@@ -4,7 +4,7 @@
 
 # >
 
-Osteitis fibrosa cystica
+OSTEITIS FIBROSA CYSTICA
 
 Bone pain
 

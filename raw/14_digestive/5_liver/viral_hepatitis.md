@@ -24,6 +24,6 @@ Alcohol
 
 # >
 
-Hepatitis
+HEPATITIS
 
 Flu-like symptom

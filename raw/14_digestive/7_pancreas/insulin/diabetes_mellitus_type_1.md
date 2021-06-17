@@ -14,7 +14,7 @@ HLA-DR4
 
 # >
 
-Diabetes mellitus
+DIABETES MELLITUS
 
 Antibody for pancreatic B cell
 

@@ -6,4 +6,4 @@ Ectopic expression of hormone receptors.
 
 # >
 
-Cushing syndrome
+CUSHING SYNDROME

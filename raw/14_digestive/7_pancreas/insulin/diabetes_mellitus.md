@@ -4,33 +4,33 @@
 
 # >
 
-Candida albicans
+CANDIDA ALBICANS
 
-Cataract
+CATARACT
 
-Chronic kidney disease
+CHRONIC KIDNEY DISEASE
 
-Coronary artery disease
+CORONARY ARTERY DISEASE
 
-Diabetic ketoacidosis
+DIABETIC KETOACIDOSIS
 
-Diabetic retinopathy
+DIABETIC RETINOPATHY
 
-Gastroesophageal reflux disease
+GASTROESOPHAGEAL REFLUX DISEASE
 
-Gastroparesis
+GASTROPARESIS
 
-Glaucoma
+GLAUCOMA
 
-Hyperlipidemia type 2
+HYPERLIPIDEMIA TYPE 2
 
-Hypertension
+HYPERTENSION
 
-Myocardial infarction
+MYOCARDIAL INFARCTION
 
-Peripheral neuropathy
+PERIPHERAL NEUROPATHY
 
-Stroke
+STROKE
 
 Diarrhea
 

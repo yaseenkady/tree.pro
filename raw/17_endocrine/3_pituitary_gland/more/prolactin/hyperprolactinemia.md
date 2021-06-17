@@ -22,7 +22,7 @@ High sexual activity
 
 # >
 
-Infertility
+INFERTILITY
 
 Amenorrhea
 

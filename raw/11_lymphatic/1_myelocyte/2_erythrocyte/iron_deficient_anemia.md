@@ -6,6 +6,6 @@ Low diet Fe
 
 # >
 
-Anemia
+ANEMIA
 
-Periodic leg movement disease
+PERIODIC LEG MOVEMENT DISEASE

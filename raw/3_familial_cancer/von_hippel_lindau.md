@@ -6,6 +6,6 @@ VHL
 
 # >
 
-Paraganglioma
+PARAGANGLIOMA
 
-Pheochromocytoma
+PHEOCHROMOCYTOMA

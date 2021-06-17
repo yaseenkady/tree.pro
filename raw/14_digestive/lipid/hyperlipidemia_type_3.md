@@ -8,7 +8,7 @@ APOE
 
 # >
 
-Acute pancreatitis
+ACUTE PANCREATITIS
 
 Palmar xanthoma
 

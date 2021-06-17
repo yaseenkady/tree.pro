@@ -8,9 +8,9 @@ Infection
 
 # >
 
-Hyperthyroidism
+HYPERTHYROIDISM
 
-Hypothyroidism
+HYPOTHYROIDISM
 
 Jaw pain
 

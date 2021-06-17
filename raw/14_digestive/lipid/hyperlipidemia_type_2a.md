@@ -10,6 +10,6 @@ LDLR
 
 # >
 
-Hyperlipidemia type 2
+HYPERLIPIDEMIA TYPE 2
 
 Clear serum

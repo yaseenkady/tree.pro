@@ -6,29 +6,29 @@ High sexual activity
 
 # >
 
-Cervicitis
+CERVICITIS
 
-Epididymitis
+EPIDIDYMITIS
 
-Infective arthritis
+INFECTIVE ARTHRITIS
 
-Neonatal conjunctivitis
+NEONATAL CONJUNCTIVITIS
 
-Pelvic inflammatory disease
+PELVIC INFLAMMATORY DISEASE
 
-Pharyngitis
+PHARYNGITIS
 
-Prostatitis
+PROSTATITIS
 
-Reactive arthritis
+REACTIVE ARTHRITIS
 
-Tenosynovitis
+TENOSYNOVITIS
 
-Urethritis
+URETHRITIS
 
-Uveitis
+UVEITIS
 
-Waterhouse friderichsen syndrome
+WATERHOUSE FRIDERICHSEN SYNDROME
 
 Dysuria
 

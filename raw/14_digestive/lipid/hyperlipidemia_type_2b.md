@@ -12,9 +12,9 @@ LDLR
 
 # >
 
-Acute pancreatitis
+ACUTE PANCREATITIS
 
-Hyperlipidemia type 2
+HYPERLIPIDEMIA TYPE 2
 
 High blood VLDL
 

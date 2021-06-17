@@ -8,6 +8,6 @@ Adult
 
 # >
 
-Cushing syndrome
+CUSHING SYNDROME
 
 Low blood ACTH

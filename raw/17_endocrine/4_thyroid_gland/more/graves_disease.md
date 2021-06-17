@@ -14,7 +14,7 @@ HLA-DR3
 
 # >
 
-Hyperthyroidism
+HYPERTHYROIDISM
 
 Graves orbitopathy
 

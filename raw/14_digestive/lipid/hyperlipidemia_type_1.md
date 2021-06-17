@@ -8,7 +8,7 @@ Young adult
 
 # >
 
-Acute pancreatitis
+ACUTE PANCREATITIS
 
 Splenomegaly
 

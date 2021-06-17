@@ -14,13 +14,13 @@ SSRI
 
 # >
 
-Cerebral edema
+CEREBRAL EDEMA
 
-Hyponatremia
+HYPONATREMIA
 
-Osmotic demyelination syndrome
+OSMOTIC DEMYELINATION SYNDROME
 
-Seizure
+SEIZURE
 
 Nausea
 

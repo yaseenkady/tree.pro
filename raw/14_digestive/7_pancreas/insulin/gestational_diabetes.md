@@ -6,4 +6,4 @@ Pregnancy
 
 # >
 
-Diabetes mellitus type 2
+DIABETES MELLITUS TYPE 2

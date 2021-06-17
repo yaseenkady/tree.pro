@@ -4,9 +4,9 @@
 
 # >
 
-Adrenal crisis
+ADRENAL CRISIS
 
-Metabolic acidosis
+METABOLIC ACIDOSIS
 
 Dizziness
 

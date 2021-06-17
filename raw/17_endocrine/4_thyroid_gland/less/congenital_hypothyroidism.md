@@ -14,4 +14,4 @@ Protuberant tongue
 
 # >
 
-Hypothyroidism
+HYPOTHYROIDISM

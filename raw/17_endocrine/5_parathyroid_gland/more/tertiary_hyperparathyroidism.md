@@ -4,6 +4,6 @@
 
 # >
 
-Hypercalcemia
+HYPERCALCEMIA
 
-Hyperparathyroidism
+HYPERPARATHYROIDISM

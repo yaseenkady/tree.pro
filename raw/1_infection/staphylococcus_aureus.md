@@ -4,6 +4,6 @@
 
 # >
 
-Infective arthritis
+INFECTIVE ARTHRITIS
 
-Waterhouse friderichsen syndrome
+WATERHOUSE FRIDERICHSEN SYNDROME

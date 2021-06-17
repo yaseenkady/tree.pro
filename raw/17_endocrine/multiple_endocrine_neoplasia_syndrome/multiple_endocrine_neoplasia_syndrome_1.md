@@ -10,8 +10,8 @@ MEN1
 
 # >
 
-Islet cell tumor
+ISLET CELL TUMOR
 
-Parathyroid adenoma
+PARATHYROID ADENOMA
 
-Pituitary adenoma
+PITUITARY ADENOMA

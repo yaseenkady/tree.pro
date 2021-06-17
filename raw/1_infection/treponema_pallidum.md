@@ -4,17 +4,19 @@
 
 # >
 
-Aortic aneurysm
+AORTIC ANEURYSM
 
-Congenital syphilis
+CONGENITAL SYPHILIS
 
-Infective arthritis
+INFECTIVE ARTHRITIS
 
-Neurosyphilis
+NEUROSYPHILIS
 
-Orchitis
+ORCHITIS
 
 Flu-like symptom
+
+Lymphadenopathy
 
 Painless genital ulcer
 

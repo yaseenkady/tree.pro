@@ -4,7 +4,7 @@
 
 # >
 
-Anemia
+ANEMIA
 
 High blood triglyceride
 

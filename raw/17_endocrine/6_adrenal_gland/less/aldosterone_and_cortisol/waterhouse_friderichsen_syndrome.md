@@ -10,9 +10,9 @@ Infant
 
 # >
 
-Adrenal crisis
+ADRENAL CRISIS
 
-Sepsis
+SEPSIS
 
 Fever
 

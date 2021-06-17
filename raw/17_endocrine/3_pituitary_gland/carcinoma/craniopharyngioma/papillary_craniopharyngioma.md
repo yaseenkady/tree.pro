@@ -6,4 +6,4 @@ Elderly
 
 # >
 
-Craniopharyngioma
+CRANIOPHARYNGIOMA

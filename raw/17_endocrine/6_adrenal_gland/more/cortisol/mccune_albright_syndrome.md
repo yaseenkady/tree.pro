@@ -6,4 +6,4 @@ GNAS
 
 # >
 
-Cushing syndrome
+CUSHING SYNDROME

@@ -2,9 +2,9 @@
 
 # <
 
-Infection
-
 Not miss
+
+Infection
 
 Stress
 
@@ -14,15 +14,15 @@ Trauma
 
 # >
 
-Arrhythmia
+ARRHYTHMIA
 
-Cerebral edema
+CEREBRAL EDEMA
 
-Hyperkalemia
+HYPERKALEMIA
 
-Hypokalemia
+HYPOKALEMIA
 
-Leukocytosis
+LEUKOCYTOSIS
 
 Abdominal pain
 

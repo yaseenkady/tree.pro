@@ -4,4 +4,4 @@
 
 # >
 
-Peptic ulcer disease
+PEPTIC ULCER DISEASE
