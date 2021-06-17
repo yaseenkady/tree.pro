@@ -1,5 +1,7 @@
 # .
 
+Concordance in twins is 50%.
+
 # <
 
 Autoimmunity

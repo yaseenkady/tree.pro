@@ -1,5 +1,7 @@
 # .
 
+Neisseria is a common cause.
+
 # <
 
 Infection

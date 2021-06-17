@@ -1,5 +1,7 @@
 # .
 
+Below 55mg/dl is emergency.
+
 # <
 
 Infant

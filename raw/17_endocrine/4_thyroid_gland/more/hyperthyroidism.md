@@ -1,5 +1,7 @@
 # .
 
+Increases sympathetic stimulation, B adrenergic signaling, and Na-K ATPase expression.
+
 # <
 
 # >

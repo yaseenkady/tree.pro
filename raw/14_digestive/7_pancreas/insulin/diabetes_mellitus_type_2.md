@@ -1,5 +1,9 @@
 # .
 
+Concordance in twins is 90%.
+
+Classical symptoms are less common than in type 1.
+
 # <
 
 Common

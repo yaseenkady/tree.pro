@@ -1,5 +1,25 @@
 # .
 
+2% of females.
+
+0.1% of males.
+
+20% of elderly females.
+
+I deficiency is the most common cause world wide.
+
+Hashimoto thyroiditis is the most common cause in the I sufficient areas.
+
+Use of estrogen increases T4-binding globulin, which takes up available T4.
+
+Physiology slows down.
+
+GAGs accumulate in the interstitial spaces.
+
+Water clearance decreases.
+
+Gastrointestinal mobility decreases.
+
 # <
 
 Amiodarone

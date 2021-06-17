@@ -15,3 +15,5 @@ PERIPHERAL NEUROPATHY
 POLYNEUROPATHY
 
 Rash
+
+Erythema migrans

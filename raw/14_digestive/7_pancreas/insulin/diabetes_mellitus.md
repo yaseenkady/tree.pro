@@ -1,5 +1,13 @@
 # .
 
+Glucose: at least 126mg/dl 8hr after eating; or 200mg/dl 2hr after eating or random.
+
+Hemoglobin A1C: at least 6.5%.
+
+Classical symptoms are more common in type 1.
+
+Inheritance is more common in type 2.
+
 # <
 
 # >

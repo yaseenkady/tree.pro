@@ -1,6 +1,6 @@
 # .
 
-Hungry thyroid phenomenon.
+I-hungry thyroid gets I and hyperactivates.
 
 # <
 

@@ -1,5 +1,7 @@
 # .
 
+Metastasis to adrenal gland is a common cause.
+
 # <
 
 Infection

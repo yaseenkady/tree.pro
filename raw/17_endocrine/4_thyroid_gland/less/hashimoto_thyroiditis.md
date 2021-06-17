@@ -2,6 +2,10 @@
 
 Also called chronic autoimmune thyroiditis.
 
+The most common cause of hypothyroidism in the I sufficient areas.
+
+Hyperthyroidism is transient before hypothyroidism.
+
 # <
 
 Common

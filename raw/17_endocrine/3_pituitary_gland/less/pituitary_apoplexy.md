@@ -1,5 +1,7 @@
 # .
 
+Hemorrhage in pituitary gland.
+
 # <
 
 Head trauma
@@ -12,7 +14,7 @@ Nausea
 
 Vomiting
 
-Headache
+Paroxysmal headache
 
 Mental status change
 

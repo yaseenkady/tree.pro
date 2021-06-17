@@ -1,5 +1,11 @@
 # .
 
+85% of thyroid tumors.
+
+3x more in females.
+
+Spreads lymphatically.
+
 # <
 
 Common

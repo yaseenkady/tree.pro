@@ -1,5 +1,9 @@
 # .
 
+3-5% of thyroid tumors.
+
+Spreads hematologically.
+
 # <
 
 Middle aged

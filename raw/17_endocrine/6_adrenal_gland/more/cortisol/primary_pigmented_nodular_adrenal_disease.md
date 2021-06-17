@@ -1,5 +1,7 @@
 # .
 
+Causes 2% of Cushing syndrome.
+
 # <
 
 PDE11

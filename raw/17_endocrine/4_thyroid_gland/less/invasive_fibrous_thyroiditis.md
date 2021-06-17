@@ -2,6 +2,8 @@
 
 Riedel thyroiditis.
 
+1/3 cases have hypothyroidism.
+
 # <
 
 Autoimmunity

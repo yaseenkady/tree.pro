@@ -2,6 +2,8 @@
 
 Familial dysbetalipoproteinemia.
 
+1 in 10000 people.
+
 # <
 
 APOE

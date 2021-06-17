@@ -1,5 +1,7 @@
 # .
 
+28% of deliveries from infected mothers.
+
 # <
 
 Maternal transmission

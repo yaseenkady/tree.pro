@@ -1,10 +1,14 @@
 # .
 
+5-15% of thyroid tumors.
+
+Spreads hematologically.
+
 # <
 
 Middle aged
 
-Female
+Male
 
 Exposure to radiation
 
