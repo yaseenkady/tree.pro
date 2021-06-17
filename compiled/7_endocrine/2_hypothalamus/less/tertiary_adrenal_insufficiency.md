@@ -1,14 +1,6 @@
-# Comment
-
 # Epidemiology
 
 Glucocorticoid
-
-# Cause
-
-# Symptom
-
-# Sign
 
 # Diagnostic
 

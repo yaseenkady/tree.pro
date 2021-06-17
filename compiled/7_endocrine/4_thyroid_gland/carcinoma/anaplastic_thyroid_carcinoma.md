@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Middle aged
@@ -29,5 +27,3 @@ Nodular goiter
 Dysphagia
 
 Vocal cord paralysis
-
-# Diagnostic

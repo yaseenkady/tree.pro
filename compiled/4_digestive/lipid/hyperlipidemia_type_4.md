@@ -8,12 +8,6 @@ Common
 
 Estrogen
 
-# Cause
-
-# Symptom
-
-# Sign
-
 # Diagnostic
 
 High blood VLDL

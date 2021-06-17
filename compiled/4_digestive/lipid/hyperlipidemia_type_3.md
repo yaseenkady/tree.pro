@@ -2,13 +2,9 @@
 
 Familial dysbetalipoproteinemia.
 
-# Epidemiology
-
 # Cause
 
 Hypothyroidism
-
-# Symptom
 
 # Sign
 

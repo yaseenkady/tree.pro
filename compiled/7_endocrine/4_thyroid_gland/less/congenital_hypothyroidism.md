@@ -6,8 +6,6 @@ Also called cretinism.
 
 Congenital disease
 
-# Cause
-
 # Symptom
 
 Exertional dyspnea

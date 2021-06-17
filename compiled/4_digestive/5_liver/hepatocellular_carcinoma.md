@@ -1,12 +1,10 @@
-# Comment
-
 # Epidemiology
+
+Medication
 
 Acetaminophen
 
 Isoniazid
-
-Medication
 
 Exposure to toxin
 
@@ -17,9 +15,3 @@ Alcohol
 Cirrhosis
 
 Hepatitis
-
-# Symptom
-
-# Sign
-
-# Diagnostic

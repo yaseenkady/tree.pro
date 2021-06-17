@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Common
@@ -16,10 +14,6 @@ Teratoma
 
 Yolk Sac Tumor
 
-# Symptom
-
 # Sign
 
 Testicular mass
-
-# Diagnostic

@@ -1,12 +1,6 @@
-# Comment
-
-# Epidemiology
-
-# Cause
-
 # Symptom
 
-Flu like symptoms
+Flu-like symptom
 
 Paresthesia
 
@@ -27,5 +21,3 @@ Palm and sole rash
 Palm and sole rash
 
 Rash
-
-# Diagnostic

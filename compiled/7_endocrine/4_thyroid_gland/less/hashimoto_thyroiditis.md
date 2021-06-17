@@ -8,8 +8,6 @@ Common
 
 Postpartum
 
-# Cause
-
 # Symptom
 
 Chest pain

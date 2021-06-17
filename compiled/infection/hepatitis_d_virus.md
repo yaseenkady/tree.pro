@@ -1,15 +1,5 @@
-# Comment
-
-# Epidemiology
-
-# Cause
-
 # Symptom
 
-Flu like symptoms
+Flu-like symptom
 
-Flu like symptoms
-
-# Sign
-
-# Diagnostic
+Flu-like symptom

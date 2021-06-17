@@ -6,6 +6,6 @@
 
 Viral hepatitis
 
-Flu like symptoms
+Flu-like symptom
 
 Genital ulcer

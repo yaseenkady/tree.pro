@@ -6,8 +6,6 @@ Similar to medulloblastoma.
 
 Preschool child
 
-# Cause
-
 # Symptom
 
 Trouble sleeping

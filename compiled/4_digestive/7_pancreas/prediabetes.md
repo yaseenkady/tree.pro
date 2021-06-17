@@ -1,15 +1,5 @@
-# Comment
-
-# Epidemiology
-
-# Cause
-
-# Symptom
-
-# Sign
-
 # Diagnostic
 
-High blood hemoglobin A1c
+High blood hemoglobin A1C
 
 Hyperglycemia

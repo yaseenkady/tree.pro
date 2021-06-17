@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Infection
@@ -10,13 +8,13 @@ Cancer
 
 Immunodeficiency
 
+Medication
+
 Aminoglutethimide
 
 Etomidate
 
 Ketoconazole
-
-Medication
 
 Metyrapone
 
@@ -42,10 +40,6 @@ Mycobacteria Tuberculosis
 
 Sarcoidosis
 
-# Symptom
-
 # Sign
 
 Hyperpigmentation
-
-# Diagnostic

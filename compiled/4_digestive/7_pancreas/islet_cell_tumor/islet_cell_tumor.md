@@ -1,7 +1,3 @@
-# Comment
-
-# Epidemiology
-
 # Cause
 
 Carcinoid
@@ -17,9 +13,3 @@ Multiple Endocrine Neoplasia Syndrome 1
 Somatostatinoma
 
 Vipoma
-
-# Symptom
-
-# Sign
-
-# Diagnostic

@@ -1,10 +1,6 @@
-# Comment
-
 # Epidemiology
 
 High sexual activity
-
-# Cause
 
 # Symptom
 
@@ -45,5 +41,3 @@ Photophobia
 Red eye
 
 Visual deficit
-
-# Diagnostic

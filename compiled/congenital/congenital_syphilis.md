@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Maternal transmission
@@ -7,8 +5,6 @@ Maternal transmission
 # Cause
 
 Treponema Pallidum
-
-# Symptom
 
 # Sign
 
@@ -19,5 +15,3 @@ Rhinorrhea
 Hepatomegaly
 
 Palm and sole rash
-
-# Diagnostic

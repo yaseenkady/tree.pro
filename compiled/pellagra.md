@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Low diet vitamin B3
@@ -23,5 +21,3 @@ Dermatitis
 Dementia
 
 Mental status change
-
-# Diagnostic

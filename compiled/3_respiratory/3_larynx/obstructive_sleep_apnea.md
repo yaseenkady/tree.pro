@@ -1,8 +1,8 @@
-# Comment
-
 # Epidemiology
 
 Common
+
+Heart disease
 
 Male
 
@@ -25,7 +25,3 @@ Depression
 Fatigue
 
 Sleepiness
-
-# Sign
-
-# Diagnostic

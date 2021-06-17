@@ -1,14 +1,6 @@
-# Comment
-
 # Epidemiology
 
 Common
-
-# Cause
-
-# Symptom
-
-# Sign
 
 # Diagnostic
 

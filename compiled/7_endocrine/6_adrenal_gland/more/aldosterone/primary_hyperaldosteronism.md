@@ -1,12 +1,6 @@
-# Comment
-
-# Epidemiology
-
 # Cause
 
 Conn Syndrome
-
-# Symptom
 
 # Sign
 

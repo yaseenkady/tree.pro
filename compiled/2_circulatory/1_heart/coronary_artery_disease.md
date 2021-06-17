@@ -1,7 +1,3 @@
-# Comment
-
-# Epidemiology
-
 # Cause
 
 Diabetes Mellitus
@@ -15,7 +11,3 @@ Depression
 Fatigue
 
 Sleepiness
-
-# Sign
-
-# Diagnostic

@@ -1,7 +1,3 @@
-# Comment
-
-# Epidemiology
-
 # Cause
 
 Hyperosmolar Hyperglycemic State
@@ -15,8 +11,6 @@ Syndrome of Inappropriate Antidiuretic Hormone Secretion
 Amenorrhea
 
 Erectile dysfunction
-
-# Sign
 
 # Diagnostic
 

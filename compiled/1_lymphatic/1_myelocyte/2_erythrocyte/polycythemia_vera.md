@@ -1,14 +1,6 @@
-# Comment
-
-# Epidemiology
-
 # Cause
 
 Fetal Hyperinsulinemia
-
-# Symptom
-
-# Sign
 
 # Diagnostic
 

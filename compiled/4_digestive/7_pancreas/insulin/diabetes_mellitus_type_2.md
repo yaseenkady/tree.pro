@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Common
@@ -26,25 +24,13 @@ Gestational Diabetes
 
 Diarrhea
 
-Diarrhea
-
 Polyuria
-
-Polyuria
-
-Polydipsia
 
 Polydipsia
 
 Polyphagia
 
-Polyphagia
-
 Weight loss
-
-Weight loss
-
-Fatigue
 
 Fatigue
 
@@ -56,10 +42,6 @@ Dehydration
 
 Dehydration
 
-Dehydration
-
-Gangrene
-
 Gangrene
 
 Coma
@@ -68,13 +50,9 @@ Neurological focal deficit
 
 # Diagnostic
 
-High blood hemoglobin A1c
-
-High blood hemoglobin A1c
+High blood hemoglobin A1C
 
 High blood insulin
-
-Hyperglycemia
 
 Hyperglycemia
 
@@ -85,9 +63,5 @@ Low blood insulin
 High blood osmolality
 
 High blood osmolality
-
-High blood osmolality
-
-High urine glucose
 
 High urine glucose

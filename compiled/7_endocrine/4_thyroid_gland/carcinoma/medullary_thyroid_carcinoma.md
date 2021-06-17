@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Young adult
@@ -11,8 +9,6 @@ Adult
 Multiple Endocrine Neoplasia Syndrome 2A
 
 Multiple Endocrine Neoplasia Syndrome 2B
-
-# Symptom
 
 # Sign
 

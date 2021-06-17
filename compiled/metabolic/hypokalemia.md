@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Low diet K
@@ -11,10 +9,6 @@ Diabetic Ketoacidosis
 Hyperaldosteronism
 
 Vipoma
-
-# Symptom
-
-# Sign
 
 # Diagnostic
 

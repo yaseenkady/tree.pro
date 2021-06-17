@@ -1,10 +1,6 @@
-# Comment
-
 # Epidemiology
 
 Common
-
-# Cause
 
 # Symptom
 

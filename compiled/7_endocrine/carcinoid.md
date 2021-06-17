@@ -6,8 +6,6 @@ Neuroendocrine tumor of the gastrointestinal system and lung.
 
 Common
 
-# Cause
-
 # Symptom
 
 Diarrhea

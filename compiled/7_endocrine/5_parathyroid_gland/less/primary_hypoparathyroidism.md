@@ -1,14 +1,8 @@
-# Comment
-
 # Epidemiology
 
 Surgery
 
 Autoimmunity
-
-# Cause
-
-# Symptom
 
 # Sign
 

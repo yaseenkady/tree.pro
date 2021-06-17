@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Common
@@ -7,8 +5,6 @@ Common
 Stress
 
 Pregnancy
-
-# Cause
 
 # Symptom
 

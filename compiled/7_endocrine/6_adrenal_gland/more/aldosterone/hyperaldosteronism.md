@@ -1,14 +1,8 @@
-# Comment
-
-# Epidemiology
-
 # Cause
 
 Primary Hyperaldosteronism
 
 Secondary Hyperaldosteronism
-
-# Symptom
 
 # Sign
 

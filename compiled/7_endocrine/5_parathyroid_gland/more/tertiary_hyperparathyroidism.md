@@ -1,7 +1,3 @@
-# Comment
-
-# Epidemiology
-
 # Cause
 
 Renal Osteodystrophy

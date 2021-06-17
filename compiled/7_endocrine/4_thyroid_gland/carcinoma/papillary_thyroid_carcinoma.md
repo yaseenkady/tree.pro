@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Common
@@ -9,8 +7,6 @@ Adult
 Female
 
 Exposure to radiation
-
-# Cause
 
 # Symptom
 
@@ -31,5 +27,3 @@ Nodular goiter
 Dysphagia
 
 Vocal cord paralysis
-
-# Diagnostic

@@ -1,11 +1,3 @@
-# Comment
-
-# Epidemiology
-
-# Cause
-
-# Symptom
-
 # Sign
 
 Arachnodactyly
@@ -17,5 +9,3 @@ Long limb
 Tall
 
 Scoliosis
-
-# Diagnostic

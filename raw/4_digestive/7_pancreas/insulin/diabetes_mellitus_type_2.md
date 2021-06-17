@@ -20,8 +20,6 @@ Obesity
 
 Diabetes mellitus
 
-Diabetes mellitus
-
 Hyperosmolar hyperglycemic state
 
 High blood insulin

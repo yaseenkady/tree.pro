@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Low diet Ca
@@ -13,10 +11,6 @@ Primary Hypoparathyroidism
 Pseudohypoparathyroidism
 
 Secondary Hyperparathyroidism
-
-# Symptom
-
-# Sign
 
 # Diagnostic
 

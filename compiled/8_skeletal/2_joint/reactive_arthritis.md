@@ -31,5 +31,3 @@ Joint pain
 Joint effusion
 
 Palm and sole rash
-
-# Diagnostic

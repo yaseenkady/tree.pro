@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Common
@@ -18,14 +16,8 @@ Poor sleep hygiene
 
 Single
 
-# Cause
-
 # Symptom
 
 Fatigue
 
 Sleepiness
-
-# Sign
-
-# Diagnostic

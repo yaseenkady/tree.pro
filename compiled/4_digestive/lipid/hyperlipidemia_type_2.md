@@ -1,7 +1,3 @@
-# Comment
-
-# Epidemiology
-
 # Cause
 
 Cushing Syndrome
@@ -15,8 +11,6 @@ Hyperlipidemia Type 2B
 Hypothyroidism
 
 Nephrotic Syndrome
-
-# Symptom
 
 # Sign
 

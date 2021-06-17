@@ -6,15 +6,15 @@ Viral infection activates the immune system which damages the liver.
 
 Common
 
+Medication
+
 Acetaminophen
 
 Isoniazid
 
-Medication
-
 Endemic
 
-Long term care
+Long-term care
 
 Poor hygiene
 
@@ -26,4 +26,4 @@ Alcohol
 
 Hepatitis
 
-Flu like symptoms
+Flu-like symptom

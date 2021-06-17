@@ -1,7 +1,3 @@
-# Comment
-
-# Epidemiology
-
 # Cause
 
 Neuroblastoma
@@ -19,5 +15,3 @@ Myoclonus
 Opsoclonus
 
 Irritability
-
-# Diagnostic

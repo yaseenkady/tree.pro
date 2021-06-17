@@ -1,10 +1,6 @@
-# Comment
-
 # Epidemiology
 
 Maternal transmission
-
-# Cause
 
 # Symptom
 

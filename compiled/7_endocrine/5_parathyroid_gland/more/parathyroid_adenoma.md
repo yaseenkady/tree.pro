@@ -1,7 +1,3 @@
-# Comment
-
-# Epidemiology
-
 # Cause
 
 Multiple Endocrine Neoplasia Syndrome 1
@@ -15,8 +11,6 @@ Constipation
 Polyuria
 
 Muscle weakness
-
-# Sign
 
 # Diagnostic
 

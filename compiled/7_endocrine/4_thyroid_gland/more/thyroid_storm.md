@@ -4,9 +4,9 @@ Hyperthyroidism crisis.
 
 # Epidemiology
 
-Infection
-
 Not miss
+
+Infection
 
 Stress
 
@@ -18,8 +18,6 @@ Trauma
 
 Hyperthyroidism
 
-# Symptom
-
 # Sign
 
 Fever
@@ -29,5 +27,3 @@ Coma
 Delirium
 
 Mental status change
-
-# Diagnostic

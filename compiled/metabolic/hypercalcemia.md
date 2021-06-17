@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Cancer
@@ -17,10 +15,6 @@ Multiple Myeloma
 Primary Hyperparathyroidism
 
 Tertiary Hyperparathyroidism
-
-# Symptom
-
-# Sign
 
 # Diagnostic
 

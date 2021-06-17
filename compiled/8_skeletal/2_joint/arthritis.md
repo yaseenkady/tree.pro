@@ -1,7 +1,3 @@
-# Comment
-
-# Epidemiology
-
 # Cause
 
 Infective Arthritis
@@ -19,5 +15,3 @@ Joint pain
 # Sign
 
 Joint effusion
-
-# Diagnostic

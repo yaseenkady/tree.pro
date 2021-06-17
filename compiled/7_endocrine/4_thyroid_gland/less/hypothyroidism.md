@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Amiodarone

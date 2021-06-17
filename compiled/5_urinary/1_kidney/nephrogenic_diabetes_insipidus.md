@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Dececlocycline
@@ -27,8 +25,6 @@ Polydipsia
 Weight loss
 
 Trouble sleeping
-
-# Sign
 
 # Diagnostic
 

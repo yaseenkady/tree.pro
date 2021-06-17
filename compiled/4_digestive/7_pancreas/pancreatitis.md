@@ -1,7 +1,3 @@
-# Comment
-
-# Epidemiology
-
 # Cause
 
 Acute Pancreatitis
@@ -9,7 +5,3 @@ Acute Pancreatitis
 # Symptom
 
 Abdominal pain
-
-# Sign
-
-# Diagnostic

@@ -1,12 +1,10 @@
-# Comment
-
 # Epidemiology
+
+Medication
 
 Acetaminophen
 
 Isoniazid
-
-Medication
 
 Exposure to toxin
 

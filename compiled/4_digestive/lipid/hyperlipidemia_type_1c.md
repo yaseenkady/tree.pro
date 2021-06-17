@@ -1,14 +1,8 @@
-# Comment
-
 # Epidemiology
 
 Adolescent
 
 Young adult
-
-# Cause
-
-# Symptom
 
 # Sign
 

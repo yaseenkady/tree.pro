@@ -1,7 +1,3 @@
-# Comment
-
-# Epidemiology
-
 # Cause
 
 Chronic Kidney Disease
@@ -9,7 +5,3 @@ Chronic Kidney Disease
 # Symptom
 
 Bone pain
-
-# Sign
-
-# Diagnostic

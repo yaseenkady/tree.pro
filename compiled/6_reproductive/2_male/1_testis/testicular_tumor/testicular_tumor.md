@@ -1,7 +1,3 @@
-# Comment
-
-# Epidemiology
-
 # Cause
 
 Germ Cell Tumor
@@ -14,10 +10,6 @@ Testicular Lymphoma
 
 Testicular Rhabdomyosarcoma
 
-# Symptom
-
 # Sign
 
 Testicular mass
-
-# Diagnostic

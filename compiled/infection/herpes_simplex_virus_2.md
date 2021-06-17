@@ -1,17 +1,9 @@
-# Comment
-
-# Epidemiology
-
-# Cause
-
 # Symptom
 
-Flu like symptoms
+Flu-like symptom
 
-Flu like symptoms
+Flu-like symptom
 
 # Sign
 
 Genital ulcer
-
-# Diagnostic

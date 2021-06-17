@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Common
@@ -16,15 +14,11 @@ Low socioeconomic status
 
 Single
 
-# Cause
-
 # Symptom
 
 Fatigue
 
 Sleepiness
-
-# Sign
 
 # Diagnostic
 

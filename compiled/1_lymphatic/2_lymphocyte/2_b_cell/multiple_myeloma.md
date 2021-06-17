@@ -1,14 +1,6 @@
-# Comment
-
-# Epidemiology
-
-# Cause
-
 # Symptom
 
 Bone pain
-
-# Sign
 
 # Diagnostic
 

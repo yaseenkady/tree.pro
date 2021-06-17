@@ -1,7 +1,3 @@
-# Comment
-
-# Epidemiology
-
 # Cause
 
 Diabetes Mellitus
@@ -9,7 +5,3 @@ Diabetes Mellitus
 # Symptom
 
 Abdominal pain
-
-# Sign
-
-# Diagnostic

@@ -1,10 +1,6 @@
-# Comment
-
 # Epidemiology
 
 Low diet Fe
-
-# Cause
 
 # Symptom
 

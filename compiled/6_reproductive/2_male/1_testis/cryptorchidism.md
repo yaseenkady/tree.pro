@@ -2,13 +2,9 @@
 
 Undescended testes.
 
-# Epidemiology
-
 # Cause
 
 Androgen Insensitivity Syndrome
-
-# Symptom
 
 # Sign
 

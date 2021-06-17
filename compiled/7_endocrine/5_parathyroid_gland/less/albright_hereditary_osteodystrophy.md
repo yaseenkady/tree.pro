@@ -1,12 +1,6 @@
-# Comment
-
-# Epidemiology
-
 # Cause
 
 Pseudohypoparathyroidism
-
-# Symptom
 
 # Sign
 
@@ -17,5 +11,3 @@ Round face
 Short
 
 Subcutaneous calcification
-
-# Diagnostic

@@ -1,7 +1,3 @@
-# Comment
-
-# Epidemiology
-
 # Cause
 
 Treponema Pallidum
@@ -19,5 +15,3 @@ Areflexia
 Ataxia
 
 Wide gait
-
-# Diagnostic

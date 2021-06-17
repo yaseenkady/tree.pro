@@ -1,9 +1,3 @@
-# Comment
-
-# Epidemiology
-
-# Cause
-
 # Symptom
 
 Dysuria
@@ -23,5 +17,3 @@ Vaginal itch
 Vaginal pH less than 4.5
 
 Vaginal pH more than 4.5
-
-# Diagnostic

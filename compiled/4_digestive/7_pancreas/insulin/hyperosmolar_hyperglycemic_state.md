@@ -1,12 +1,6 @@
-# Comment
-
-# Epidemiology
-
 # Cause
 
 Diabetes Mellitus Type 2
-
-# Symptom
 
 # Sign
 

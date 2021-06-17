@@ -1,12 +1,8 @@
-# Comment
-
 # Epidemiology
 
 Child
 
 Adult
-
-# Cause
 
 # Symptom
 

@@ -6,8 +6,6 @@ Also called Quervain thyroiditis.
 
 Infection
 
-# Cause
-
 # Symptom
 
 Chest pain

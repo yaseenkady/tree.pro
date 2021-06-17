@@ -6,10 +6,6 @@ Familial combined hyperlipidemia.
 
 Common
 
-# Cause
-
-# Symptom
-
 # Sign
 
 Arcus senilis

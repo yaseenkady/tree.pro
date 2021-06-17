@@ -1,9 +1,3 @@
-# Comment
-
-# Epidemiology
-
-# Cause
-
 # Symptom
 
 Easy bruising

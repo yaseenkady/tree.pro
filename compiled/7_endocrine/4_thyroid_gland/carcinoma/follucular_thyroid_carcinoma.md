@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Middle aged
@@ -7,8 +5,6 @@ Middle aged
 Female
 
 Exposure to radiation
-
-# Cause
 
 # Symptom
 
@@ -27,5 +23,3 @@ Nodular goiter
 Dysphagia
 
 Vocal cord paralysis
-
-# Diagnostic

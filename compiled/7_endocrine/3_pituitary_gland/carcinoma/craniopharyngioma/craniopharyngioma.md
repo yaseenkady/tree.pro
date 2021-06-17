@@ -1,16 +1,8 @@
-# Comment
-
-# Epidemiology
-
 # Cause
 
 Adamantinomatous Craniopharyngioma
 
 Papillary Craniopharyngioma
-
-# Symptom
-
-# Sign
 
 # Diagnostic
 

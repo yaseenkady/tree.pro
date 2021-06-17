@@ -50,7 +50,7 @@ Dehydration
 
 Gangrene
 
-High blood hemoglobin A1c
+High blood hemoglobin A1C
 
 Hyperglycemia
 

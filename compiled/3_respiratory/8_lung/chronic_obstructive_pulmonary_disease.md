@@ -1,10 +1,10 @@
-# Comment
-
 # Epidemiology
 
-Smoking
+Middle aged
 
-# Cause
+Elderly
+
+Smoking
 
 # Symptom
 
@@ -15,5 +15,3 @@ Fatigue
 # Sign
 
 Cachexia
-
-# Diagnostic

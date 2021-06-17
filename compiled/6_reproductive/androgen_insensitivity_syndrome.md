@@ -6,14 +6,8 @@ Fail to develop male characteristics.
 
 Adolescent
 
-# Cause
-
-# Symptom
-
 # Sign
 
 Absent axillary hair
 
 Absent pubic hair
-
-# Diagnostic

@@ -1,9 +1,3 @@
-# Comment
-
-# Epidemiology
-
-# Cause
-
 # Symptom
 
 Bendopnea
@@ -37,5 +31,3 @@ Jagular venous distention
 S3 gallop
 
 Pitting edema
-
-# Diagnostic

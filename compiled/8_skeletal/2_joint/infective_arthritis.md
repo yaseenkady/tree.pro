@@ -1,7 +1,3 @@
-# Comment
-
-# Epidemiology
-
 # Cause
 
 Borrelia Burgborferi
@@ -21,5 +17,3 @@ Joint pain
 Fever
 
 Joint effusion
-
-# Diagnostic

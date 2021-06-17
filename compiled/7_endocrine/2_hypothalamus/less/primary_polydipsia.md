@@ -1,12 +1,8 @@
-# Comment
-
 # Epidemiology
 
 Head trauma
 
 Psychiatric disease
-
-# Cause
 
 # Symptom
 
@@ -23,8 +19,6 @@ Polydipsia
 Weight gain
 
 Trouble sleeping
-
-# Sign
 
 # Diagnostic
 

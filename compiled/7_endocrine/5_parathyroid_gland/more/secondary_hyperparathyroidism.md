@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Low diet vitamin D

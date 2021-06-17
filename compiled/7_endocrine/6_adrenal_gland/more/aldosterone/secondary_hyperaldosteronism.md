@@ -1,7 +1,3 @@
-# Comment
-
-# Epidemiology
-
 # Cause
 
 Cirrhosis
@@ -13,8 +9,6 @@ Juxtaglomerular Cell Tumor
 Nephrotic Syndrome
 
 Renovascular Hypertension
-
-# Symptom
 
 # Sign
 

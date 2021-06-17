@@ -31,7 +31,3 @@ Secondary Insomnia
 Fatigue
 
 Sleepiness
-
-# Sign
-
-# Diagnostic

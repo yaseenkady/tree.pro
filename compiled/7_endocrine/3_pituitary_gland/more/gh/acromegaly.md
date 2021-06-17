@@ -1,10 +1,6 @@
-# Comment
-
 # Epidemiology
 
 Adult
-
-# Cause
 
 # Symptom
 

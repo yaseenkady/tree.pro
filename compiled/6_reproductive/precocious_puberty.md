@@ -2,12 +2,6 @@
 
 Driven not by growth hormone.
 
-# Epidemiology
-
-# Cause
-
-# Symptom
-
 # Sign
 
 Short

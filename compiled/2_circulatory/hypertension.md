@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Common
@@ -37,5 +35,3 @@ Sleepiness
 # Sign
 
 High blood pressure
-
-# Diagnostic

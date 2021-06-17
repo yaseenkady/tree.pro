@@ -1,12 +1,8 @@
-# Comment
-
 # Epidemiology
 
 Young adult
 
 Adult
-
-# Cause
 
 # Symptom
 

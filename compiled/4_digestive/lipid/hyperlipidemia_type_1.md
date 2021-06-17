@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Adolescent
@@ -13,8 +11,6 @@ Hyperlipidemia Type 1A
 Hyperlipidemia Type 1B
 
 Hyperlipidemia Type 1C
-
-# Symptom
 
 # Sign
 

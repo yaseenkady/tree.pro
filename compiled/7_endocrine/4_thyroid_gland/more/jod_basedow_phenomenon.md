@@ -10,8 +10,6 @@ Intravenous contrast
 
 Low diet I
 
-# Cause
-
 # Symptom
 
 Chest pain

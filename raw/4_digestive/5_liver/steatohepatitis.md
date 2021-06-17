@@ -2,11 +2,11 @@
 
 # <
 
+Medication
+
 Acetaminophen
 
 Isoniazid
-
-Medication
 
 Exposure to toxin
 

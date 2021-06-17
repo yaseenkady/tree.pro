@@ -1,0 +1,11 @@
+# .
+
+# <
+
+# >
+
+Anxiousness
+
+Fatigue
+
+Panic attack

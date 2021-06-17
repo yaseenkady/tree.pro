@@ -1,9 +1,3 @@
-# Comment
-
-# Epidemiology
-
-# Cause
-
 # Symptom
 
 Anxiousness
@@ -11,7 +5,3 @@ Anxiousness
 Fatigue
 
 Panic attack
-
-# Sign
-
-# Diagnostic

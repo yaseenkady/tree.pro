@@ -1,7 +1,3 @@
-# Comment
-
-# Epidemiology
-
 # Cause
 
 Hypercalcemia
@@ -19,7 +15,3 @@ Hyperlipidemia Type 5
 # Symptom
 
 Abdominal pain
-
-# Sign
-
-# Diagnostic

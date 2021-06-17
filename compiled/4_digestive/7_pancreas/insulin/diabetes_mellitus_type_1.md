@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Autoimmunity
@@ -7,8 +5,6 @@ Autoimmunity
 Adolescent
 
 Young adult
-
-# Cause
 
 # Symptom
 
@@ -34,7 +30,7 @@ Gangrene
 
 Antibody for pancreatic B cell
 
-High blood hemoglobin A1c
+High blood hemoglobin A1C
 
 Hyperglycemia
 

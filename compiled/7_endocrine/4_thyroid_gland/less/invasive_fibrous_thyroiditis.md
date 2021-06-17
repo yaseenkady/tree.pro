@@ -6,8 +6,6 @@ Riedel thyroiditis.
 
 Autoimmunity
 
-# Cause
-
 # Symptom
 
 Dyspnea

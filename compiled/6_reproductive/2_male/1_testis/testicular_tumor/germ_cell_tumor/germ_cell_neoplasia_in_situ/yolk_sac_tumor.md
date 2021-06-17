@@ -20,10 +20,6 @@ Adult
 
 Embryonal Carcinoma
 
-# Symptom
-
-# Sign
-
 # Diagnostic
 
 High blood AFP

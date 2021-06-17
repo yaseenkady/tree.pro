@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Glucocorticoid
@@ -19,5 +17,3 @@ Joint pain
 # Sign
 
 Joint effusion
-
-# Diagnostic

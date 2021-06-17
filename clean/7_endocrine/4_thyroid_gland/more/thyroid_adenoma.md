@@ -1,0 +1,11 @@
+# .
+
+# <
+
+Common
+
+# >
+
+hyperthyroidism
+
+Nodular goiter

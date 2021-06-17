@@ -8,10 +8,6 @@ Adolescent
 
 Young adult
 
-# Cause
-
-# Symptom
-
 # Sign
 
 Splenomegaly

@@ -1,7 +1,3 @@
-# Comment
-
-# Epidemiology
-
 # Cause
 
 Cryptorchidism
@@ -21,9 +17,3 @@ Pelvic Inflammatory Disease
 Prostatitis
 
 Testicular Varicocele
-
-# Symptom
-
-# Sign
-
-# Diagnostic

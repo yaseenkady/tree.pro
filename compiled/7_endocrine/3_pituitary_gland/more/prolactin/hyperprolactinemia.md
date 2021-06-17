@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Stress
@@ -41,8 +39,6 @@ Varicella Zoster Virus
 Amenorrhea
 
 Erectile dysfunction
-
-# Sign
 
 # Diagnostic
 

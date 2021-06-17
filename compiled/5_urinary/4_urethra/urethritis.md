@@ -1,7 +1,3 @@
-# Comment
-
-# Epidemiology
-
 # Cause
 
 Neisseria Gonorrhea
@@ -9,7 +5,3 @@ Neisseria Gonorrhea
 # Symptom
 
 Dysuria
-
-# Sign
-
-# Diagnostic

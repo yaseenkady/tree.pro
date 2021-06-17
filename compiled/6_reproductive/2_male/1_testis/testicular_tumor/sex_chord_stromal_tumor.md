@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Adult
@@ -9,8 +7,6 @@ Adult
 Cryptorchidism
 
 Klinefelter Syndrome
-
-# Symptom
 
 # Sign
 

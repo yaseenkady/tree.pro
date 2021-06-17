@@ -1,7 +1,3 @@
-# Comment
-
-# Epidemiology
-
 # Cause
 
 Hyperthyroidism
@@ -11,7 +7,3 @@ Hyperthyroidism
 Myalgia
 
 Muscle weakness
-
-# Sign
-
-# Diagnostic

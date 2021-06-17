@@ -4,8 +4,6 @@ Diabetes means polyuria.
 
 Insipidus means no taste.
 
-# Epidemiology
-
 # Cause
 
 Central Diabetes Insipidus
@@ -27,8 +25,6 @@ Polydipsia
 Weight loss
 
 Trouble sleeping
-
-# Sign
 
 # Diagnostic
 

@@ -1,12 +1,6 @@
-# Comment
-
-# Epidemiology
-
 # Cause
 
 Diabetes Mellitus Type 1
-
-Diabetes Mellitus Type 2
 
 Diabetes Mellitus Type 2
 
@@ -80,7 +74,7 @@ High blood cholesterol
 
 High blood creatine
 
-High blood hemoglobin A1c
+High blood hemoglobin A1C
 
 High blood ketone
 

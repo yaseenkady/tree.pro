@@ -1,7 +1,3 @@
-# Comment
-
-# Epidemiology
-
 # Cause
 
 Neisseria Gonorrhea
@@ -17,5 +13,3 @@ Photophobia
 Red eye
 
 Visual deficit
-
-# Diagnostic

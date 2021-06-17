@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Early menopause
@@ -29,9 +27,3 @@ Cushing Syndrome
 Hyperthyroidism
 
 Hypocalcemia
-
-# Symptom
-
-# Sign
-
-# Diagnostic

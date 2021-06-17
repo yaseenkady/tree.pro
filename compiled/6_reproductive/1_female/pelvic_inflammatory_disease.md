@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Not miss
@@ -17,5 +15,3 @@ Cervical motion tenderness
 Adnexal tenderness
 
 Uterine tenderness
-
-# Diagnostic

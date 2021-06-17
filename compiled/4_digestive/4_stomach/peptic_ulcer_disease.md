@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Stress
@@ -11,9 +9,3 @@ Antiacid
 Gastrinoma
 
 Helicobacter Pylori
-
-# Symptom
-
-# Sign
-
-# Diagnostic

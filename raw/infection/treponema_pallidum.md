@@ -14,7 +14,7 @@ Neurosyphilis
 
 Orchitis
 
-Flu like symptoms
+Flu-like symptom
 
 Painless genital ulcer
 

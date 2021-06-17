@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Infant
@@ -12,12 +10,8 @@ Child
 
 Neurofibromatosis 1
 
-# Symptom
-
 # Sign
 
 Proptosis
 
 Visual deficit
-
-# Diagnostic

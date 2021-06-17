@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Infection
@@ -39,5 +37,3 @@ Petechiae
 Purpuric rash
 
 Mental status change
-
-# Diagnostic

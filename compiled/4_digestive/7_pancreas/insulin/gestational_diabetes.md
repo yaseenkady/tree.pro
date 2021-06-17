@@ -1,14 +1,6 @@
-# Comment
-
 # Epidemiology
 
 Pregnancy
-
-# Cause
-
-# Symptom
-
-# Sign
 
 # Diagnostic
 

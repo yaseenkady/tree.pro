@@ -1,16 +1,8 @@
-# Comment
-
-# Epidemiology
-
 # Cause
 
 Pheochromocytoma
 
 Polycythemia Vera
-
-# Symptom
-
-# Sign
 
 # Diagnostic
 

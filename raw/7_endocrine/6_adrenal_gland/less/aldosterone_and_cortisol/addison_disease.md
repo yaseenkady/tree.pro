@@ -10,13 +10,13 @@ Cancer
 
 Immunodeficiency
 
+Medication
+
 Aminoglutethimide
 
 Etomidate
 
 Ketoconazole
-
-Medication
 
 Metyrapone
 

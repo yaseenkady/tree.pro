@@ -1,14 +1,6 @@
-# Comment
-
 # Epidemiology
 
 Peripartum
-
-# Cause
-
-# Symptom
-
-# Sign
 
 # Diagnostic
 

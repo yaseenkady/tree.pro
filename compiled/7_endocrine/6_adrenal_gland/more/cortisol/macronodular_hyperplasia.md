@@ -2,10 +2,6 @@
 
 Ectopic expression of hormone receptors.
 
-# Epidemiology
-
-# Cause
-
 # Symptom
 
 Easy bruising

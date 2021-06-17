@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Common
@@ -15,7 +13,3 @@ Peripheral Neuropathy
 # Symptom
 
 Movement during sleep
-
-# Sign
-
-# Diagnostic

@@ -1,0 +1,11 @@
+# .
+
+# <
+
+TSHR
+
+# >
+
+hyperthyroidism
+
+Nodular goiter

@@ -6,10 +6,6 @@ Familial hypercholesterolemia.
 
 Common
 
-# Cause
-
-# Symptom
-
 # Sign
 
 Arcus senilis

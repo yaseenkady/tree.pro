@@ -2,17 +2,11 @@
 
 Zollinger-Ellison syndrome.
 
-# Epidemiology
-
-# Cause
-
 # Symptom
 
 Abdominal pain
 
 Diarrhea
-
-# Sign
 
 # Diagnostic
 

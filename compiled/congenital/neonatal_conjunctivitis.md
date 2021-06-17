@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 Maternal transmission
@@ -7,9 +5,3 @@ Maternal transmission
 # Cause
 
 Neisseria Gonorrhea
-
-# Symptom
-
-# Sign
-
-# Diagnostic

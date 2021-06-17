@@ -1,5 +1,3 @@
-# Comment
-
 # Epidemiology
 
 High diet K
@@ -7,10 +5,6 @@ High diet K
 # Cause
 
 Diabetic Ketoacidosis
-
-# Symptom
-
-# Sign
 
 # Diagnostic
 
