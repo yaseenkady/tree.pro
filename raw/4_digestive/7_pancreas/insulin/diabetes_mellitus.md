@@ -4,17 +4,35 @@
 
 # >
 
-Fatigue
+Candida albicans
 
-Hyperglycemia
+Cataract
 
-High blood osmolality
+Chronic kidney disease
 
-Dehydration
+Coronary artery disease
 
-High blood hemoglobin A1c
+Diabetic ketoacidosis
 
-High urine glucose
+Diabetic retinopathy
+
+Gastroesophageal reflux disease
+
+Gastroparesis
+
+Glaucoma
+
+Hyperlipidemia type 2
+
+Hypertension
+
+Myocardial infarction
+
+Peripheral neuropathy
+
+Stroke
+
+Diarrhea
 
 Polyuria
 
@@ -24,36 +42,18 @@ Polyphagia
 
 Weight loss
 
+Fatigue
+
 Kidney disease
+
+Dehydration
 
 Gangrene
 
-Diarrhea
+High blood hemoglobin A1c
 
-Candida albicans
+Hyperglycemia
 
-Diabetic retinopathy
+High blood osmolality
 
-Glaucoma
-
-Stroke
-
-Gastroparesis
-
-Cataract
-
-Diabetic ketoacidosis
-
-Chronic kidney disease
-
-Coronary artery disease
-
-Myocardial infarction
-
-Hypertension
-
-Hyperlipidemia type 2
-
-Peripheral neuropathy
-
-Gastroesophageal reflux disease
+High urine glucose

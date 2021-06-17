@@ -6,6 +6,6 @@ Common
 
 # >
 
-Pituitary adenoma
-
 Hyperprolactinemia
+
+Pituitary adenoma

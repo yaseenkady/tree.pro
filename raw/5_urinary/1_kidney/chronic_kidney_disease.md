@@ -4,24 +4,24 @@
 
 # >
 
-High blood urea nitrogen
+Hyperprolactinemia
 
-High blood creatine
+Periodic leg movement disease
 
-Low blood vitamin D
-
-High blood PO4
-
-Fatigue
-
-Edema
+Renal osteodystrophy
 
 Loss of appetite
 
 Nausea
 
-Hyperprolactinemia
+Fatigue
 
-Renal osteodystrophy
+Edema
 
-Periodic leg movement disease
+High blood PO4
+
+High blood creatine
+
+High blood urea nitrogen
+
+Low blood vitamin D

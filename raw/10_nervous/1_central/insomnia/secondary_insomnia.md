@@ -2,7 +2,7 @@
 
 # <
 
-Poor sleep hygiene
+Depression
 
 Common
 
@@ -16,9 +16,9 @@ African-American
 
 Low socioeconomic status
 
-Single
+Poor sleep hygiene
 
-Depression
+Single
 
 # >
 

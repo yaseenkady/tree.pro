@@ -2,20 +2,20 @@
 
 # <
 
+Cancer
+
 High diet Ca
 
 High diet vitamin D
 
-Cancer
-
 # >
+
+Acute pancreatitis
+
+Kidney stone
+
+Nephrogenic diabetes insipidus
 
 High blood Ca
 
 High urine Ca
-
-Acute pancreatitis
-
-Nephrogenic diabetes insipidus
-
-Kidney stone

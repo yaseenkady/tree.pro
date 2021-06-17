@@ -2,13 +2,11 @@
 
 # <
 
-X
-
 Female
 
-# >
+X
 
-Webbed neck
+# >
 
 Heart disease
 
@@ -16,6 +14,8 @@ Kidney disease
 
 Gonadal disease
 
+Cubitus valgus
+
 Short
 
-Cubitus valgus
+Webbed neck

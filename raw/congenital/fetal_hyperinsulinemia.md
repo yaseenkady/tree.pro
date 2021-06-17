@@ -6,10 +6,10 @@ Maternal transmission
 
 # >
 
-High blood insulin
-
-Macrosomia
+Hypoglycemia
 
 Polycythemia vera
 
-Hypoglycemia
+Macrosomia
+
+High blood insulin

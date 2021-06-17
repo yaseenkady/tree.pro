@@ -12,8 +12,8 @@ Fast development
 
 Short
 
-High blood GRH
-
 High blood FSH
+
+High blood GRH
 
 High blood LH

@@ -2,84 +2,84 @@
 
 # <
 
-Female
-
-Elderly
-
-Low diet I
-
-High diet I
+Amiodarone
 
 Estrogen
 
-Amiodarone
+Elderly
+
+Female
 
 Exposure to lithium
 
+High diet I
+
+Low diet I
+
 # >
 
-Smooth and diffuse goiter
-
-Cold intolerance
-
-Anhidrosis
-
-Weight gain
-
-Dry and cool skin
-
-Coarse and brittle hair
-
-Alopecia
-
-Brittle nail
-
-Non-pitting edema
-
-Eye edema
-
-Constipation
-
-Loss of appetite
-
-Myxedema
-
-Uterine bleeding
-
-Low libido
-
-Fatigue
-
-Depression
-
-Hyporeflexia
-
-Bradycardia
-
-Exertional dyspnea
-
-Hypoventilation
-
-Late puberty
-
-Short
-
-Proximal muscle weakness
-
-High blood TSH
-
-Low blood free T4
-
-Hypothyroid myopathy
-
 Carpal tunnel syndrome
-
-Infertility
-
-Hyponatremia
 
 Hyperlipidemia type 2
 
 Hyperlipidemia type 3
 
 Hyperprolactinemia
+
+Hyponatremia
+
+Hypothyroid myopathy
+
+Infertility
+
+Exertional dyspnea
+
+Constipation
+
+Loss of appetite
+
+Low libido
+
+Anhidrosis
+
+Cold intolerance
+
+Weight gain
+
+Proximal muscle weakness
+
+Depression
+
+Fatigue
+
+Late puberty
+
+Bradycardia
+
+Dry and cool skin
+
+Hypoventilation
+
+Uterine bleeding
+
+Brittle nail
+
+Coarse and brittle hair
+
+Eye edema
+
+Myxedema
+
+Non-pitting edema
+
+Short
+
+Smooth and diffuse goiter
+
+Alopecia
+
+Hyporeflexia
+
+High blood TSH
+
+Low blood free T4

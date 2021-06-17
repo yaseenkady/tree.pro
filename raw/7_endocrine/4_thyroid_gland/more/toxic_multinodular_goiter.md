@@ -6,6 +6,6 @@ TSHR
 
 # >
 
-Nodular goiter
-
 Hyperthyroidism
+
+Nodular goiter

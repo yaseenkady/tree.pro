@@ -2,20 +2,20 @@
 
 # <
 
-Exposure to radiation
-
 Brain disease
+
+Exposure to radiation
 
 # >
 
-Low blood prolactin
-
-Low blood LH
-
-Low blood FSH
+Growth hormone deficiency
 
 Hypothyroidism
 
-Growth hormone deficiency
-
 Secondary adrenal insufficiency
+
+Low blood FSH
+
+Low blood LH
+
+Low blood prolactin

@@ -2,6 +2,8 @@
 
 # <
 
+Depression
+
 Common
 
 Adult
@@ -16,12 +18,10 @@ Low socioeconomic status
 
 Single
 
-Depression
-
 # >
 
-High blood cortisol
+Insomnia
 
 High blood aldosterone
 
-Insomnia
+High blood cortisol

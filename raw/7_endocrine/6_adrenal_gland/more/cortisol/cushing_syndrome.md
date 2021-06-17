@@ -2,54 +2,54 @@
 
 # <
 
-Obesity
-
 Stress
 
 Glucocorticoid
 
+Obesity
+
 # >
-
-High blood cortisol
-
-High urine cortisol
-
-Hyperglycemia
-
-High blood aldosterone
-
-Weight gain
-
-Abdominal obesity
-
-Round face
-
-Shoulder hump
-
-Hirsutism
-
-Acne
-
-Amenorrhea
-
-Erectile dysfunction
-
-Immunodeficiency
-
-Short
-
-Stretch mark
-
-Poor wound healing
-
-Easy bruising
-
-Infertility
-
-Osteoperosis
 
 Diabetes mellitus type 2
 
 Hyperlipidemia type 2
 
 Hypertension
+
+Infertility
+
+Osteoperosis
+
+Easy bruising
+
+Amenorrhea
+
+Erectile dysfunction
+
+Weight gain
+
+Immunodeficiency
+
+Poor wound healing
+
+Hirsutism
+
+Abdominal obesity
+
+Acne
+
+Round face
+
+Short
+
+Shoulder hump
+
+Stretch mark
+
+High blood aldosterone
+
+High blood cortisol
+
+Hyperglycemia
+
+High urine cortisol

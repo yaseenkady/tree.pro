@@ -24,8 +24,6 @@ Mitotane
 
 # Cause
 
-Amyloidosis
-
 Coccidioides
 
 Cryptococcus

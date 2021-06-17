@@ -4,6 +4,6 @@
 
 # >
 
-Low blood ACTH
-
 Adrenal insufficiency
+
+Low blood ACTH

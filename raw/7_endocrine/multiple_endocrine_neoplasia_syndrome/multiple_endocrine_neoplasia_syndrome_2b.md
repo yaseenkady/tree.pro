@@ -6,16 +6,16 @@ Young adult
 
 Adult
 
-RET
-
 MEN2B
+
+RET
 
 # >
 
-Mucosal neuroma
+Marfanoid
 
 Medullary thyroid carcinoma
 
-Pheochromocytoma
+Mucosal neuroma
 
-Marfanoid
+Pheochromocytoma

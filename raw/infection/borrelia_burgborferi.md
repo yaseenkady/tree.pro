@@ -4,14 +4,14 @@
 
 # >
 
-Rash
+Chronic encephalomyelitis
 
-Polyneuropathy
+Infective arthritis
 
 Mononeuritis multiplex
 
-Chronic encephalomyelitis
-
 Peripheral neuropathy
 
-Infective arthritis
+Polyneuropathy
+
+Rash

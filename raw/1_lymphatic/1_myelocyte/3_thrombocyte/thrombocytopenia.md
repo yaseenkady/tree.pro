@@ -4,9 +4,9 @@
 
 # >
 
-Petechiae
-
 Easy bruising
+
+Petechiae
 
 Low blood clotting factor
 

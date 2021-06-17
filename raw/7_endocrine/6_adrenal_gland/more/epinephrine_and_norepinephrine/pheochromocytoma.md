@@ -1,8 +1,8 @@
 # .
 
-Neoplasm secreting catacholamines.
-
 10% bilateral.
+
+10% calcify.
 
 10% extra adrenal.
 
@@ -10,7 +10,7 @@ Neoplasm secreting catacholamines.
 
 10% not associated with hypertension.
 
-10% calcify.
+Neoplasm secreting catacholamines.
 
 # <
 
@@ -22,44 +22,44 @@ Adult
 
 # >
 
-High blood EPO
-
-Diaphoresis
-
-Weight loss
-
-Vertigo
-
-Chest pain
-
-Epigastric abdominal pain
-
-Fever
-
-Anxiousness
-
-Nervousness
-
-Visual deficit
-
-Paroxysmal headache
-
-Paroxysmal tachycardia
-
-Paroxysmal palpitation
-
-Orthostatic hypotension
-
-Pallor
-
-High blood catecholamine
-
-High urine catecholamine
-
-Polycythemia
-
 Cardiac hypertrophy
 
 Hypertension
 
 Myocardial infarction
+
+Polycythemia
+
+Chest pain
+
+Epigastric abdominal pain
+
+Diaphoresis
+
+Weight loss
+
+Paroxysmal headache
+
+Vertigo
+
+Anxiousness
+
+Nervousness
+
+Fever
+
+Pallor
+
+Orthostatic hypotension
+
+Paroxysmal palpitation
+
+Paroxysmal tachycardia
+
+Visual deficit
+
+High blood EPO
+
+High blood catecholamine
+
+High urine catecholamine

@@ -12,16 +12,16 @@ HLA-DR3
 
 # >
 
-Smooth and diffuse goiter
-
-Antibody for thyroid peroxidase
-
-Antibody for thyroglobulin
-
-Lymphoma
-
 Diffuse large B cell lymphoma
 
 Hyperthyroidism
 
 Hypothyroidism
+
+Lymphoma
+
+Smooth and diffuse goiter
+
+Antibody for thyroglobulin
+
+Antibody for thyroid peroxidase

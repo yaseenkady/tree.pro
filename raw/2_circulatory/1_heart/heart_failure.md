@@ -4,24 +4,24 @@
 
 # >
 
-Fatigue
+Obstructive sleep apnea
 
-Nocturia
+Secondary hyperaldosteronism
+
+Bendopnea
 
 Dyspnea
 
 Nocturnal paroxysmal dyspnea
 
+Orthopnea
+
+Nocturia
+
+Fatigue
+
 Jagular venous distention
 
 S3 gallop
 
-Orthopnea
-
-Bendopnea
-
 Non-pitting edema
-
-Secondary hyperaldosteronism
-
-Obstructive sleep apnea

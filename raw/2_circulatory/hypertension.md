@@ -4,9 +4,9 @@
 
 Common
 
-Low socioeconomic status
-
 Non-White
+
+Low socioeconomic status
 
 Obesity
 

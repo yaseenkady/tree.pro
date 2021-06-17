@@ -8,32 +8,6 @@ GPR101
 
 # >
 
-High blood GH
-
-High blood IGF1
-
-Gigantism
-
-Large and deep furrowed tongue
-
-Deep voice
-
-Big hand and foot
-
-Coarsening facial feature
-
-Frontal bossing
-
-Diaphoresis
-
-Colorectal polyp
-
-Cancer
-
-High blood GH after glucose
-
-Pituitary adenoma
-
 Diabetes mellitus type 2
 
 Hypertension
@@ -41,3 +15,29 @@ Hypertension
 Obstructive sleep apnea
 
 Osteoarthritis
+
+Pituitary adenoma
+
+Diaphoresis
+
+Cancer
+
+Big hand and foot
+
+Coarsening facial feature
+
+Deep voice
+
+Frontal bossing
+
+Gigantism
+
+Large and deep furrowed tongue
+
+High blood GH
+
+High blood GH after glucose
+
+High blood IGF1
+
+Colorectal polyp

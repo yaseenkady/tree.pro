@@ -4,16 +4,16 @@
 
 # >
 
-Hyperglycemia
-
-High blood osmolality
-
-Dehydration
+Seizure
 
 Lethargy
 
-Neurological focal deficit
+Dehydration
 
 Coma
 
-Seizure
+Neurological focal deficit
+
+Hyperglycemia
+
+High blood osmolality

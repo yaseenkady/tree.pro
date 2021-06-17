@@ -2,41 +2,41 @@
 
 # <
 
-Exposure to toxin
-
-Alcohol
-
-Medication
-
 Acetaminophen
 
 Isoniazid
 
+Medication
+
+Exposure to toxin
+
+Alcohol
+
 # >
 
-Nausea
+Cirrhosis
+
+Hepatocellular carcinoma
 
 Loss of appetite
 
+Nausea
+
 Right upper quadrant abdominal pain
 
-Edema
-
-Hepatomegaly
-
 Splenomegaly
+
+Edema
 
 Abdominal swelling
 
 Ascite
 
-Dark urine
-
-Light colored stool
-
-Scleral icterus
+Hepatomegaly
 
 Juandice
+
+Scleral icterus
 
 Spider angioma
 
@@ -44,14 +44,14 @@ High blood ALT
 
 High blood AST
 
-High blood bilirubin
+High blood albumin
 
 High blood alkaline phosphatase
 
-High blood albumin
+High blood bilirubin
 
 Low blood clotting factor
 
-Cirrhosis
+Dark urine
 
-Hepatocellular carcinoma
+Light colored stool

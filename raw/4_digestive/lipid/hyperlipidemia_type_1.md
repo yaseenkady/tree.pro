@@ -8,18 +8,18 @@ Young adult
 
 # >
 
-High blood chylomicron
-
-High blood triglyceride
-
-Creamy-top serum
-
-Lipemia retinalis
-
-Hepatomegaly
+Acute pancreatitis
 
 Splenomegaly
 
 Eruptive xanthoma
 
-Acute pancreatitis
+Hepatomegaly
+
+Lipemia retinalis
+
+High blood chylomicron
+
+High blood triglyceride
+
+Creamy-top serum

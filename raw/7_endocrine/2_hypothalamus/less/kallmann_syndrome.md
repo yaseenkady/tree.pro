@@ -4,12 +4,12 @@
 
 # >
 
-Midline defect
+Late puberty
 
-Low blood LH
+Midline defect
 
 Low blood FSH
 
-Low blood testosterone
+Low blood LH
 
-Late puberty
+Low blood testosterone

@@ -4,12 +4,12 @@
 
 # >
 
-Opsoclonus
-
-Myoclonus
+Trouble sleeping
 
 Ataxia
 
-Irritability
+Myoclonus
 
-Trouble sleeping
+Opsoclonus
+
+Irritability

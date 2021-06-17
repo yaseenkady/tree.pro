@@ -6,8 +6,8 @@ Endemic in tropics
 
 # >
 
-Reactive arthritis
+Lymphogranuloma venerum
 
 Neonatal pneumonitis
 
-Lymphogranuloma venerum
+Reactive arthritis

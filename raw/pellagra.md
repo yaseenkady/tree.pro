@@ -6,14 +6,14 @@ Low diet vitamin B3
 
 # >
 
-Mental status change
-
-Dementia
-
-Dermatitis
+Loss of appetite
 
 Nausea
 
-Loss of appetite
-
 Watery diarrhea
+
+Dermatitis
+
+Dementia
+
+Mental status change

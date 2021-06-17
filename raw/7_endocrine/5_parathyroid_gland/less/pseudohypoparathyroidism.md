@@ -6,10 +6,10 @@ GNAS
 
 # >
 
-High blood PTH
-
-High blood PO4
+Albright hereditary osteodystrophy
 
 Hypocalcemia
 
-Albright hereditary osteodystrophy
+High blood PO4
+
+High blood PTH

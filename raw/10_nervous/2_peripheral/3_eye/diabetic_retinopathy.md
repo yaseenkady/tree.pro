@@ -4,6 +4,6 @@
 
 # >
 
-Retinal hemorrhage
-
 Retinal aneurysm
+
+Retinal hemorrhage

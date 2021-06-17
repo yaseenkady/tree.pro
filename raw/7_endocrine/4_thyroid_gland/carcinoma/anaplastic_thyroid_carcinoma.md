@@ -12,14 +12,14 @@ TP53
 
 # >
 
-Nodular goiter
+Dyspnea
+
+Neck pain
 
 Hoarseness
+
+Nodular goiter
 
 Dysphagia
 
 Vocal cord paralysis
-
-Neck pain
-
-Dyspnea

@@ -6,10 +6,10 @@ Demyelination of the posterior columns and degeneration of the dorsal root gangl
 
 # >
 
-Wide gait
-
-Ataxia
+Akinesthesia
 
 Areflexia
 
-Akinesthesia
+Ataxia
+
+Wide gait

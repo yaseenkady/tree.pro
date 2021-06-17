@@ -4,70 +4,70 @@
 
 # >
 
-Heat intolerance
+Arrhythmia
 
-Diaphoresis
+Hypertension
 
-Weight loss
+Infertility
 
-Moist and warm skin
+Insomnia
 
-Fine hair
+Osteoperosis
 
-Onycholysis
+Thyroid storm
 
-Lid lag
+Thyrotoxic myopathy
+
+Chest pain
+
+Dyspnea
 
 Diarrhea
 
+Low libido
+
+Diaphoresis
+
+Heat intolerance
+
 Polyphagia
 
-Uterine bleeding
+Weight loss
+
+Anxiousness
+
+Fast development
+
+Moist and warm skin
+
+Palpitation
+
+Tachycardia
 
 Gynecomastia
 
-Low libido
+Uterine bleeding
 
-Restlessness
+Fine hair
 
-Anxiousness
+Lid lag
+
+Onycholysis
 
 Fine tremor
 
 Hyperreflexia
 
-Tachycardia
-
-Palpitation
-
-Dyspnea
-
-Chest pain
-
-Fast development
-
-Low blood TSH
-
-High blood free T4
+Restlessness
 
 High blood free T3
 
-Low blood LDL
+High blood free T4
 
 Low blood HDL
 
+Low blood LDL
+
+Low blood TSH
+
 Low blood cholesterol
-
-Thyrotoxic myopathy
-
-Osteoperosis
-
-Infertility
-
-Arrhythmia
-
-Insomnia
-
-Hypertension
-
-Thyroid storm

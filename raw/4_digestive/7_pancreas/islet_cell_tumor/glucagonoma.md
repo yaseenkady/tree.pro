@@ -4,18 +4,18 @@
 
 # >
 
-High blood glucagon
-
-Episodic hyperglycemia
-
-Weight loss
-
-Diarrhea
-
-Dermatitis
-
-Depression
-
 Deep vein thrombosis
 
 Islet cell tumor
+
+Diarrhea
+
+Weight loss
+
+Depression
+
+Dermatitis
+
+Episodic hyperglycemia
+
+High blood glucagon

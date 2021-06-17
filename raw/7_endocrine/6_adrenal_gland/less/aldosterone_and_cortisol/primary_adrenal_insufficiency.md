@@ -4,6 +4,6 @@
 
 # >
 
-Hyperpigmentation
-
 Adrenal insufficiency
+
+Hyperpigmentation

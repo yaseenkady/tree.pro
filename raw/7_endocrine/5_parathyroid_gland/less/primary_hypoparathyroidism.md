@@ -8,10 +8,10 @@ Autoimmunity
 
 # >
 
-Low blood PTH
+Hypocalcemia
 
 Chvostek sign
 
 Trousseau sign
 
-Hypocalcemia
+Low blood PTH

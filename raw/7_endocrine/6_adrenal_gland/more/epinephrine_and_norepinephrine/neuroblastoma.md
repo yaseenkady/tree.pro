@@ -8,6 +8,10 @@ Preschool child
 
 # >
 
+Hypertension
+
+Opsoclonus myoclonus syndrome
+
 Abdominal swelling
 
 Crossing midline, firm, and irregular abdominal mass
@@ -15,7 +19,3 @@ Crossing midline, firm, and irregular abdominal mass
 High blood catecholamine
 
 High urine catecholamine
-
-Opsoclonus myoclonus syndrome
-
-Hypertension

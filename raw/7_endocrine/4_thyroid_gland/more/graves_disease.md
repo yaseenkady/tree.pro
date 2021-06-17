@@ -8,20 +8,20 @@ Stress
 
 Pregnancy
 
-HLA-DR3
-
 HLA-B8
+
+HLA-DR3
 
 # >
 
-Antibody for TSHR
+Hyperthyroidism
 
-Smooth and diffuse goiter
+Graves orbitopathy
 
 Myxedema
 
 Proptosis
 
-Graves orbitopathy
+Smooth and diffuse goiter
 
-Hyperthyroidism
+Antibody for TSHR

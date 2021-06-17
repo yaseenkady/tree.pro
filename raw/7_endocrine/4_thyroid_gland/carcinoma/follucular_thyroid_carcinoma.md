@@ -10,6 +10,6 @@ Exposure to radiation
 
 # >
 
-Nodular goiter
-
 Anaplastic thyroid carcinoma
+
+Nodular goiter

@@ -4,28 +4,28 @@
 
 # >
 
-Low blood cortisol
+Adrenal crisis
 
-Low blood aldosterone
+Metabolic acidosis
 
-Low blood K
+Dizziness
+
+Salt craving
+
+Sugar craving
 
 Weight loss
 
-Orthostatic hypotension
-
-Dizziness
+Myalgia
 
 Muscle weakness
 
 Fatigue
 
-Myalgia
+Orthostatic hypotension
 
-Sugar craving
+Low blood K
 
-Salt craving
+Low blood aldosterone
 
-Metabolic acidosis
-
-Adrenal crisis
+Low blood cortisol

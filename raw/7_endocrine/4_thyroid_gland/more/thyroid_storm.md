@@ -4,22 +4,22 @@ Hyperthyroidism crisis.
 
 # <
 
+Infection
+
 Not miss
 
 Stress
 
-Infection
+Surgery
 
 Trauma
 
-Surgery
-
 # >
 
-Mental status change
-
-Delirium
+Fever
 
 Coma
 
-Fever
+Delirium
+
+Mental status change

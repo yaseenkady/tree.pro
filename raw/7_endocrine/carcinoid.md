@@ -8,9 +8,23 @@ Common
 
 # >
 
-High blood ACTH
+Islet cell tumor
 
-High blood somatostatin
+Neuroendocrine tumor
+
+Pellagra
+
+Pulmonary valve stenosis
+
+Diarrhea
+
+Tricuspid regurgitation
+
+Wheezing
+
+Flushing
+
+High blood ACTH
 
 High blood VIP
 
@@ -20,18 +34,4 @@ High blood glucagon
 
 High blood insulin
 
-Flushing
-
-Diarrhea
-
-Wheezing
-
-Tricuspid regurgitation
-
-Pulmonary valve stenosis
-
-Islet cell tumor
-
-Pellagra
-
-Neuroendocrine tumor
+High blood somatostatin

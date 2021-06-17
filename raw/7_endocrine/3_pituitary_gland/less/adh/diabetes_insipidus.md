@@ -8,22 +8,22 @@ Insipidus means no taste.
 
 # >
 
-Polyuria
+Nausea
 
-Low urine osmolality
-
-Low urine specific gravity
+Vomiting
 
 Nocturia
 
-Trouble sleeping
+Polyuria
 
 Polydipsia
 
 Weight loss
 
+Trouble sleeping
+
 High blood osmolality
 
-Nausea
+Low urine osmolality
 
-Vomiting
+Low urine specific gravity

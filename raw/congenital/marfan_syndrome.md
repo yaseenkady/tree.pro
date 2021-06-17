@@ -6,14 +6,14 @@ FBN1
 
 # >
 
+Heart disease
+
+Arachnodactyly
+
 Ectopic lentis
 
-Heart disease
+Long limb
 
 Tall
 
 Scoliosis
-
-Long limb
-
-Arachnodactyly

@@ -2,17 +2,27 @@
 
 # <
 
+Infection
+
 Not miss
 
 Stress
 
-Infection
+Surgery
 
 Trauma
 
-Surgery
-
 # >
+
+Arrhythmia
+
+Cerebral edema
+
+Hyperkalemia
+
+Hypokalemia
+
+Leukocytosis
 
 Abdominal pain
 
@@ -20,30 +30,20 @@ Nausea
 
 Vomiting
 
-High blood ketone
-
-High urine ketone
-
-Sweet breath
-
-Anion gap metabolic acidosis
+Tachycardia
 
 Hyperventilation
 
 Kussmaul respiration
 
-Tachycardia
-
-Mental status change
+Sweet breath
 
 Delirium
 
-Leukocytosis
+Mental status change
 
-Arrhythmia
+High blood ketone
 
-Hyperkalemia
+Anion gap metabolic acidosis
 
-Hypokalemia
-
-Cerebral edema
+High urine ketone

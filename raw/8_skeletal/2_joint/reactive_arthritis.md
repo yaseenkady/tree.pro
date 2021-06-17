@@ -4,12 +4,12 @@ Reiter syndrome.
 
 # <
 
-HLA-B27
-
 Adult
+
+HLA-B27
 
 # >
 
-Palm and sole rash
-
 Arthritis
+
+Palm and sole rash

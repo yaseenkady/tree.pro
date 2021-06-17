@@ -4,14 +4,14 @@
 
 # >
 
-Polyuria
-
-Low blood PO4
-
-Muscle weakness
-
-Constipation
+Hypercalcemia
 
 Hyperparathyroidism
 
-Hypercalcemia
+Constipation
+
+Polyuria
+
+Muscle weakness
+
+Low blood PO4

@@ -10,34 +10,34 @@ Child
 
 Elderly
 
-Exercise
-
 Low diet carbohydrate
+
+Exercise
 
 # >
 
-High blood glucose
-
-Polyphagia
-
-Anxiousness
+Seizure
 
 Diaphoresis
+
+Polyphagia
 
 Headache
 
 Paresthesia
 
+Anxiousness
+
 Palpitation
 
 Tachycardia
 
-Tremor
+Coma
 
 Mental status change
 
 Slurred speech
 
-Coma
+Tremor
 
-Seizure
+High blood glucose

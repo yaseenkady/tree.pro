@@ -6,6 +6,6 @@ Glucocorticoid
 
 # >
 
-Low blood CRH
-
 Secondary adrenal insufficiency
+
+Low blood CRH

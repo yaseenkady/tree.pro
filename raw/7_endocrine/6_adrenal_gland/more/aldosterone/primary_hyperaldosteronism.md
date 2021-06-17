@@ -4,8 +4,8 @@
 
 # >
 
-Low blood renin
+Hyperaldosteronism
 
 Refractory hypertension
 
-Hyperaldosteronism
+Low blood renin

@@ -4,6 +4,8 @@ Insomnia means a repeated difficulty with sleep initiation, duration, consolidat
 
 # <
 
+Depression
+
 Common
 
 Adult
@@ -17,8 +19,6 @@ African-American
 Low socioeconomic status
 
 Single
-
-Depression
 
 # >
 

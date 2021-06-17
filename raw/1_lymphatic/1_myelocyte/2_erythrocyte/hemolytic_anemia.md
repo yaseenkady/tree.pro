@@ -4,14 +4,14 @@
 
 # >
 
-Fatigue
-
 Dyspnea
+
+Fatigue
 
 Pale conjunctiva
 
-Low blood hemoglobin
+High blood triglyceride
 
 Low blood ferritin
 
-High blood triglyceride
+Low blood hemoglobin

@@ -6,8 +6,8 @@
 
 Eye pain
 
-Red eye
-
 Photophobia
+
+Red eye
 
 Visual deficit

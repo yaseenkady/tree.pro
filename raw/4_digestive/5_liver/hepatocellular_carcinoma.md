@@ -2,14 +2,14 @@
 
 # <
 
-Exposure to toxin
-
-Alcohol
-
-Medication
-
 Acetaminophen
 
 Isoniazid
+
+Medication
+
+Exposure to toxin
+
+Alcohol
 
 # >

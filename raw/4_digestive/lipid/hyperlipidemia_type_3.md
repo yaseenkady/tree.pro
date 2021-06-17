@@ -8,18 +8,18 @@ APOE
 
 # >
 
-High blood bVLDL
+Acute pancreatitis
+
+Palmar xanthoma
+
+Tuberous xanthoma
 
 High blood IDL
+
+High blood bVLDL
 
 High blood cholesterol
 
 High blood triglyceride
 
 Turbid serum
-
-Tuberous xanthoma
-
-Palmar xanthoma
-
-Acute pancreatitis

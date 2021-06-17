@@ -6,14 +6,14 @@ LDLR
 
 # >
 
-High blood LDL
-
-High blood cholesterol
-
-Xanthelasma
+Atherosclerosis
 
 Arcus senilis
 
 Tendon xanthoma
 
-Atherosclerosis
+Xanthelasma
+
+High blood LDL
+
+High blood cholesterol

@@ -6,14 +6,14 @@ Marfanoid habitus.
 
 # >
 
-Hearing deficit
+Arachnodactyly
 
 Midline defect
 
-Dysphagia
+Long limb
 
 Scoliosis
 
-Long limb
+Dysphagia
 
-Arachnodactyly
+Hearing deficit

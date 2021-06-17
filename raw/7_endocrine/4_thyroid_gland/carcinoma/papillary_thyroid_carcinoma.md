@@ -2,24 +2,24 @@
 
 # <
 
+Common
+
 Adult
 
 Female
 
 Exposure to radiation
 
-Common
-
-RET
+BRAF
 
 PTC
 
-BRAF
+RET
 
 # >
 
-Nodular goiter
+Anaplastic thyroid carcinoma
 
 Neck lymphadenopathy
 
-Anaplastic thyroid carcinoma
+Nodular goiter

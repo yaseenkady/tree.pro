@@ -6,24 +6,24 @@ Viral infection activates the immune system which damages the liver.
 
 Common
 
-Poor hygiene
+Acetaminophen
+
+Isoniazid
+
+Medication
+
+Endemic
 
 Long term care
 
-Endemic
+Poor hygiene
 
 Exposure to toxin
 
 Alcohol
 
-Medication
-
-Acetaminophen
-
-Isoniazid
-
 # >
 
-Flu like symptoms
-
 Hepatitis
+
+Flu like symptoms

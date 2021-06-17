@@ -4,12 +4,12 @@
 
 # >
 
-Hand defect
+Slow development
 
-Short
+Hand defect
 
 Round face
 
-Subcutaneous calcification
+Short
 
-Slow development
+Subcutaneous calcification

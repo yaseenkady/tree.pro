@@ -6,10 +6,10 @@ Maternal transmission
 
 # >
 
-Palm and sole rash
+Lymphadenopathy
 
 Rhinorrhea
 
-Lymphadenopathy
-
 Hepatomegaly
+
+Palm and sole rash

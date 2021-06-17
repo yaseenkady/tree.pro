@@ -4,30 +4,30 @@
 
 Stress
 
-Pregnancy
-
 Lactation
 
-High sexual activity
+Pregnancy
 
 Antihypertensive
 
-Psychotropic
-
 Estrogen
 
+Psychotropic
+
 Recreational drug
 
 Recreational drug
+
+High sexual activity
 
 # >
 
-High blood prolactin
-
-Late puberty
+Infertility
 
 Amenorrhea
 
 Erectile dysfunction
 
-Infertility
+Late puberty
+
+High blood prolactin

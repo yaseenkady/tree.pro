@@ -4,11 +4,11 @@ Hungry thyroid phenomenon.
 
 # <
 
-Low diet I
+Amiodarone
 
 Intravenous contrast
 
-Amiodarone
+Low diet I
 
 # >
 

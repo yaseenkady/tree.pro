@@ -6,10 +6,10 @@ Waterly diarrhea, hypokalemia, and achlorhydria syndrome.
 
 # >
 
-Watery diarrhea
-
-Islet cell tumor
+Achlorhydria
 
 Hypokalemia
 
-Achlorhydria
+Islet cell tumor
+
+Watery diarrhea

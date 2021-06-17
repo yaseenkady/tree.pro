@@ -2,46 +2,46 @@
 
 # <
 
-Head trauma
-
 Brain disease
 
-SSRI
+Head trauma
 
 Carbamazepine
 
 Cyclophosphamide
 
+SSRI
+
 # >
 
-High blood ADH
+Cerebral edema
 
-Low blood aldosterone
+Hyponatremia
 
-High blood ANP
+Osmotic demyelination syndrome
 
-High blood BNP
-
-High urine Na
-
-High urine osmolality
-
-Low blood osmolality
-
-Muscle cramp
-
-Tremor
+Seizure
 
 Nausea
 
 Vomiting
 
+Muscle cramp
+
 Depression
 
-Osmotic demyelination syndrome
+Tremor
 
-Hyponatremia
+High blood ADH
 
-Cerebral edema
+High blood ANP
 
-Seizure
+High blood BNP
+
+Low blood aldosterone
+
+Low blood osmolality
+
+High urine Na
+
+High urine osmolality

@@ -2,30 +2,30 @@
 
 # <
 
-Psychiatric disease
-
 Head trauma
 
+Psychiatric disease
+
 # >
-
-Polydipsia
-
-Polyuria
-
-Low urine osmolality
-
-Low urine specific gravity
-
-Nocturia
-
-Trouble sleeping
 
 Nausea
 
 Vomiting
 
-Low blood ADH
+Nocturia
+
+Polyuria
+
+Polydipsia
 
 Weight gain
 
+Trouble sleeping
+
+Low blood ADH
+
 Low blood osmolality
+
+Low urine osmolality
+
+Low urine specific gravity

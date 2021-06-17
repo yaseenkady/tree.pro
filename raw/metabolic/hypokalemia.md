@@ -6,6 +6,6 @@ Low diet K
 
 # >
 
-Low blood K
-
 Nephrogenic diabetes insipidus
+
+Low blood K

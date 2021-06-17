@@ -8,12 +8,12 @@ Autoimmunity
 
 # >
 
-Nodular goiter
-
-Hoarseness
+Hypothyroidism
 
 Dyspnea
 
-Dysphagia
+Hoarseness
 
-Hypothyroidism
+Nodular goiter
+
+Dysphagia

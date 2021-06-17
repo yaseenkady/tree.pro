@@ -4,12 +4,12 @@
 
 # >
 
-High blood aldosterone
+Hypernatremia
 
 Hypertension
-
-Hypernatremia
 
 Hypokalemia
 
 Metabolic alkalosis
+
+High blood aldosterone

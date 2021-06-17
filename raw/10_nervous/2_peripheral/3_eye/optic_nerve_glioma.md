@@ -10,6 +10,6 @@ Child
 
 # >
 
-Visual deficit
-
 Proptosis
+
+Visual deficit

@@ -6,8 +6,8 @@ Common
 
 # >
 
-High blood insulin
+Islet cell tumor
 
 Episodic hypoglycemia
 
-Islet cell tumor
+High blood insulin

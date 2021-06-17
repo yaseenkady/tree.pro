@@ -12,8 +12,8 @@ Adult
 
 # >
 
+Germ cell tumor
+
 High blood LDH
 
 High blood bHCG
-
-Germ cell tumor

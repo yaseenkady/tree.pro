@@ -10,6 +10,8 @@ Estrogen
 
 # >
 
+Acute pancreatitis
+
 High blood VLDL
 
 High blood cholesterol
@@ -17,5 +19,3 @@ High blood cholesterol
 High blood triglyceride
 
 Turbid serum
-
-Acute pancreatitis

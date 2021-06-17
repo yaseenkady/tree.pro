@@ -4,16 +4,16 @@
 
 # >
 
-Smooth and diffuse goiter
-
-Headache
-
-Visual deficit
-
-Pituitary apoplexy
+Central diabetes insipidus
 
 Hypopituitarism
 
-Central diabetes insipidus
-
 Nelson syndrome
+
+Pituitary apoplexy
+
+Headache
+
+Smooth and diffuse goiter
+
+Visual deficit

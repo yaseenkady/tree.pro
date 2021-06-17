@@ -8,10 +8,10 @@ Adult
 
 # >
 
-Nodular goiter
-
-High blood calcitonin
-
 Hypocalcemia
 
 Neuroendocrine tumor
+
+Nodular goiter
+
+High blood calcitonin

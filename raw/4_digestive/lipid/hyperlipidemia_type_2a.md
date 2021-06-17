@@ -4,12 +4,12 @@ Familial hypercholesterolemia.
 
 # <
 
-LDLR
-
 Common
+
+LDLR
 
 # >
 
-Clear serum
-
 Hyperlipidemia type 2
+
+Clear serum

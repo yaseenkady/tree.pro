@@ -2,14 +2,14 @@
 
 # <
 
-ADHR
+Dececlocycline
 
 Exposure to lithium
 
-Dececlocycline
+ADHR
 
 # >
 
-High blood ADH
-
 Diabetes insipidus
+
+High blood ADH

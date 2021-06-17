@@ -2,11 +2,11 @@
 
 # <
 
+Autoimmunity
+
 Adolescent
 
 Young adult
-
-Autoimmunity
 
 HLA-DR3
 
@@ -14,8 +14,8 @@ HLA-DR4
 
 # >
 
+Diabetes mellitus
+
 Antibody for pancreatic B cell
 
 Low blood insulin
-
-Diabetes mellitus

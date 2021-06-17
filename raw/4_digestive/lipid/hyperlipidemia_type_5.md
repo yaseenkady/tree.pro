@@ -4,24 +4,24 @@ Mixure of hyperlipidemia type 1 and type 4.
 
 # <
 
-LPL
-
 Stress
 
 Glucocorticoid
 
 Alcohol
 
+LPL
+
 # >
 
-High blood chylomicron
+Acute pancreatitis
 
 High blood VLDL
 
 High blood cholesterol
 
+High blood chylomicron
+
 High blood triglyceride
 
 Creamy-top serum
-
-Acute pancreatitis

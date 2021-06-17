@@ -4,18 +4,18 @@
 
 # >
 
+Arthritis
+
 Fatigue
-
-Antibody for nucleic acid
-
-High blood RF
 
 Antibody for CCP
 
-High ESR
+Antibody for nucleic acid
 
 High blood CRP
 
+High blood RF
+
 High blood WBC
 
-Arthritis
+High ESR

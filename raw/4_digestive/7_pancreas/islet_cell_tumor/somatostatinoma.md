@@ -4,18 +4,18 @@
 
 # >
 
-High blood somatostatin
+Islet cell tumor
 
-Low blood secretin
+High blood somatostatin
 
 Low blood cholecystokinin
 
-Low blood gastrin
-
 Low blood gastric inhibitory peptide
+
+Low blood gastrin
 
 Low blood glucagon
 
 Low blood insulin
 
-Islet cell tumor
+Low blood secretin

@@ -8,12 +8,12 @@ Infection
 
 # >
 
-High ESR
+Hyperthyroidism
+
+Hypothyroidism
 
 Jaw pain
 
 Thyroid tenderness
 
-Hyperthyroidism
-
-Hypothyroidism
+High ESR

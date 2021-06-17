@@ -4,6 +4,6 @@
 
 # >
 
-Muscle weakness
-
 Myalgia
+
+Muscle weakness

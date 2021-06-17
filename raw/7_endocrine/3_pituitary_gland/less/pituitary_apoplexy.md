@@ -6,14 +6,14 @@ Head trauma
 
 # >
 
-Headache
-
-Visual deficit
+Hypopituitarism
 
 Nausea
 
 Vomiting
 
+Headache
+
 Mental status change
 
-Hypopituitarism
+Visual deficit

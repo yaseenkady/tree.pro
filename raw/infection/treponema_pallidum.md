@@ -4,20 +4,20 @@
 
 # >
 
-Painless genital ulcer
-
-Flu like symptoms
-
-Palm and sole rash
-
-Rash
-
 Aortic aneurysm
 
 Congenital syphilis
 
-Orchitis
+Infective arthritis
 
 Neurosyphilis
 
-Infective arthritis
+Orchitis
+
+Flu like symptoms
+
+Painless genital ulcer
+
+Palm and sole rash
+
+Rash

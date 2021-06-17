@@ -2,22 +2,22 @@
 
 # <
 
-Exposure to toxin
-
-Alcohol
-
-Medication
-
 Acetaminophen
 
 Isoniazid
 
+Medication
+
+Exposure to toxin
+
+Alcohol
+
 # >
 
-Portal hypertension
+Hepatocellular carcinoma
 
 Hyperprolactinemia
 
 Secondary hyperaldosteronism
 
-Hepatocellular carcinoma
+Portal hypertension

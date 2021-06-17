@@ -8,22 +8,22 @@ Middle aged
 
 Elderly
 
-Obesity
-
-Smoking
+Non-White
 
 Low socioeconomic status
 
-Non-White
+Smoking
+
+Obesity
 
 # >
-
-High blood insulin
-
-Low blood insulin
 
 Diabetes mellitus
 
 Diabetes mellitus
 
 Hyperosmolar hyperglycemic state
+
+High blood insulin
+
+Low blood insulin
