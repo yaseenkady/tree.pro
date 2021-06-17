@@ -1,3 +1,0 @@
-# Diagnostic
-
-Low blood ADH

@@ -1,9 +1,0 @@
-# .
-
-# <
-
-# >
-
-Retinal aneurysm
-
-Retinal hemorrhage

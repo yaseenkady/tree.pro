@@ -1,7 +1,0 @@
-# .
-
-# <
-
-Maternal transmission
-
-# >

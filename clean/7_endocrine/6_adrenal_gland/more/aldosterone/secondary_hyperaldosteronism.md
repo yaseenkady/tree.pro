@@ -1,9 +1,0 @@
-# .
-
-# <
-
-# >
-
-hyperaldosteronism
-
-Edema

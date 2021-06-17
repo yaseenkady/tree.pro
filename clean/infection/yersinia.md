@@ -1,7 +1,0 @@
-# .
-
-# <
-
-# >
-
-reactive_arthritis

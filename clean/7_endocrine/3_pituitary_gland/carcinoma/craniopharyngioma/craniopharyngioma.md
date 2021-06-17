@@ -1,7 +1,0 @@
-# .
-
-# <
-
-# >
-
-hypopituitarism

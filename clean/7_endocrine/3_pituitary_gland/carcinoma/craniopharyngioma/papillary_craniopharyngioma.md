@@ -1,9 +1,0 @@
-# .
-
-# <
-
-Elderly
-
-# >
-
-craniopharyngioma

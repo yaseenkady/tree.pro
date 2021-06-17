@@ -1,7 +1,0 @@
-# .
-
-# <
-
-# >
-
-neuroendocrine_tumor

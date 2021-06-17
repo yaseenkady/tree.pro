@@ -1,9 +1,0 @@
-# .
-
-# <
-
-# >
-
-hypercalcemia
-
-hyperparathyroidism

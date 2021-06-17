@@ -1,9 +1,0 @@
-# .
-
-# <
-
-# >
-
-Myalgia
-
-Muscle weakness

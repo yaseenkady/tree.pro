@@ -1,7 +1,0 @@
-# .
-
-# <
-
-# >
-
-Abdominal pain

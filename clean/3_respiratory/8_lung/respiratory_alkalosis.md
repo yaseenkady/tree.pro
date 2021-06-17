@@ -1,9 +1,0 @@
-# .
-
-# <
-
-Hyperventilation
-
-# >
-
-High blood pH

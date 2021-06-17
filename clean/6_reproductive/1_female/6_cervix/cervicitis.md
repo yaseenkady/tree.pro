@@ -1,7 +1,0 @@
-# .
-
-# <
-
-# >
-
-Strawberry cervix

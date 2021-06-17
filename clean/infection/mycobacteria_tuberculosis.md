@@ -1,9 +1,0 @@
-# .
-
-# <
-
-# >
-
-addison_disease
-
-epididymitis

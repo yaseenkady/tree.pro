@@ -1,9 +1,0 @@
-# .
-
-# <
-
-# >
-
-arthritis
-
-Fever

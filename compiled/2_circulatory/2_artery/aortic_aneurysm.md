@@ -1,3 +1,0 @@
-# Cause
-
-Treponema Pallidum

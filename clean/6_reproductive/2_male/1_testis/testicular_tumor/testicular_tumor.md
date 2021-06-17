@@ -1,7 +1,0 @@
-# .
-
-# <
-
-# >
-
-Testicular mass

@@ -1,7 +1,0 @@
-# .
-
-# <
-
-# >
-
-testicular_tumor

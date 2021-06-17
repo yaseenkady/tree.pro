@@ -1,3 +1,0 @@
-# Sign
-
-Low blood pressure

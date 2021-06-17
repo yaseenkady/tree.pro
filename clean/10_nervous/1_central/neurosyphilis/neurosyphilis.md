@@ -1,9 +1,0 @@
-# .
-
-# <
-
-# >
-
-tabes_dorsalis
-
-Paresthesia

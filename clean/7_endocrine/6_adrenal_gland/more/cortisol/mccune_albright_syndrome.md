@@ -1,9 +1,0 @@
-# .
-
-# <
-
-GNAS
-
-# >
-
-cushing_syndrome

@@ -1,9 +1,0 @@
-# .
-
-# <
-
-Common
-
-# >
-
-testicular_tumor

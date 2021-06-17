@@ -1,9 +1,0 @@
-# .
-
-# <
-
-# >
-
-Fast development
-
-Tall

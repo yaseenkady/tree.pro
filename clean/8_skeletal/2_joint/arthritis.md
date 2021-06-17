@@ -1,9 +1,0 @@
-# .
-
-# <
-
-# >
-
-Joint pain
-
-Joint effusion
