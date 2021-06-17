@@ -48,6 +48,8 @@ Sleepiness
 
 Fever
 
+High blood pressure
+
 Moist and warm skin
 
 Palpitation

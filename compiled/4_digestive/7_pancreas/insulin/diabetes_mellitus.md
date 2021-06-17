@@ -42,6 +42,8 @@ Fatigue
 
 Edema
 
+High blood pressure
+
 Tachycardia
 
 Hyperventilation

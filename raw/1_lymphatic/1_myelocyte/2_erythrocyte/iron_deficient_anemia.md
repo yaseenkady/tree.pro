@@ -6,14 +6,6 @@ Low diet Fe
 
 # >
 
+Anemia
+
 Periodic leg movement disease
-
-Dyspnea
-
-Fatigue
-
-Pale conjunctiva
-
-Low blood ferritin
-
-Low blood hemoglobin

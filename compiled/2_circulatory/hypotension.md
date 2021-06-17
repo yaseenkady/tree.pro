@@ -4,10 +4,10 @@
 
 # Cause
 
-Hypotension
-
 # Symptom
 
 # Sign
+
+Low blood pressure
 
 # Diagnostic

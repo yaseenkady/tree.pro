@@ -54,6 +54,8 @@ Fever
 
 Pallor
 
+High blood pressure
+
 Orthostatic hypotension
 
 Paroxysmal palpitation

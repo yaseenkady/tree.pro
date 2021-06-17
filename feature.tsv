@@ -174,7 +174,9 @@ Splenomegaly	6.1.0
 Bradycardia	6.2.0
 Dry and cool skin	6.2.0
 Edema	6.2.0
+High blood pressure	6.2.0
 Jagular venous distention	6.2.0
+Low blood pressure	6.2.0
 Moist and warm skin	6.2.0
 Orthostatic hypotension	6.2.0
 Palpitation	6.2.0
@@ -249,6 +251,7 @@ Myxedema	6.7.0
 Nodular goiter	6.7.0
 Non-pitting edema	6.7.0
 Obesity	6.7.0
+Pitting edema	6.7.0
 Proptosis	6.7.0
 Protuberant tongue	6.7.0
 Refractory hypertension	6.7.0
@@ -408,6 +411,7 @@ Turbid serum	7.3.0
 High blood RBC	7.5.0
 High blood WBC	7.5.0
 Low blood platelet	7.5.0
+Schistocyte	7.5.0
 High ESR	7.6.0
 High urine Ca	7.7.0
 High urine Na	7.7.0

@@ -4,14 +4,8 @@
 
 # >
 
-Dyspnea
-
-Fatigue
-
-Pale conjunctiva
+Anemia
 
 High blood triglyceride
 
-Low blood ferritin
-
-Low blood hemoglobin
+Schistocyte

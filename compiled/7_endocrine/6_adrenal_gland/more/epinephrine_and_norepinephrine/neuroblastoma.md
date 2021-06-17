@@ -14,6 +14,8 @@ Trouble sleeping
 
 # Sign
 
+High blood pressure
+
 Abdominal swelling
 
 Crossing midline, firm, and irregular abdominal mass

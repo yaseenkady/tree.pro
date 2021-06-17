@@ -40,6 +40,8 @@ Weight gain
 
 Poor wound healing
 
+High blood pressure
+
 Arcus senilis
 
 Tendon xanthoma

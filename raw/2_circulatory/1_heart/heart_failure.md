@@ -18,10 +18,12 @@ Orthopnea
 
 Nocturia
 
+Polyuria
+
 Fatigue
 
 Jagular venous distention
 
 S3 gallop
 
-Non-pitting edema
+Pitting edema

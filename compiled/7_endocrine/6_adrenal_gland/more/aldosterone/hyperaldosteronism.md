@@ -12,6 +12,8 @@ Secondary Hyperaldosteronism
 
 # Sign
 
+High blood pressure
+
 # Diagnostic
 
 High blood Na

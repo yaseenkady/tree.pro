@@ -18,6 +18,8 @@ Orthopnea
 
 Nocturia
 
+Polyuria
+
 Depression
 
 Fatigue
@@ -34,6 +36,6 @@ Jagular venous distention
 
 S3 gallop
 
-Non-pitting edema
+Pitting edema
 
 # Diagnostic

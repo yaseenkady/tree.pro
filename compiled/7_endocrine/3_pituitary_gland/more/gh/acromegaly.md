@@ -22,6 +22,8 @@ Sleepiness
 
 # Sign
 
+High blood pressure
+
 Big hand and foot
 
 Coarsening facial feature

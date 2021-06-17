@@ -18,8 +18,6 @@ Diabetes Mellitus
 
 Hyperaldosteronism
 
-Hypertension
-
 Hyperthyroidism
 
 Neuroblastoma
@@ -37,5 +35,7 @@ Fatigue
 Sleepiness
 
 # Sign
+
+High blood pressure
 
 # Diagnostic

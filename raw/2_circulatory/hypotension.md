@@ -4,4 +4,4 @@
 
 # >
 
-Hypotension
+Low blood pressure

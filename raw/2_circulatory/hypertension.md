@@ -12,6 +12,6 @@ Obesity
 
 # >
 
-Hypertension
-
 Obstructive sleep apnea
+
+High blood pressure
