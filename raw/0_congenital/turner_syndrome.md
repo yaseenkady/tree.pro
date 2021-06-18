@@ -2,17 +2,17 @@
 
 1 in 2000 females.
 
-100% cases have short stature.
+100% of cases have short stature.
 
-25% cases have webbed neck.
+25% of cases have webbed neck.
 
-39% cases have kidney disease.
+39% of cases have kidney disease.
 
-47% cases have cubitus valgus.
+47% of cases have cubitus valgus.
 
-55% cases have heart disease.
+55% of cases have heart disease.
 
-96% cases have gonadal failure.
+96% of cases have gonadal failure.
 
 # <
 

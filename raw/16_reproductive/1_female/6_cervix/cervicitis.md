@@ -1,6 +1,6 @@
 # .
 
-2% cases have strawberry cervix.
+2% of cases have strawberry cervix.
 
 # <
 

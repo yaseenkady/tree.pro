@@ -1,6 +1,6 @@
 # .
 
-10% cases develop sex chord stromal tumors.
+10% of cases develop sex chord stromal tumors.
 
 Undescended testes.
 
