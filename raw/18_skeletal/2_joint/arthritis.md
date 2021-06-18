@@ -4,6 +4,6 @@
 
 # >
 
-Joint pain
+Arthralgia
 
 Joint effusion

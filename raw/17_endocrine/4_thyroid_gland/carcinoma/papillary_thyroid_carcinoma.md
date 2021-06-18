@@ -1,8 +1,8 @@
 # .
 
-85% of thyroid tumors.
-
 3x more in females.
+
+85% of thyroid tumors.
 
 Spreads lymphatically.
 
@@ -26,6 +26,6 @@ RET
 
 ANAPLASTIC THYROID CARCINOMA
 
-Neck lymphadenopathy
+NODULAR GOITER
 
-Nodular goiter
+Neck lymphadenopathy

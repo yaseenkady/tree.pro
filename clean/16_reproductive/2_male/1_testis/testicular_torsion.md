@@ -1,0 +1,3 @@
+# Symptom
+
+Testicular pain

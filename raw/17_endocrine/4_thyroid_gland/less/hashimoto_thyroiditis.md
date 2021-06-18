@@ -2,9 +2,9 @@
 
 Also called chronic autoimmune thyroiditis.
 
-The most common cause of hypothyroidism in the I sufficient areas.
-
 Hyperthyroidism is transient before hypothyroidism.
+
+The most common cause of hypothyroidism in the I sufficient areas.
 
 # <
 
@@ -16,6 +16,8 @@ HLA-DR3
 
 # >
 
+DIFFUSE GOITER
+
 DIFFUSE LARGE B CELL LYMPHOMA
 
 HYPERTHYROIDISM
@@ -23,8 +25,6 @@ HYPERTHYROIDISM
 HYPOTHYROIDISM
 
 LYMPHOMA
-
-Smooth and diffuse goiter
 
 Antibody for thyroglobulin
 

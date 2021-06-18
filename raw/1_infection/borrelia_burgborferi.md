@@ -14,6 +14,6 @@ PERIPHERAL NEUROPATHY
 
 POLYNEUROPATHY
 
-Rash
-
 Erythema migrans
+
+Rash

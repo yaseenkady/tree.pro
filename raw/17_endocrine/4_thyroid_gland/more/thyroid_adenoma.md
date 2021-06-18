@@ -1,5 +1,7 @@
 # .
 
+Causes 3-5% of hyperthyroidism.
+
 # <
 
 Common
@@ -8,4 +10,4 @@ Common
 
 HYPERTHYROIDISM
 
-Nodular goiter
+NODULAR GOITER

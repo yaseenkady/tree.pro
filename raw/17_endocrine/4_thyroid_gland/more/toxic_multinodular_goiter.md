@@ -1,5 +1,7 @@
 # .
 
+Causes 15-20% of hyperthyroidism.
+
 # <
 
 TSHR
@@ -8,4 +10,4 @@ TSHR
 
 HYPERTHYROIDISM
 
-Nodular goiter
+NODULAR GOITER

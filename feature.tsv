@@ -25,7 +25,10 @@ Polyuria	1.5.0
 Amenorrhea	1.6.0
 Cervical motion tenderness	1.6.0
 Erectile dysfunction	1.6.0
+Galactorrhea	1.6.0
+Irregular mense	1.6.0
 Low libido	1.6.0
+Menorrhagia	1.6.0
 Testicular pain	1.6.0
 Anhidrosis	1.7.0
 Cold intolerance	1.7.0
@@ -38,9 +41,9 @@ Salt craving	1.7.0
 Sugar craving	1.7.0
 Weight gain	1.7.0
 Weight loss	1.7.0
+Arthralgia	1.8.0
 Bone pain	1.8.0
 Jaw pain	1.8.0
-Joint pain	1.8.0
 Muscle cramp	1.8.0
 Myalgia	1.8.0
 Eye pain	1.10.0
@@ -50,7 +53,7 @@ Paresthesia	1.10.0
 Paroxysmal headache	1.10.0
 Proximal muscle weakness	1.10.0
 Vertigo	1.10.0
-Anxiousness	1.11.0
+Anxiety	1.11.0
 Depression	1.11.0
 Fatigue	1.11.0
 Movement during sleep	1.11.0
@@ -73,6 +76,7 @@ Kidney disease	2.5.0
 Early menopause	2.6.0
 Early puberty	2.6.0
 Gonadal disease	2.6.0
+Hypogonadism	2.6.0
 Lactation	2.6.0
 Late puberty	2.6.0
 Peripartum	2.6.0
@@ -155,6 +159,7 @@ Recreational drug	5.3.0
 High sexual activity	5.4.0
 Single	5.4.0
 Loss of interest	5.5.0
+Developmental defect	6.0.1
 Cachexia	6.1.0
 Fever	6.1.0
 Lethargy	6.1.0
@@ -166,6 +171,7 @@ Petechiae	6.1.0
 Poor wound healing	6.1.0
 Splenomegaly	6.1.0
 Bradycardia	6.2.0
+Diastolic hypertension	6.2.0
 Dry and cool skin	6.2.0
 Edema	6.2.0
 High blood pressure	6.2.0
@@ -177,6 +183,7 @@ Palpitation	6.2.0
 Paroxysmal palpitation	6.2.0
 Paroxysmal tachycardia	6.2.0
 S3 gallop	6.2.0
+Shiny skin	6.2.0
 Tachycardia	6.2.0
 Tricuspid regurgitation	6.2.0
 Hoarseness	6.3.0
@@ -229,12 +236,12 @@ Coarse and brittle hair	6.7.0
 Coarsening facial feature	6.7.0
 Deep voice	6.7.0
 Dehydration	6.7.0
+Disproportionate short stature	6.7.0
+Enlarged tongue	6.7.0
 Eye edema	6.7.0
 Fine hair	6.7.0
 Flushing	6.7.0
 Frontal bossing	6.7.0
-Gigantism	6.7.0
-Graves orbitopathy	6.7.0
 Hyperpigmentation	6.7.0
 Kussmaul respiration	6.7.0
 Large and deep furrowed tongue	6.7.0
@@ -242,23 +249,23 @@ Lid lag	6.7.0
 Long limb	6.7.0
 Macrosomia	6.7.0
 Myxedema	6.7.0
-Nodular goiter	6.7.0
-Non-pitting edema	6.7.0
 Obesity	6.7.0
 Pitting edema	6.7.0
+Proportionate short stature	6.7.0
 Proptosis	6.7.0
 Protuberant tongue	6.7.0
+Puffy face	6.7.0
 Refractory hypertension	6.7.0
 Round face	6.7.0
-Short	6.7.0
 Short limb	6.7.0
 Shoulder hump	6.7.0
-Smooth and diffuse goiter	6.7.0
 Stretch mark	6.7.0
 Subcutaneous calcification	6.7.0
 Sweet breath	6.7.0
-Tall	6.7.0
+Tall stature	6.7.0
 Thin	6.7.0
+Thyroid bruit	6.7.0
+Thyroid cork	6.7.0
 Thyroid tenderness	6.7.0
 Trousseau sign	6.7.0
 Webbed neck	6.7.0
@@ -271,6 +278,7 @@ Scoliosis	6.8.0
 Alopecia	6.9.0
 Cafe-au-lait spot	6.9.0
 Dermatitis	6.9.0
+Erythema migrans	6.9.0
 Gangrene	6.9.0
 Onycholysis	6.9.0
 Palm and sole rash	6.9.0
@@ -284,6 +292,7 @@ Delirium	6.10.0
 Dementia	6.10.0
 Dysphagia	6.10.0
 Fine tremor	6.10.0
+Hand tremor	6.10.0
 Hyperreflexia	6.10.0
 Hyporeflexia	6.10.0
 Myoclonus	6.10.0

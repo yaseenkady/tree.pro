@@ -4,15 +4,15 @@
 
 100% cases have short stature.
 
-96% cases have gonadal failure.
-
-55% cases have heart disease.
-
-47% cases have cubitus valgus.
+25% cases have webbed neck.
 
 39% cases have kidney disease.
 
-25% cases have webbed neck.
+47% cases have cubitus valgus.
+
+55% cases have heart disease.
+
+96% cases have gonadal failure.
 
 # <
 
@@ -28,7 +28,7 @@ Kidney disease
 
 Gonadal disease
 
-Short
+Proportionate short stature
 
 Webbed neck
 

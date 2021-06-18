@@ -28,7 +28,7 @@ Headache
 
 Paresthesia
 
-Anxiousness
+Anxiety
 
 Palpitation
 

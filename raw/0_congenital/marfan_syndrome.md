@@ -10,7 +10,7 @@ Heart disease
 
 Long limb
 
-Tall
+Tall stature
 
 Arachnodactyly
 

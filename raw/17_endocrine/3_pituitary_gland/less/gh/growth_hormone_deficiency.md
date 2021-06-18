@@ -1,5 +1,7 @@
 # .
 
+Slow growth and proportionate short stature in children.
+
 # <
 
 # >
@@ -8,9 +10,11 @@ Muscle weakness
 
 Fatigue
 
+Slow development
+
 Abdominal obesity
 
-Short
+Proportionate short stature
 
 Hyperlipidemia
 

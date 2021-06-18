@@ -30,8 +30,6 @@ Deep voice
 
 Frontal bossing
 
-Gigantism
-
 Large and deep furrowed tongue
 
 High blood GH

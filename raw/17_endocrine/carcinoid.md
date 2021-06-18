@@ -1,8 +1,8 @@
 # .
 
-The most common neuroendocrine tumor.
-
 Common in gastrointestinal system and lung.
+
+The most common neuroendocrine tumor.
 
 # <
 

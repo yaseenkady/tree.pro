@@ -16,6 +16,8 @@ HYPERLIPIDEMIA TYPE 2
 
 HYPERTENSION
 
+HYPOTHYROIDISM
+
 INFERTILITY
 
 OSTEOPEROSIS
@@ -38,9 +40,9 @@ Abdominal obesity
 
 Acne
 
-Round face
+Proportionate short stature
 
-Short
+Round face
 
 Shoulder hump
 

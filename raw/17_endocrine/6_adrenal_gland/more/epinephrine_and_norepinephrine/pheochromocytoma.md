@@ -42,7 +42,7 @@ Paroxysmal headache
 
 Vertigo
 
-Anxiousness
+Anxiety
 
 Nervousness
 

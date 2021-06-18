@@ -1,8 +1,8 @@
 # .
 
-Familial combined hyperlipidemia.
-
 1 in 100 people.
+
+Familial combined hyperlipidemia.
 
 # <
 

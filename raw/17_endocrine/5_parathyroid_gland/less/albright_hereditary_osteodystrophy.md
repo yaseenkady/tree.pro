@@ -6,9 +6,9 @@
 
 Slow development
 
-Round face
+Proportionate short stature
 
-Short
+Round face
 
 Subcutaneous calcification
 

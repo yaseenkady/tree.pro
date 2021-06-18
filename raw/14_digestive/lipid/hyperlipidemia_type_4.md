@@ -1,8 +1,8 @@
 # .
 
-Familial hypertriglyceridemia.
-
 1 in 100 people.
+
+Familial hypertriglyceridemia.
 
 # <
 

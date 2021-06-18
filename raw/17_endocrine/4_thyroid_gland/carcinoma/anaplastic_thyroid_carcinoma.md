@@ -16,13 +16,13 @@ TP53
 
 # >
 
+NODULAR GOITER
+
 Dyspnea
 
 Neck pain
 
 Hoarseness
-
-Nodular goiter
 
 Dysphagia
 

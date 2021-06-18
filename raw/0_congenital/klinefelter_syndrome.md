@@ -8,4 +8,6 @@ XXY
 
 SEX CHORD STROMAL TUMOR
 
-Tall
+Hypogonadism
+
+Tall stature

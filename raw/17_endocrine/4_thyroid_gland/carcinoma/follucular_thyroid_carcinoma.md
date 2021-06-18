@@ -16,4 +16,4 @@ Exposure to radiation
 
 ANAPLASTIC THYROID CARCINOMA
 
-Nodular goiter
+NODULAR GOITER

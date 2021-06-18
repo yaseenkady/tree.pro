@@ -10,10 +10,8 @@ IGF1R
 
 # >
 
-Short
+GROWTH HORMONE DEFICIENCY
 
 High blood GH
 
 High blood IGF1
-
-Low blood IGF1

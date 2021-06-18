@@ -10,7 +10,7 @@ Early puberty
 
 Fast development
 
-Short
+Proportionate short stature
 
 High blood FSH
 

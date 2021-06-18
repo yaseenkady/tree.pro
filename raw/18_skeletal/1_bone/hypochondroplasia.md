@@ -6,6 +6,6 @@ FGFR3
 
 # >
 
-Short
+Disproportionate short stature
 
 Short limb
