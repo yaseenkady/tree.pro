@@ -82,6 +82,7 @@ Late puberty	2.6.0
 Peripartum	2.6.0
 Postpartum	2.6.0
 Pregnancy	2.6.0
+Endocrine disease	2.7.0
 Fast development	2.7.0
 Hormonal change	2.7.0
 Slow development	2.7.0
@@ -240,7 +241,6 @@ Enlarged tongue	6.7.0
 Eye edema	6.7.0
 Fine hair	6.7.0
 Flushing	6.7.0
-Frontal bossing	6.7.0
 Hyperpigmentation	6.7.0
 Kussmaul respiration	6.7.0
 Large and deep furrowed tongue	6.7.0
@@ -273,13 +273,13 @@ Bone defect	6.8.0
 Cubitus valgus	6.8.0
 Curved bone	6.8.0
 Enlarged epiphysis at wrist and ankle	6.8.0
+Frontal bossing	6.8.0
 Hand defect	6.8.0
 Joint effusion	6.8.0
 Kyphosis	6.8.0
 Large head	6.8.0
 Midline defect	6.8.0
 Protruding abdomen	6.8.0
-Protruding forehead	6.8.0
 Scoliosis	6.8.0
 Alopecia	6.9.0
 Cafe-au-lait spot	6.9.0
@@ -307,6 +307,7 @@ Neurological focal deficit	6.10.0
 Opsoclonus	6.10.0
 Pale conjunctiva	6.10.0
 Tremor	6.10.0
+Confusion	6.10.1
 Mental status change	6.10.1
 Wide gait	6.10.1
 Ectopic lentis	6.10.2
@@ -383,6 +384,7 @@ High blood renin	7.1.0
 High blood somatostatin	7.1.0
 High blood triglyceride	7.1.0
 High blood urea nitrogen	7.1.0
+High blood vitamin D	7.1.0
 Hyperglycemia	7.1.0
 Hyperlipidemia	7.1.0
 Low blood ACTH	7.1.0
@@ -457,6 +459,7 @@ APOB	8.3.0
 APOC2	8.3.0
 APOE	8.3.0
 AR	8.3.0
+ARMC5	8.3.0
 BRAF	8.3.0
 CBS	8.3.0
 COL1A1	8.3.0

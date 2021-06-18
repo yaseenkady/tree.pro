@@ -1,10 +1,18 @@
 # .
 
+50% of cases have ARMC5 loss-of-function.
+
 Causes 2% of Cushing syndrome.
 
-Ectopic expression of hormone receptors.
+GNAS gain-of-function can cause hyperplasia too.
+
+Often bilateral.
 
 # <
+
+ARMC5
+
+GNAS
 
 # >
 

@@ -4,6 +4,8 @@ Adenoma and carcinoma are equally common in adults.
 
 Causes 10% of Cushing syndrome.
 
+Causes 2/3 of Conn syndrome.
+
 # <
 
 Adult
@@ -12,8 +14,6 @@ Adult
 
 ADRENOGENITAL VIRILIZING SYNDROME
 
-CONN SYNDROME
-
 CUSHING SYNDROME
 
-Low blood ACTH
+PRIMARY HYPERALDOSTERONISM

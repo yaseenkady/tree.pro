@@ -16,8 +16,6 @@ OBSTRUCTIVE SLEEP APNEA
 
 OSTEOARTHRITIS
 
-PITUITARY ADENOMA
-
 Diaphoresis
 
 Cancer
@@ -28,14 +26,8 @@ Coarsening facial feature
 
 Deep voice
 
-Frontal bossing
-
 Large and deep furrowed tongue
 
-High blood GH
-
-High blood GH after glucose
-
-High blood IGF1
+Frontal bossing
 
 Colorectal polyp

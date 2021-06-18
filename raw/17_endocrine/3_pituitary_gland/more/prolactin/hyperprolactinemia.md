@@ -6,11 +6,11 @@ Hypogonadism and infertility in male.
 
 # <
 
+Pregnancy
+
 Stress
 
 Lactation
-
-Pregnancy
 
 Antihypertensive
 

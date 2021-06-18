@@ -8,11 +8,11 @@ Causes 50-60% of hyperthyroidism.
 
 # <
 
+Pregnancy
+
 Common
 
 Stress
-
-Pregnancy
 
 HLA-B8
 

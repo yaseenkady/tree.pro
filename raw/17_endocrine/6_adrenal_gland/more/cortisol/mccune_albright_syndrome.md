@@ -1,6 +1,10 @@
 # .
 
+85% of female and 10-15% of male cases have precocious puberty.
+
 Causes 2% of Cushing syndrome.
+
+GNAS gain-of-function.
 
 # <
 
@@ -9,3 +13,17 @@ GNAS
 # >
 
 CUSHING SYNDROME
+
+FIBROUS DYSPLASIA
+
+GROWTH HORMONE EXCESS
+
+HYPERTHYROIDISM
+
+PRECOCIOUS PUBERTY
+
+Endocrine disease
+
+Hyperpigmentation
+
+Cafe-au-lait spot

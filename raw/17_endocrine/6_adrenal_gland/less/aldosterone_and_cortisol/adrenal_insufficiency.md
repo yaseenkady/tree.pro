@@ -6,6 +6,8 @@
 
 ADRENAL CRISIS
 
+HYPOKALEMIA
+
 METABOLIC ACIDOSIS
 
 Dizziness
@@ -23,8 +25,6 @@ Muscle weakness
 Fatigue
 
 Orthostatic hypotension
-
-Low blood K
 
 Low blood aldosterone
 

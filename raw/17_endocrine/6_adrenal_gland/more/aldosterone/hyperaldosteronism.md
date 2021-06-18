@@ -14,4 +14,16 @@ HYPOKALEMIA
 
 METABOLIC ALKALOSIS
 
+Polyuria
+
+Polydipsia
+
+Muscle cramp
+
+Headache
+
+Muscle weakness
+
+Fatigue
+
 High blood aldosterone

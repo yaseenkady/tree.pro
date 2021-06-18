@@ -1,5 +1,7 @@
 # .
 
+Left ventricular heart failure causes secondary hyperaldosteronism.
+
 # <
 
 # >
