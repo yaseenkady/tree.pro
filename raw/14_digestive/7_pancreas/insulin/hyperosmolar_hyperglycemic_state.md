@@ -8,11 +8,11 @@ Serum osmolality more than 320mOsm/kg.
 
 # >
 
+DEHYDRATION
+
 SEIZURE
 
 Lethargy
-
-Dehydration
 
 Coma
 

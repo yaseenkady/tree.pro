@@ -1,0 +1,9 @@
+# .
+
+# <
+
+# >
+
+THROMBOCYTOPENIA
+
+High hematocrit

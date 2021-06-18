@@ -20,6 +20,8 @@ CHRONIC KIDNEY DISEASE
 
 CORONARY ARTERY DISEASE
 
+DEHYDRATION
+
 DIABETIC KETOACIDOSIS
 
 DIABETIC RETINOPATHY
@@ -53,8 +55,6 @@ Weight loss
 Fatigue
 
 Kidney disease
-
-Dehydration
 
 Gangrene
 
