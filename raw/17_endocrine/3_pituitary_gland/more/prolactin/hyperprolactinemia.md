@@ -1,5 +1,9 @@
 # .
 
+Galactorrhea and amenorrhea in female.
+
+Hypogonadism and infertility in male.
+
 # <
 
 Stress
@@ -24,9 +28,15 @@ High sexual activity
 
 INFERTILITY
 
+INFERTILITY
+
 Amenorrhea
 
 Erectile dysfunction
+
+Galactorrhea
+
+Hypogonadism
 
 Late puberty
 

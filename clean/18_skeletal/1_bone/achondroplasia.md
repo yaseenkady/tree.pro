@@ -1,3 +1,0 @@
-# Sign
-
-Disproportionate short stature

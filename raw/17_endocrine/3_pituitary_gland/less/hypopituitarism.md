@@ -1,5 +1,7 @@
 # .
 
+Commonly originates from gonadotroph, which secrete LH and FSH.
+
 # <
 
 Brain disease
@@ -13,6 +15,8 @@ CUSHING SYNDROME
 GROWTH HORMONE DEFICIENCY
 
 HYPOTHYROIDISM
+
+PITUITARY ADENOMA
 
 SECONDARY ADRENAL INSUFFICIENCY
 

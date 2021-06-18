@@ -2,8 +2,6 @@
 
 # <
 
-LDLR
-
 # >
 
 ATHEROSCLEROSIS

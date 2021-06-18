@@ -10,8 +10,6 @@ Glucocorticoid
 
 Alcohol
 
-LPL
-
 # >
 
 ACUTE PANCREATITIS

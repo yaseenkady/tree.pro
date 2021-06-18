@@ -26,6 +26,8 @@ HYPOTHYROIDISM
 
 LYMPHOMA
 
+PAINLESS GOITER
+
 Antibody for thyroglobulin
 
 Antibody for thyroid peroxidase

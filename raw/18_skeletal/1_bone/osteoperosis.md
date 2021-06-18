@@ -1,5 +1,9 @@
 # .
 
+25% male over the age of 50.
+
+50% female.
+
 # <
 
 Early menopause
@@ -25,3 +29,7 @@ Smoking
 Thin
 
 # >
+
+FRACTURE
+
+Low bone density

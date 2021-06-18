@@ -165,7 +165,6 @@ Fever	6.1.0
 Lethargy	6.1.0
 Lymphadenopathy	6.1.0
 Neck lymphadenopathy	6.1.0
-Pale conjunctiva	6.1.0
 Pallor	6.1.0
 Petechiae	6.1.0
 Poor wound healing	6.1.0
@@ -270,10 +269,17 @@ Thyroid tenderness	6.7.0
 Trousseau sign	6.7.0
 Webbed neck	6.7.0
 Arachnodactyly	6.8.0
+Bone defect	6.8.0
 Cubitus valgus	6.8.0
+Curved bone	6.8.0
+Enlarged epiphysis at wrist and ankle	6.8.0
 Hand defect	6.8.0
 Joint effusion	6.8.0
+Kyphosis	6.8.0
+Large head	6.8.0
 Midline defect	6.8.0
+Protruding abdomen	6.8.0
+Protruding forehead	6.8.0
 Scoliosis	6.8.0
 Alopecia	6.9.0
 Cafe-au-lait spot	6.9.0
@@ -287,6 +293,7 @@ Rash	6.9.0
 Akinesthesia	6.10.0
 Areflexia	6.10.0
 Ataxia	6.10.0
+Blue conjunctiva	6.10.0
 Coma	6.10.0
 Delirium	6.10.0
 Dementia	6.10.0
@@ -298,6 +305,7 @@ Hyporeflexia	6.10.0
 Myoclonus	6.10.0
 Neurological focal deficit	6.10.0
 Opsoclonus	6.10.0
+Pale conjunctiva	6.10.0
 Tremor	6.10.0
 Mental status change	6.10.1
 Wide gait	6.10.1
@@ -451,6 +459,8 @@ APOE	8.3.0
 AR	8.3.0
 BRAF	8.3.0
 CBS	8.3.0
+COL1A1	8.3.0
+COL1A2	8.3.0
 FBN1	8.3.0
 FGFR3	8.3.0
 GHR	8.3.0

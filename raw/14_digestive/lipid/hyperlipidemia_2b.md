@@ -10,9 +10,7 @@ Less likely than hyperlipidemia 1 to cause acute pancreatitis.
 
 Common
 
-APOB
-
-LDLR
+LPL
 
 # >
 

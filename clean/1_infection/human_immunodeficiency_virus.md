@@ -1,5 +1,0 @@
-# Symptom
-
-Weight loss
-
-Fatigue
