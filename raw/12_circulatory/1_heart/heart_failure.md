@@ -29,3 +29,7 @@ Jagular venous distention
 S3 gallop
 
 Pitting edema
+
+Chest pain
+
+Crackle

@@ -2,12 +2,6 @@
 
 # <
 
-Stress
-
-Antiacid
-
 # >
 
 Upper gastrointestinal bleeding
-
-Chest pain

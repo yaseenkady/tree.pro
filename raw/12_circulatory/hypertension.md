@@ -23,3 +23,5 @@ STROKE
 Kidney disease
 
 High blood pressure
+
+Aortic dissection

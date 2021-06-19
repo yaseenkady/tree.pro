@@ -23,3 +23,5 @@ Depression
 Fatigue
 
 Sleepiness
+
+Pneumothorax

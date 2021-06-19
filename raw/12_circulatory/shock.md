@@ -3,3 +3,11 @@
 # <
 
 # >
+
+Hypotension
+
+Dysuria
+
+Tachycardia
+
+Unconsciousness

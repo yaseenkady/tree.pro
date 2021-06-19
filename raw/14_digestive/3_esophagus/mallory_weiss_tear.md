@@ -2,12 +2,8 @@
 
 # <
 
-Stress
-
-Antiacid
+Alcohol
 
 # >
 
 Upper gastrointestinal bleeding
-
-Chest pain

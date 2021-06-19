@@ -2,10 +2,6 @@
 
 # <
 
-Stress
-
-Antiacid
-
 # >
 
 Upper gastrointestinal bleeding

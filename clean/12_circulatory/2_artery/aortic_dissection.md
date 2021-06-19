@@ -1,3 +1,0 @@
-# Cause
-
-Osteogenesis Imperfecta

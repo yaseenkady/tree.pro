@@ -1,0 +1,7 @@
+# .
+
+# <
+
+# >
+
+Bright red stool
