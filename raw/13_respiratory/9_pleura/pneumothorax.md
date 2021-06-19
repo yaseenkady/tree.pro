@@ -15,3 +15,13 @@ Sharp chest pain
 Decreased breath sound
 
 Unilateral hyperresonance
+
+Dyspnea
+
+Tachycardia
+
+Tachycardia
+
+Neck vein distention
+
+Hypotension

@@ -1,5 +1,7 @@
 # .
 
+Often asymptomatic.
+
 # <
 
 Obesity
@@ -12,4 +14,8 @@ Sedentary lifestyle
 
 OBSTRUCTIVE SLEEP APNEA
 
-Chest pain
+acute coronary syndrome
+
+Pitting edema
+
+Heart murmur

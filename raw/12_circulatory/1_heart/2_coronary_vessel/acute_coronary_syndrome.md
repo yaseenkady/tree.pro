@@ -1,5 +1,7 @@
 # .
 
+Angina pectoris.
+
 Umbrella term covering symptom groups associated with acute myocardial ischemia.
 
 Includes unstable angina, non-ST segment elevation myocardial infection, and ST segment elevation myocardial infection.
@@ -8,7 +10,13 @@ Includes unstable angina, non-ST segment elevation myocardial infection, and ST 
 
 Atypical presentations are common in female, elderly, and diabetes mellitus patients.
 
+Angina can present with other sensations, especially in younger patients.
+
+Can be asymptomatic between events.
+
 # <
+
+Obesity
 
 Smoking
 
@@ -37,3 +45,5 @@ Dyspnea
 Fatigue
 
 Syncopy
+
+Diaphoresis

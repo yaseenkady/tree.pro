@@ -1,8 +1,13 @@
 # .
 
+Caused by stable atherosclerotic plaque.
+
 # <
 
 # >
 
-Chest pain
+Recurring chest pain
 
+Exertional chest pain
+
+Unstable angina

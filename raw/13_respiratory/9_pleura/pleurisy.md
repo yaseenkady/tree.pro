@@ -2,10 +2,12 @@
 
 # <
 
-Trauma
+Infection
 
 # >
 
 Pleuritic chest pain
 
-Chest wall tenderness
+Dyspnea
+
+Friction rub

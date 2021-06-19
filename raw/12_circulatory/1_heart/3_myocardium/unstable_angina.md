@@ -1,5 +1,7 @@
 # .
 
+Caused by non-occlusive thrombus resulting from ruptured unstable atheroscleric palque.
+
 # <
 
 Smoking
@@ -12,6 +14,8 @@ Elderly
 
 # >
 
+New chest pain
+
 Myocardial infarction
 
 Exertional chest pain
@@ -23,3 +27,5 @@ Nausea
 Fatigue
 
 Dizziness
+
+Acute myocardial infarction

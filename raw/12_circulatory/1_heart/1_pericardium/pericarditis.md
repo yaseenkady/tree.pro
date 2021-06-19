@@ -2,6 +2,8 @@
 
 Leaning forward alleviates chest pain.
 
+Occurs in 10% of people with myocardial infarction within 24-96hr.
+
 # <
 
 # >
@@ -12,4 +14,6 @@ Pleuritic chest pain
 
 Non-exertional chest pain
 
-Pericardial rub
+Friction rub
+
+Chest pain radiating to trapezius ridge

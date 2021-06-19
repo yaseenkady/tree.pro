@@ -25,3 +25,7 @@ Kidney disease
 High blood pressure
 
 Aortic dissection
+
+coronary artery disease
+
+acute coronary syndrome

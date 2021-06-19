@@ -1,5 +1,7 @@
 # .
 
+Central pulmonary embolism presents with less pain.
+
 # <
 
 Surgery
@@ -21,3 +23,17 @@ Pleuritic chest pain
 Sharp chest pain
 
 S3 gallop
+
+Unilateral chest pain
+
+Dyspnea
+
+Hemoptysis
+
+Tachycardia
+
+Dizziness
+
+Tachycardia
+
+Hypoxemia
