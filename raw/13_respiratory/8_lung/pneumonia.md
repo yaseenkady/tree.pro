@@ -23,3 +23,5 @@ Hypoxemia
 Coarse crackle
 
 Dullness to percussion
+
+Cough

@@ -1,9 +1,9 @@
 # .
 
+Post nasal drip.
+
 # <
 
 # >
-
-Stridor
 
 Cough

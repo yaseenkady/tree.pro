@@ -37,3 +37,5 @@ Coarse crackle
 Cheyne stroke respiration
 
 Fine crackle
+
+Cough

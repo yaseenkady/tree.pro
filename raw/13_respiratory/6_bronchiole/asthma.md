@@ -9,3 +9,5 @@ Obesity
 # >
 
 Asthma exacerbation
+
+Cough

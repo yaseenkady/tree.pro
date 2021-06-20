@@ -5,3 +5,5 @@
 # >
 
 Chest pain
+
+Cough

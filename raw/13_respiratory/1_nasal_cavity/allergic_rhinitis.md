@@ -1,9 +1,9 @@
 # .
 
+Hey fever.
+
 # <
 
 # >
-
-Stridor
 
 Cough

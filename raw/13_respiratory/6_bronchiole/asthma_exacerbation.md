@@ -7,3 +7,5 @@
 Hyperresonance
 
 Wheezing
+
+Cough

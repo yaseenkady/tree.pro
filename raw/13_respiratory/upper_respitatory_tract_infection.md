@@ -1,9 +1,9 @@
 # .
 
+Common cold.
+
 # <
 
 # >
-
-Stridor
 
 Cough

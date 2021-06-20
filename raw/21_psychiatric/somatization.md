@@ -9,3 +9,5 @@ Psychiatric disease
 # >
 
 Chest pain
+
+Cough
