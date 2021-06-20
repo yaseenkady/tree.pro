@@ -6,6 +6,8 @@ Stress
 
 Antiacid
 
+Aspirin
+
 # >
 
 Upper gastrointestinal bleeding

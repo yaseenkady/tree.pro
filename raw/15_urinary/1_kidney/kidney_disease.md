@@ -2,12 +2,10 @@
 
 # <
 
-High diet K
-
 Lisinopril
 
 ACE inhibitor
 
-# >
+Hydrochlorothiazide
 
-High blood K
+# >

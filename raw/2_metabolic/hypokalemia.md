@@ -4,6 +4,8 @@
 
 Low diet K
 
+Hydrochlorothiazide
+
 # >
 
 ARRHYTHMIA

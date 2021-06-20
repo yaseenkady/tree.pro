@@ -2,12 +2,10 @@
 
 # <
 
-High diet K
-
 Lisinopril
 
 ACE inhibitor
 
 # >
 
-High blood K
+Edema

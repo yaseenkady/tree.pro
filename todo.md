@@ -13,7 +13,7 @@
 Review endocrine system:
 
 - [x] Science of Medicine
-- [ ] Science of Medicine cases
+- [x] Science of Medicine cases
 - [ ] Practice of Medicine cases
 - [x] First Aid
 

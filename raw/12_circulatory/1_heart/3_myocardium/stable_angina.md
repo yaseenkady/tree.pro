@@ -4,6 +4,8 @@ Caused by stable atherosclerotic plaque.
 
 # <
 
+Obesity
+
 # >
 
 Recurring chest pain
@@ -11,3 +13,7 @@ Recurring chest pain
 Exertional chest pain
 
 Unstable angina
+
+Dyspnea
+
+Relief with rest

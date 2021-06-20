@@ -4,7 +4,6 @@
 
 # >
 
-
 Hemoptysis
 
 Rectal bleeding

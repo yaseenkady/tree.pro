@@ -10,6 +10,8 @@ Elderly
 
 # >
 
+Acute chest pain
+
 Substernal chest pain
 
 Chest pain radiating to back

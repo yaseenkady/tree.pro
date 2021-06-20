@@ -2,8 +2,8 @@
 
 # <
 
+Clopidogrel
+
 Aspirin
 
 # >
-
-Chest pain

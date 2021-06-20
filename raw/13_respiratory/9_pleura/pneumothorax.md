@@ -25,3 +25,5 @@ Tachycardia
 Neck vein distention
 
 Hypotension
+
+Hyperresonance

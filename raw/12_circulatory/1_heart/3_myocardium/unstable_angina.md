@@ -4,6 +4,8 @@ Caused by non-occlusive thrombus resulting from ruptured unstable atheroscleric 
 
 # <
 
+Obesity
+
 Smoking
 
 Male

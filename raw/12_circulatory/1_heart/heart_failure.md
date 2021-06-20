@@ -32,4 +32,8 @@ Pitting edema
 
 Chest pain
 
-Crackle
+Coarse crackle
+
+Cheyne stroke respiration
+
+Fine crackle

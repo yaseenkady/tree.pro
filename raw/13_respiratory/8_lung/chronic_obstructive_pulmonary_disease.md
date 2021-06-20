@@ -15,3 +15,9 @@ Dyspnea
 Fatigue
 
 Cachexia
+
+Wheezing
+
+Prolonged expiratory phase
+
+Hyperresonance

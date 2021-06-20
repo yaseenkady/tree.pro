@@ -7,5 +7,3 @@ B blockedr
 Metoprolol
 
 # >
-
-Low blood pressure
