@@ -20,9 +20,9 @@ Review endocrine system:
 Read Symptoms to Diagnosis:
 
 - [x] Chapter 1: diagnostic process
-- [ ] Chapter 12: diabetes
+- [x] Chapter 12: diabetes
 - [x] Chapter 18: fatigue
-- [ ] Chapter 22: hypercalcemia
+- [x] Chapter 22: hypercalcemia
 
 Review Practice of Medicine clinical reasoning exam:
 
