@@ -19,3 +19,5 @@ Dermatitis
 Episodic hyperglycemia
 
 High blood glucagon
+
+diabetes mellitus

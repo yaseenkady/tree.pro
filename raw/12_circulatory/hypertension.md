@@ -29,3 +29,7 @@ Aortic dissection
 coronary artery disease
 
 acute coronary syndrome
+
+Diabetes mellitus 2
+
+Diabetic retinopathy

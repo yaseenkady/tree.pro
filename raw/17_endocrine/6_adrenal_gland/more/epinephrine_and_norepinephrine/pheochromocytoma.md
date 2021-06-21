@@ -22,6 +22,8 @@ Adult
 
 # >
 
+diabetes mellitus
+
 CARDIAC HYPERTROPHY
 
 HYPERTENSION

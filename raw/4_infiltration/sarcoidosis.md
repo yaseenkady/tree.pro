@@ -13,3 +13,5 @@ HYPOPITUITARISM
 ORCHITIS
 
 High blood vitamin D
+
+Hypercalcemia

@@ -1,8 +1,12 @@
 # .
 
-Rarely causes heart disease.
+Most hypercalcemia is diagnosed in asymptomatic people.
 
 The source of Ca is often the bones, so bone pain and osteoperosis are common aftermath.
+
+Rarely causes heart disease.
+
+Top causes are primary hyperparathyroidism, the majority, hypercalcemia of maignancy, chronic kidney disease, and the milk-alkali syndrome.
 
 # <
 
@@ -14,6 +18,12 @@ High diet Ca
 
 High diet vitamin D
 
+Exposure to lithium
+
+Calcium carbonate
+
+Thiazide diuretic
+
 # >
 
 ACUTE PANCREATITIS
@@ -22,11 +32,25 @@ ARRHYTHMIA
 
 KIDNEY STONE
 
+Nephrolithiasis
+
 NEPHROGENIC DIABETES INSIPIDUS
+
+osteitis fibrosa cysica
+
+Nausea
+
+Vomiting
+
+Peptic ulcer
+
+Acute pancreatitis
 
 SYNCOPY
 
 Constipation
+
+Weakness
 
 Nausea
 
@@ -44,12 +68,24 @@ Heart disease
 
 Kidney disease
 
+Osteoperosis
+
+Osteomalacia
+
+Arthritis
+
 Lethargy
 
 Palpitation
 
 Confusion
 
+Depression
+
 High blood Ca
 
-High urine Ca
+Hypercalciuria
+
+Hypophosphatemia
+
+Hyperphosphaturia

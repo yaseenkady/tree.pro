@@ -1,5 +1,9 @@
 # .
 
+2/3 of cases are from type 2 and 1/3 from type 1.
+
+1-5% mortality rate.
+
 # <
 
 Not miss

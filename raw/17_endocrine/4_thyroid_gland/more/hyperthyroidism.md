@@ -92,6 +92,8 @@ Lid lag
 
 Onycholysis
 
+Hypercalcemia
+
 Fine tremor
 
 Hand tremor

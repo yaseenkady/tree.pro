@@ -55,3 +55,5 @@ Low blood clotting factor
 Dark urine
 
 Light colored stool
+
+Hepatic encephalopathy

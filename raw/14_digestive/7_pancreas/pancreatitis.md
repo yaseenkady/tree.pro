@@ -21,3 +21,5 @@ Epigastric tenderness
 High blood amylase
 
 High blood lipase
+
+Diabetic mellitus
