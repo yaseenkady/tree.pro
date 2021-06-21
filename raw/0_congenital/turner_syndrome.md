@@ -22,7 +22,6 @@ X
 
 # >
 
-Heart disease
 
 Kidney disease
 
@@ -33,3 +32,7 @@ Proportionate short stature
 Webbed neck
 
 Cubitus valgus
+
+Bicuspid aortic valve
+
+Coarctation of aorta
