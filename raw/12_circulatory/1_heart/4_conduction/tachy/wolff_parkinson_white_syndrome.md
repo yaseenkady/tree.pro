@@ -21,3 +21,11 @@ Anxiety
 Chest pain
 
 Syncopy
+
+D wave
+
+Wide QRS
+
+Short PR
+
+Paroxysmal supraventricular tachycardia
