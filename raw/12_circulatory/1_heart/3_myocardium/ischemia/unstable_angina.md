@@ -31,3 +31,5 @@ Fatigue
 Dizziness
 
 Acute myocardial infarction
+
+ST elevation

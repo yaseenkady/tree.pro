@@ -1,10 +1,13 @@
 # .
 
+Troponin rises after 4hr.
+
+Due to rupture of coronary artery atherosclerotic plaque, resulting in occlusive thrombosis, which causes myocardial necrosis.
+
 Middle aged male presenting with excertional substernal chest pain has pretest probability of over 90%.
 
 Dyspnea is the most associated and nausea is commonly associated.
 
-Caused by occlusive thrombus and myocardial necrosis.
 
 Not myocardial infarction without increased troponin and one of the myocardial infarction signs.
 
@@ -24,7 +27,7 @@ Elderly
 
 # >
 
-Myocardial infarction
+DIABETIC KETOACIDOSIS
 
 Exertional chest pain
 
@@ -53,3 +56,30 @@ Pericarditis
 bradyarrhythmia
 
 ventricular arrhythmia
+
+Ventricular arrhythmia
+
+Heart failure
+
+Cardiogenic shock
+
+Postinfarction fibrinous pericarditis
+
+Ventricular free wall rupture
+
+Interventricular Septal Rupture
+
+Arrhythmia
+
+Peaked T
+
+T inversion
+
+Left bundle branch block
+
+Q wave
+
+ST depression
+
+ST elevation
+

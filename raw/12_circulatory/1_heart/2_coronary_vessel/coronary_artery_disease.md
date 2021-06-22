@@ -2,6 +2,8 @@
 
 Often asymptomatic.
 
+Ranking of occlusion: left anterior descending, right anterior, and circumflex.
+
 # <
 
 Obesity

@@ -17,3 +17,7 @@ Unstable angina
 Dyspnea
 
 Relief with rest
+
+Angina
+
+ST depression
