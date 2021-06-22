@@ -23,3 +23,5 @@ Irregularly spaced QRS
 Irregularly irregular rhythm
 
 Stroke
+
+Heart failure

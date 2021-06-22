@@ -65,3 +65,5 @@ Aortic aneurysm
 Hypertensive nephropathy
 
 Retinopathy
+
+Heart failure

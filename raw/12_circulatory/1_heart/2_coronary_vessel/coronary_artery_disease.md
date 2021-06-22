@@ -35,3 +35,5 @@ acute coronary syndrome
 Pitting edema
 
 Heart murmur
+
+Heart failure
