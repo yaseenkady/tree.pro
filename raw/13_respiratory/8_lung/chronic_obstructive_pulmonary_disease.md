@@ -21,3 +21,5 @@ Wheezing
 Prolonged expiratory phase
 
 Hyperresonance
+
+Pulsus paradoxus

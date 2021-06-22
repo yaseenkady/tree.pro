@@ -2,6 +2,10 @@
 
 Left ventricular heart failure causes secondary hyperaldosteronism.
 
+Left heart failure often causes right one.
+
+Cor pulmonale is isolated right heart failure due to pulmonary cause.
+
 # <
 
 # >
@@ -26,7 +30,7 @@ Fatigue
 
 Jagular venous distention
 
-S3 gallop
+S3
 
 Pitting edema
 

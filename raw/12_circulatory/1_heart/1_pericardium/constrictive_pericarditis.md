@@ -4,6 +4,4 @@
 
 # >
 
-Stridor
-
 Pulsus paradoxus
