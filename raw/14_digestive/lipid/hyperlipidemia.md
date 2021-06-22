@@ -4,4 +4,4 @@
 
 # >
 
-Diabetic retinopathy
+DIABETIC RETINOPATHY

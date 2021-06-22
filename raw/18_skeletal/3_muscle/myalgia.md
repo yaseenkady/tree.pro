@@ -6,4 +6,4 @@ Atorvastatin
 
 # >
 
-Myalgia
+MYALGIA

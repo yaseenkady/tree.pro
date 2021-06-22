@@ -1,46 +1,48 @@
 # .
 
+20-25% of cases have coma.
+
+5-20% mortality rate.
+
 Glocose more than 600mg/dl.
+
+Glycosuria leads to osmotic diuresis, which leads to initial polyuria, which becomes anuria.
 
 Serum osmolality more than 320mOsm/kg.
 
 Usually in older diabetes mellitus 2.
 
-5-20% mortality rate.
-
-Glycosuria leads to osmotic diuresis, which leads to initial polyuria, which becomes anuria.
-
-20-25% of cases have coma.
-
 # <
 
-Elderly
+Stroke
 
-Precipitation
+Thyrotoxicosis
+
+pancreatitis
+
+Infection
 
 Surgery
 
 Trauma
 
-Infection
-
-Thyrotoxicosis
-
-alcohol
-
-pancreatitis
+Elderly
 
 Acute myocardial infarction
 
-Stroke
-
 Antipsychotic
+
+Precipitation
+
+alcohol
 
 # >
 
 DEHYDRATION
 
 SEIZURE
+
+Polyuria
 
 Lethargy
 
@@ -52,8 +54,6 @@ Hyperglycemia
 
 High blood osmolality
 
-Polyuria
+Acute kidney injury
 
 Anuria
-
-Acute kidney injury

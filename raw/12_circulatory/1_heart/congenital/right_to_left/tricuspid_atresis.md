@@ -8,8 +8,8 @@ Requires both atrial and ventricular septal defect for viability.
 
 # >
 
-Atrial septal defect
+ATRIAL SEPTAL DEFECT
 
-Ventricular septal defect
+RIGHT TO LEFT SHUNT
 
-Right-to-left shunt
+VENTRICULAR SEPTAL DEFECT

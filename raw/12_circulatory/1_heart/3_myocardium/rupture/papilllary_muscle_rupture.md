@@ -6,14 +6,14 @@ Posteromedial papillary muscle has increased risk of rupture because only poster
 
 # >
 
-Mitral regurgitation
-
-Pulmonary edema
-
-Cardiogenic shock
-
-Hypoxia
+CARDIOGENIC SHOCK
 
 Dyspnea
 
 Holosystolic murmur
+
+Hypoxia
+
+Mitral regurgitation
+
+Pulmonary edema

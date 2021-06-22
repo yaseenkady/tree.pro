@@ -6,6 +6,8 @@
 
 DEEP VEIN THROMBOSIS
 
+DIABETES MELLITUS
+
 ISLET CELL TUMOR
 
 Diarrhea
@@ -19,5 +21,3 @@ Dermatitis
 Episodic hyperglycemia
 
 High blood glucagon
-
-diabetes mellitus

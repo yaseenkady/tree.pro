@@ -4,6 +4,6 @@
 
 # >
 
-Truncus arteriosus
+TETRALOGY OF FALLOT
 
-Tetralogy of Fallot
+Truncus arteriosus

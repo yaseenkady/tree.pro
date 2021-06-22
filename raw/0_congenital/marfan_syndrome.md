@@ -6,6 +6,8 @@ FBN1
 
 # >
 
+THORACIC AORTIC ANEURYSM
+
 Long limb
 
 Tall stature
@@ -16,8 +18,6 @@ Scoliosis
 
 Ectopic lentis
 
-thoracic aortic aneurysm
+aortic regurgitation
 
 thoracic aortic dissection
-
-aortic regurgitation

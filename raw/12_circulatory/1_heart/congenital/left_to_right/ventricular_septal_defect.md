@@ -8,8 +8,8 @@ Small lesions self-resolve.
 
 # >
 
+HEART FAILURE
+
+LEFT TO RIGHT SHUNT
+
 Left ventricle hypertrophy
-
-Heart failure
-
-Left-to-right shunt

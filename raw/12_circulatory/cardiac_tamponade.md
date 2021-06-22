@@ -6,16 +6,16 @@ Compression of heart by fluid.
 
 # >
 
-Hypotension
+HYPOTENSION
 
-Neck vein distention
+TACHYCARDIA
 
 Decreased heart sound
 
-Tachycardia
-
-Pulsus paradoxus
+Electric alteran
 
 Low voltage QRS
 
-Electric alteran
+Neck vein distention
+
+Pulsus paradoxus

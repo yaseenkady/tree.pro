@@ -4,4 +4,4 @@
 
 # >
 
-Restrictive infiltrative cardiomyopathy
+RESTRICTIVE INFILTRATIVE CARDIOMYOPATHY

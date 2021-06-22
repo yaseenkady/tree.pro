@@ -6,4 +6,4 @@ autoimmunity
 
 # >
 
-Postinfarction fibrinous pericarditis
+POSTINFARCTION FIBRINOUS PERICARDITIS

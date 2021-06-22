@@ -6,6 +6,8 @@ The most common cause of fatigue.
 
 # <
 
+African-American
+
 Depression
 
 Common
@@ -15,8 +17,6 @@ Adult
 Elderly
 
 Female
-
-African-American
 
 Low socioeconomic status
 

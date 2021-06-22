@@ -6,15 +6,13 @@
 
 Abdominal pain
 
-Pleuritic chest pain
-
-Positional chest pain
-
-Chest pain radiating to back
-
 Nausea
 
 Vomiting
+
+Chest pain radiating to back
+
+Diabetic mellitus
 
 Epigastric tenderness
 
@@ -22,4 +20,6 @@ High blood amylase
 
 High blood lipase
 
-Diabetic mellitus
+Pleuritic chest pain
+
+Positional chest pain

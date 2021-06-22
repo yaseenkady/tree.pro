@@ -1,12 +1,12 @@
 # .
 
-73% of cases have anemia.
-
-58% of cases have bone pain.
+13% of cases have hypercalcemia.
 
 19% of cases have kidney disease.
 
-13% of cases have hypercalcemia.
+58% of cases have bone pain.
+
+73% of cases have anemia.
 
 # <
 
@@ -16,19 +16,17 @@ Elderly
 
 # >
 
-Osteolytic metastasis
+ANEMIA
 
-Anemia
-
-Infection
+KIDNEY DISEASE
 
 Bone pain
 
-Kidney disease
-
-Serum hyperviscosity
+Infection
 
 Blood M
+
+High blood immunoglobulin
 
 High marrow plasmacytosis
 
@@ -36,4 +34,6 @@ Lytic bone
 
 Normocytic anemia
 
-High blood immunoglobulin
+Osteolytic metastasis
+
+Serum hyperviscosity

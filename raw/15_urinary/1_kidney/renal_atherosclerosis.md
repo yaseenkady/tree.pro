@@ -4,4 +4,4 @@
 
 # >
 
-Hypertension
+HYPERTENSION

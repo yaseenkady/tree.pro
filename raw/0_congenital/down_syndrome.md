@@ -4,8 +4,8 @@
 
 # >
 
+ATRIAL SEPTAL DEFECT
+
+VENTRICULAR SEPTAL DEFECT
+
 Atrioventricular septal defect
-
-Atrial septal defect
-
-Ventricular septal defect

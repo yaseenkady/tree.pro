@@ -6,21 +6,9 @@ Idiopathic or familial.
 
 # <
 
-TTN
-
-Recreational drug
-
-Alcohol
-
-Doxorubicin
-
-Infectino
+Coronary artery disease
 
 Coxsackie B virus
-
-Chagas disease
-
-Coronary artery disease
 
 Hemochromatosis
 
@@ -28,16 +16,28 @@ Sarcoidosis
 
 Thyrotoxicosis
 
-Wet beriberi
-
 Peripartum
+
+Doxorubicin
+
+Alcohol
+
+Recreational drug
+
+TTN
+
+Chagas disease
+
+Infectino
+
+Wet beriberi
 
 # >
 
-Heart failure
+HEART FAILURE
 
 S3
 
-Systolic regurgitation murmur
-
 Systolic dysfunction
+
+Systolic regurgitation murmur

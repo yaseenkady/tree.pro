@@ -4,6 +4,6 @@
 
 # >
 
-Stridor
+COUGH
 
-Cough
+Stridor

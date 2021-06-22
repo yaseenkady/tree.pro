@@ -6,10 +6,10 @@ Alcohol
 
 # >
 
-Ventricular septal defect
+ATRIAL SEPTAL DEFECT
 
-Atrial septal defect
+PATENT DUCTUS ARTERIOSUS
 
-Patent ductus arteriosus
+TETRALOGY OF FALLOT
 
-Tetralogy of Fallot
+VENTRICULAR SEPTAL DEFECT

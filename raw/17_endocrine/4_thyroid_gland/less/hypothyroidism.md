@@ -52,6 +52,8 @@ Low diet I
 
 # >
 
+BRADYCARDIA
+
 CARPAL TUNNEL SYNDROME
 
 DIFFUSE GOITER
@@ -67,6 +69,8 @@ HYPONATREMIA
 HYPOTHYROID MYOPATHY
 
 INFERTILITY
+
+MYALGIA
 
 PERICARDIAL EFFUSION
 
@@ -92,8 +96,6 @@ Weight gain
 
 Arthralgia
 
-Myalgia
-
 Paresthesia
 
 Proximal muscle weakness
@@ -109,8 +111,6 @@ Late puberty
 Late puberty
 
 Developmental defect
-
-Bradycardia
 
 Diastolic hypertension
 

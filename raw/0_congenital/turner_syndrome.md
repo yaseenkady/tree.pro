@@ -22,7 +22,11 @@ X
 
 # >
 
-Kidney disease
+BICUSPID AORTIC VALVE
+
+COARCTATION OF AORTA
+
+KIDNEY DISEASE
 
 Gonadal disease
 
@@ -31,7 +35,3 @@ Proportionate short stature
 Webbed neck
 
 Cubitus valgus
-
-Bicuspid aortic valve
-
-Coarctation of aorta

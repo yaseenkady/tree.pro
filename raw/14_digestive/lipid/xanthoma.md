@@ -6,6 +6,6 @@ Lipid-laden histiocytes in skin.
 
 # >
 
-xanthelasma
+TENDINOUS XANTHOMA
 
-tendinous Xanthoma
+XANTHELASMA

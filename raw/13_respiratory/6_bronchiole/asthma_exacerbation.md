@@ -4,8 +4,8 @@
 
 # >
 
-Hyperresonance
+COUGH
 
 Wheezing
 
-Cough
+Hyperresonance

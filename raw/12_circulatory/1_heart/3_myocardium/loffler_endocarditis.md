@@ -6,4 +6,4 @@ Eosinophilic infiltrates in myocardium.
 
 # >
 
-Restrictive infiltrative cardiomyopathy
+RESTRICTIVE INFILTRATIVE CARDIOMYOPATHY

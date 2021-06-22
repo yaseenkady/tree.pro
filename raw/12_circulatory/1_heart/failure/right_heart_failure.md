@@ -4,10 +4,10 @@
 
 # >
 
-Heart failure
-
-Hepatomegaly
+HEART FAILURE
 
 Jagular venous distention
+
+Hepatomegaly
 
 Peripheral edema

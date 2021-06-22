@@ -1,19 +1,19 @@
 # .
 
-Osler-Weber-Rendu syndrome.
-
 Autosomal dominant.
+
+Osler-Weber-Rendu syndrome.
 
 # <
 
 # >
-
-Telangiectasia
-
-Recurring epistaxis
 
 Arteriovenous malformation
 
 Gastrointestinal bleeding
 
 Hematuria
+
+Recurring epistaxis
+
+Telangiectasia

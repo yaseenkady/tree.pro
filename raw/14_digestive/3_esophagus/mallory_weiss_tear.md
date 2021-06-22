@@ -6,4 +6,4 @@ Alcohol
 
 # >
 
-Upper gastrointestinal bleeding
+UPPER GASTROINTESTINAL BLEEDING

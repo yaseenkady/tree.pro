@@ -8,14 +8,14 @@ Turner syndrome
 
 # >
 
+AORTIC RUPTURE
+
+HEART FAILURE
+
 Brachial femoral delay
-
-Heart failure
-
-Cerebral hemorrhage
 
 Cerebral aneurysm
 
-Aortic rupture
+Cerebral hemorrhage
 
 Endocarditis

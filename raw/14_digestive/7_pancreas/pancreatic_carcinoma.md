@@ -4,4 +4,4 @@
 
 # >
 
-Diabetes mellitus
+DIABETES MELLITUS

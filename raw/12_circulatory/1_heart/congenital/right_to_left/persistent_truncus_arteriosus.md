@@ -1,8 +1,8 @@
 # .
 
-Truncus arteriosus fails to divide into pulmonary trunk and aorta.
-
 Most cases have ventricular septal defect.
+
+Truncus arteriosus fails to divide into pulmonary trunk and aorta.
 
 # <
 
@@ -10,6 +10,6 @@ Infant
 
 # >
 
-Ventricular septal defect
+RIGHT TO LEFT SHUNT
 
-Right-to-left shunt
+VENTRICULAR SEPTAL DEFECT

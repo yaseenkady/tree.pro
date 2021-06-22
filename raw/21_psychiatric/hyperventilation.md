@@ -6,10 +6,10 @@ Anxiety
 
 # >
 
-Dyspnea
-
 Dizziness
 
-Tachypnea
+Dyspnea
 
 Low blood CO2
+
+Tachypnea

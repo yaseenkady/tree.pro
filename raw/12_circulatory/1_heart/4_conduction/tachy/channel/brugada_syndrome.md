@@ -1,14 +1,14 @@
 # .
 
-Na channel defect.
-
 Autosomal dominant loss-of-function in Na channel.
+
+Na channel defect.
 
 # <
 
-Asian
-
 Male
+
+Asian
 
 # >
 

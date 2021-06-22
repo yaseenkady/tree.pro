@@ -10,14 +10,14 @@ Elderly
 
 # >
 
+ANEMIA
+
 HYPERCALCEMIA
 
 Bone pain
 
 Low blood PTH
 
-Back pain
-
-Anemia
-
 Acute kidney injury
+
+Back pain

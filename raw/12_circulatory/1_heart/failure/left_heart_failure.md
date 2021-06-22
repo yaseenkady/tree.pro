@@ -4,9 +4,9 @@
 
 # >
 
-Heart failure
+HEART FAILURE
 
-Right heart failure
+RIGHT HEART FAILURE
 
 Dyspnea
 

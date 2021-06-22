@@ -6,8 +6,8 @@
 
 Polyuria
 
-Small volume urination
-
 Hematuria
+
+Small volume urination
 
 Urinary ugency

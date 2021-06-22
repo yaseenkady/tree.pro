@@ -10,8 +10,8 @@ Infant
 
 # >
 
-Atrial septal defect
+ATRIAL SEPTAL DEFECT
 
-Patent ductus arteriosus
+PATENT DUCTUS ARTERIOSUS
 
-Right-to-left shunt
+RIGHT TO LEFT SHUNT

@@ -4,6 +4,6 @@
 
 # >
 
-Pulmonary embolism
+PULMONARY EMBOLISM
 
 Unilateral leg swelling

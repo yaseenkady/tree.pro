@@ -6,21 +6,25 @@ Major cause of sudden cardiac death in adults younger than 40.
 
 Infection
 
-Exposure to CO
-
-Exposure to black widow venom
+Autoimmunity
 
 Doxorubicin
 
+Exposure to black widow venom
+
 Recreational drug
 
-Autoimmunity
+Exposure to CO
 
 # >
 
-Non-exertional chest pain
+DILATED CARDIOMYOPATHY
 
-High blood troponin
+HEART FAILURE
+
+HEART FAILURE
+
+TACHYCARDIA
 
 Dyspnea
 
@@ -28,12 +32,8 @@ Fever
 
 Arrhythmia
 
-Tachycardia
-
-Dilated cardiomyopathy
-
-Heart failure
-
 Embolism
 
-Heart failure
+High blood troponin
+
+Non-exertional chest pain

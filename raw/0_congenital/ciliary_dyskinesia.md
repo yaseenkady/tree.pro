@@ -4,8 +4,8 @@
 
 # >
 
+COUGH
+
+INFERTILITY
+
 Respiratory tract infction
-
-Infertility
-
-Cough

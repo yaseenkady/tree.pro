@@ -4,6 +4,6 @@
 
 # >
 
-Ventricular tachyarrhythmia
+SUDDEN CARDIAC DEATH
 
-Sudden cardiac death
+Ventricular tachyarrhythmia

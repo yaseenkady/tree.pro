@@ -10,9 +10,13 @@ Therapy for hyerphosphatemia can lead to hypercalcemia.
 
 HYPERPROLACTINEMIA
 
+HYPOCALCEMIA
+
 PERIODIC LEG MOVEMENT DISEASE
 
 RENAL OSTEODYSTROPHY
+
+SECONDARY HYPERPARATHYROIDISM
 
 Loss of appetite
 
@@ -30,12 +34,8 @@ High blood urea nitrogen
 
 Low blood vitamin D
 
+Low blood vitamin D
+
 Low hemoglobin A1C
 
-hypocalcemia
-
 hyperphosphatemia
-
-secondary hyperparathyroidism
-
-Low blood vitamin D

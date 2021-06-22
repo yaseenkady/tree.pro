@@ -22,9 +22,7 @@ Adult
 
 # >
 
-diabetes mellitus
-
-CARDIAC HYPERTROPHY
+DIABETES MELLITUS
 
 HYPERTENSION
 
@@ -65,3 +63,5 @@ High blood EPO
 High blood catecholamine
 
 High urine catecholamine
+
+CARDIAC HYPERTROPHY

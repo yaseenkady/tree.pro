@@ -16,6 +16,8 @@ Obesity
 
 # >
 
+PNEUMOTHORAX
+
 Morning headache
 
 Depression
@@ -23,5 +25,3 @@ Depression
 Fatigue
 
 Sleepiness
-
-Pneumothorax

@@ -4,15 +4,15 @@
 
 # >
 
+ACUTE CORONARY SYNDROME
+
 ATHEROSCLEROSIS
 
-acute coronary syndrome
+XANTHELASMA
 
 Arcus senilis
 
 Tendon xanthoma
-
-Xanthelasma
 
 High blood LDL
 

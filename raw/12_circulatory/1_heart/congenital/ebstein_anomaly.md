@@ -8,6 +8,6 @@ Exposure to lithium
 
 # >
 
-tricuspid regurgitation
+HEART FAILURE
 
-Heart failure
+tricuspid regurgitation

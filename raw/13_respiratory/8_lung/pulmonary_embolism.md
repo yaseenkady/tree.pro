@@ -12,30 +12,30 @@ Cancer
 
 # >
 
-Lateral chest pain
+HYPOXEMIA
+
+TACHYCARDIA
+
+TACHYCARDIA
+
+Dizziness
+
+Dyspnea
+
+S3 gallop
 
 Acute chest pain
 
-Non-radiating chest pain
+Hemoptysis
+
+Lateral chest pain
 
 Non-exertional chest pain
+
+Non-radiating chest pain
 
 Pleuritic chest pain
 
 Sharp chest pain
 
-S3 gallop
-
 Unilateral chest pain
-
-Dyspnea
-
-Hemoptysis
-
-Tachycardia
-
-Dizziness
-
-Tachycardia
-
-Hypoxemia

@@ -28,7 +28,7 @@ Intravenous contrast
 
 # >
 
-ARRHYTHMIA
+HYPERCALCEMIA
 
 HYPERTENSION
 
@@ -39,6 +39,10 @@ INSOMNIA
 INSOMNIA
 
 OSTEOPEROSIS
+
+PALPITATION
+
+TACHYCARDIA
 
 THYROID STORM
 
@@ -76,11 +80,7 @@ Fast development
 
 Moist and warm skin
 
-Palpitation
-
 Shiny skin
-
-Tachycardia
 
 Gynecomastia
 
@@ -91,8 +91,6 @@ Fine hair
 Lid lag
 
 Onycholysis
-
-Hypercalcemia
 
 Fine tremor
 
@@ -115,3 +113,5 @@ Low blood LDL
 Low blood TSH
 
 Low blood cholesterol
+
+ARRHYTHMIA

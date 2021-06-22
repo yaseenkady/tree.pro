@@ -2,19 +2,19 @@
 
 Decreased cardiac output either increases or decreases preload; afterload increases in response.
 
-Inotropes to increase cardiac output.
-
 Diuresis to decrease afterload.
+
+Inotropes to increase cardiac output.
 
 # <
 
-Myocardial infarction
-
 Heart failure
 
-Valvular dysfunction
+Myocardial infarction
 
 Arrhythmia
+
+Valvular dysfunction
 
 # >
 

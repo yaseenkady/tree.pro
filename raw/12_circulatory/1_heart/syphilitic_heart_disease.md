@@ -8,4 +8,4 @@ Treponema pallidum
 
 # >
 
-Aortic aneurysm
+AORTIC ANEURYSM

@@ -1,5 +1,13 @@
 # .
 
+15% of cases develop diabetic foot ulcer.
+
+2/3 of diabetic ketoacidosis cases are from type 2 and 1/3 from type 1.
+
+20-40% of cases develop diabetic nephropathy.
+
+28-45% of male cases develop erectile dysfunction.
+
 90-95% of cases are type 1.
 
 Classical symptoms are more common in type 1.
@@ -10,47 +18,43 @@ Hemoglobin A1C: at least 6.5%.
 
 Inheritance is more common in type 2.
 
-2/3 of diabetic ketoacidosis cases are from type 2 and 1/3 from type 1.
-
-28-45% of male cases develop erectile dysfunction.
-
-20-40% of cases develop diabetic nephropathy.
-
-15% of cases develop diabetic foot ulcer.
-
 # <
-
-Glucocorticoid
-
-Trauma
 
 Infection
 
+Trauma
+
+Glucocorticoid
+
 # >
+
+ACUTE CORONARY SYNDROME
+
+BLADDER DYSFUNCTION
 
 CANDIDA ALBICANS
 
 CATARACT
 
-Acute coronary syndrome
-
 CHRONIC KIDNEY DISEASE
-
-NEPHROPATHY
-
-Diabetic foot ulcer
-
-Vascular disease
 
 CORONARY ARTERY DISEASE
 
 DEHYDRATION
 
+DIABETIC FOOT ULCER
+
 DIABETIC KETOACIDOSIS
+
+DIABETIC LUMBOSACRAL RADICULOPLEXUS NEUROPATHY
 
 DIABETIC RETINOPATHY
 
+ERECTILE DYSFUNCTION
+
 GASTROESOPHAGEAL REFLUX DISEASE
+
+GASTROPARESIS
 
 GASTROPARESIS
 
@@ -60,11 +64,17 @@ HYPERLIPIDEMIA 2
 
 HYPERTENSION
 
+KIDNEY DISEASE
+
 MYOCARDIAL INFARCTION
 
 PERIPHERAL NEUROPATHY
 
 STROKE
+
+VASCULAR DISEASE
+
+Constipation
 
 Diarrhea
 
@@ -78,8 +88,6 @@ Weight loss
 
 Fatigue
 
-Kidney disease
-
 Gangrene
 
 High blood hemoglobin A1C
@@ -90,16 +98,8 @@ High blood osmolality
 
 High urine glucose
 
-Diabetic lumbosacral radiculoplexus neuropathy
-
-Gastroparesis
+Anorectal dysfunction
 
 Diabetic diarrhea
 
-Constipation
-
-Anorectal dysfunction
-
-Bladder dysfunction
-
-Erectile dysfunction
+NEPHROPATHY

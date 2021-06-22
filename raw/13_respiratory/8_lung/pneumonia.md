@@ -8,20 +8,20 @@ Infection
 
 # >
 
-Chest pain
+COUGH
 
-Crackle
+HYPOXEMIA
+
+TACHYCARDIA
+
+Chest pain
 
 Fever
 
-Tachypnea
-
-Tachycardia
-
-Hypoxemia
-
 Coarse crackle
+
+Crackle
 
 Dullness to percussion
 
-Cough
+Tachypnea

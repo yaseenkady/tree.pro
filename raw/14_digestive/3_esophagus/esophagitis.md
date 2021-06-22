@@ -4,6 +4,6 @@
 
 # >
 
-Upper gastrointestinal bleeding
+UPPER GASTROINTESTINAL BLEEDING
 
 Chest pain

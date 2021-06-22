@@ -4,18 +4,18 @@ Polymorphic ventricular tachycardia.
 
 # <
 
+Hypocalcemia
+
+Hypokalemia
+
 Long QT
 
 Recreational drug
 
-Hypokalemia
+Congenital heart defect
 
 Hypomagnesimia
 
-Hypocalcemia
-
-Congenital heart defect
-
 # >
 
-Ventricular fibrillation
+VENTRICULAR FIBRILLATION

@@ -4,14 +4,14 @@ Due to coronary artery spasm.
 
 # <
 
+Alcohol
+
 Smoking
 
 Recreational drug
-
-Alcohol
 
 Triptan
 
 # >
 
-Angina
+ANGINA

@@ -6,14 +6,14 @@ Subendocardial infarction.
 
 # >
 
-myocardial infarction
+LEFT BUNDLE BRANCH BLOCK
+
+MYOCARDIAL INFARCTION
+
+ST ELEVATION MYOCARDIAL INFARCTION
+
+ST depression
 
 Peaked T
 
 T inversion
-
-Left bundle branch block
-
-ST depression
-
-ST elevation myocardial infarction

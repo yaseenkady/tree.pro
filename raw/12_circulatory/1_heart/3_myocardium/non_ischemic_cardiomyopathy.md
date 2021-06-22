@@ -10,8 +10,8 @@ Chest pain
 
 Dyspnea
 
-Pulmonary edema
+Jagular venous distention
 
 Pitting edema
 
-Jagular venous distention
+Pulmonary edema

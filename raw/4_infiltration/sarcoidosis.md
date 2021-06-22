@@ -8,14 +8,14 @@ ADDISON DISEASE
 
 CENTRAL DIABETES INSIPIDUS
 
+HYPERCALCEMIA
+
 HYPOPITUITARISM
+
+MYOCARDITIS
 
 ORCHITIS
 
+RESTRICTIVE INFILTRATIVE CARDIOMYOPATHY
+
 High blood vitamin D
-
-Hypercalcemia
-
-Restrictive infiltrative cardiomyopathy
-
-Myocarditis

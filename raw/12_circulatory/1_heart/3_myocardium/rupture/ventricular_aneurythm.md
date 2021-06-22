@@ -1,8 +1,8 @@
 # .
 
-Contraction bulges outward.
-
 Associated with fibrosis.
+
+Contraction bulges outward.
 
 # <
 

@@ -6,6 +6,6 @@ Sensation from ruptured atherosclerotic plaque occluding incompletely.
 
 # >
 
-New chest pain
+ANGINA
 
-Angina
+New chest pain

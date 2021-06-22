@@ -2,32 +2,32 @@
 
 # <
 
-Antiarrhythmic
-
 Antibiotic
-
-Macrolide
-
-Fluoroquinolone
-
-Antipsychotic
-
-Haloperidol
-
-Ziprasidone
 
 Andidepressant
 
-tricyclic antidepressant
+Antiarrhythmic
 
 Antiemetic
 
-Ondansetron
-
 Antifungal
+
+Antipsychotic
 
 Azole
 
+Fluoroquinolone
+
+Haloperidol
+
+Macrolide
+
+Ondansetron
+
+Ziprasidone
+
+tricyclic antidepressant
+
 # >
 
-Torsades de pointes
+TORSADES DE POINTES

@@ -10,6 +10,8 @@ Smoking
 
 # >
 
+COUGH
+
 Dyspnea
 
 Fatigue
@@ -18,8 +20,6 @@ Cachexia
 
 Wheezing
 
-Prolonged expiratory phase
-
 Hyperresonance
 
-Cough
+Prolonged expiratory phase

@@ -1,8 +1,8 @@
 # .
 
-Most common primary cardiac tumor in adults.
-
 90% of cases are in atria, mostly left.
+
+Most common primary cardiac tumor in adults.
 
 # <
 
@@ -10,8 +10,8 @@ Adult
 
 # >
 
-Syncopy
+CONSTITUTIONAL SYMPTOM
+
+SYNCOPY
 
 High blood IL6
-
-Constitutional symptom

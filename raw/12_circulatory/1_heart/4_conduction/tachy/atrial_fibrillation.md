@@ -1,27 +1,27 @@
 # .
 
-Called "holiday heart syndrome" because excessive alcohol use occasionally preceeds.
-
 Anticoagulate, control rate and rhythm, cardiovert, and ablate.
+
+Called "holiday heart syndrome" because excessive alcohol use occasionally preceeds.
 
 # <
 
-Hypertension
-
 Coronary artery disease
+
+Hypertension
 
 Alcohol
 
 # >
 
-Tachycardia
+HEART FAILURE
 
-Missing P
+STROKE
 
-Irregularly spaced QRS
+TACHYCARDIA
 
 Irregularly irregular rhythm
 
-Stroke
+Irregularly spaced QRS
 
-Heart failure
+Missing P

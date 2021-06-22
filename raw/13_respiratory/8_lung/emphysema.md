@@ -6,6 +6,6 @@ Smoking
 
 # >
 
-Chronic obstructive pulmonary disease
+CHRONIC OBSTRUCTIVE PULMONARY DISEASE
 
 Decreased breath sound

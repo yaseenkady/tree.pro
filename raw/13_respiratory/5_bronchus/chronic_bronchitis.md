@@ -4,8 +4,8 @@
 
 # >
 
-Chronic obstructive pulmonary disease
+CHRONIC OBSTRUCTIVE PULMONARY DISEASE
+
+COUGH
 
 Coarse crackle
-
-Cough

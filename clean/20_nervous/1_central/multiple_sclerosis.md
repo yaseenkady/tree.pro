@@ -1,0 +1,5 @@
+# Symptom
+
+Paresthesia
+
+Fatigue

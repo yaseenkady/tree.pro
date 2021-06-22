@@ -18,8 +18,8 @@ Cachexia
 
 Wheezing
 
-Prolonged expiratory phase
-
 Hyperresonance
+
+Prolonged expiratory phase
 
 Pulsus paradoxus

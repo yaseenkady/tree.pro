@@ -8,6 +8,6 @@ Frequency: ventricular septal defect, atrial septal defect, and then patent duct
 
 # >
 
-Cyanosis
+EISENMENGER SYNDROME
 
-Eisenmenger Syndrome
+Cyanosis

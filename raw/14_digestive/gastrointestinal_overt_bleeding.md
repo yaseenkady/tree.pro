@@ -4,12 +4,12 @@
 
 # >
 
-Hemoptysis
-
-Rectal bleeding
+ANEMIA
 
 Dizziness
 
 Blood in stool
 
-Anemia
+Hemoptysis
+
+Rectal bleeding

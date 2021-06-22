@@ -6,6 +6,6 @@ Treat with pacemaker.
 
 # >
 
-Constant PR and a drop
+3 AV BLOCK
 
-3 av block
+Constant PR and a drop

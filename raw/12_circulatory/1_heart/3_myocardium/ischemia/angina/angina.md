@@ -4,19 +4,19 @@ Sensation of ischemia without necrosis.
 
 # <
 
-Obesity
-
-Smoking
-
-Male
-
 Middle aged
 
 Elderly
 
+Male
+
+Smoking
+
+Obesity
+
 # >
 
-Exertional chest pain
+Dizziness
 
 Dyspnea
 
@@ -24,4 +24,4 @@ Nausea
 
 Fatigue
 
-Dizziness
+Exertional chest pain

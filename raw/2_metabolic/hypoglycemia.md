@@ -18,7 +18,11 @@ Exercise
 
 # >
 
+PALPITATION
+
 SEIZURE
+
+TACHYCARDIA
 
 Diaphoresis
 
@@ -29,10 +33,6 @@ Headache
 Paresthesia
 
 Anxiety
-
-Palpitation
-
-Tachycardia
 
 Coma
 

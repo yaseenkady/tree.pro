@@ -12,6 +12,8 @@ Obesity
 
 DIABETES MELLITUS 2
 
+ERECTILE DYSFUNCTION
+
 HYPERLIPIDEMIA 2
 
 HYPERTENSION
@@ -25,8 +27,6 @@ OSTEOPEROSIS
 Easy bruising
 
 Amenorrhea
-
-Erectile dysfunction
 
 Weight gain
 

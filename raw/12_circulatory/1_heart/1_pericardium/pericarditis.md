@@ -1,45 +1,45 @@
 # .
 
+Idiopathic (viral) is the most common cause.
+
 Leaning forward alleviates chest pain.
 
 Occurs in 10% of people with myocardial infarction within 24-96hr.
 
-Idiopathic (viral) is the most common cause.
-
 # <
-
-Virus
 
 Coxsackie B virus
 
-Autoimmunity
-
-Uremia
-
-Systemic lupus erythromatous
+Dressler syndrome
 
 Rheumatoid arthritis
 
 ST elevation myocardial infarction
 
-Dressler syndrome
+Systemic lupus erythromatous
+
+Autoimmunity
+
+Uremia
+
+Virus
 
 # >
 
-Positional chest pain
-
-Pleuritic chest pain
-
-Sharp pain
-
-Non-exertional chest pain
-
-Friction rub
-
-Chest pain radiating to trapezius ridge
-
-Pericardial effusion
+PERICARDIAL EFFUSION
 
 ST elevation
 
+Chest pain radiating to trapezius ridge
+
+Friction rub
+
+Non-exertional chest pain
+
 PR depression
+
+Pleuritic chest pain
+
+Positional chest pain
+
+Sharp pain

@@ -6,10 +6,10 @@ Most often due to atrinoventricular nodal reentrant tachycardia.
 
 # >
 
-Narrow QRS
-
-Paroxysmal palpitation
+Dizziness
 
 Diaphoresis
 
-Dizziness
+Paroxysmal palpitation
+
+Narrow QRS

@@ -1,26 +1,22 @@
 # .
 
-The most common diabetic peripheral neuropathy.
-
-Asymptomatic.
+15% of cases eventually require amputation.
 
 28-55% of diabetes mellitus cases.
 
-15% of cases eventually require amputation.
+Asymptomatic.
+
+The most common diabetic peripheral neuropathy.
 
 # <
 
 # >
 
-Diabetic foot ulcer
-
-Shooting pain
+DIABETIC FOOT ULCER
 
 Paresthesia
 
-Worse at night
-
-Loss of vibration
+Loss of ankle reflex
 
 Loss of pain
 
@@ -28,6 +24,10 @@ Loss of pressure
 
 Loss of temperature
 
-Loss of ankle reflex
+Loss of vibration
 
 Muscle atrophy
+
+Shooting pain
+
+Worse at night

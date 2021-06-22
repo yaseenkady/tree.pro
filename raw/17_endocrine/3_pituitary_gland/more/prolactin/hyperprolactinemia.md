@@ -26,13 +26,13 @@ High sexual activity
 
 # >
 
+ERECTILE DYSFUNCTION
+
 INFERTILITY
 
 INFERTILITY
 
 Amenorrhea
-
-Erectile dysfunction
 
 Galactorrhea
 

@@ -2,19 +2,17 @@
 
 5-10% diabetes mellitus cases in Canada, the US, and Europe.
 
-Concordance in twins is 50%.
-
 85-90% of cases have some combination of antibodies.
+
+Concordance in twins is 50%.
 
 # <
 
+Autoimmunity
+
 Preschool child
 
-Children
-
 Adolescent
-
-Autoimmunity
 
 Adolescent
 
@@ -24,26 +22,28 @@ HLA-DR3
 
 HLA-DR4
 
+Children
+
 # >
+
+AUTOIMMUNE HEPATITIS
 
 DIABETES MELLITUS
 
-Antibody for pancreatic B cell
+GRAVES DISEASE
 
-Antibody for insulin
+MYASTHENIA GRAVIS
+
+PERNICIOUS ANEMIA
+
+VITILIGO
+
+Antibody for pancreatic B cell
 
 Low blood insulin
 
-Graves disease
-
 Addision disease
 
-Vitiligo
+Antibody for insulin
 
 Celiac Sprue
-
-Autoimmune hepatitis
-
-Myasthenia gravis
-
-Pernicious anemia

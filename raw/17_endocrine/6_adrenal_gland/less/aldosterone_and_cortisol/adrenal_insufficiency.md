@@ -10,6 +10,8 @@ HYPOKALEMIA
 
 METABOLIC ACIDOSIS
 
+MYALGIA
+
 Dizziness
 
 Salt craving
@@ -17,8 +19,6 @@ Salt craving
 Sugar craving
 
 Weight loss
-
-Myalgia
 
 Muscle weakness
 

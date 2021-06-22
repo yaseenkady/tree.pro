@@ -2,40 +2,40 @@
 
 Mitral valve is frequently involved.
 
-Tricuspid valve is associated with recreating drug, Staphylococcus aureus, Pseudomonas, and Candida.
+Native valve endocarditis may be due to: Haemophilus, Aggregatibacter, Cardiobacterium, Eikenella, Kingella.
 
 Staphylococcus aureus is associated with acute onset and large vegetation.
-
-Streptococcus viridans is associated with dental procedure, subacute onset, and small vegetation.
 
 Streptococcus bovis is associated with colon cancer.
 
 Streptococcus epidermis is associated with prosthetic valve.
 
-Native valve endocarditis may be due to: Haemophilus, Aggregatibacter, Cardiobacterium, Eikenella, Kingella.
+Streptococcus viridans is associated with dental procedure, subacute onset, and small vegetation.
+
+Tricuspid valve is associated with recreating drug, Staphylococcus aureus, Pseudomonas, and Candida.
 
 # <
 
 # >
 
+ANEMIA
+
 Fever
 
-Murmur
-
-Roth spot
-
-Osler node
-
-Janeway lesion
-
-Nail-bed hemorrhage
+Embolism
 
 Glomerulonephritis
 
-Embolism
+Janeway lesion
+
+Murmur
+
+Nail-bed hemorrhage
+
+Osler node
+
+Roth spot
 
 Septic arterial embolism
 
 Septic pulmonary empolism
-
-Anemia

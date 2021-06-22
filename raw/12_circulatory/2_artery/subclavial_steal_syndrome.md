@@ -6,20 +6,20 @@ Stenosis of subclavian artery proximal to vertebral artery, which results in ver
 
 Arteriosclerosis
 
-Takayasu arteritis
-
 Heart surgery
 
+Takayasu arteritis
+
 # >
+
+Dizziness
+
+Vertigo
 
 Arm ischemia
 
 Arm pain
 
 Arm paresthesia
-
-Dizziness
-
-Vertigo
 
 Assymmetric arm systolic blood pressure

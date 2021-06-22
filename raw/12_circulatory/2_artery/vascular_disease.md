@@ -4,10 +4,10 @@
 
 # >
 
-Diabetes mellitus 2
+CORONARY ARTERY DISEASE
 
-Diabetic foot ulcer
+DIABETES MELLITUS 2
 
-Coronary artery disease
+DIABETIC FOOT ULCER
 
 Cerebrovascular disease

@@ -4,11 +4,11 @@
 
 # >
 
-Dyspnea
-
-Syncopy
+SYNCOPY
 
 Chest pain
+
+Dyspnea
 
 Abdominal pain
 

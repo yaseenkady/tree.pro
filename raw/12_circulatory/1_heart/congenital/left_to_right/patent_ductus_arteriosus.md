@@ -6,10 +6,10 @@ Fetal right-to-left shunt, after delivery and increase in pulmonary resistance, 
 
 # >
 
-Right ventricle hypertrophy
-
-Left ventricle hypertrophy
+Continuous machine-like murmur
 
 Hear failure
 
-Continuous machine-like murmur
+Left ventricle hypertrophy
+
+Right ventricle hypertrophy

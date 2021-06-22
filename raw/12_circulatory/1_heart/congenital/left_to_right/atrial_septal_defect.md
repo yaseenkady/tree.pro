@@ -6,8 +6,8 @@ Asymptomatic to heart failure.
 
 # >
 
+HEART FAILURE
+
+LEFT TO RIGHT SHUNT
+
 Fixed split S2
-
-Heart failure
-
-Left-to-right shunt

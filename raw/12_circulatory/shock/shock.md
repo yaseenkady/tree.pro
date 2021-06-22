@@ -6,10 +6,10 @@ Failure to power organs.
 
 # >
 
-Hypotension
+HYPOTENSION
+
+TACHYCARDIA
 
 Dysuria
-
-Tachycardia
 
 Unconsciousness

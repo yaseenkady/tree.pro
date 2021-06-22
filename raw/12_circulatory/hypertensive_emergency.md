@@ -6,22 +6,22 @@ More than 180/120mmHg with acute end organ damage.
 
 # >
 
-Encephalopathy
+AORTIC DISSECTION
 
-Stroke
+HEART FAILURE
+
+MYOCARDIAL INFARCTION
+
+STROKE
 
 Retinal hemorrhage
 
-Papilledema
+Encephalopathy
 
-Myocardial infarction
-
-Heart failure
-
-Aortic dissection
+Exlampsia
 
 Kidney injury
 
 Microangiopathic hemolytic anemia
 
-Exlampsia
+Papilledema

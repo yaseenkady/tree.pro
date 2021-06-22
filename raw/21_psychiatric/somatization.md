@@ -8,6 +8,6 @@ Psychiatric disease
 
 # >
 
-Chest pain
+COUGH
 
-Cough
+Chest pain

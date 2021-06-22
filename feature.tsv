@@ -1,9 +1,9 @@
 Feature	Priority
 Easy bruising	1.1.0
 Flu-like symptom	1.1.0
+Bendopnea	1.2.0
 Chest pain	1.2.0
 Dizziness	1.2.0
-Bendopnea	1.2.0
 Dyspnea	1.3.0
 Exertional dyspnea	1.3.0
 Morning headache	1.3.0
@@ -88,8 +88,6 @@ Intracranial hypertension	2.10.0
 Psychiatric disease	2.11.0
 Medication	2.12.0
 Acetaminophen	2.12.1
-Lisinopril	2.12.1
-Doxorubicin	2.12.1
 Aminoglutethimide	2.12.1
 Amiodarone	2.12.1
 Antiacid	2.12.1
@@ -100,6 +98,8 @@ Carbamazepine	2.12.1
 Chemotherapy	2.12.1
 Cyclophosphamide	2.12.1
 Dececlocycline	2.12.1
+Doxorubicin	2.12.1
+Clopidogrel	2.12.1
 Electrolyte	2.12.1
 Estrogen	2.12.1
 Etomidate	2.12.1
@@ -108,6 +108,7 @@ Glucocorticoid	2.12.1
 Intravenous contrast	2.12.1
 Isoniazid	2.12.1
 Ketoconazole	2.12.1
+Lisinopril	2.12.1
 Metyrapone	2.12.1
 Mitotane	2.12.1
 Psychotropic	2.12.1
@@ -133,8 +134,8 @@ Low socioeconomic status	4.12.0
 Poor hygiene	4.12.0
 Poor sleep hygiene	4.13.0
 Sedentary lifestyle	4.14.0
-Exposure to lithium	4.15.0
 Exposure to black widow venom	4.15.0
+Exposure to lithium	4.15.0
 Exposure to radiation	4.15.0
 Exposure to toxin	4.15.0
 Low exposure to UV light	4.15.0
@@ -172,10 +173,6 @@ Splenomegaly	6.1.0
 Diastolic hypertension	6.2.0
 Dry and cool skin	6.2.0
 Edema	6.2.0
-S4	6.2.0
-S3	6.2.0
-ST elevation	6.2.0
-ST depression	6.2.0
 High blood pressure	6.2.0
 Jagular venous distention	6.2.0
 Low blood pressure	6.2.0
@@ -183,7 +180,11 @@ Moist and warm skin	6.2.0
 Orthostatic hypotension	6.2.0
 Paroxysmal palpitation	6.2.0
 Paroxysmal tachycardia	6.2.0
+S3	6.2.0
 S3 gallop	6.2.0
+S4	6.2.0
+ST depression	6.2.0
+ST elevation	6.2.0
 Shiny skin	6.2.0
 Tricuspid regurgitation	6.2.0
 Hoarseness	6.3.0
@@ -471,7 +472,6 @@ IGF1R	8.3.0
 LDLR	8.3.0
 LPL	8.3.0
 MEN1	8.3.0
-TTN	8.3.0
 MEN2A	8.3.0
 MEN2B	8.3.0
 MTR	8.3.0
@@ -485,4 +485,5 @@ SDHC	8.3.0
 SDHD	8.3.0
 TP53	8.3.0
 TSHR	8.3.0
+TTN	8.3.0
 VHL	8.3.0

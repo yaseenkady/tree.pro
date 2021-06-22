@@ -4,7 +4,13 @@
 
 # >
 
+Chest pain
+
+Dizziness
+
 Dyspnea
+
+Headache
 
 Fatigue
 
@@ -15,9 +21,3 @@ Low blood ferritin
 Low blood hemoglobin
 
 palor
-
-Dizziness
-
-Headache
-
-Chest pain

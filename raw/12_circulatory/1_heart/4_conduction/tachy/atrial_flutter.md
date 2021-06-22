@@ -6,6 +6,6 @@ Treat like atrial fibrillation.
 
 # >
 
-Tachycardia
+TACHYCARDIA
 
 Sawtooth

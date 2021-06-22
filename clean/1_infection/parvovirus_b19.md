@@ -1,0 +1,7 @@
+# Symptom
+
+Dyspnea
+
+# Sign
+
+Fever

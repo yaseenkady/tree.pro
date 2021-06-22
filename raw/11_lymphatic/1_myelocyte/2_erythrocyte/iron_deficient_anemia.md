@@ -8,22 +8,22 @@ Low diet Fe
 
 ANEMIA
 
+PALPITATION
+
 PERIODIC LEG MOVEMENT DISEASE
 
-Dry skin
-
-Palpitation
-
-Sore tongue
-
-Mouth ulcer
-
-Dry mouth
-
-Brittle nail
-
-Pica
+Cold intolerance
 
 Depression
 
-Cold intolerance
+Brittle nail
+
+Dry mouth
+
+Dry skin
+
+Mouth ulcer
+
+Pica
+
+Sore tongue

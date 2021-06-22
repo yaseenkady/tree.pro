@@ -4,6 +4,6 @@
 
 # >
 
-Fine crackle
+COUGH
 
-Cough
+Fine crackle

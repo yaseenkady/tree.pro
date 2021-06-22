@@ -30,6 +30,6 @@ Thin
 
 # >
 
-FRACTURE
-
 Low bone density
+
+FRACTURE

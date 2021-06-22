@@ -6,12 +6,12 @@ Others are due to hypertrophy, dilation, and ion channelopathy.
 
 # <
 
-Cardiac hypertrophy
+Coronary artery disease
 
 Cardiac dilation
 
-Ion channelopathy
+Cardiac hypertrophy
 
-Coronary artery disease
+Ion channelopathy
 
 # >

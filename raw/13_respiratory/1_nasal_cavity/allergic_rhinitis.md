@@ -6,4 +6,4 @@ Hey fever.
 
 # >
 
-Cough
+COUGH

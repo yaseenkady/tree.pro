@@ -4,4 +4,4 @@
 
 # >
 
-Lower gastrointestinal bleeding
+LOWER GASTROINTESTINAL BLEEDING

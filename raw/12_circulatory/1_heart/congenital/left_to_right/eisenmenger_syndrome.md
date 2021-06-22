@@ -6,12 +6,12 @@ Consequence of uncorrected left-to-right shunt.
 
 # >
 
-pulmonary hypertension
+POLYCYTHEMIA
 
-right ventricular hypertrophy
+PULMONARY HYPERTENSION
 
-right-to-left shunt
+RIGHT TO LEFT SHUNT
 
 clubbing
 
-polycythemia
+right ventricular hypertrophy

@@ -6,4 +6,4 @@ Common cold.
 
 # >
 
-Cough
+COUGH

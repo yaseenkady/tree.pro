@@ -6,8 +6,8 @@ Calcium carbonate
 
 # >
 
-Hypercalcemia
+HYPERCALCEMIA
 
-Metabolic alkalosis
+METABOLIC ALKALOSIS
 
 Acute kidney injury

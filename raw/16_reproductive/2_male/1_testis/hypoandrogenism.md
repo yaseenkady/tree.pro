@@ -6,7 +6,7 @@ Chemotherapy
 
 # >
 
-Erectile dysfunction
+ERECTILE DYSFUNCTION
 
 Low libido
 

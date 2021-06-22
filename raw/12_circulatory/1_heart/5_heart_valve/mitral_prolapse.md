@@ -4,10 +4,10 @@
 
 # >
 
-Chest pain
+COUGH
 
-Mid-systolic click
+Chest pain
 
 Late-systolic murmur
 
-Cough
+Mid-systolic click

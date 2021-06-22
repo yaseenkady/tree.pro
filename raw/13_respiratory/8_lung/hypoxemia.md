@@ -4,8 +4,8 @@
 
 # >
 
-Confusion
-
 Delirium
+
+Confusion
 
 Low blood O2

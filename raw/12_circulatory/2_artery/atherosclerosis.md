@@ -6,34 +6,34 @@ Ranking: abdominal aorta, coronary artery, popliteal artery, carotid artery, and
 
 # <
 
-Hypertension
-
-Smoking
-
-Dyslipidemia
-
 Diabetes mellitus
 
+Hypertension
+
 Common
-
-Male
-
-Postmenopausal status
 
 Middle aged
 
 Elderly
 
+Male
+
+Smoking
+
+Dyslipidemia
+
+Postmenopausal status
+
 # >
+
+ABDOMINAL AORTIC ANEURYSM
+
+ANGINA
+
+AORTIC ANEURYSM
+
+THORACIC AORTIC ANEURYSM
 
 Arteriosclerosis
 
-Angina
-
 Claudication
-
-Aortic aneurysm
-
-Abdominal aortic aneurysm
-
-Thoracic aortic aneurysm

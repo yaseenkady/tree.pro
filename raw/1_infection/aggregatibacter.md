@@ -4,4 +4,4 @@
 
 # >
 
-Bacterial endocarditis
+BACTERIAL ENDOCARDITIS

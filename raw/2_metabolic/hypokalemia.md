@@ -8,8 +8,6 @@ Hydrochlorothiazide
 
 # >
 
-ARRHYTHMIA
-
 NEPHROGENIC DIABETES INSIPIDUS
 
 Polyuria
@@ -21,3 +19,5 @@ Muscle cramp
 Muscle weakness
 
 Low blood K
+
+ARRHYTHMIA

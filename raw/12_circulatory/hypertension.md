@@ -1,24 +1,24 @@
 # .
 
-Persistently more than 130/80mmHg.
+10% of cases are secondary due to kidney and or kidey ovascular disease.
 
 90% of cases are primary due to increased cardiac output and or total peripheral resistance.
 
-10% of cases are secondary due to kidney and or kidey ovascular disease.
+Persistently more than 130/80mmHg.
 
 # <
 
+African-American
+
 Common
-
-Non-White
-
-Low socioeconomic status
-
-Obesity
 
 Middle aged
 
 Elderly
+
+Non-White
+
+Low socioeconomic status
 
 Sedentary lifestyle
 
@@ -26,46 +26,46 @@ Alcohol
 
 Smoking
 
-African-American
+Obesity
 
 # >
 
-HEART ATTACK
+ACUTE CORONARY SYNDROME
+
+AORTIC ANEURYSM
+
+AORTIC DISSECTION
+
+AORTIC DISSECTION
+
+ATRIAL FIBRILLATION
+
+CORONARY ARTERY DISEASE
+
+DIABETES MELLITUS 2
+
+DIABETIC RETINOPATHY
 
 HEART FAILURE
+
+HEART FAILURE
+
+HYPERTENSIVE URGENCY
+
+KIDNEY DISEASE
 
 OBSTRUCTIVE SLEEP APNEA
 
 STROKE
 
-Kidney disease
+THORACIC AORTIC ANEURYSM
 
 High blood pressure
 
-Aortic dissection
-
-coronary artery disease
-
-acute coronary syndrome
-
-Diabetes mellitus 2
-
-Diabetic retinopathy
-
-Hypertensive urgency
-
-Left ventricle hypertrophy
-
-Atrial fibrillation
-
-Aortic dissection
-
-Aortic aneurysm
+HEART ATTACK
 
 Hypertensive nephropathy
 
+Left ventricle hypertrophy
+
 Retinopathy
-
-Heart failure
-
-Thoracic aortic aneurysm

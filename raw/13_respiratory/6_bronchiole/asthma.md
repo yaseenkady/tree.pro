@@ -8,8 +8,8 @@ Obesity
 
 # >
 
-Asthma exacerbation
+ASTHMA EXACERBATION
 
-Cough
+COUGH
 
 Pulsus paradoxus

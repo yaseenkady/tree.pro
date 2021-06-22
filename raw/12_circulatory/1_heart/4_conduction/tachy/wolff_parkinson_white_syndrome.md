@@ -8,24 +8,24 @@ Curable with ablation.
 
 # >
 
-Palpitation
+PALPITATION
+
+PAROXYSMAL SUPRAVENTRICULAR TACHYCARDIA
+
+SYNCOPY
+
+Chest pain
 
 Dizziness
 
 Dyspnea
 
-Fatigue
-
 Anxiety
 
-Chest pain
-
-Syncopy
+Fatigue
 
 D wave
 
-Wide QRS
-
 Short PR
 
-Paroxysmal supraventricular tachycardia
+Wide QRS

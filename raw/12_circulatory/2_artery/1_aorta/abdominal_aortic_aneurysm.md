@@ -2,12 +2,12 @@
 
 # <
 
-Smoking
-
-Male
-
 Middle aged
 
 Elderly
+
+Male
+
+Smoking
 
 # >

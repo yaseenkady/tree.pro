@@ -6,7 +6,7 @@ Transmural infarction.
 
 # >
 
-myocardial infarction
+MYOCARDIAL INFARCTION
 
 ST elevation
 

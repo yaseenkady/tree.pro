@@ -4,6 +4,6 @@
 
 # >
 
-High blood calcitriol
+HYPERCALCEMIA
 
-Hypercalcemia
+High blood calcitriol

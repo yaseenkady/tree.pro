@@ -2,16 +2,16 @@
 
 # <
 
-Hyperglycemia
-
-Exercise
-
-Urinary tract infection
+Heart failure
 
 Hypertension
 
-Heart failure
+Urinary tract infection
+
+Exercise
 
 Fever
+
+Hyperglycemia
 
 # >

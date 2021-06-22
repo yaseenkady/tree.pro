@@ -6,9 +6,11 @@ Affects more left ventricle valves.
 
 # >
 
-Rheumatic heart disease
+MYOCARDITIS
 
-Antibody for streptolysin O
+RHEUMATIC HEART DISEASE
+
+Erythema migrans
 
 Antibody for DNase B
 
@@ -16,12 +18,10 @@ Antibody for M
 
 Antibody for myosin
 
+Antibody for streptolysin O
+
 Polyarthritis
 
-Myocarditis
-
 Skin nodule
-
-Erythema migrans
 
 Sydenham chorea

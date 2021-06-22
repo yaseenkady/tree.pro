@@ -6,4 +6,4 @@ Post nasal drip.
 
 # >
 
-Cough
+COUGH

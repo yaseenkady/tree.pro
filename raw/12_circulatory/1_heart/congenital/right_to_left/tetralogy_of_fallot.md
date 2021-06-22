@@ -8,12 +8,12 @@ Infant
 
 # >
 
-Pulmonary infundiular stenosis
+RIGHT TO LEFT SHUNT
 
-Right ventricular hypertrophy
-
-Ventricular septal defect
+VENTRICULAR SEPTAL DEFECT
 
 Overriding aorta
 
-Right-to-left shunt
+Pulmonary infundiular stenosis
+
+Right ventricular hypertrophy

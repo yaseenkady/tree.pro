@@ -4,6 +4,6 @@
 
 # >
 
-Pneumonia
+PLEURAL EFFUSION
 
-Pleural effusion
+PNEUMONIA

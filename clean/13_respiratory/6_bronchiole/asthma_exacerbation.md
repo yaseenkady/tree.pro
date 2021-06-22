@@ -1,0 +1,7 @@
+# Cause
+
+Asthma
+
+# Sign
+
+Wheezing
