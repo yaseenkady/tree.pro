@@ -26,24 +26,29 @@ Read Symptoms to Diagnosis:
 
 Review Practice of Medicine clinical reasoning exam:
 
-- [ ] CR exam 3
-- [ ] CR exam 4
-- [ ] CR exam 4.2
-- [ ] CR exam 5
-- [ ] CR exam 5.2
+- [x] CR exam 3
+- [x] CR exam 4
+- [x] CR exam 4.2
+- [x] CR exam 5
+- [x] CR exam 5.2
 
 ## 0607
 
-Review reproductive system:
+Review circulatory system:
 
 - [ ] Science of Medicine
 - [ ] Science of Medicine cases
-- [ ] Practice of Medicine cases
-- [ ] First Aid
+- [x] Practice of Medicine cases
+- [x] First Aid
 
 Read Symptoms to Diagnosis:
 
-- [ ] Chapter 5: AIDS/HIV infection
+- [ ] Chapter 9: chest pain
+- [ ] Chapter 23: hypertension
+- [ ] Chapter 25: hypotension
+- [ ] Chapter 14: dizziness
+- [ ] Chapter 31: syncope
+- [ ] Chapter 17: edema
 
 Practice more cases:
 
@@ -80,21 +85,16 @@ Practice more cases:
 
 ## 0621
 
-Review circulatory system:
+Review reproductive system:
 
 - [ ] Science of Medicine
 - [ ] Science of Medicine cases
 - [ ] Practice of Medicine cases
-- [x] First Aid
+- [ ] First Aid
 
 Read Symptoms to Diagnosis:
 
-- [ ] Chapter 9: chest pain
-- [ ] Chapter 23: hypertension
-- [ ] Chapter 25: hypotension
-- [ ] Chapter 14: dizziness
-- [ ] Chapter 31: syncope
-- [ ] Chapter 17: edema
+- [ ] Chapter 5: AIDS/HIV infection
 
 Practice more cases:
 
