@@ -14,6 +14,6 @@ Anaphylaxis
 
 Central nervous system disease
 
-# > 
+# >
 
 Warm and dry skin

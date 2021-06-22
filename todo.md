@@ -47,9 +47,9 @@ Read Symptoms to Diagnosis:
 
 Practice more cases:
 
-- [ ] Case 1
-- [ ] Case 2
-- [ ] Case 3
+- [x] Case 1
+- [x] Case 2
+- [x] Case 3
 - [ ] Case 4
 - [ ] Case 5
 
@@ -85,7 +85,7 @@ Review circulatory system:
 - [ ] Science of Medicine
 - [ ] Science of Medicine cases
 - [ ] Practice of Medicine cases
-- [ ] First Aid
+- [x] First Aid
 
 Read Symptoms to Diagnosis:
 

@@ -4,7 +4,6 @@
 
 Hypertrophic obstructive cardiomyopathy if there is outflow obstruction in left ventricle.
 
-
 # <
 
 # >
