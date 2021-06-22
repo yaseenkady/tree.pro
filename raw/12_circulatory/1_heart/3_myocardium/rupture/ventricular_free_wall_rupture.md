@@ -1,5 +1,9 @@
 # .
 
+Left ventricular hypertrophy and and previous myocardial infarction are protective.
+
+Acute form leads to sudden death.
+
 # <
 
 # >
