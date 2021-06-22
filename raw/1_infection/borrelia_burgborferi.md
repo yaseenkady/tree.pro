@@ -17,3 +17,5 @@ POLYNEUROPATHY
 Erythema migrans
 
 Rash
+
+Myocarditis

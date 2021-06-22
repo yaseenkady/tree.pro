@@ -20,7 +20,7 @@ Elderly
 
 Non-White
 
-African American
+African-American
 
 Hispanic
 

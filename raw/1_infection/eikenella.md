@@ -4,6 +4,4 @@
 
 # >
 
-WATERHOUSE FRIDERICHSEN SYNDROME
-
 Bacterial endocarditis

@@ -23,3 +23,5 @@ Painless genital ulcer
 Palm and sole rash
 
 Rash
+
+Thoracic aortic aneurysm

@@ -6,4 +6,4 @@ Atorvastatin
 
 # >
 
-Muscle pain
+Myalgia

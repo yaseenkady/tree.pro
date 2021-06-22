@@ -4,27 +4,7 @@ Major cause of sudden cardiac death in adults younger than 40.
 
 # <
 
-Virus
-
-Adenovirus
-
-Coxsackie B virus
-
-Parvovirus B19
-
-Human immunodeficiency virus
-
-HHV6
-
-Trypanosoma cruzi
-
-Toxoplasma gondii
-
-Borrelia burgborferi
-
-Mycoplasma pneumoniae
-
-Corynebacterium diphtheriae
+Infection
 
 Exposure to CO
 
@@ -35,16 +15,6 @@ Doxorubicin
 Recreational drug
 
 Autoimmunity
-
-Kawasaki disease
-
-Sarcoidosis
-
-Systemic lupus erythromatous
-
-Polymyositis
-
-Dermatomyositis
 
 # >
 

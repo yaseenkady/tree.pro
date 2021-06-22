@@ -24,7 +24,6 @@ Nocturia	1.5.0
 Polyuria	1.5.0
 Amenorrhea	1.6.0
 Cervical motion tenderness	1.6.0
-Erectile dysfunction	1.6.0
 Galactorrhea	1.6.0
 Irregular mense	1.6.0
 Low libido	1.6.0
@@ -45,7 +44,6 @@ Arthralgia	1.8.0
 Bone pain	1.8.0
 Jaw pain	1.8.0
 Muscle cramp	1.8.0
-Myalgia	1.8.0
 Eye pain	1.10.0
 Headache	1.10.0
 Muscle weakness	1.10.0
@@ -58,7 +56,6 @@ Depression	1.11.0
 Fatigue	1.11.0
 Movement during sleep	1.11.0
 Nervousness	1.11.0
-Panic attack	1.11.0
 Sleepiness	1.11.0
 Trouble sleeping	1.11.0
 Common	2.0.0
@@ -72,7 +69,6 @@ Autoimmunity	2.1.0
 Cancer	2.1.0
 Immunodeficiency	2.1.0
 Heart disease	2.2.0
-Kidney disease	2.5.0
 Early menopause	2.6.0
 Early puberty	2.6.0
 Gonadal disease	2.6.0
@@ -92,6 +88,8 @@ Intracranial hypertension	2.10.0
 Psychiatric disease	2.11.0
 Medication	2.12.0
 Acetaminophen	2.12.1
+Lisinopril	2.12.1
+Doxorubicin	2.12.1
 Aminoglutethimide	2.12.1
 Amiodarone	2.12.1
 Antiacid	2.12.1
@@ -136,6 +134,7 @@ Poor hygiene	4.12.0
 Poor sleep hygiene	4.13.0
 Sedentary lifestyle	4.14.0
 Exposure to lithium	4.15.0
+Exposure to black widow venom	4.15.0
 Exposure to radiation	4.15.0
 Exposure to toxin	4.15.0
 Low exposure to UV light	4.15.0
@@ -170,21 +169,22 @@ Pallor	6.1.0
 Petechiae	6.1.0
 Poor wound healing	6.1.0
 Splenomegaly	6.1.0
-Bradycardia	6.2.0
 Diastolic hypertension	6.2.0
 Dry and cool skin	6.2.0
 Edema	6.2.0
+S4	6.2.0
+S3	6.2.0
+ST elevation	6.2.0
+ST depression	6.2.0
 High blood pressure	6.2.0
 Jagular venous distention	6.2.0
 Low blood pressure	6.2.0
 Moist and warm skin	6.2.0
 Orthostatic hypotension	6.2.0
-Palpitation	6.2.0
 Paroxysmal palpitation	6.2.0
 Paroxysmal tachycardia	6.2.0
 S3 gallop	6.2.0
 Shiny skin	6.2.0
-Tachycardia	6.2.0
 Tricuspid regurgitation	6.2.0
 Hoarseness	6.3.0
 Hyperventilation	6.3.0
@@ -207,7 +207,6 @@ Spider angioma	6.4.0
 Tendon xanthoma	6.4.0
 Tuberous xanthoma	6.4.0
 Unilateral and smooth abdominal mass	6.4.0
-Xanthelasma	6.4.0
 Absent axillary hair	6.6.0
 Absent pubic hair	6.6.0
 Adnexal tenderness	6.6.0
@@ -385,7 +384,6 @@ High blood triglyceride	7.1.0
 High blood urea nitrogen	7.1.0
 High blood vitamin D	7.1.0
 Hyperglycemia	7.1.0
-Hyperlipidemia	7.1.0
 Low blood ACTH	7.1.0
 Low blood ADH	7.1.0
 Low blood CRH	7.1.0
@@ -432,7 +430,6 @@ High hematocrit	7.5.0
 Low blood platelet	7.5.0
 Schistocyte	7.5.0
 High ESR	7.6.0
-High urine Ca	7.7.0
 High urine Na	7.7.0
 High urine catecholamine	7.7.0
 High urine cortisol	7.7.0
@@ -474,6 +471,7 @@ IGF1R	8.3.0
 LDLR	8.3.0
 LPL	8.3.0
 MEN1	8.3.0
+TTN	8.3.0
 MEN2A	8.3.0
 MEN2B	8.3.0
 MTR	8.3.0

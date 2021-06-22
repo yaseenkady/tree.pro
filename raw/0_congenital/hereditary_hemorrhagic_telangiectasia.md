@@ -2,7 +2,7 @@
 
 Osler-Weber-Rendu syndrome.
 
-Autosomal dominant
+Autosomal dominant.
 
 # <
 

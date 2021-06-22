@@ -15,3 +15,7 @@ ORCHITIS
 High blood vitamin D
 
 Hypercalcemia
+
+Restrictive infiltrative cardiomyopathy
+
+Myocarditis

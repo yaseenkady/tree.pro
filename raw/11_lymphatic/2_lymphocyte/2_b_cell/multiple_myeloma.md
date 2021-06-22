@@ -2,7 +2,7 @@
 
 73% of cases have anemia.
 
-58% of cases have bone pain
+58% of cases have bone pain.
 
 19% of cases have kidney disease.
 
@@ -10,7 +10,7 @@
 
 # <
 
-African American
+African-American
 
 Elderly
 

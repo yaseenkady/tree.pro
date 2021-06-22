@@ -26,7 +26,7 @@ Alcohol
 
 Smoking
 
-African American
+African-American
 
 # >
 
@@ -67,3 +67,5 @@ Hypertensive nephropathy
 Retinopathy
 
 Heart failure
+
+Thoracic aortic aneurysm

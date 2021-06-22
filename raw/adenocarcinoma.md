@@ -1,12 +1,6 @@
 # .
 
-Lung
-
-Pancreas
-
-Kidney
-
-And others
+Common in lung, pancreas, kidney, and others.
 
 # <
 
