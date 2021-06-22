@@ -14,4 +14,4 @@ Triptan
 
 # >
 
-Chest pain
+Angina

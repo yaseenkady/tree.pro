@@ -14,7 +14,6 @@ Inheritance is more common in type 2.
 
 28-45% of male cases develop erectile dysfunction.
 
-
 20-40% of cases develop diabetic nephropathy.
 
 15% of cases develop diabetic foot ulcer.

@@ -22,7 +22,6 @@ X
 
 # >
 
-
 Kidney disease
 
 Gonadal disease
