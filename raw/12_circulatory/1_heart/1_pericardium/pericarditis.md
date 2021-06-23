@@ -8,13 +8,9 @@ Occurs in 10% of people with myocardial infarction within 24-96hr.
 
 # <
 
-Uremia
-
 Autoimmunity
 
 # >
-
-Friction rub
 
 PERICARDIAL EFFUSION
 
@@ -27,6 +23,8 @@ Non-exertional chest pain
 Positional chest pain
 
 Pleuritic chest pain
+
+Friction rub
 
 ST elevation
 

@@ -8,8 +8,8 @@ Fetal right-to-left shunt, after delivery and increase in pulmonary resistance, 
 
 HEART FAILURE
 
-Left ventricle hypertrophy
+LEFT VENTRICLE HYPERTROPHY
 
-Right ventricle hypertrophy
+RIGHT VENTRICLE HYPERTROPHY
 
 Continuous machine-like murmur

@@ -6,7 +6,7 @@
 
 ESOPHAGITIS
 
-Laryngitis
+LARYNGITIS
 
 Postprandial chest pain
 

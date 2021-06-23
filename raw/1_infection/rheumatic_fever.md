@@ -10,13 +10,13 @@ MYOCARDITIS
 
 RHEUMATIC HEART DISEASE
 
-Skin nodule
-
 Sydenham chorea
 
 Erythema migrans
 
 Polyarthritis
+
+Skin nodule
 
 Antibody for DNase B
 

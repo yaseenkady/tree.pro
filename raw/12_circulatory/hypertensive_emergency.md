@@ -6,15 +6,15 @@ More than 180/120mmHg with acute end organ damage.
 
 # >
 
+ACUTE KIDNEY INJURY
+
 AORTIC DISSECTION
+
+ECLAMPSIA
 
 Encephalopathy
 
-Exlampsia
-
 HEART FAILURE
-
-Kidney injury
 
 MYOCARDIAL INFARCTION
 

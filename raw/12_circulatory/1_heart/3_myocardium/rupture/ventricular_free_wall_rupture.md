@@ -12,6 +12,6 @@ CARDIAC TAMPONADE
 
 HYPOTENSION
 
-Papillary muscle rupture
+PAPILLARY MUSCLE RUPTURE
 
 Jagular venous distention

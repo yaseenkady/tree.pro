@@ -1,3 +1,0 @@
-# Cause
-
-Growth Hormone Deficiency

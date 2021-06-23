@@ -1,5 +1,0 @@
-# Cause
-
-Cryptorchidism
-
-Klinefelter Syndrome

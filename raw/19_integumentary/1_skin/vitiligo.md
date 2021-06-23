@@ -6,4 +6,4 @@ Autoimmunity
 
 # >
 
-Hypolpigmentation
+Hypopigmentation

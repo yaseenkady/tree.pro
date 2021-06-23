@@ -6,6 +6,6 @@
 
 Small volume urination
 
-Urinary ugency
-
 Polyuria
+
+Urinary urgency

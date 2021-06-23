@@ -14,11 +14,11 @@ Hyperresonance
 
 Prolonged expiratory phase
 
-Pulsus paradoxus
-
 Fatigue
 
 Dyspnea
+
+Pulsus paradoxus
 
 Cachexia
 

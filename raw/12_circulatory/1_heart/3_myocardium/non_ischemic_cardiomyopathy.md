@@ -6,7 +6,7 @@ Usually presents without chest pain but like heart failure.
 
 # >
 
-Pulmonary edema
+PULMONARY EDEMA
 
 Chest pain
 

@@ -1,3 +1,0 @@
-# Comment
-
-Benign and asymptomatic.

@@ -4,6 +4,8 @@
 
 Idiopathic or familial.
 
+Systolic dysfunction.
+
 # <
 
 Infection
@@ -23,8 +25,6 @@ Recreational drug
 HEART FAILURE
 
 SUDDEN CARDIAC DEATH
-
-Systolic dysfunction
 
 Systolic murmur
 

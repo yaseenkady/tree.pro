@@ -1,3 +1,0 @@
-# Cause
-
-Left Heart Failure

@@ -1,3 +1,0 @@
-# Cause
-
-Adrenal Insufficiency

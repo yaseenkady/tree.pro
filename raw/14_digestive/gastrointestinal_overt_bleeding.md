@@ -6,10 +6,10 @@
 
 ANEMIA
 
-Rectal bleeding
-
 Dizziness
 
 Hemoptysis
+
+Rectal bleeding
 
 Blood in stool

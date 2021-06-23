@@ -4,8 +4,6 @@
 
 # >
 
-Palor
-
 Fatigue
 
 Chest pain
@@ -15,6 +13,8 @@ Dizziness
 Dyspnea
 
 Headache
+
+Pallor
 
 Pale conjunctiva
 

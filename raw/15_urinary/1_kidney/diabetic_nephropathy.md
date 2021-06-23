@@ -10,8 +10,6 @@ The most common cause of end-stage renal disease in the US.
 
 # <
 
-Mexican-American
-
 Male
 
 Non-White
@@ -21,6 +19,8 @@ Hispanic
 Native-American
 
 African-American
+
+Mexican-American
 
 # >
 

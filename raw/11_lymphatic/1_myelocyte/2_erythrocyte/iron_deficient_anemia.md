@@ -14,9 +14,9 @@ PALPITATION
 
 PERIODIC LEG MOVEMENT DISEASE
 
-Pica
-
 Cold intolerance
+
+Pica
 
 Sore tongue
 

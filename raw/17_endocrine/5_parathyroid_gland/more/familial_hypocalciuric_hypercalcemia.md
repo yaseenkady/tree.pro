@@ -20,6 +20,6 @@ HYPERCALCEMIA
 
 HYPERPARATHYROIDISM
 
-Hypocalciuria
-
 Low urine Ca
+
+Hypocalciuria

@@ -8,4 +8,6 @@ COUGH
 
 INFERTILITY
 
-Respiratory tract infction
+Lower Respiratory tract infction
+
+Upper Respiratory tract infction

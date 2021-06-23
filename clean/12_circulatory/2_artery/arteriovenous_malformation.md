@@ -1,3 +1,0 @@
-# Cause
-
-Hereditary Hemorrhagic Telangiectasia

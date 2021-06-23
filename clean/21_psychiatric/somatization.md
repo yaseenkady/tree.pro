@@ -1,3 +1,0 @@
-# Comment
-
-Variety of presentations.

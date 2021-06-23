@@ -6,7 +6,7 @@ Maternal transmission
 
 # >
 
-D tranposition of great vessels
+D TRANSPOSITION OF GREAT VESSELS
 
 HYPOGLYCEMIA
 

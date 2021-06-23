@@ -1,3 +1,0 @@
-# Cause
-
-Myocardial Infarction

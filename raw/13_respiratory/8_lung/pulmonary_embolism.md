@@ -16,8 +16,6 @@ HYPOXEMIA
 
 KUSSMAUL SIGN
 
-Non-radiating chest pain
-
 OBSTRUCTIVE SHOCK
 
 TACHYCARDIA
@@ -27,6 +25,8 @@ Unilateral chest pain
 Acute chest pain
 
 Sharp chest pain
+
+Non-radiating chest pain
 
 Lateral chest pain
 

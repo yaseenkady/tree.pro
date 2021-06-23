@@ -14,8 +14,6 @@ HYPOCALCEMIA
 
 Hyperphosphatemia
 
-Low hemoglobin A1C
-
 PERIODIC LEG MOVEMENT DISEASE
 
 RENAL OSTEODYSTROPHY
@@ -37,3 +35,5 @@ High blood creatine
 High blood urea nitrogen
 
 Low blood vitamin D
+
+Low hemoglobin A1C

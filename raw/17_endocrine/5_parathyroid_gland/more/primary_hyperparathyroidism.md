@@ -14,10 +14,6 @@ Over 90% of hypercalcemia cases in otherwise healthy people.
 
 # <
 
-Multiple endocrine neoplasia 1
-
-Multiple endocrine neoplasia 2A
-
 # >
 
 HYPERCALCEMIA

@@ -10,8 +10,6 @@ Infection
 
 COUGH
 
-Dullness to percussion
-
 HYPOXEMIA
 
 TACHYCARDIA
@@ -25,3 +23,5 @@ Fever
 Crackle
 
 Coarse crackle
+
+Dullness to percussion

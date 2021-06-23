@@ -1,3 +1,0 @@
-# Cause
-
-Chronic Kidney Disease

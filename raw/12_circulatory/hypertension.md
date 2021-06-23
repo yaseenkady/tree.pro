@@ -56,16 +56,14 @@ Hypertensive nephropathy
 
 KIDNEY DISEASE
 
-Left ventricle hypertrophy
+LEFT VENTRICLE HYPERTROPHY
 
 MICROALBUMINURIA
 
 OBSTRUCTIVE SLEEP APNEA
 
-Retinopathy
+RETINOPATHY
 
 STROKE
 
 THORACIC AORTIC ANEURYSM
-
-High blood pressure

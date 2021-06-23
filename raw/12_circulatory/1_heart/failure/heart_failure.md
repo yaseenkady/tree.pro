@@ -18,11 +18,11 @@ Wet means volume overload, associated with: dyspnea, orthopnea, pitting edema, h
 
 # <
 
-Non-steroidal antiinflammatory drug
-
 Infection
 
 Glucocorticoid
+
+NSAID
 
 Alcohol
 

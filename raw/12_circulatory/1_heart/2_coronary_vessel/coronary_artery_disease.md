@@ -6,8 +6,6 @@ Ranking of occlusion: left anterior descending, right anterior, and circumflex.
 
 # <
 
-Inflammation
-
 Middle aged
 
 Elderly
@@ -15,6 +13,8 @@ Elderly
 Female
 
 Male
+
+Inflammation
 
 Peripheral vascular disease
 

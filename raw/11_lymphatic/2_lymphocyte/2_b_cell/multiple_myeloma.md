@@ -18,22 +18,22 @@ African-American
 
 ANEMIA
 
-High blood immunoglobulin
-
 High marrow plasmacytosis
 
 KIDNEY DISEASE
 
-Normocytic anemia
+NORMOCYTIC ANEMIA
 
 OSTEOLYTIC HYPERCALCEMIA OF MALIGNANCY
 
-Osteolytic metastasis
-
-Serum hyperviscosity
+OSTEOLYTIC METASTASIS
 
 Bone pain
 
 Infection
 
 Blood M protein
+
+High blood immunoglobulin
+
+Serum hyperviscosity

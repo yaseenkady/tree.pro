@@ -40,9 +40,9 @@ Amiodarone
 
 Estrogen
 
-High diet I
-
 Low diet I
+
+High diet I
 
 Exposure to lithium
 

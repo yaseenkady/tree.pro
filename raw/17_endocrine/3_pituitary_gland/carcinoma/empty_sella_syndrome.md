@@ -2,8 +2,6 @@
 
 # <
 
-Intracranial hypertension
-
 Female
 
 Obesity

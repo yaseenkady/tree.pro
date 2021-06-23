@@ -4,13 +4,9 @@
 
 # >
 
-Diabetic mellitus
+DIABETES MELLITUS
 
 HYPEROSMOLAR HYPERGLYCEMIC STATE
-
-High blood amylase
-
-High blood lipase
 
 Chest pain radiating to back
 
@@ -25,3 +21,7 @@ Epigastric tenderness
 Nausea
 
 Vomiting
+
+High blood amylase
+
+High blood lipase

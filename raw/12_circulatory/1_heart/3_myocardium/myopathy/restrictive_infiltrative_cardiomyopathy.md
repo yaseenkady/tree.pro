@@ -4,6 +4,6 @@
 
 Endocardial fibroelastosis
 
-Post radiation fibrosis
+Exposure to radiation
 
 # >

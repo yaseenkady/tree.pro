@@ -8,12 +8,12 @@ Infant
 
 # >
 
-Overriding aorta
+Right ventricle hypertrophy
+
+OVERRIDING AORTA
 
 Pulmonary infundiular stenosis
 
 RIGHT TO LEFT SHUNT
-
-Right ventricular hypertrophy
 
 VENTRICULAR SEPTAL DEFECT

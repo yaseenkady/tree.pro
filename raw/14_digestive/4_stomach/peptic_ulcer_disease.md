@@ -10,7 +10,7 @@ Antiacid
 
 # >
 
-Duodenal ulcer
+DUODENAL ULCER
 
 Peptic ulcer
 

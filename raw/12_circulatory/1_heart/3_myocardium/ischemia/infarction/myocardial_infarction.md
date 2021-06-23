@@ -48,17 +48,15 @@ DRESSLER SYNDROME
 
 HEART FAILURE
 
-High blood troponin
-
 INTERVENTRICULAR SEPTAL RUPTURE
+
+PAPILLARY MUSCLE RUPTURE
 
 PERICARDITIS
 
 POSTINFARCTION FIBRINOUS PERICARDITIS
 
-Papillary muscle rupture
-
-Pulmonary edema
+PULMONARY EDEMA
 
 Thrombosis
 
@@ -79,3 +77,5 @@ Dizziness
 Dyspnea
 
 Nausea
+
+High blood troponin

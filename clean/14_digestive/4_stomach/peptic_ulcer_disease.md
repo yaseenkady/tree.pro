@@ -1,5 +1,0 @@
-# Cause
-
-Gastrinoma
-
-Helicobacter Pylori

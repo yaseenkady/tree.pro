@@ -1,3 +1,0 @@
-# Comment
-
-Common cold.

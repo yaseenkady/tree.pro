@@ -1,5 +1,0 @@
-# Cause
-
-Pneumonia
-
-Pulmonary Embolism

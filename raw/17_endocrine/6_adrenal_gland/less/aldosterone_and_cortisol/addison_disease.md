@@ -4,8 +4,6 @@ Metastasis to adrenal gland is a common cause.
 
 # <
 
-Medication
-
 Infection
 
 Autoimmunity
@@ -13,6 +11,8 @@ Autoimmunity
 Cancer
 
 Immunodeficiency
+
+Medication
 
 Aminoglutethimide
 

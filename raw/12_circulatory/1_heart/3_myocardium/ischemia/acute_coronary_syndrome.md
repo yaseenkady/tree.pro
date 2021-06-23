@@ -26,11 +26,11 @@ Elevated jagular vein distention
 
 Non-pluritic chest pain
 
-Pressure chest pain
-
 SYNCOPY
 
 Fatigue
+
+Pressure chest pain
 
 Acute chest pain
 

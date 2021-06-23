@@ -8,8 +8,6 @@ Ranking: abdominal aorta, coronary artery, popliteal artery, carotid artery, and
 
 Common
 
-Dyslipidemia
-
 Postmenopausal status
 
 Middle aged

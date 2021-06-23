@@ -6,9 +6,9 @@ Affects more left ventricle valves.
 
 # >
 
-MYOCARDITIS
+MITRAL STENOSIS
 
-Mitral stenosis
+MYOCARDITIS
 
 Tricuspid
 

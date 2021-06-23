@@ -1,15 +1,23 @@
 Feature
-High diet Ca
-High diet I
-High diet K
-High diet vitamin D
-Low diet Ca
-Low diet Fe
-Low diet I
-Low diet K
+#
 Low diet carbohydrate
-Low diet vitamin B12
+#
+Low diet Ca
+High diet Ca
+#
+Low diet K
+High diet K
+#
+Low diet Fe
+#
+Low diet I
+High diet I
+#
+Low diet vitamin D
+High diet vitamin D
+#
+Low diet vitamin B1
 Low diet vitamin B3
 Low diet vitamin B6
 Low diet vitamin B9
-Low diet vitamin D
+Low diet vitamin B12
