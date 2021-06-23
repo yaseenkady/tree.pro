@@ -6,8 +6,8 @@ Trauma
 
 # >
 
-Chest wall tenderness
+Positional chest pain
 
 Pleuritic chest pain
 
-Positional chest pain
+Chest wall tenderness

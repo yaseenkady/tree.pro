@@ -2,10 +2,6 @@
 
 # <
 
-African-American
-
-Depression
-
 Common
 
 Adult
@@ -17,6 +13,8 @@ Female
 Low socioeconomic status
 
 Single
+
+Depression
 
 # >
 

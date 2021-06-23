@@ -28,13 +28,13 @@ Intravenous contrast
 
 # >
 
+ARRHYTHMIA
+
 HYPERCALCEMIA
 
 HYPERTENSION
 
 INFERTILITY
-
-INSOMNIA
 
 INSOMNIA
 
@@ -48,6 +48,8 @@ THYROID STORM
 
 THYROTOXIC MYOPATHY
 
+Fatigue
+
 Chest pain
 
 Dyspnea
@@ -60,21 +62,17 @@ Irregular mense
 
 Low libido
 
-Diaphoresis
-
 Heat intolerance
+
+Diaphoresis
 
 Polyphagia
 
 Weight loss
 
-Anxiety
-
-Anxiety
-
-Fatigue
-
 Nervousness
+
+Anxiety
 
 Fast development
 
@@ -113,5 +111,3 @@ Low blood LDL
 Low blood TSH
 
 Low blood cholesterol
-
-ARRHYTHMIA

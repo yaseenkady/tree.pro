@@ -6,9 +6,9 @@ ADH can be normal.
 
 Dececlocycline
 
-Exposure to lithium
-
 ADHR
+
+Exposure to lithium
 
 # >
 

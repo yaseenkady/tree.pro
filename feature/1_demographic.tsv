@@ -1,4 +1,5 @@
 Feature
+#
 Infant
 Preschool child
 Child
@@ -7,11 +8,13 @@ Young adult
 Adult
 Middle aged
 Elderly
+#
 Female
 Male
+#
 White
 Non-White
-African-American
 Asian
 Hispanic
 Native-American
+African-American

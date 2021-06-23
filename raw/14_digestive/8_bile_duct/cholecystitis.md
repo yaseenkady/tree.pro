@@ -6,12 +6,12 @@
 
 Chest pain
 
-Nausea
+Abdominal pain radiating to back
 
 Right upper quadrant abdominal pain
+
+Nausea
 
 Vomiting
 
 Juandice
-
-Abdominal pain radiating to back

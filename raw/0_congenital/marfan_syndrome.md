@@ -6,7 +6,13 @@ FBN1
 
 # >
 
+AORTIC DISSECTION
+
 THORACIC AORTIC ANEURYSM
+
+aortic regurgitation
+
+thoracic aortic dissection
 
 Long limb
 
@@ -17,7 +23,3 @@ Arachnodactyly
 Scoliosis
 
 Ectopic lentis
-
-aortic regurgitation
-
-thoracic aortic dissection

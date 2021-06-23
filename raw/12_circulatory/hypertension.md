@@ -8,8 +8,6 @@ Persistently more than 130/80mmHg.
 
 # <
 
-African-American
-
 Common
 
 Middle aged
@@ -36,7 +34,7 @@ AORTIC ANEURYSM
 
 AORTIC DISSECTION
 
-AORTIC DISSECTION
+ATHEROSCLEROSIS
 
 ATRIAL FIBRILLATION
 
@@ -46,26 +44,26 @@ DIABETES MELLITUS 2
 
 DIABETIC RETINOPATHY
 
-HEART FAILURE
+HEART ATTACK
 
 HEART FAILURE
 
 HYPERTENSIVE URGENCY
 
+Hypertensive nephropathy
+
 KIDNEY DISEASE
 
+Left ventricle hypertrophy
+
+MICROALBUMINURIA
+
 OBSTRUCTIVE SLEEP APNEA
+
+Retinopathy
 
 STROKE
 
 THORACIC AORTIC ANEURYSM
 
 High blood pressure
-
-HEART ATTACK
-
-Hypertensive nephropathy
-
-Left ventricle hypertrophy
-
-Retinopathy

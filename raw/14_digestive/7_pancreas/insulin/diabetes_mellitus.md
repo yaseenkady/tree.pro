@@ -30,6 +30,10 @@ Glucocorticoid
 
 ACUTE CORONARY SYNDROME
 
+ATHEROSCLEROSIS
+
+Anorectal dysfunction
+
 BLADDER DYSFUNCTION
 
 CANDIDA ALBICANS
@@ -50,11 +54,11 @@ DIABETIC LUMBOSACRAL RADICULOPLEXUS NEUROPATHY
 
 DIABETIC RETINOPATHY
 
+Diabetic diarrhea
+
 ERECTILE DYSFUNCTION
 
 GASTROESOPHAGEAL REFLUX DISEASE
-
-GASTROPARESIS
 
 GASTROPARESIS
 
@@ -68,11 +72,15 @@ KIDNEY DISEASE
 
 MYOCARDIAL INFARCTION
 
+NEPHROPATHY
+
 PERIPHERAL NEUROPATHY
 
 STROKE
 
 VASCULAR DISEASE
+
+Fatigue
 
 Constipation
 
@@ -86,8 +94,6 @@ Polyphagia
 
 Weight loss
 
-Fatigue
-
 Gangrene
 
 High blood hemoglobin A1C
@@ -97,9 +103,3 @@ Hyperglycemia
 High blood osmolality
 
 High urine glucose
-
-Anorectal dysfunction
-
-Diabetic diarrhea
-
-NEPHROPATHY

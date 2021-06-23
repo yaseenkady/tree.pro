@@ -10,18 +10,18 @@ Infection
 
 COUGH
 
-HYPOXEMIA
-
-TACHYCARDIA
-
-Chest pain
-
-Fever
-
 Coarse crackle
 
 Crackle
 
 Dullness to percussion
 
+HYPOXEMIA
+
+TACHYCARDIA
+
+Chest pain
+
 Tachypnea
+
+Fever

@@ -14,6 +14,6 @@ Dyspnea
 
 Diaphoresis
 
-Tremor
-
 Tachypnea
+
+Tremor

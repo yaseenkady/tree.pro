@@ -10,71 +10,29 @@ Top causes are primary hyperparathyroidism, the majority, hypercalcemia of maign
 
 # <
 
+Thiazide diuretic
+
 Cancer
 
-Sedentary lifestyle
+Calcium carbonate
 
-Exposure to lithium
+Sedentary lifestyle
 
 High diet Ca
 
 High diet vitamin D
 
-Calcium carbonate
-
-Thiazide diuretic
+Exposure to lithium
 
 # >
 
 ACUTE PANCREATITIS
 
-ACUTE PANCREATITIS
+ARRHYTHMIA
 
 ARTHRITIS
 
-KIDNEY DISEASE
-
-KIDNEY STONE
-
-NEPHROGENIC DIABETES INSIPIDUS
-
-OSTEOMALACIA
-
-OSTEOPEROSIS
-
-PALPITATION
-
-SYNCOPY
-
-Constipation
-
-Nausea
-
-Nausea
-
-Vomiting
-
-Vomiting
-
-Bone pain
-
-Muscle weakness
-
-Depression
-
-Depression
-
-Fatigue
-
 Heart disease
-
-Lethargy
-
-Confusion
-
-High blood Ca
-
-ARRHYTHMIA
 
 Hypercalciuria
 
@@ -82,10 +40,44 @@ Hyperphosphaturia
 
 Hypophosphatemia
 
+KIDNEY DISEASE
+
+KIDNEY STONE
+
+NEPHROGENIC DIABETES INSIPIDUS
+
 Nephrolithiasis
 
+OSTEOMALACIA
+
+OSTEOPEROSIS
+
+PALPITATION
+
 Peptic ulcer
+
+SYNCOPY
 
 Weakness
 
 osteitis fibrosa cysica
+
+Fatigue
+
+Nausea
+
+Vomiting
+
+Constipation
+
+Bone pain
+
+Muscle weakness
+
+Depression
+
+Lethargy
+
+Confusion
+
+High blood Ca

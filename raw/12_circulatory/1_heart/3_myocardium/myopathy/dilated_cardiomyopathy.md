@@ -6,38 +6,28 @@ Idiopathic or familial.
 
 # <
 
-Coronary artery disease
-
-Coxsackie B virus
-
-Hemochromatosis
-
-Sarcoidosis
-
-Thyrotoxicosis
-
-Peripartum
-
-Doxorubicin
-
-Alcohol
-
-Recreational drug
-
-TTN
-
 Chagas disease
 
 Infectino
 
 Wet beriberi
 
+Peripartum
+
+Doxorubicin
+
+TTN
+
+Alcohol
+
+Recreational drug
+
 # >
 
 HEART FAILURE
 
-S3
-
 Systolic dysfunction
 
 Systolic regurgitation murmur
+
+S3

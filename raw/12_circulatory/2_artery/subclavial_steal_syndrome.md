@@ -12,14 +12,14 @@ Takayasu arteritis
 
 # >
 
-Dizziness
-
-Vertigo
-
 Arm ischemia
-
-Arm pain
 
 Arm paresthesia
 
 Assymmetric arm systolic blood pressure
+
+Dizziness
+
+Arm pain
+
+Vertigo

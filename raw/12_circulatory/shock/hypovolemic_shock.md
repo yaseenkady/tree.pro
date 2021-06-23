@@ -6,11 +6,9 @@ Intravenous fluid to increase preload.
 
 # <
 
-Dehydration
+Hemorrhage
 
 Burn
-
-Hemorrhage
 
 # >
 

@@ -22,6 +22,8 @@ Adult
 
 # >
 
+CARDIAC HYPERTROPHY
+
 DIABETES MELLITUS
 
 HYPERTENSION
@@ -42,9 +44,9 @@ Paroxysmal headache
 
 Vertigo
 
-Anxiety
-
 Nervousness
+
+Anxiety
 
 Fever
 
@@ -63,5 +65,3 @@ High blood EPO
 High blood catecholamine
 
 High urine catecholamine
-
-CARDIAC HYPERTROPHY

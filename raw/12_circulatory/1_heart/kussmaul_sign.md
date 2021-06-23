@@ -4,12 +4,6 @@ Inspiration increases the intrathoracic negative pressure and decrease the jagul
 
 # <
 
-Constrictive pericarditis
-
-Pulmonary embolism
-
-Right heart failure
-
 Restrictive cardiomyopathy
 
 Right heart neoplasm

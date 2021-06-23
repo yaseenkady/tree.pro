@@ -20,15 +20,11 @@ Tricuspid valve is associated with recreating drug, Staphylococcus aureus, Pseud
 
 ANEMIA
 
-Fever
-
 Embolism
 
 Glomerulonephritis
 
 Janeway lesion
-
-Murmur
 
 Nail-bed hemorrhage
 
@@ -39,3 +35,7 @@ Roth spot
 Septic arterial embolism
 
 Septic pulmonary empolism
+
+Fever
+
+Murmur

@@ -32,23 +32,21 @@ Water clearance decreases.
 
 # <
 
-Pregnancy
+Elderly
+
+Female
 
 Amiodarone
 
 Estrogen
 
-Elderly
+High diet I
 
-Female
+Low diet I
 
 Exposure to lithium
 
 Exposure to radiation
-
-High diet I
-
-Low diet I
 
 # >
 
@@ -76,21 +74,23 @@ PERICARDIAL EFFUSION
 
 PLEURAL EFFUSION
 
-Exertional dyspnea
+Fatigue
 
-Constipation
+Exertional dyspnea
 
 Loss of appetite
 
-Galactorrhea
+Constipation
 
-Low libido
+Galactorrhea
 
 Menorrhagia
 
-Anhidrosis
+Low libido
 
 Cold intolerance
+
+Anhidrosis
 
 Weight gain
 
@@ -100,15 +100,11 @@ Paresthesia
 
 Proximal muscle weakness
 
-Depression
-
-Depression
-
-Fatigue
-
 Late puberty
 
-Late puberty
+Depression
+
+Hypoventilation
 
 Developmental defect
 
@@ -117,8 +113,6 @@ Diastolic hypertension
 Dry and cool skin
 
 Edema
-
-Hypoventilation
 
 Ascite
 

@@ -12,8 +12,8 @@ Arteriovenous malformation
 
 Gastrointestinal bleeding
 
-Hematuria
-
 Recurring epistaxis
 
 Telangiectasia
+
+Hematuria

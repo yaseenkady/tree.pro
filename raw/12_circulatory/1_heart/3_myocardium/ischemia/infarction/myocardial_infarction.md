@@ -36,6 +36,8 @@ Smoking
 
 # >
 
+Arrhythmia
+
 CARDIOGENIC SHOCK
 
 DIABETIC KETOACIDOSIS
@@ -44,29 +46,13 @@ DRESSLER SYNDROME
 
 HEART FAILURE
 
+High blood troponin
+
 INTERVENTRICULAR SEPTAL RUPTURE
 
 PERICARDITIS
 
 POSTINFARCTION FIBRINOUS PERICARDITIS
-
-VENTRICULAR FREE WALL RUPTURE
-
-VENTRICULAR PSEUDOANEURYTHM
-
-Dizziness
-
-Dyspnea
-
-Nausea
-
-Fatigue
-
-Arrhythmia
-
-Exertional chest pain
-
-High blood troponin
 
 Papillary muscle rupture
 
@@ -74,8 +60,22 @@ Pulmonary edema
 
 Thrombosis
 
+VENTRICULAR FREE WALL RUPTURE
+
+VENTRICULAR PSEUDOANEURYTHM
+
 Ventricular aneurysm
 
 Ventricular arrhythmia
 
 bradyarrhythmia
+
+Fatigue
+
+Exertional chest pain
+
+Dizziness
+
+Dyspnea
+
+Nausea

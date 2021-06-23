@@ -12,8 +12,8 @@ MYOCARDIAL INFARCTION
 
 ST ELEVATION MYOCARDIAL INFARCTION
 
+T inversion
+
 ST depression
 
 Peaked T
-
-T inversion

@@ -2,13 +2,17 @@
 
 # <
 
-Low diet K
-
 Hydrochlorothiazide
+
+Low diet K
 
 # >
 
+ARRHYTHMIA
+
 NEPHROGENIC DIABETES INSIPIDUS
+
+TORSADES DE POINTES
 
 Polyuria
 
@@ -19,5 +23,3 @@ Muscle cramp
 Muscle weakness
 
 Low blood K
-
-ARRHYTHMIA

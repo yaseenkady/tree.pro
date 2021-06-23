@@ -6,13 +6,17 @@ Ranking of occlusion: left anterior descending, right anterior, and circumflex.
 
 # <
 
-Estrogen
+Elderly female
+
+Inflammation
+
+Peripheral vascular disease
 
 Middle aged
 
 Male
 
-Sedentary lifestyle
+Estrogen
 
 Sedentary lifestyle
 
@@ -20,20 +24,20 @@ Smoking
 
 Obesity
 
-Elderly female
-
-Inflammation
-
-Peripheral vascular disease
-
 # >
 
 ACUTE CORONARY SYNDROME
 
+ATRIAL FIBRILLATION
+
+DILATED CARDIOMYOPATHY
+
 HEART FAILURE
+
+Heart murmur
 
 OBSTRUCTIVE SLEEP APNEA
 
-Pitting edema
+SUDDEN CARDIAC DEATH
 
-Heart murmur
+Pitting edema

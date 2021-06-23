@@ -12,30 +12,32 @@ Cancer
 
 # >
 
-HYPOXEMIA
-
-TACHYCARDIA
-
-TACHYCARDIA
-
-Dizziness
-
-Dyspnea
-
-S3 gallop
-
 Acute chest pain
 
-Hemoptysis
+HYPOXEMIA
+
+KUSSMAUL SIGN
+
+Non-radiating chest pain
+
+OBSTRUCTIVE SHOCK
+
+TACHYCARDIA
+
+Unilateral chest pain
+
+Sharp chest pain
 
 Lateral chest pain
 
 Non-exertional chest pain
 
-Non-radiating chest pain
-
 Pleuritic chest pain
 
-Sharp chest pain
+Dizziness
 
-Unilateral chest pain
+Dyspnea
+
+Hemoptysis
+
+S3 gallop

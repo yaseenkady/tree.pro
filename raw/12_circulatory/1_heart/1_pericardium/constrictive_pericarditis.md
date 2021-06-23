@@ -4,4 +4,6 @@
 
 # >
 
+KUSSMAUL SIGN
+
 Pulsus paradoxus

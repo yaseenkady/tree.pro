@@ -6,8 +6,6 @@ Hypogonadism and infertility in male.
 
 # <
 
-Pregnancy
-
 Stress
 
 Lactation
@@ -20,23 +18,19 @@ Psychotropic
 
 Recreational drug
 
-Recreational drug
-
 High sexual activity
 
 # >
 
 ERECTILE DYSFUNCTION
 
-INFERTILITY
+Hypogonadism
 
 INFERTILITY
-
-Amenorrhea
 
 Galactorrhea
 
-Hypogonadism
+Amenorrhea
 
 Late puberty
 

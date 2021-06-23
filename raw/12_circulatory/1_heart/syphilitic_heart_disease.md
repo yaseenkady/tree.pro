@@ -4,8 +4,6 @@
 
 # <
 
-Treponema pallidum
-
 # >
 
 AORTIC ANEURYSM

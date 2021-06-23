@@ -2,31 +2,31 @@
 
 # <
 
-Antibiotic
-
 Andidepressant
 
 Antiarrhythmic
 
-Antiemetic
-
 Antifungal
 
-Antipsychotic
-
-Azole
-
-Fluoroquinolone
-
 Haloperidol
-
-Macrolide
 
 Ondansetron
 
 Ziprasidone
 
 tricyclic antidepressant
+
+Azole
+
+Antiemetic
+
+Antipsychotic
+
+Fluoroquinolone
+
+Macrolide
+
+Antibiotic
 
 # >
 

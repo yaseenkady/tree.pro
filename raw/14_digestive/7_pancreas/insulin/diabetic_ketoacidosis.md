@@ -18,6 +18,8 @@ Trauma
 
 # >
 
+ARRHYTHMIA
+
 CEREBRAL EDEMA
 
 HYPERKALEMIA
@@ -49,5 +51,3 @@ High blood ketone
 Anion gap metabolic acidosis
 
 High urine ketone
-
-ARRHYTHMIA

@@ -14,11 +14,13 @@ Usually in older diabetes mellitus 2.
 
 # <
 
-Stroke
+Acute myocardial infarction
 
-Thyrotoxicosis
+Precipitation
 
-pancreatitis
+alcohol
+
+Elderly
 
 Infection
 
@@ -26,23 +28,19 @@ Surgery
 
 Trauma
 
-Elderly
-
-Acute myocardial infarction
-
 Antipsychotic
 
-Precipitation
-
-alcohol
-
 # >
+
+Acute kidney injury
 
 DEHYDRATION
 
 SEIZURE
 
 Polyuria
+
+Anuria
 
 Lethargy
 
@@ -53,7 +51,3 @@ Neurological focal deficit
 Hyperglycemia
 
 High blood osmolality
-
-Acute kidney injury
-
-Anuria

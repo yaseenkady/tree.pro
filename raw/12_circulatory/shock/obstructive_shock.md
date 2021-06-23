@@ -6,10 +6,6 @@ Relieve the obstruction to increase cardiac output.
 
 # <
 
-Cardiac tamponade
-
-Pulmonary embolism
-
 Tension pneumothorax
 
 # >

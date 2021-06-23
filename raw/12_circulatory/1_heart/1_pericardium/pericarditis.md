@@ -8,36 +8,26 @@ Occurs in 10% of people with myocardial infarction within 24-96hr.
 
 # <
 
-Coxsackie B virus
-
-Dressler syndrome
-
-Rheumatoid arthritis
-
-ST elevation myocardial infarction
-
-Systemic lupus erythromatous
+Uremia
 
 Autoimmunity
 
-Uremia
-
 # >
-
-PERICARDIAL EFFUSION
-
-ST elevation
 
 Chest pain radiating to trapezius ridge
 
 Friction rub
 
+PERICARDIAL EFFUSION
+
+Sharp pain
+
 Non-exertional chest pain
-
-PR depression
-
-Pleuritic chest pain
 
 Positional chest pain
 
-Sharp pain
+Pleuritic chest pain
+
+ST elevation
+
+PR depression

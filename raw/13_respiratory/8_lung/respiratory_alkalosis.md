@@ -2,8 +2,6 @@
 
 # <
 
-Hyperventilation
-
 # >
 
 High blood pH

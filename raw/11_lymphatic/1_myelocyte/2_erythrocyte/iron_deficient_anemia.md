@@ -8,22 +8,22 @@ Low diet Fe
 
 ANEMIA
 
+Mouth ulcer
+
 PALPITATION
 
 PERIODIC LEG MOVEMENT DISEASE
 
+Pica
+
 Cold intolerance
+
+Sore tongue
 
 Depression
 
 Brittle nail
 
-Dry mouth
-
 Dry skin
 
-Mouth ulcer
-
-Pica
-
-Sore tongue
+Dry mouth

@@ -4,6 +4,8 @@
 
 # >
 
+Occult blood in stool
+
 SYNCOPY
 
 Chest pain
@@ -11,5 +13,3 @@ Chest pain
 Dyspnea
 
 Abdominal pain
-
-Occult blood in stool

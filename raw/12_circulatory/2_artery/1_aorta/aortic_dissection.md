@@ -10,14 +10,6 @@ Stanford type B is the descending, which requires B blocker and then vasodilator
 
 # <
 
-Bicuspid aortic valve
-
-Connective tissue disease
-
-Hypertension
-
-marfan syndrome
-
 Elderly
 
 Smoking
@@ -30,14 +22,14 @@ Acute chest pain
 
 Assymmetric arm blood pressure
 
-Chest pain radiating to back
-
 Diastolic heart murmur
-
-Non-exertional chest pain
 
 Non-pleuritic chest pain
 
 Substernal chest pain
 
+Chest pain radiating to back
+
 Tearing chest pain
+
+Non-exertional chest pain

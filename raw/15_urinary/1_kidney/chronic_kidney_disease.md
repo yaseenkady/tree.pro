@@ -12,17 +12,21 @@ HYPERPROLACTINEMIA
 
 HYPOCALCEMIA
 
+Low hemoglobin A1C
+
 PERIODIC LEG MOVEMENT DISEASE
 
 RENAL OSTEODYSTROPHY
 
 SECONDARY HYPERPARATHYROIDISM
 
+hyperphosphatemia
+
+Fatigue
+
 Loss of appetite
 
 Nausea
-
-Fatigue
 
 Edema
 
@@ -33,9 +37,3 @@ High blood creatine
 High blood urea nitrogen
 
 Low blood vitamin D
-
-Low blood vitamin D
-
-Low hemoglobin A1C
-
-hyperphosphatemia

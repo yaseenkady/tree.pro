@@ -2,8 +2,6 @@
 
 # <
 
-Pregnancy
-
 Adolescent
 
 Young adult

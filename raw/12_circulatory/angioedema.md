@@ -2,9 +2,9 @@
 
 # <
 
-Lisinopril
-
 ACE inhibitor
+
+Lisinopril
 
 # >
 

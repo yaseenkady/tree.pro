@@ -12,8 +12,6 @@ Concordance in twins is 60-90%.
 
 # <
 
-African-American
-
 Common
 
 Middle aged
@@ -22,13 +20,13 @@ Elderly
 
 Non-White
 
+Hispanic
+
 Low socioeconomic status
 
 Smoking
 
 Obesity
-
-Hispanic
 
 # >
 

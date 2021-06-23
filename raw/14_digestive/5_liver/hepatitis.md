@@ -18,11 +18,13 @@ CIRRHOSIS
 
 HEPATOCELLULAR CARCINOMA
 
+Hepatic encephalopathy
+
+Right upper quadrant abdominal pain
+
 Loss of appetite
 
 Nausea
-
-Right upper quadrant abdominal pain
 
 Splenomegaly
 
@@ -55,5 +57,3 @@ Low blood clotting factor
 Dark urine
 
 Light colored stool
-
-Hepatic encephalopathy

@@ -2,10 +2,6 @@
 
 # <
 
-African-American
-
-Depression
-
 Common
 
 Adult
@@ -19,6 +15,8 @@ Low socioeconomic status
 Poor sleep hygiene
 
 Single
+
+Depression
 
 # >
 

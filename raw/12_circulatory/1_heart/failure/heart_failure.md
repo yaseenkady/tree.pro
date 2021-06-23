@@ -18,6 +18,8 @@ Wet means volume overload, associated with: dyspnea, orthopnea, pitting edema, h
 
 # <
 
+Non-steroidal antiinflammatory drug
+
 Infection
 
 Glucocorticoid
@@ -26,17 +28,25 @@ Alcohol
 
 Recreational drug
 
-Non-steroidal antiinflammatory drug
-
 # >
 
+CARDIOGENIC SHOCK
+
 COUGH
+
+Cheyne stroke respiration
+
+Coarse crackle
+
+Fine crackle
+
+MICROALBUMINURIA
 
 OBSTRUCTIVE SLEEP APNEA
 
 SECONDARY HYPERALDOSTERONISM
 
-Bendopnea
+Fatigue
 
 Chest pain
 
@@ -46,20 +56,14 @@ Nocturnal paroxysmal dyspnea
 
 Orthopnea
 
-Nocturia
+Bendopnea
 
 Polyuria
 
-Fatigue
+Nocturia
 
 Jagular venous distention
 
 S3
 
 Pitting edema
-
-Cheyne stroke respiration
-
-Coarse crackle
-
-Fine crackle

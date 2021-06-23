@@ -4,17 +4,11 @@ Polymorphic ventricular tachycardia.
 
 # <
 
-Hypocalcemia
-
-Hypokalemia
-
-Long QT
-
-Recreational drug
-
 Congenital heart defect
 
 Hypomagnesimia
+
+Recreational drug
 
 # >
 

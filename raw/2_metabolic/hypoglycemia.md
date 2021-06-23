@@ -12,9 +12,9 @@ Child
 
 Elderly
 
-Low diet carbohydrate
-
 Exercise
+
+Low diet carbohydrate
 
 # >
 

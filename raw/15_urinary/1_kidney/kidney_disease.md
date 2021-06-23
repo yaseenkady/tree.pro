@@ -2,10 +2,10 @@
 
 # <
 
-Lisinopril
-
 ACE inhibitor
 
 Hydrochlorothiazide
+
+Lisinopril
 
 # >

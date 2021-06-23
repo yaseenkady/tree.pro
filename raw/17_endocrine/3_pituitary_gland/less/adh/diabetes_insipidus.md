@@ -12,9 +12,9 @@ Nausea
 
 Vomiting
 
-Nocturia
-
 Polyuria
+
+Nocturia
 
 Polydipsia
 

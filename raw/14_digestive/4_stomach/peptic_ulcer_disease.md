@@ -4,18 +4,18 @@
 
 Stress
 
-Antiacid
-
 Aspirin
 
+Antiacid
+
 # >
+
+Duodenal ulcer
+
+Peptic ulcer
 
 UPPER GASTROINTESTINAL BLEEDING
 
 Chest pain
 
-Duodenal ulcer
-
 Epigastric tenderness
-
-Peptic ulcer

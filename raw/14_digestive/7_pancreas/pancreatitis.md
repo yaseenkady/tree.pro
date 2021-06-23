@@ -4,22 +4,24 @@
 
 # >
 
-Abdominal pain
-
-Nausea
-
-Vomiting
-
-Chest pain radiating to back
-
 Diabetic mellitus
 
-Epigastric tenderness
+HYPEROSMOLAR HYPERGLYCEMIC STATE
 
 High blood amylase
 
 High blood lipase
 
-Pleuritic chest pain
+Chest pain radiating to back
 
 Positional chest pain
+
+Pleuritic chest pain
+
+Abdominal pain
+
+Epigastric tenderness
+
+Nausea
+
+Vomiting

@@ -20,11 +20,11 @@ PULMONARY VALVE STENOSIS
 
 Diarrhea
 
-Tricuspid regurgitation
-
 Wheezing
 
 Flushing
+
+Tricuspid regurgitation
 
 High blood ACTH
 

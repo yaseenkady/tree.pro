@@ -12,8 +12,6 @@ The most common cause of new cases of blindness in adults aged 20-74.
 
 # <
 
-Pregnancy
-
 Sedentary lifestyle
 
 Alcohol

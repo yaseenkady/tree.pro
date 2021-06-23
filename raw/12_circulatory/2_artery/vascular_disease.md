@@ -6,8 +6,8 @@
 
 CORONARY ARTERY DISEASE
 
+Cerebrovascular disease
+
 DIABETES MELLITUS 2
 
 DIABETIC FOOT ULCER
-
-Cerebrovascular disease

@@ -4,11 +4,11 @@ Neisseria is a common cause.
 
 # <
 
+Infant
+
 Infection
 
 Anticoagulant
-
-Infant
 
 # >
 

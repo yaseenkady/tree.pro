@@ -8,8 +8,6 @@ Causes 50-60% of hyperthyroidism.
 
 # <
 
-Pregnancy
-
 Common
 
 Stress

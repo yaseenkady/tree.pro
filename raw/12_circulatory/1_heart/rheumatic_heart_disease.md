@@ -12,8 +12,6 @@ Carditis
 
 Mitral stenosis
 
-Mitral valve dysfunction
-
 Mitral valve regurgitation
 
 Tricuspid valve

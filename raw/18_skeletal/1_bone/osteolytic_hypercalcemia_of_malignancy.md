@@ -2,22 +2,18 @@
 
 # <
 
-Breast cancer
-
-Multiple myeloma
-
 Elderly
 
 # >
 
 ANEMIA
 
+Acute kidney injury
+
 HYPERCALCEMIA
 
 Bone pain
 
-Low blood PTH
-
-Acute kidney injury
-
 Back pain
+
+Low blood PTH

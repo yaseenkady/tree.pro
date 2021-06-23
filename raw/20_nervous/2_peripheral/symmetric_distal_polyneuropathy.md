@@ -14,8 +14,6 @@ The most common diabetic peripheral neuropathy.
 
 DIABETIC FOOT ULCER
 
-Paresthesia
-
 Loss of ankle reflex
 
 Loss of pain
@@ -24,10 +22,12 @@ Loss of pressure
 
 Loss of temperature
 
-Loss of vibration
-
 Muscle atrophy
 
 Shooting pain
 
 Worse at night
+
+Paresthesia
+
+Loss of vibration

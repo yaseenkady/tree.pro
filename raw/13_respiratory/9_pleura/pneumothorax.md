@@ -4,26 +4,24 @@
 
 # >
 
-HYPOTENSION
-
-TACHYCARDIA
-
-TACHYCARDIA
-
-Dyspnea
-
 Decreased breath sound
 
-Hyperresonance
+HYPOTENSION
 
-Lateral chest pain
+Hyperresonance
 
 Neck vein distention
 
 Non-radiating chest pain
 
-Pleuritic chest pain
+TACHYCARDIA
+
+Unilateral hyperresonance
 
 Sharp chest pain
 
-Unilateral hyperresonance
+Lateral chest pain
+
+Pleuritic chest pain
+
+Dyspnea

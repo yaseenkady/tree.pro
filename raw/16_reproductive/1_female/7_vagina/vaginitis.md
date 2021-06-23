@@ -10,11 +10,11 @@ pH: high in Gardnerella and low in Candida and Trichomonas.
 
 # <
 
+Female
+
 Hormonal change
 
 Antibiotic
-
-Female
 
 High sexual activity
 

@@ -6,22 +6,18 @@ Called "holiday heart syndrome" because excessive alcohol use occasionally prece
 
 # <
 
-Coronary artery disease
-
-Hypertension
-
 Alcohol
 
 # >
 
 HEART FAILURE
 
-STROKE
-
-TACHYCARDIA
-
 Irregularly irregular rhythm
 
 Irregularly spaced QRS
+
+STROKE
+
+TACHYCARDIA
 
 Missing P

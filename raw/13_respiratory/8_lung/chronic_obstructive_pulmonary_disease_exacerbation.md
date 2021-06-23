@@ -12,14 +12,14 @@ Smoking
 
 COUGH
 
-Dyspnea
+Hyperresonance
+
+Prolonged expiratory phase
 
 Fatigue
+
+Dyspnea
 
 Cachexia
 
 Wheezing
-
-Hyperresonance
-
-Prolonged expiratory phase

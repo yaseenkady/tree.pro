@@ -10,9 +10,9 @@ Fraction urine Ca is less than 0.01, compared to greater 0.02 in primary hyperpa
 
 # <
 
-Adolescent
-
 Children
+
+Adolescent
 
 # >
 
@@ -20,6 +20,6 @@ HYPERCALCEMIA
 
 HYPERPARATHYROIDISM
 
-Low urine Ca
-
 Hypocalciuria
+
+Low urine Ca

@@ -10,19 +10,11 @@
 
 # <
 
-African-American
-
 Elderly
 
 # >
 
 ANEMIA
-
-KIDNEY DISEASE
-
-Bone pain
-
-Infection
 
 Blood M
 
@@ -30,10 +22,18 @@ High blood immunoglobulin
 
 High marrow plasmacytosis
 
+KIDNEY DISEASE
+
 Lytic bone
 
 Normocytic anemia
 
+OSTEOLYTIC HYPERCALCEMIA OF MALIGNANCY
+
 Osteolytic metastasis
 
 Serum hyperviscosity
+
+Bone pain
+
+Infection

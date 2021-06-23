@@ -14,13 +14,13 @@ Adult
 
 Female
 
-Exposure to radiation
-
 BRAF
 
 PTC
 
 RET
+
+Exposure to radiation
 
 # >
 

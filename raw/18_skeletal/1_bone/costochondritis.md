@@ -4,10 +4,10 @@
 
 # >
 
-Chest wall tenderness
+Sharp chest pain
 
 Persistent chest pain
 
 Positional chest pain
 
-Sharp chest pain
+Chest wall tenderness

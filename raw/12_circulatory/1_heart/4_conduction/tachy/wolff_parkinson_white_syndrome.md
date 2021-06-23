@@ -14,6 +14,8 @@ PAROXYSMAL SUPRAVENTRICULAR TACHYCARDIA
 
 SYNCOPY
 
+Fatigue
+
 Chest pain
 
 Dizziness
@@ -22,10 +24,8 @@ Dyspnea
 
 Anxiety
 
-Fatigue
-
-D wave
-
 Short PR
 
 Wide QRS
+
+D wave

@@ -4,6 +4,6 @@
 
 # >
 
-Paresthesia
-
 Fatigue
+
+Paresthesia

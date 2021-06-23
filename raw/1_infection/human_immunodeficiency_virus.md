@@ -8,6 +8,6 @@ ADDISON DISEASE
 
 MYOCARDITIS
 
-Weight loss
-
 Fatigue
+
+Weight loss

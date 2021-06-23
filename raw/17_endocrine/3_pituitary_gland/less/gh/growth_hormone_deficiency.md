@@ -8,9 +8,9 @@ Slow growth and proportionate short stature in children.
 
 HYPERLIPIDEMIA
 
-Muscle weakness
-
 Fatigue
+
+Muscle weakness
 
 Slow development
 

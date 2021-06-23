@@ -4,14 +4,14 @@
 
 # >
 
-ESOPHAGITIS
-
 Buring abdominal pain
 
-Chronic cough
+ESOPHAGITIS
 
 Laryngitis
 
+Postprandial chest pain
+
 Positional chest pain
 
-Postprandial chest pain
+Chronic cough

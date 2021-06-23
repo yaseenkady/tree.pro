@@ -6,8 +6,8 @@ XXY
 
 # >
 
-SEX CHORD STROMAL TUMOR
-
 Hypogonadism
+
+SEX CHORD STROMAL TUMOR
 
 Tall stature

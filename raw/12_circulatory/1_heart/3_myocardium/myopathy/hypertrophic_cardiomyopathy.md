@@ -8,7 +8,13 @@ Hypertrophic obstructive cardiomyopathy if there is outflow obstruction in left 
 
 # >
 
+Diastolic dysfunction
+
 SYNCOPY
+
+Systolic murmur
+
+Ventricular arrhythmia
 
 Chest pain
 
@@ -16,10 +22,4 @@ Dyspnea
 
 S4
 
-Diastolic dysfunction
-
 Mitral regurgitation
-
-Systolic murmur
-
-Ventricular arrhythmia

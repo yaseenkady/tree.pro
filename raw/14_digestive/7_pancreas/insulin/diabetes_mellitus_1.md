@@ -8,25 +8,29 @@ Concordance in twins is 50%.
 
 # <
 
-Autoimmunity
+Children
 
 Preschool child
 
 Adolescent
 
-Adolescent
-
 Young adult
+
+Autoimmunity
 
 HLA-DR3
 
 HLA-DR4
 
-Children
-
 # >
 
 AUTOIMMUNE HEPATITIS
+
+Addision disease
+
+Antibody for insulin
+
+Celiac Sprue
 
 DIABETES MELLITUS
 
@@ -38,12 +42,6 @@ PERNICIOUS ANEMIA
 
 VITILIGO
 
-Antibody for pancreatic B cell
-
 Low blood insulin
 
-Addision disease
-
-Antibody for insulin
-
-Celiac Sprue
+Antibody for pancreatic B cell

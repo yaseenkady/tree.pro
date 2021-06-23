@@ -4,8 +4,6 @@ Chronic hypocalcemia from chronic kidney disease leads to parathyroid gland hype
 
 # <
 
-Chronic kidney disease
-
 Low diet vitamin D
 
 # >

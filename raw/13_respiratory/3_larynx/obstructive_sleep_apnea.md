@@ -18,10 +18,10 @@ Obesity
 
 PNEUMOTHORAX
 
-Morning headache
-
-Depression
-
 Fatigue
 
+Morning headache
+
 Sleepiness
+
+Depression

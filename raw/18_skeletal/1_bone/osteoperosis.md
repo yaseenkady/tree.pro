@@ -6,23 +6,23 @@
 
 # <
 
-Early menopause
-
-Furosemide
-
 Elderly
 
 Female
 
 White
 
-Sedentary lifestyle
+Early menopause
 
-Low exposure to UV light
+Furosemide
+
+Sedentary lifestyle
 
 Low diet Ca
 
 Low diet vitamin D
+
+Low exposure to UV light
 
 Smoking
 
@@ -30,6 +30,6 @@ Thin
 
 # >
 
-Low bone density
-
 FRACTURE
+
+Low bone density

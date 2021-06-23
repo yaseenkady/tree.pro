@@ -16,12 +16,12 @@ Obesity
 
 # >
 
+Fatigue
+
+Exertional chest pain
+
 Dizziness
 
 Dyspnea
 
 Nausea
-
-Fatigue
-
-Exertional chest pain

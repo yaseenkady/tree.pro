@@ -10,6 +10,6 @@ HYPOTENSION
 
 TACHYCARDIA
 
-Dysuria
-
 Unconsciousness
+
+Dysuria
