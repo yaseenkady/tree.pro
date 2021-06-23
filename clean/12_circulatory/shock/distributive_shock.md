@@ -8,4 +8,6 @@ With sepsis or anaphylaxis, decreased afterload decreases preload; cardiac outpu
 
 # Cause
 
+Anaphylaxis
+
 Sepsis

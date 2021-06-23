@@ -4,7 +4,7 @@
 
 # >
 
-Artial septal defect
+ATRIAL SEPTAL DEFECT
 
 PATENT DUCTUS ARTERIOSUS
 

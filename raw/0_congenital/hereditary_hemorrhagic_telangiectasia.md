@@ -8,7 +8,7 @@ Osler-Weber-Rendu syndrome.
 
 # >
 
-Arteriovenous malformation
+ARTERIOVENOUS MALFORMATION
 
 Gastrointestinal bleeding
 

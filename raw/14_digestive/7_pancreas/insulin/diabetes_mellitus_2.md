@@ -22,6 +22,8 @@ Non-White
 
 Hispanic
 
+African-American
+
 Low socioeconomic status
 
 Smoking

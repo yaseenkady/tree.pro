@@ -32,8 +32,6 @@ ARRHYTHMIA
 
 ARTHRITIS
 
-Heart disease
-
 Hypercalciuria
 
 Hyperphosphaturia
@@ -48,6 +46,8 @@ NEPHROGENIC DIABETES INSIPIDUS
 
 Nephrolithiasis
 
+OSTEITIS FIBROSA CYSTICA
+
 OSTEOMALACIA
 
 OSTEOPEROSIS
@@ -60,8 +60,6 @@ SYNCOPY
 
 Weakness
 
-osteitis fibrosa cysica
-
 Fatigue
 
 Nausea
@@ -72,12 +70,14 @@ Constipation
 
 Bone pain
 
-Muscle weakness
+Heart disease
 
 Depression
 
 Lethargy
 
 Confusion
+
+Muscle weakness
 
 High blood Ca

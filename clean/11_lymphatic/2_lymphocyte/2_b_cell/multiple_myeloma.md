@@ -10,6 +10,4 @@
 
 # Cause
 
-African American
-
 Monoclonal Gammopathy of Unknown Significance

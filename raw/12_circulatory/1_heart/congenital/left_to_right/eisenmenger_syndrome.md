@@ -12,6 +12,6 @@ PULMONARY HYPERTENSION
 
 RIGHT TO LEFT SHUNT
 
-clubbing
+Right ventricular hypertrophy
 
-right ventricular hypertrophy
+Clubbing

@@ -26,9 +26,9 @@ BICUSPID AORTIC VALVE
 
 COARCTATION OF AORTA
 
-Gonadal disease
-
 KIDNEY DISEASE
+
+Gonadal disease
 
 Proportionate short stature
 

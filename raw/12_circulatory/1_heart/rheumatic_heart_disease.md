@@ -6,12 +6,12 @@ Affects more left ventricle valves.
 
 # >
 
-Aortic valve dysfunction
-
-Carditis
+MYOCARDITIS
 
 Mitral stenosis
 
-Mitral valve regurgitation
+Tricuspid
 
-Tricuspid valve
+Mitral murmur
+
+Aortic murmur

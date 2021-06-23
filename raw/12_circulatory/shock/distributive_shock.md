@@ -8,8 +8,6 @@ With sepsis or anaphylaxis, decreased afterload decreases preload; cardiac outpu
 
 # <
 
-Anaphylaxis
-
 Central nervous system disease
 
 # >

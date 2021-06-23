@@ -22,9 +22,9 @@ Sugar craving
 
 Weight loss
 
-Muscle weakness
-
 Orthostatic hypotension
+
+Muscle weakness
 
 Low blood aldosterone
 

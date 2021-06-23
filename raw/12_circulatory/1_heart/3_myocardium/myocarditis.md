@@ -18,7 +18,7 @@ Recreational drug
 
 # >
 
-Arrhythmia
+ARRHYTHMIA
 
 DILATED CARDIOMYOPATHY
 

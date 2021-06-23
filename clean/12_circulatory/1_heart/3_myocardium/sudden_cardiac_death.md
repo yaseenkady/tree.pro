@@ -8,4 +8,10 @@ Others are due to hypertrophy, dilation, and ion channelopathy.
 
 Coronary Artery Disease
 
+Dilated Cardiomyopathy
+
 Hereditary Channelopathy
+
+Hypertrophic Cardiomyopathy
+
+Ion Channelopathy

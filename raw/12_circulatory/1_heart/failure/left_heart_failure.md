@@ -6,12 +6,12 @@
 
 HEART FAILURE
 
-Paroxysmal nocturnal dyspnea
-
 Pulmonary edema
 
 RIGHT HEART FAILURE
 
 Dyspnea
+
+Paroxysmal nocturnal dyspnea
 
 Orthopnea

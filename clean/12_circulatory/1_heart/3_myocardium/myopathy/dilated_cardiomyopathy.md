@@ -16,4 +16,8 @@ Myocarditis
 
 Sarcoidosis
 
+Thiamine Deficiency
+
 Thyrotoxicosis
+
+Trypanosoma Cruzi

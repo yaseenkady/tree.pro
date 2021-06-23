@@ -10,6 +10,8 @@ Cryptococcus
 
 Cytomegalovirus
 
+Diabetes Mellitus 1
+
 Hemochromatosis
 
 Histoplasma

@@ -10,4 +10,4 @@ Exposure to lithium
 
 HEART FAILURE
 
-tricuspid regurgitation
+Tricuspid murmur

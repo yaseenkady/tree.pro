@@ -10,9 +10,7 @@ AORTIC DISSECTION
 
 THORACIC AORTIC ANEURYSM
 
-aortic regurgitation
-
-thoracic aortic dissection
+Thoracic aortic dissection
 
 Long limb
 
@@ -23,3 +21,5 @@ Arachnodactyly
 Scoliosis
 
 Ectopic lentis
+
+Aortic murmur

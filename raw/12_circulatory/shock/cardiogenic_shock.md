@@ -8,8 +8,6 @@ Inotropes to increase cardiac output.
 
 # <
 
-Arrhythmia
-
 Valvular dysfunction
 
 # >

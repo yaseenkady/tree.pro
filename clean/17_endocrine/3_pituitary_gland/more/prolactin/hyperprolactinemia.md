@@ -14,10 +14,10 @@ Hypothyroidism
 
 Polycystic Ovary Disease
 
+Pregnancy
+
 Prolactinoma
 
 Seizure
 
 Varicella Zoster Virus
-
-Pregnancy

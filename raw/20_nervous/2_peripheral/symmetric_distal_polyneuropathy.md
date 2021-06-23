@@ -16,8 +16,6 @@ DIABETIC FOOT ULCER
 
 Loss of ankle reflex
 
-Loss of pain
-
 Loss of pressure
 
 Loss of temperature
@@ -31,3 +29,5 @@ Worse at night
 Paresthesia
 
 Loss of vibration
+
+Loss of pain

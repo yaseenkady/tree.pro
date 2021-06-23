@@ -16,6 +16,8 @@ Elderly
 
 Non-White
 
+African-American
+
 Low socioeconomic status
 
 Sedentary lifestyle

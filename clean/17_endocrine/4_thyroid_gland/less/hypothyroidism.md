@@ -42,6 +42,6 @@ Hypopituitarism
 
 Invasive Fibrous Thyroiditis
 
-Subacute Granulomatous Thyroiditis
-
 Pregnancy
+
+Subacute Granulomatous Thyroiditis

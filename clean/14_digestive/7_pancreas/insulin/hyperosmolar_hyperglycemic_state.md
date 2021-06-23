@@ -14,6 +14,8 @@ Usually in older diabetes mellitus 2.
 
 # Cause
 
+Acute Myocardial Infarction
+
 Diabetes Mellitus 2
 
 Pancreatitis

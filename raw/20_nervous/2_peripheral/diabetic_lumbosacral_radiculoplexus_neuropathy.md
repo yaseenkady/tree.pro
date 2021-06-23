@@ -6,8 +6,8 @@ Diabetic amyotrophy.
 
 # >
 
-Asymmetric muscle weakness
-
 Muscle atrophy
 
 Back pain
+
+Asymmetric muscle weakness

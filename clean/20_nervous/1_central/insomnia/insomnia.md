@@ -6,8 +6,6 @@ The most common cause of fatigue.
 
 # Cause
 
-African American
-
 Hyperthyroidism
 
 Primary Insomnia

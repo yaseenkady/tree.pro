@@ -10,13 +10,13 @@ HYPERLIPIDEMIA
 
 Fatigue
 
-Muscle weakness
-
 Slow development
 
 Abdominal obesity
 
 Proportionate short stature
+
+Muscle weakness
 
 Low blood GH
 

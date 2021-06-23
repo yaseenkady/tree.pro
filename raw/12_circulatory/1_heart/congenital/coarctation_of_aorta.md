@@ -8,12 +8,12 @@ Aorta narrows near insertion of ductus arteriosus.
 
 AORTIC RUPTURE
 
-Brachial femoral delay
+CEREBRAL ANEURYSM
 
-Cerebral aneurysm
-
-Cerebral hemorrhage
+CEREBRAL HEMORRHAGE
 
 Endocarditis
 
 HEART FAILURE
+
+Brachial femoral delay

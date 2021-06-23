@@ -10,6 +10,8 @@ Elderly
 
 Female
 
+African-American
+
 Low socioeconomic status
 
 Single

@@ -11,3 +11,5 @@ Monckeberg sclerosis (medial calcific sclerosis) results from calcification of i
 # <
 
 # >
+
+SUBCLAVIAL STEAL SYNDROME

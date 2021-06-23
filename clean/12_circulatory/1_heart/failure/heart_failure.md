@@ -44,6 +44,8 @@ Myocardial Infarction
 
 Myocarditis
 
+Patent Ductus Arteriosus
+
 Right Heart Failure
 
 Ventricular Septal Defect

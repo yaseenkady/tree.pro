@@ -12,19 +12,17 @@
 
 Elderly
 
+African-American
+
 # >
 
 ANEMIA
-
-Blood M
 
 High blood immunoglobulin
 
 High marrow plasmacytosis
 
 KIDNEY DISEASE
-
-Lytic bone
 
 Normocytic anemia
 
@@ -37,3 +35,5 @@ Serum hyperviscosity
 Bone pain
 
 Infection
+
+Blood M protein

@@ -6,11 +6,7 @@ Idiopathic or familial.
 
 # <
 
-Chagas disease
-
-Infectino
-
-Wet beriberi
+Infection
 
 Peripartum
 
@@ -26,8 +22,10 @@ Recreational drug
 
 HEART FAILURE
 
+SUDDEN CARDIAC DEATH
+
 Systolic dysfunction
 
-Systolic regurgitation murmur
+Systolic murmur
 
 S3

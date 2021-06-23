@@ -14,13 +14,13 @@ Autoimmunity
 
 # >
 
-Chest pain radiating to trapezius ridge
-
 Friction rub
 
 PERICARDIAL EFFUSION
 
-Sharp pain
+Sharp chest pain
+
+Chest pain radiating to trapezius ridge
 
 Non-exertional chest pain
 

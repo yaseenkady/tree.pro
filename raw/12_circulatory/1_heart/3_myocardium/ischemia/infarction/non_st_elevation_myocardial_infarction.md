@@ -12,7 +12,7 @@ MYOCARDIAL INFARCTION
 
 ST ELEVATION MYOCARDIAL INFARCTION
 
-T inversion
+Inverted T
 
 ST depression
 

@@ -36,7 +36,9 @@ Smoking
 
 # >
 
-Arrhythmia
+ARRHYTHMIA
+
+BRADYARRHYTHMIA
 
 CARDIOGENIC SHOCK
 
@@ -67,8 +69,6 @@ VENTRICULAR PSEUDOANEURYTHM
 Ventricular aneurysm
 
 Ventricular arrhythmia
-
-bradyarrhythmia
 
 Fatigue
 

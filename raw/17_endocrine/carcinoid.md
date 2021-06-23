@@ -24,7 +24,7 @@ Wheezing
 
 Flushing
 
-Tricuspid regurgitation
+Tricuspid murmur
 
 High blood ACTH
 

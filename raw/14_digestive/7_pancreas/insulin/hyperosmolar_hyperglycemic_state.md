@@ -14,11 +14,7 @@ Usually in older diabetes mellitus 2.
 
 # <
 
-Acute myocardial infarction
-
 Precipitation
-
-alcohol
 
 Elderly
 
@@ -30,9 +26,11 @@ Trauma
 
 Antipsychotic
 
+Alcohol
+
 # >
 
-Acute kidney injury
+ACUTE KIDNEY INJURY
 
 DEHYDRATION
 

@@ -6,9 +6,9 @@ Elderly
 
 # >
 
-ANEMIA
+ACUTE KIDNEY INJURY
 
-Acute kidney injury
+ANEMIA
 
 HYPERCALCEMIA
 

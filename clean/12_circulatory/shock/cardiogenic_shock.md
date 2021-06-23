@@ -8,6 +8,8 @@ Inotropes to increase cardiac output.
 
 # Cause
 
+Arrhythmia
+
 Heart Failure
 
 Myocardial Infarction

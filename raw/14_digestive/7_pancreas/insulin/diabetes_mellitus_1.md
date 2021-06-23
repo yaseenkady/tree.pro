@@ -8,9 +8,9 @@ Concordance in twins is 50%.
 
 # <
 
-Children
-
 Preschool child
+
+Child
 
 Adolescent
 
@@ -24,13 +24,11 @@ HLA-DR4
 
 # >
 
+ADDISON DISEASE
+
 AUTOIMMUNE HEPATITIS
 
-Addision disease
-
-Antibody for insulin
-
-Celiac Sprue
+CELIAC DISEASE
 
 DIABETES MELLITUS
 
@@ -43,5 +41,7 @@ PERNICIOUS ANEMIA
 VITILIGO
 
 Low blood insulin
+
+Antibody for insulin
 
 Antibody for pancreatic B cell

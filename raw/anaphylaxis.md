@@ -1,0 +1,7 @@
+# .
+
+# <
+
+# >
+
+DISTRIBUTIVE SHOCK

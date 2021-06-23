@@ -18,18 +18,18 @@ Smoking
 
 AORTIC RUPTURE
 
-Acute chest pain
-
-Assymmetric arm blood pressure
-
 Diastolic heart murmur
 
 Non-pleuritic chest pain
 
 Substernal chest pain
 
+Acute chest pain
+
 Chest pain radiating to back
 
 Tearing chest pain
 
 Non-exertional chest pain
+
+Asymmetric arm blood pressure

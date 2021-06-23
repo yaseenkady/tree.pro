@@ -34,12 +34,6 @@ CARDIOGENIC SHOCK
 
 COUGH
 
-Cheyne stroke respiration
-
-Coarse crackle
-
-Fine crackle
-
 MICROALBUMINURIA
 
 OBSTRUCTIVE SLEEP APNEA
@@ -52,7 +46,7 @@ Chest pain
 
 Dyspnea
 
-Nocturnal paroxysmal dyspnea
+Paroxysmal nocturnal dyspnea
 
 Orthopnea
 
@@ -67,3 +61,9 @@ Jagular venous distention
 S3
 
 Pitting edema
+
+Cheyne stroke respiration
+
+Coarse crackle
+
+Fine crackle

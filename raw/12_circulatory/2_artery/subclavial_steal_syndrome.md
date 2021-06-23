@@ -4,22 +4,18 @@ Stenosis of subclavian artery proximal to vertebral artery, which results in ver
 
 # <
 
-Arteriosclerosis
-
 Heart surgery
 
 Takayasu arteritis
 
 # >
 
-Arm ischemia
-
-Arm paresthesia
-
-Assymmetric arm systolic blood pressure
-
 Dizziness
 
 Arm pain
 
 Vertigo
+
+Arm paresthesia
+
+Asymmetric arm systolic blood pressure

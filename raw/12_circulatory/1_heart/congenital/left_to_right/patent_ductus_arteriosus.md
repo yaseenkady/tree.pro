@@ -6,7 +6,7 @@ Fetal right-to-left shunt, after delivery and increase in pulmonary resistance, 
 
 # >
 
-Hear failure
+HEART FAILURE
 
 Left ventricle hypertrophy
 

@@ -4,7 +4,7 @@
 
 # >
 
-palor
+Palor
 
 Fatigue
 

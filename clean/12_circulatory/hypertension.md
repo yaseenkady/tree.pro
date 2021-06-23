@@ -10,8 +10,6 @@ Persistently more than 130/80mmHg.
 
 Acromegaly
 
-African American
-
 Cushing Syndrome
 
 Diabetes Mellitus

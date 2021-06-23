@@ -22,12 +22,6 @@ Obesity
 
 # >
 
-Acute chest pain
-
-Chest pain radiating to either arm or jaw
-
-Crackle
-
 Elevated jagular vein distention
 
 Non-pluritic chest pain
@@ -36,9 +30,11 @@ Pressure chest pain
 
 SYNCOPY
 
-Substernal chest pain
-
 Fatigue
+
+Acute chest pain
+
+Chest pain radiating to arm or jaw
 
 Exertional chest pain
 
@@ -47,3 +43,5 @@ Dyspnea
 Diaphoresis
 
 S3 gallop
+
+Crackle

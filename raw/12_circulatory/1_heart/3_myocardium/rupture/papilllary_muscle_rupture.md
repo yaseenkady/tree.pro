@@ -16,4 +16,4 @@ Pulmonary edema
 
 Dyspnea
 
-Mitral regurgitation
+Mitral murmur

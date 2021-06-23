@@ -1,11 +1,9 @@
 # .
 
-Atria and ventricle beat independently.
+Atria and ventricle beat independently, and atria beats faster.
 
 Treat with pacemaker.
 
 # <
 
 # >
-
-Atria beat faster than ventricles

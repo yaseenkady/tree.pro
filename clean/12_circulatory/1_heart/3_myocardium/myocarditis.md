@@ -28,6 +28,8 @@ Polymyositis
 
 Rheumatic Fever
 
+Rheumatic Heart Disease
+
 Sarcoidosis
 
 Systemic Lupus Erythromatous

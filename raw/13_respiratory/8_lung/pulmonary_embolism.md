@@ -12,8 +12,6 @@ Cancer
 
 # >
 
-Acute chest pain
-
 HYPOXEMIA
 
 KUSSMAUL SIGN
@@ -25,6 +23,8 @@ OBSTRUCTIVE SHOCK
 TACHYCARDIA
 
 Unilateral chest pain
+
+Acute chest pain
 
 Sharp chest pain
 

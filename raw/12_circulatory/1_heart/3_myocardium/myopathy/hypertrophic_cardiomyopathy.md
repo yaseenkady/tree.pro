@@ -10,6 +10,8 @@ Hypertrophic obstructive cardiomyopathy if there is outflow obstruction in left 
 
 Diastolic dysfunction
 
+SUDDEN CARDIAC DEATH
+
 SYNCOPY
 
 Systolic murmur
@@ -22,4 +24,4 @@ Dyspnea
 
 S4
 
-Mitral regurgitation
+Mitral murmur

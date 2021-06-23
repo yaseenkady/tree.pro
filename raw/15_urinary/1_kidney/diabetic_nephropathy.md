@@ -10,11 +10,7 @@ The most common cause of end-stage renal disease in the US.
 
 # <
 
-Afrian American
-
-Mexican American
-
-Native American
+Mexican-American
 
 Male
 
@@ -22,14 +18,18 @@ Non-White
 
 Hispanic
 
+Native-American
+
+African-American
+
 # >
 
 DIABETIC RETINOPATHY
 
 HYPERTENSION
 
-Heart disease
-
 MICROALBUMINURIA
 
 Macroalbuminuria
+
+Heart disease

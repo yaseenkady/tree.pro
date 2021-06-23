@@ -14,8 +14,6 @@ Concordance in twins is 60-90%.
 
 Acromegaly
 
-African American
-
 Cushing Syndrome
 
 Gestational Diabetes

@@ -6,7 +6,7 @@ Calcium carbonate
 
 # >
 
-Acute kidney injury
+ACUTE KIDNEY INJURY
 
 HYPERCALCEMIA
 

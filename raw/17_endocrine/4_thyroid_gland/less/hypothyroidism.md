@@ -98,8 +98,6 @@ Arthralgia
 
 Paresthesia
 
-Proximal muscle weakness
-
 Late puberty
 
 Depression
@@ -137,6 +135,8 @@ Alopecia
 Coma
 
 Hyporeflexia
+
+Proximal muscle weakness
 
 High blood TSH
 
