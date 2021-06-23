@@ -1,3 +1,0 @@
-# Cause
-
-Neisseria Gonorrhea

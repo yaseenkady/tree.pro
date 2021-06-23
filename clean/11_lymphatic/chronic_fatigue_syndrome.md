@@ -1,5 +1,0 @@
-# Symptom
-
-Fatigue
-
-Sleepiness

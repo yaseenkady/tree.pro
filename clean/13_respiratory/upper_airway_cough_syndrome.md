@@ -1,3 +1,0 @@
-# Comment
-
-Post nasal drip.

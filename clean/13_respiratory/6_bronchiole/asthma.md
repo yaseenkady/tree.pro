@@ -1,7 +1,0 @@
-# Epidemiology
-
-Autoimmunity
-
-# Sign
-
-Wheezing

@@ -1,7 +1,0 @@
-# Cause
-
-Myxoma
-
-# Sign
-
-Fever

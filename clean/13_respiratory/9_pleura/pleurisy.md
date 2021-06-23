@@ -1,7 +1,0 @@
-# Epidemiology
-
-Infection
-
-# Symptom
-
-Dyspnea

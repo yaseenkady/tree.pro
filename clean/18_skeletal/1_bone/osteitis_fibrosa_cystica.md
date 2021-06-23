@@ -1,7 +1,0 @@
-# Comment
-
-Rare.
-
-# Cause
-
-Hyperparathyroidism

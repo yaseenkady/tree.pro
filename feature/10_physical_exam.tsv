@@ -1,0 +1,162 @@
+Feature	Priority
+Developmental defect	6.0.1
+Cachexia	6.1.0
+Fever	6.1.0
+Lethargy	6.1.0
+Lymphadenopathy	6.1.0
+Neck lymphadenopathy	6.1.0
+Pallor	6.1.0
+Petechiae	6.1.0
+Poor wound healing	6.1.0
+Splenomegaly	6.1.0
+Diastolic hypertension	6.2.0
+Dry and cool skin	6.2.0
+Edema	6.2.0
+High blood pressure	6.2.0
+Jagular venous distention	6.2.0
+Low blood pressure	6.2.0
+Moist and warm skin	6.2.0
+Orthostatic hypotension	6.2.0
+Paroxysmal palpitation	6.2.0
+Paroxysmal tachycardia	6.2.0
+S3	6.2.0
+S3 gallop	6.2.0
+S4	6.2.0
+ST depression	6.2.0
+ST elevation	6.2.0
+Shiny skin	6.2.0
+Tricuspid regurgitation	6.2.0
+Hoarseness	6.3.0
+Hyperventilation	6.3.0
+Hypoventilation	6.3.0
+Rhinorrhea	6.3.0
+Wheezing	6.3.0
+Abdominal swelling	6.4.0
+Arcus senilis	6.4.0
+Ascite	6.4.0
+Crossing midline, firm, and irregular abdominal mass	6.4.0
+Eruptive xanthoma	6.4.0
+Hepatomegaly	6.4.0
+Juandice	6.4.0
+Lipemia retinalis	6.4.0
+Palmar xanthoma	6.4.0
+Portal hypertension	6.4.0
+Protruding umbilicus	6.4.0
+Scleral icterus	6.4.0
+Spider angioma	6.4.0
+Tendon xanthoma	6.4.0
+Tuberous xanthoma	6.4.0
+Unilateral and smooth abdominal mass	6.4.0
+Absent axillary hair	6.6.0
+Absent pubic hair	6.6.0
+Adnexal tenderness	6.6.0
+Clumpy and white vaginal discharge	6.6.0
+Genital discharge	6.6.0
+Genital ulcer	6.6.0
+Gynecomastia	6.6.0
+Hirsutism	6.6.0
+Painless genital ulcer	6.6.0
+Small testis	6.6.0
+Strawberry cervix	6.6.0
+Testicular mass	6.6.0
+Thin, gray, and malodorous vaginal discharge	6.6.0
+Thin, green, and malodorous vaginal discharge	6.6.0
+Uterine bleeding	6.6.0
+Uterine tenderness	6.6.0
+Vaginal itch	6.6.0
+Vaginal pH less than 4.5	6.6.0
+Vaginal pH more than 4.5	6.6.0
+Abdominal obesity	6.7.0
+Acne	6.7.0
+Big hand and foot	6.7.0
+Brittle nail	6.7.0
+Chvostek sign	6.7.0
+Coarse and brittle hair	6.7.0
+Coarsening facial feature	6.7.0
+Deep voice	6.7.0
+Disproportionate short stature	6.7.0
+Enlarged tongue	6.7.0
+Eye edema	6.7.0
+Fine hair	6.7.0
+Flushing	6.7.0
+Hyperpigmentation	6.7.0
+Kussmaul respiration	6.7.0
+Large and deep furrowed tongue	6.7.0
+Lid lag	6.7.0
+Long limb	6.7.0
+Macrosomia	6.7.0
+Myxedema	6.7.0
+Obesity	6.7.0
+Pitting edema	6.7.0
+Proportionate short stature	6.7.0
+Proptosis	6.7.0
+Protuberant tongue	6.7.0
+Puffy face	6.7.0
+Refractory hypertension	6.7.0
+Round face	6.7.0
+Short limb	6.7.0
+Shoulder hump	6.7.0
+Stretch mark	6.7.0
+Subcutaneous calcification	6.7.0
+Sweet breath	6.7.0
+Tall stature	6.7.0
+Thin	6.7.0
+Thyroid bruit	6.7.0
+Thyroid cork	6.7.0
+Thyroid tenderness	6.7.0
+Trousseau sign	6.7.0
+Webbed neck	6.7.0
+Arachnodactyly	6.8.0
+Bone defect	6.8.0
+Cubitus valgus	6.8.0
+Curved bone	6.8.0
+Enlarged epiphysis at wrist and ankle	6.8.0
+Frontal bossing	6.8.0
+Hand defect	6.8.0
+Joint effusion	6.8.0
+Kyphosis	6.8.0
+Large head	6.8.0
+Midline defect	6.8.0
+Protruding abdomen	6.8.0
+Scoliosis	6.8.0
+Alopecia	6.9.0
+Cafe-au-lait spot	6.9.0
+Dermatitis	6.9.0
+Erythema migrans	6.9.0
+Gangrene	6.9.0
+Onycholysis	6.9.0
+Palm and sole rash	6.9.0
+Purpuric rash	6.9.0
+Rash	6.9.0
+Akinesthesia	6.10.0
+Areflexia	6.10.0
+Ataxia	6.10.0
+Blue conjunctiva	6.10.0
+Coma	6.10.0
+Delirium	6.10.0
+Dementia	6.10.0
+Dysphagia	6.10.0
+Fine tremor	6.10.0
+Hand tremor	6.10.0
+Hyperreflexia	6.10.0
+Hyporeflexia	6.10.0
+Myoclonus	6.10.0
+Neurological focal deficit	6.10.0
+Opsoclonus	6.10.0
+Pale conjunctiva	6.10.0
+Tremor	6.10.0
+Confusion	6.10.1
+Mental status change	6.10.1
+Wide gait	6.10.1
+Ectopic lentis	6.10.2
+Photophobia	6.10.2
+Red eye	6.10.2
+Retinal aneurysm	6.10.2
+Retinal hemorrhage	6.10.2
+Visual deficit	6.10.2
+Hearing deficit	6.10.8
+Slurred speech	6.10.9
+Vocal cord paralysis	6.10.9
+Irritability	6.11.0
+Psychiatric overtone	6.11.0
+Restlessness	6.11.0

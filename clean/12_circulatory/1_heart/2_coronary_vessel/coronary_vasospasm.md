@@ -1,3 +1,0 @@
-# Symptom
-
-Chest pain

@@ -22,8 +22,6 @@ Autoimmunity
 
 Uremia
 
-Virus
-
 # >
 
 PERICARDIAL EFFUSION

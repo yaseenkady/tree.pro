@@ -1,7 +1,0 @@
-# Epidemiology
-
-Lisinopril
-
-# Sign
-
-Edema

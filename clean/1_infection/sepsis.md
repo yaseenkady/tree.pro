@@ -1,3 +1,0 @@
-# Cause
-
-Waterhouse Friderichsen Syndrome
