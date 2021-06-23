@@ -1,99 +1,99 @@
-Feature	Priority
-Episodic hyperglycemia	7.1.0
-Episodic hypoglycemia	7.1.0
-High blood ACTH	7.1.0
-High blood ADH	7.1.0
-High blood AFP	7.1.0
-High blood ALT	7.1.0
-High blood ANP	7.1.0
-High blood AST	7.1.0
-High blood BHCG	7.1.0
-High blood BNP	7.1.0
-High blood CRP	7.1.0
-High blood Ca	7.1.0
-High blood EPO	7.1.0
-High blood FSH	7.1.0
-High blood GH	7.1.0
-High blood GH after glucose	7.1.0
-High blood GRH	7.1.0
-High blood IDL	7.1.0
-High blood IGF1	7.1.0
-High blood K	7.1.0
-High blood LDH	7.1.0
-High blood LDL	7.1.0
-High blood LH	7.1.0
-High blood Na	7.1.0
-High blood PO4	7.1.0
-High blood PTH	7.1.0
-High blood RF	7.1.0
-High blood TSH	7.1.0
-High blood VIP	7.1.0
-High blood VLDL	7.1.0
-High blood albumin	7.1.0
-High blood aldosterone	7.1.0
-High blood alkaline phosphatase	7.1.0
-High blood androgen	7.1.0
-High blood bHCG	7.1.0
-High blood bVLDL	7.1.0
-High blood bilirubin	7.1.0
-High blood calcitonin	7.1.0
-High blood catecholamine	7.1.0
-High blood cholesterol	7.1.0
-High blood chylomicron	7.1.0
-High blood cortisol	7.1.0
-High blood creatine	7.1.0
-High blood free T3	7.1.0
-High blood free T4	7.1.0
-High blood gastrin	7.1.0
-High blood glucagon	7.1.0
-High blood glucose	7.1.0
-High blood hemoglobin A1C	7.1.0
-High blood insulin	7.1.0
-High blood ketone	7.1.0
-High blood prolactin	7.1.0
-High blood renin	7.1.0
-High blood somatostatin	7.1.0
-High blood triglyceride	7.1.0
-High blood urea nitrogen	7.1.0
-High blood vitamin D	7.1.0
-Hyperglycemia	7.1.0
-Low blood ACTH	7.1.0
-Low blood ADH	7.1.0
-Low blood CRH	7.1.0
-Low blood Ca	7.1.0
-Low blood FSH	7.1.0
-Low blood GH	7.1.0
-Low blood HDL	7.1.0
-Low blood IGF1	7.1.0
-Low blood K	7.1.0
-Low blood LDL	7.1.0
-Low blood LH	7.1.0
-Low blood Na	7.1.0
-Low blood PO4	7.1.0
-Low blood PTH	7.1.0
-Low blood TSH	7.1.0
-Low blood aldosterone	7.1.0
-Low blood cholecystokinin	7.1.0
-Low blood cholesterol	7.1.0
-Low blood clotting factor	7.1.0
-Low blood cortisol	7.1.0
-Low blood ferritin	7.1.0
-Low blood free T4	7.1.0
-Low blood gastric inhibitory peptide	7.1.0
-Low blood gastrin	7.1.0
-Low blood glucagon	7.1.0
-Low blood hemoglobin	7.1.0
-Low blood insulin	7.1.0
-Low blood prolactin	7.1.0
-Low blood renin	7.1.0
-Low blood secretin	7.1.0
-Low blood testosterone	7.1.0
-Low blood vitamin D	7.1.0
-Anion gap metabolic acidosis	7.2.0
-High blood pH	7.2.0
-Low blood pH	7.2.0
-Clear serum	7.3.0
-Creamy-top serum	7.3.0
-High blood osmolality	7.3.0
-Low blood osmolality	7.3.0
-Turbid serum	7.3.0
+Feature
+Episodic hyperglycemia
+Episodic hypoglycemia
+High blood ACTH
+High blood ADH
+High blood AFP
+High blood ALT
+High blood ANP
+High blood AST
+High blood BHCG
+High blood BNP
+High blood CRP
+High blood Ca
+High blood EPO
+High blood FSH
+High blood GH
+High blood GH after glucose
+High blood GRH
+High blood IDL
+High blood IGF1
+High blood K
+High blood LDH
+High blood LDL
+High blood LH
+High blood Na
+High blood PO4
+High blood PTH
+High blood RF
+High blood TSH
+High blood VIP
+High blood VLDL
+High blood albumin
+High blood aldosterone
+High blood alkaline phosphatase
+High blood androgen
+High blood bHCG
+High blood bVLDL
+High blood bilirubin
+High blood calcitonin
+High blood catecholamine
+High blood cholesterol
+High blood chylomicron
+High blood cortisol
+High blood creatine
+High blood free T3
+High blood free T4
+High blood gastrin
+High blood glucagon
+High blood glucose
+High blood hemoglobin A1C
+High blood insulin
+High blood ketone
+High blood prolactin
+High blood renin
+High blood somatostatin
+High blood triglyceride
+High blood urea nitrogen
+High blood vitamin D
+Hyperglycemia
+Low blood ACTH
+Low blood ADH
+Low blood CRH
+Low blood Ca
+Low blood FSH
+Low blood GH
+Low blood HDL
+Low blood IGF1
+Low blood K
+Low blood LDL
+Low blood LH
+Low blood Na
+Low blood PO4
+Low blood PTH
+Low blood TSH
+Low blood aldosterone
+Low blood cholecystokinin
+Low blood cholesterol
+Low blood clotting factor
+Low blood cortisol
+Low blood ferritin
+Low blood free T4
+Low blood gastric inhibitory peptide
+Low blood gastrin
+Low blood glucagon
+Low blood hemoglobin
+Low blood insulin
+Low blood prolactin
+Low blood renin
+Low blood secretin
+Low blood testosterone
+Low blood vitamin D
+Anion gap metabolic acidosis
+High blood pH
+Low blood pH
+Clear serum
+Creamy-top serum
+High blood osmolality
+Low blood osmolality
+Turbid serum
