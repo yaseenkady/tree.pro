@@ -16,9 +16,9 @@ Alcohol
 
 CIRRHOSIS
 
-HEPATOCELLULAR CARCINOMA
+HEPATIC ENCEPHALOPATHY
 
-Hepatic encephalopathy
+HEPATOCELLULAR CARCINOMA
 
 Right upper quadrant abdominal pain
 

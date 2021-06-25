@@ -58,8 +58,6 @@ Peptic ulcer
 
 SYNCOPY
 
-Weakness
-
 Fatigue
 
 Nausea
@@ -69,6 +67,8 @@ Vomiting
 Constipation
 
 Bone pain
+
+Weakness
 
 Heart disease
 

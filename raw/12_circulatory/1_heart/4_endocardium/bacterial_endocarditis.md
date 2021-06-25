@@ -28,8 +28,6 @@ Janeway lesion
 
 Nail-bed hemorrhage
 
-Osler node
-
 Pulmonary empolism
 
 Embolism
@@ -37,5 +35,7 @@ Embolism
 Fever
 
 Roth spot
+
+Osler node
 
 Murmur

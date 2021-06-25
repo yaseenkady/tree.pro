@@ -10,7 +10,7 @@ Osler-Weber-Rendu syndrome.
 
 ARTERIOVENOUS MALFORMATION
 
-Gastrointestinal bleeding
+GASTROINTESTINAL BLEEDING
 
 Recurring epistaxis
 

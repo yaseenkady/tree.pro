@@ -6,7 +6,7 @@ XXY
 
 # >
 
-Hypogonadism
+HYPOGONADISM
 
 SEX CHORD STROMAL TUMOR
 

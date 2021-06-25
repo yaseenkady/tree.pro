@@ -8,8 +8,6 @@ Low diet Fe
 
 ANEMIA
 
-Mouth ulcer
-
 PALPITATION
 
 PERIODIC LEG MOVEMENT DISEASE
@@ -27,3 +25,5 @@ Brittle nail
 Dry skin
 
 Dry mouth
+
+Mouth ulcer

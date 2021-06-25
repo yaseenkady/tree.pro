@@ -8,6 +8,4 @@ Depression
 
 # >
 
-Loss of interest
-
 Fatigue

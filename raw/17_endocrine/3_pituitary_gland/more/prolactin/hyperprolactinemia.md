@@ -24,7 +24,7 @@ High sexual activity
 
 ERECTILE DYSFUNCTION
 
-Hypogonadism
+HYPOGONADISM
 
 INFERTILITY
 

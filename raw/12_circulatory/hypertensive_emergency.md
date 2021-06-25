@@ -20,8 +20,8 @@ MYOCARDIAL INFARCTION
 
 Microangiopathic hemolytic anemia
 
-Papilledema
-
 STROKE
 
 Retinal hemorrhage
+
+Papilledema
