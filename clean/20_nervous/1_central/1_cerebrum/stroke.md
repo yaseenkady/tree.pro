@@ -8,4 +8,4 @@ Hypertension
 
 Hypertensive Emergency
 
-Ventricular Pseudoaneurythm
+Ventricular Pseudoaneurysm

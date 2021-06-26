@@ -23,3 +23,5 @@ Pneumothorax
 Pulmonary Embolism
 
 Shock
+
+Ventricular Tachycardia

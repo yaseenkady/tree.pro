@@ -10,10 +10,6 @@ Smoking
 
 # >
 
-Hyperresonance
-
-Prolonged expiratory phase
-
 Fatigue
 
 Dyspnea
@@ -23,3 +19,7 @@ Pulsus paradoxus
 Cachexia
 
 Wheezing
+
+Hyperresonance
+
+Prolonged expiratory phase

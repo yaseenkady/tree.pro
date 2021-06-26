@@ -6,9 +6,9 @@
 
 MICROALBUMINURIA
 
-Small volume urination
-
 Polyuria
+
+Oliguria
 
 Hematuria
 

@@ -24,7 +24,7 @@ Interstitial Lung Disease
 
 Laryngeal Cancer
 
-Lower Respitatory Tract Infection
+Lower Respiratory Tract Infection
 
 Lung Cancer
 
@@ -40,4 +40,4 @@ Tic Cough
 
 Upper Airway Cough Syndrome
 
-Upper Respitatory Tract Infection
+Upper Respiratory Tract Infection

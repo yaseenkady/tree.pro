@@ -4,9 +4,7 @@ Stenosis of subclavian artery proximal to vertebral artery, which results in ver
 
 # <
 
-Heart surgery
-
-Takayasu arteritis
+Surgery
 
 # >
 

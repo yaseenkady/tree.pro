@@ -4,8 +4,6 @@ Hyperthyroidism crisis.
 
 # <
 
-Not miss
-
 Infection
 
 Stress

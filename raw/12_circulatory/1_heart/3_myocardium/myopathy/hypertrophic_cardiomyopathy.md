@@ -14,9 +14,7 @@ SUDDEN CARDIAC DEATH
 
 SYNCOPY
 
-Systolic murmur
-
-Ventricular arrhythmia
+VENTRICULAR ARRHYTHMIA
 
 Chest pain
 
@@ -25,3 +23,5 @@ Dyspnea
 S4
 
 Mitral murmur
+
+Systolic murmur

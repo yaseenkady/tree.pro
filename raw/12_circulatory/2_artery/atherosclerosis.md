@@ -6,15 +6,13 @@ Ranking: abdominal aorta, coronary artery, popliteal artery, carotid artery, and
 
 # <
 
-Common
-
-Postmenopausal status
-
 Middle aged
 
 Elderly
 
 Male
+
+Postmenopause
 
 Smoking
 

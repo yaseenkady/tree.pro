@@ -15,3 +15,5 @@ Heart Failure
 Myocardial Infarction
 
 Papillary Muscle Rupture
+
+Valvular Dysfunction

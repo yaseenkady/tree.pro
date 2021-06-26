@@ -8,6 +8,8 @@ Hemolytic Anemia
 
 Iron Deficient Anemia
 
+Microangiopathic Hemolytic Anemia
+
 Multiple Myeloma
 
 Osteolytic Hypercalcemia of Malignancy

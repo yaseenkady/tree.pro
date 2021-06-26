@@ -14,7 +14,7 @@ Left ventricular heart failure causes secondary hyperaldosteronism.
 
 There are 2 functional types: heart failure with 1) reduced or 2) preserved ejection fraction.
 
-Wet means volume overload, associated with: dyspnea, orthopnea, pitting edema, hypoxemia, crackles, high jagular venous distention, dilated inferior vena cava, and high blood brain natridiuretic peptide.
+Wet means volume overload, associated with: dyspnea, orthopnea, pitting edema, hypoxemia, crackles, high jagular vein distention, dilated inferior vena cava, and high blood brain natridiuretic peptide.
 
 # Cause
 

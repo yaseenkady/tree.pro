@@ -4,8 +4,6 @@ Endodermal sinus tumor.
 
 # <
 
-Common
-
 Infant
 
 Preschool child

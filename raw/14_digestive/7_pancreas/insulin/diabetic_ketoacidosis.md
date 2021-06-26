@@ -6,8 +6,6 @@
 
 # <
 
-Not miss
-
 Infection
 
 Stress

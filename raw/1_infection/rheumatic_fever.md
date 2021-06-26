@@ -10,13 +10,13 @@ MYOCARDITIS
 
 RHEUMATIC HEART DISEASE
 
-Sydenham chorea
-
 Erythema migrans
 
 Polyarthritis
 
 Skin nodule
+
+Sydenham chorea
 
 Antibody for DNase B
 

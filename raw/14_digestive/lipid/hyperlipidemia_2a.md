@@ -6,8 +6,6 @@ Familial hypercholesterolemia.
 
 # <
 
-Common
-
 APOB
 
 LDLR

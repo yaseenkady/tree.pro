@@ -6,8 +6,6 @@
 
 HYPOTENSION
 
-Hyperresonance
-
 TACHYCARDIA
 
 Sharp chest pain
@@ -25,3 +23,5 @@ Decreased breath sound
 Neck vein distention
 
 Unilateral hyperresonance
+
+Hyperresonance

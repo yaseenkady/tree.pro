@@ -6,7 +6,7 @@ Diabetic amyotrophy.
 
 # >
 
-Muscle atrophy
+MUSCULAR ATROPHY
 
 Back pain
 

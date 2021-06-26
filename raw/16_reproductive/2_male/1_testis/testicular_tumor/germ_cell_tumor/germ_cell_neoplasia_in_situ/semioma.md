@@ -2,8 +2,6 @@
 
 # <
 
-Common
-
 Adolescent
 
 Young adult

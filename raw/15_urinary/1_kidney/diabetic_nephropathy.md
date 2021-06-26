@@ -30,6 +30,6 @@ HYPERTENSION
 
 MICROALBUMINURIA
 
-Macroalbuminuria
-
 Heart disease
+
+Macroalbuminuria

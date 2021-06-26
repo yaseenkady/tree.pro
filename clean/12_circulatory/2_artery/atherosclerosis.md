@@ -8,7 +8,7 @@ Ranking: abdominal aorta, coronary artery, popliteal artery, carotid artery, and
 
 Diabetes Mellitus
 
-Dyslipidemia
+Hyperlipidemia
 
 Hyperlipidemia 2
 

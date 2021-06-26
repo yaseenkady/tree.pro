@@ -6,4 +6,4 @@
 
 SUDDEN CARDIAC DEATH
 
-Ventricular tachyarrhythmia
+VENTRICULAR ARRHYTHMIA

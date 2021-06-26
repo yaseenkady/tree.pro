@@ -12,8 +12,6 @@ HYPERPROLACTINEMIA
 
 HYPOCALCEMIA
 
-Hyperphosphatemia
-
 PERIODIC LEG MOVEMENT DISEASE
 
 RENAL OSTEODYSTROPHY
@@ -37,3 +35,5 @@ High blood urea nitrogen
 Low blood vitamin D
 
 Low hemoglobin A1C
+
+Hyperphosphatemia

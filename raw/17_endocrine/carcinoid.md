@@ -6,8 +6,6 @@ The most common neuroendocrine tumor.
 
 # <
 
-Common
-
 # >
 
 ISLET CELL TUMOR

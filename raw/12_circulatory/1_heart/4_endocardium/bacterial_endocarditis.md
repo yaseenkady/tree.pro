@@ -22,20 +22,20 @@ ANEMIA
 
 ARTERIAL EMBOLISM
 
-Glomerulonephritis
+GLOMERULONEPHRITIS
 
-Janeway lesion
-
-Nail-bed hemorrhage
-
-Pulmonary empolism
+PULMONARY EMBOLISM
 
 Embolism
 
 Fever
 
+Nail-bed hemorrhage
+
 Roth spot
 
 Osler node
+
+Janeway lesion
 
 Murmur

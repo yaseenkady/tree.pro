@@ -2,8 +2,6 @@
 
 # <
 
-Common
-
 # >
 
 ISLET CELL TUMOR

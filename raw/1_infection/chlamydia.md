@@ -2,7 +2,7 @@
 
 # <
 
-Endemic in tropics
+Tropic
 
 # >
 

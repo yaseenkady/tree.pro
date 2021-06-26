@@ -6,8 +6,6 @@ Anxiety
 
 # >
 
-Low blood CO2
-
 RESPIRATORY ALKALOSIS
 
 Dizziness
@@ -15,3 +13,5 @@ Dizziness
 Dyspnea
 
 Tachypnea
+
+Hypocapnia

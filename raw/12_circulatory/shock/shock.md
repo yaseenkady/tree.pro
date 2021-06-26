@@ -10,6 +10,6 @@ HYPOTENSION
 
 TACHYCARDIA
 
-Unconsciousness
-
 Dysuria
+
+Mental status change

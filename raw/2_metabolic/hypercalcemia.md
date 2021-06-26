@@ -10,11 +10,11 @@ Top causes are primary hyperparathyroidism, the majority, hypercalcemia of maign
 
 # <
 
-Thiazide diuretic
-
 Cancer
 
 Calcium carbonate
+
+Thiazide diuretic
 
 Sedentary lifestyle
 
@@ -32,12 +32,6 @@ ARRHYTHMIA
 
 ARTHRITIS
 
-Hypercalciuria
-
-Hyperphosphaturia
-
-Hypophosphatemia
-
 KIDNEY DISEASE
 
 KIDNEY STONE
@@ -54,7 +48,7 @@ OSTEOPEROSIS
 
 PALPITATION
 
-Peptic ulcer
+PEPTIC ULCER DISEASE
 
 SYNCOPY
 
@@ -81,3 +75,9 @@ Confusion
 Muscle weakness
 
 High blood Ca
+
+Hypophosphatemia
+
+Hyperphosphaturia
+
+Hypercalciuria

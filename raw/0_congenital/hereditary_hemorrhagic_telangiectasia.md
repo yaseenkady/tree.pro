@@ -12,8 +12,8 @@ ARTERIOVENOUS MALFORMATION
 
 GASTROINTESTINAL BLEEDING
 
-Recurring epistaxis
-
-Telangiectasia
+Epistaxis
 
 Hematuria
+
+Telangiectasia

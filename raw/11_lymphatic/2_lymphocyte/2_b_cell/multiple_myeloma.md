@@ -18,9 +18,9 @@ African-American
 
 ANEMIA
 
-High marrow plasmacytosis
-
 KIDNEY DISEASE
+
+MARROW PLASMACYTOSIS
 
 NORMOCYTIC ANEMIA
 

@@ -8,8 +8,8 @@ HEART FAILURE
 
 KUSSMAUL SIGN
 
-Peripheral edema
-
-Jagular venous distention
+Jagular vein distention
 
 Hepatomegaly
+
+Pitting edema

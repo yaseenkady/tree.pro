@@ -12,10 +12,6 @@ Smoking
 
 COUGH
 
-Hyperresonance
-
-Prolonged expiratory phase
-
 Fatigue
 
 Dyspnea
@@ -23,3 +19,7 @@ Dyspnea
 Cachexia
 
 Wheezing
+
+Hyperresonance
+
+Prolonged expiratory phase

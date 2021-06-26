@@ -12,4 +12,4 @@ Myocardial Infarction
 
 Myocarditis
 
-Ventricular Pseudoaneurythm
+Ventricular Pseudoaneurysm

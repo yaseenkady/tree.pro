@@ -8,8 +8,6 @@ Spreads lymphatically.
 
 # <
 
-Common
-
 Adult
 
 Female

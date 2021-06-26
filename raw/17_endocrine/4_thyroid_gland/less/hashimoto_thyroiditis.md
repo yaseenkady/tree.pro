@@ -8,8 +8,6 @@ The most common cause of hypothyroidism in the I sufficient areas.
 
 # <
 
-Common
-
 Postpartum
 
 HLA-DR3

@@ -16,7 +16,7 @@ Diabetes Mellitus
 
 Diabetic Nephropathy
 
-Dyslipidemia
+Hyperlipidemia
 
 Hypertension
 

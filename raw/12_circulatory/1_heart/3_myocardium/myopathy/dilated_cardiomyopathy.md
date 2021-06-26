@@ -26,6 +26,6 @@ HEART FAILURE
 
 SUDDEN CARDIAC DEATH
 
-Systolic murmur
-
 S3
+
+Systolic murmur

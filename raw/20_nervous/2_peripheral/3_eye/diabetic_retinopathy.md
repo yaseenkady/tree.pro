@@ -22,10 +22,10 @@ Obesity
 
 # >
 
-Visual deficit.
-
 Eye edema
 
 Retinal aneurysm
 
 Retinal hemorrhage
+
+Visual deficit

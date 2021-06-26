@@ -2,8 +2,6 @@
 
 # <
 
-Common
-
 Adult
 
 Elderly

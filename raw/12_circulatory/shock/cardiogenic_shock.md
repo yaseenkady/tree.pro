@@ -8,8 +8,6 @@ Inotropes to increase cardiac output.
 
 # <
 
-Valvular dysfunction
-
 # >
 
 Cold and clammy skin

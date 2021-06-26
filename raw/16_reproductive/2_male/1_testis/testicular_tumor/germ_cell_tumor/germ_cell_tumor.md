@@ -2,8 +2,6 @@
 
 # <
 
-Common
-
 # >
 
 TESTICULAR TUMOR

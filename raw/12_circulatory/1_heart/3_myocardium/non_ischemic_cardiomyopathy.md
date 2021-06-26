@@ -12,6 +12,6 @@ Chest pain
 
 Dyspnea
 
-Jagular venous distention
+Jagular vein distention
 
 Pitting edema

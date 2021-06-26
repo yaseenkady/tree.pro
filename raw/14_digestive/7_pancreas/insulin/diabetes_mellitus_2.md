@@ -12,8 +12,6 @@ Concordance in twins is 60-90%.
 
 # <
 
-Common
-
 Middle aged
 
 Elderly

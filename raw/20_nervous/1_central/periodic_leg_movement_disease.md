@@ -2,8 +2,6 @@
 
 # <
 
-Common
-
 # >
 
 Movement during sleep

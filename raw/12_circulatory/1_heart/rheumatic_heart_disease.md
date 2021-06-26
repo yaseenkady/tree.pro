@@ -10,8 +10,6 @@ MITRAL STENOSIS
 
 MYOCARDITIS
 
-Tricuspid
-
 Mitral murmur
 
 Aortic murmur

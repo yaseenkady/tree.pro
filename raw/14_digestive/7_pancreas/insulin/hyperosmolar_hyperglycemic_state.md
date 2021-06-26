@@ -14,11 +14,11 @@ Usually in older diabetes mellitus 2.
 
 # <
 
-Precipitation
-
 Elderly
 
 Infection
+
+Stress
 
 Surgery
 

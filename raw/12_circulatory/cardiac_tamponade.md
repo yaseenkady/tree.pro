@@ -6,8 +6,6 @@ Compression of heart by fluid.
 
 # >
 
-Electric alteran
-
 HYPOTENSION
 
 OBSTRUCTIVE SHOCK
@@ -21,3 +19,5 @@ Decreased heart sound
 Neck vein distention
 
 Low voltage QRS
+
+Electric alteran

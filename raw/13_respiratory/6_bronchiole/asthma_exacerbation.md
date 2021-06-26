@@ -6,6 +6,6 @@
 
 COUGH
 
-Hyperresonance
-
 Wheezing
+
+Hyperresonance

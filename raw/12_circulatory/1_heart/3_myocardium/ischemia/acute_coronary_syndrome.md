@@ -22,10 +22,6 @@ Obesity
 
 # >
 
-Elevated jagular vein distention
-
-Non-pluritic chest pain
-
 SYNCOPY
 
 Fatigue
@@ -34,6 +30,8 @@ Pressure chest pain
 
 Acute chest pain
 
+Non-pleuritic chest pain
+
 Chest pain radiating to arm or jaw
 
 Exertional chest pain
@@ -41,6 +39,8 @@ Exertional chest pain
 Dyspnea
 
 Diaphoresis
+
+Jagular vein distention
 
 S3 gallop
 

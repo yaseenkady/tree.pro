@@ -6,8 +6,6 @@ Relieve the obstruction to increase cardiac output.
 
 # <
 
-Tension pneumothorax
-
 # >
 
 Cold and clammy skin

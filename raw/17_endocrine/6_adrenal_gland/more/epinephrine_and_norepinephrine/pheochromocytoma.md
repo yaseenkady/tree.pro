@@ -14,8 +14,6 @@ Neoplasm secreting catacholamines.
 
 # <
 
-Common
-
 Child
 
 Adult

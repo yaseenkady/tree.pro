@@ -14,4 +14,4 @@ HYPOTENSION
 
 PAPILLARY MUSCLE RUPTURE
 
-Jagular venous distention
+Jagular vein distention

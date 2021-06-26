@@ -1,0 +1,9 @@
+# .
+
+# <
+
+# >
+
+OBSTRUCTIVE SHOCK
+
+PNEUMOTHORAX

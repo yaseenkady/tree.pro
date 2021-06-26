@@ -10,10 +10,10 @@ CARDIOGENIC SHOCK
 
 HYPOXIA
 
-Holosystolic murmur
-
 PULMONARY EDEMA
 
 Dyspnea
 
 Mitral murmur
+
+Holosystolic murmur

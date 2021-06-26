@@ -9,3 +9,5 @@ Relieve the obstruction to increase cardiac output.
 Cardiac Tamponade
 
 Pulmonary Embolism
+
+Tension Pneumothorax

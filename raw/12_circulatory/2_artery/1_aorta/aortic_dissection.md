@@ -18,7 +18,7 @@ Smoking
 
 AORTIC RUPTURE
 
-Substernal chest pain
+Substernal pain
 
 Acute chest pain
 

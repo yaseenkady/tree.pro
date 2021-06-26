@@ -6,8 +6,6 @@ The most common cause of fatigue.
 
 # <
 
-Common
-
 Adult
 
 Elderly

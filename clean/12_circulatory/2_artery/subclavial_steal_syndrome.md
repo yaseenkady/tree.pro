@@ -5,3 +5,5 @@ Stenosis of subclavian artery proximal to vertebral artery, which results in ver
 # Cause
 
 Arteriosclerosis
+
+Takayasu Arteritis

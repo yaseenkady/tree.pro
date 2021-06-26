@@ -6,4 +6,6 @@ Hypoxemia with normal cardiac and pulmonary exam, plus normal chest x-ray and un
 
 # Cause
 
+Bacterial Endocarditis
+
 Deep Vein Thrombosis

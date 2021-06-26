@@ -6,8 +6,6 @@
 
 # <
 
-Common
-
 Male
 
 Heart disease

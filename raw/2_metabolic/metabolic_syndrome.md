@@ -16,10 +16,10 @@ Triglyceride over 150mg/dl.
 
 HYPERTENSION
 
-Hygerglycemia
-
 Abdominal obesity
 
 High blood triglyceride
+
+Hyperglycemia
 
 Low blood HDL

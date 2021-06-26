@@ -10,7 +10,7 @@ Infant
 
 OVERRIDING AORTA
 
-Pulmonary infundiular stenosis
+PULMONARY INFUNDIBULAR STENOSIS
 
 RIGHT TO LEFT SHUNT
 

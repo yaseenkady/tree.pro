@@ -2,8 +2,6 @@
 
 # <
 
-Not miss
-
 # >
 
 FITZ HUGH CURTIS SYNDROME

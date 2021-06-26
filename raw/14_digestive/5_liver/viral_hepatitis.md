@@ -4,8 +4,6 @@ Viral infection activates the immune system which damages the liver.
 
 # <
 
-Common
-
 Medication
 
 Acetaminophen

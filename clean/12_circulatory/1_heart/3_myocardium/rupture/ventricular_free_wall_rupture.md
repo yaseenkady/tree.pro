@@ -8,4 +8,4 @@ Left ventricular hypertrophy and and previous myocardial infarction are protecti
 
 Myocardial Infarction
 
-Ventricular Pseudoaneurythm
+Ventricular Pseudoaneurysm
