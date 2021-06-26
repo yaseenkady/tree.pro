@@ -24,4 +24,6 @@ Pulmonary Embolism
 
 Shock
 
+Tachyarrhythmia
+
 Ventricular Tachycardia

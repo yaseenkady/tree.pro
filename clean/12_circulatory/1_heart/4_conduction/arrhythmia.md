@@ -1,5 +1,7 @@
 # Cause
 
+Bradyarrhythmia
+
 Diabetic Ketoacidosis
 
 Hypercalcemia
@@ -11,5 +13,7 @@ Hypokalemia
 Myocardial Infarction
 
 Myocarditis
+
+Tachyarrhythmia
 
 Ventricular Pseudoaneurysm

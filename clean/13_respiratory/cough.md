@@ -8,8 +8,6 @@ Aspiration
 
 Asthma
 
-Asthma Exacerbation
-
 Bronchiectasis
 
 Chronic Bronchitis
