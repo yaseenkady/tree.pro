@@ -6,6 +6,12 @@ Intravenous fluid to increase preload.
 
 # <
 
+Vomiting
+
+Diarrhea
+
+Trauma
+
 Hemorrhage
 
 Burn

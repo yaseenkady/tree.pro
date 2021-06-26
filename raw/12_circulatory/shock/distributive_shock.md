@@ -12,4 +12,6 @@ Central nervous system disease
 
 # >
 
+Fever
+
 Warm and dry skin

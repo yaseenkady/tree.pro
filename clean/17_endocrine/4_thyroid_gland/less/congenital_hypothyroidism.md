@@ -1,3 +1,0 @@
-# Comment
-
-Also called cretinism.

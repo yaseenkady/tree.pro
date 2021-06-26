@@ -1,3 +1,0 @@
-# Cause
-
-Peptic Ulcer Disease

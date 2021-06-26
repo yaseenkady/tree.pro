@@ -1,3 +1,0 @@
-# Cause
-
-Acute Pancreatitis

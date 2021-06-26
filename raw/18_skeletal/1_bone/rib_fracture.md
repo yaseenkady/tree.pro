@@ -6,6 +6,8 @@ Trauma
 
 # >
 
+FRACTURE
+
 Positional chest pain
 
 Pleuritic chest pain

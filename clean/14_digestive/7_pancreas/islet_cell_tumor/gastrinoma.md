@@ -1,3 +1,0 @@
-# Comment
-
-Zollinger-Ellison syndrome.

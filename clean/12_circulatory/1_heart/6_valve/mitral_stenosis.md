@@ -1,3 +1,0 @@
-# Cause
-
-Rheumatic Heart Disease

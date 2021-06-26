@@ -1,5 +1,0 @@
-# Cause
-
-Bradyarrhythmia
-
-Hypothyroidism

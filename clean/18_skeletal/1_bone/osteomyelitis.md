@@ -1,3 +1,0 @@
-# Cause
-
-Diabetic Foot Ulcer

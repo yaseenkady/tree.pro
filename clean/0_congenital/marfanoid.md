@@ -7,3 +7,17 @@ Milder Marfan syndrome.
 # Cause
 
 Multiple Endocrine Neoplasia Syndrome 2B
+
+# Diagnostic
+
+Long limb
+
+Arachnodactyly
+
+Midline defect
+
+Scoliosis
+
+Dysphagia
+
+Hearing deficit

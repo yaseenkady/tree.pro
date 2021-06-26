@@ -1,5 +1,7 @@
 # .
 
+Milder than achondroplasia.
+
 # <
 
 FGFR3

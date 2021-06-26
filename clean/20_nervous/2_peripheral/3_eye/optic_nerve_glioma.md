@@ -1,3 +1,0 @@
-# Cause
-
-Neurofibromatosis 1

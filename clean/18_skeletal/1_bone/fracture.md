@@ -1,5 +1,0 @@
-# Cause
-
-Osteogenesis Imperfecta
-
-Osteoperosis

@@ -1,5 +1,0 @@
-# Cause
-
-Hyperprolactinemia
-
-Klinefelter Syndrome

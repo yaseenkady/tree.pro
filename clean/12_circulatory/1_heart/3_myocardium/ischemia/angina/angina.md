@@ -11,3 +11,7 @@ Stable Angina
 Unstable Angina
 
 Vasospastic Angina
+
+# Symptom
+
+Fatigue

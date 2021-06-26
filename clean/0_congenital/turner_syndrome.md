@@ -13,3 +13,17 @@
 55% of cases have heart disease.
 
 96% of cases have gonadal failure.
+
+# Epidemiology
+
+X
+
+# Diagnostic
+
+Proportionate short stature
+
+Webbed neck
+
+Cubitus valgus
+
+Brachial femoral delay

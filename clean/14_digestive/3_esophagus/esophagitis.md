@@ -1,3 +1,0 @@
-# Cause
-
-Gastroesophageal Reflux Disease

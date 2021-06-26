@@ -8,7 +8,7 @@ Obesity
 
 # >
 
-ASTHMA EXACERBATION
+ASTHMA
 
 COUGH
 

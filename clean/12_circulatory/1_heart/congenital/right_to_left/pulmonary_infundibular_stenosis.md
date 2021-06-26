@@ -1,3 +1,0 @@
-# Cause
-
-Tetralogy of Fallot

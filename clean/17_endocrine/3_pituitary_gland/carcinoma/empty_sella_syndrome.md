@@ -1,3 +1,0 @@
-# Cause
-
-Intracranial Hypertension

@@ -11,3 +11,25 @@
 # Cause
 
 Monoclonal Gammopathy of Unknown Significance
+
+# Symptom
+
+Fatigue
+
+# Diagnostic
+
+Pallor
+
+Pale conjunctiva
+
+Low blood PTH
+
+Low blood ferritin
+
+Low blood hemoglobin
+
+Blood M protein
+
+High blood immunoglobulin
+
+Serum hyperviscosity

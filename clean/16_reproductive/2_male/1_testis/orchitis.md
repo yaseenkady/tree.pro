@@ -1,5 +1,0 @@
-# Cause
-
-Sarcoidosis
-
-Treponema Pallidum

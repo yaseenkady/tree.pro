@@ -23,3 +23,15 @@ Diabetes Mellitus
 Hyperlipidemia 2
 
 Hypertension
+
+# Symptom
+
+Fatigue
+
+# Diagnostic
+
+Jagular vein distention
+
+S3 gallop
+
+Crackle

@@ -8,6 +8,8 @@ HYPOTENSION
 
 TACHYCARDIA
 
+TENSION PNEUMOTHORAX
+
 Sharp chest pain
 
 Non-radiating chest pain

@@ -1,3 +1,7 @@
 # Cause
 
 Myxoma
+
+# Diagnostic
+
+Fever

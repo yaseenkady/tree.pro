@@ -9,3 +9,11 @@ Hypertrophic obstructive cardiomyopathy if there is outflow obstruction in left 
 # Cause
 
 Pheochromocytoma
+
+# Diagnostic
+
+S4
+
+Mitral murmur
+
+Systolic murmur

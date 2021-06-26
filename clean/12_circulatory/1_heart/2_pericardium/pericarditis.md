@@ -6,6 +6,10 @@ Leaning forward alleviates chest pain.
 
 Occurs in 10% of people with myocardial infarction within 24-96hr.
 
+# Epidemiology
+
+Autoimmunity
+
 # Cause
 
 Coxsackie B Virus
@@ -21,3 +25,11 @@ St Elevation Myocardial Infarction
 Systemic Lupus Erythromatous
 
 Uremia
+
+# Diagnostic
+
+Friction rub
+
+ST elevation
+
+PR depression

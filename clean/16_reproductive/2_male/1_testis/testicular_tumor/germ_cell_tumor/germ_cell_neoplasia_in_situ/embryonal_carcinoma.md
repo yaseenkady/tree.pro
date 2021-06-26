@@ -1,3 +1,0 @@
-# Cause
-
-Yolk Sac Tumor
