@@ -1,5 +1,6 @@
+
 # Diagnostic
 
 Cyanosis
 
-High blood RBC
+Polycythemia

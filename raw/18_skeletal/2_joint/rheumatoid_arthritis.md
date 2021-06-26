@@ -14,7 +14,7 @@ High blood CRP
 
 High blood RF
 
-High blood WBC
+LEUKOCYTOSIS
 
 High ESR
 

@@ -1,3 +1,4 @@
+
 # Epidemiology
 
 Maternal transmission
@@ -16,8 +17,8 @@ Slurred speech
 
 Cyanosis
 
-High blood glucose
+Hyperglycemia
+
+Polycythemia
 
 High blood insulin
-
-High blood RBC

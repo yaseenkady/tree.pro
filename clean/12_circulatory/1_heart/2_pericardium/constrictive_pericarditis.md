@@ -1,3 +1,4 @@
+
 # Diagnostic
 
 Pulsus paradoxus

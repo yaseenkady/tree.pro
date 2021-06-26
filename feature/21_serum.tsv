@@ -1,6 +1,4 @@
 Feature
-Episodic hyperglycemia
-Episodic hypoglycemia
 High blood ACTH
 High blood ADH
 High blood IL6
@@ -57,7 +55,13 @@ High blood somatostatin
 High blood triglyceride
 High blood urea nitrogen
 High blood vitamin D
-Hyperglycemia
+High blood pH
+High blood osmolality
+High blood amylase
+High blood calcitriol
+High blood immunoglobulin
+High blood lipase
+High blood troponin
 Low blood ACTH
 Low blood ADH
 Low blood CRH
@@ -90,20 +94,13 @@ Low blood renin
 Low blood secretin
 Low blood testosterone
 Low blood vitamin D
-Anion gap metabolic acidosis
-High blood pH
 Low blood pH
+Low blood osmolality
+Anion gap metabolic acidosis
 Clear serum
 Creamy-top serum
-High blood osmolality
-Low blood osmolality
 Turbid serum
 Blood M protein
-High blood amylase
-High blood calcitriol
-High blood immunoglobulin
-High blood lipase
-High blood troponin
 Low hemoglobin A1C
 Serum hyperviscosity
 Hypomagnesimia

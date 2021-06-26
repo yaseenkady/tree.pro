@@ -1,11 +1,13 @@
 # .
 
+Episodic hypoglycemia.
+
 # <
 
 # >
 
-ISLET CELL TUMOR
+HYPOGLYCEMIA
 
-Episodic hypoglycemia
+ISLET CELL TUMOR
 
 High blood insulin

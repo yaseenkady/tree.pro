@@ -6,6 +6,4 @@ Exercise
 
 Fever
 
-Hyperglycemia
-
 # >

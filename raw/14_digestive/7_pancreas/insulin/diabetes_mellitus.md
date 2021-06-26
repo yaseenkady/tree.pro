@@ -62,6 +62,8 @@ GASTROPARESIS
 
 GLAUCOMA
 
+HYPERGLYCEMIA
+
 HYPERLIPIDEMIA 2
 
 HYPERTENSION
@@ -95,8 +97,6 @@ Weight loss
 Gangrene
 
 High blood hemoglobin A1C
-
-Hyperglycemia
 
 High blood osmolality
 

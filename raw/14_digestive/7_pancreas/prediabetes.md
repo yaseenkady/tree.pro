@@ -12,6 +12,6 @@ Hemoglobin A1C: 5.7-6.4%.
 
 DIABETES MELLITUS 2
 
-High blood hemoglobin A1C
+HYPERGLYCEMIA
 
-Hyperglycemia
+High blood hemoglobin A1C

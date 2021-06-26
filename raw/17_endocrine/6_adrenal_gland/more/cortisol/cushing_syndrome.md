@@ -14,6 +14,8 @@ DIABETES MELLITUS 2
 
 ERECTILE DYSFUNCTION
 
+HYPERGLYCEMIA
+
 HYPERLIPIDEMIA 2
 
 HYPERTENSION
@@ -51,7 +53,5 @@ Stretch mark
 High blood aldosterone
 
 High blood cortisol
-
-Hyperglycemia
 
 High urine cortisol

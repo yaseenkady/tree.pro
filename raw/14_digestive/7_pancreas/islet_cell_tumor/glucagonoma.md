@@ -1,5 +1,7 @@
 # .
 
+Episodic hyperglycemia.
+
 # <
 
 # >
@@ -7,6 +9,8 @@
 DEEP VEIN THROMBOSIS
 
 DIABETES MELLITUS
+
+HYPERGLYCEMIA
 
 ISLET CELL TUMOR
 
@@ -17,7 +21,5 @@ Weight loss
 Depression
 
 Dermatitis
-
-Episodic hyperglycemia
 
 High blood glucagon

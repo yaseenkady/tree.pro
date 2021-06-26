@@ -10,4 +10,4 @@ Petechiae
 
 Low blood clotting factor
 
-Low blood platelet
+Thrombocytopenia
