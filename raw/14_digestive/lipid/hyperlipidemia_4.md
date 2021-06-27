@@ -16,10 +16,10 @@ ACUTE PANCREATITIS
 
 CORONARY ARTERY DISEASE
 
-High blood VLDL
+High serum VLDL
 
-High blood cholesterol
+High serum cholesterol
 
-High blood triglyceride
+High serum triglyceride
 
 Turbid serum

@@ -1,4 +1,0 @@
-
-# Cause
-
-Papillary Muscle Rupture

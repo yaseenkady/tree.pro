@@ -26,4 +26,4 @@ Headache
 
 Muscle weakness
 
-High blood aldosterone
+High serum aldosterone

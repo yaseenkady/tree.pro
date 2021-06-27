@@ -44,7 +44,7 @@ Delirium
 
 Mental status change
 
-High blood ketone
+High serum ketone
 
 Anion gap metabolic acidosis
 

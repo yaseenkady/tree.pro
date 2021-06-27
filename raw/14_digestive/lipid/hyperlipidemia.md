@@ -8,6 +8,6 @@ ATHEROSCLEROSIS
 
 DIABETIC RETINOPATHY
 
-High blood LDL
+High serum LDL
 
-Low blood HDL
+Low serum HDL

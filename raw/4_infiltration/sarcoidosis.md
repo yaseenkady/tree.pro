@@ -20,4 +20,4 @@ ORCHITIS
 
 RESTRICTIVE INFILTRATIVE CARDIOMYOPATHY
 
-High blood vitamin D
+High serum vitamin D

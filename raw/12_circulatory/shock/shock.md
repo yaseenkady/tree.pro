@@ -22,20 +22,6 @@ HYPOTENSION
 
 HYPOXEMIA
 
-High serum ALT
-
-High serum AST
-
-High serum INR
-
-High serum bilirubin
-
-High serum creatinine
-
-High serum lactate
-
-High serum troponin
-
 INTESTINAL ISCHEMIA
 
 LIMB ISCHEMIA
@@ -51,5 +37,19 @@ Dyspnea
 Oliguria
 
 Mental status change
+
+High serum ALT
+
+High serum AST
+
+High serum bilirubin
+
+High serum lactate
+
+High serum INR
+
+High serum creatinine
+
+High serum troponin
 
 Low serum bicarbonate

@@ -36,4 +36,4 @@ Embolism
 
 Fever
 
-High blood troponin
+High serum troponin

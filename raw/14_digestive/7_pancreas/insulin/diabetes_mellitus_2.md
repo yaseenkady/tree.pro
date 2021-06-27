@@ -34,6 +34,6 @@ DIABETES MELLITUS
 
 HYPEROSMOLAR HYPERGLYCEMIC STATE
 
-High blood insulin
+High serum insulin
 
-Low blood insulin
+Low serum insulin

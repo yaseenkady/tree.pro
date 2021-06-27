@@ -26,13 +26,13 @@ Nausea
 
 Edema
 
-High blood PO4
+High serum PO4
 
-High blood creatine
+High serum creatine
 
-High blood urea nitrogen
+High serum urea nitrogen
 
-Low blood vitamin D
+Low serum vitamin D
 
 Low hemoglobin A1C
 

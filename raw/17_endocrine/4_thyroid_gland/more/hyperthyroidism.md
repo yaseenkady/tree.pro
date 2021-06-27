@@ -100,14 +100,14 @@ Irritability
 
 Restlessness
 
-High blood free T3
+High serum free T3
 
-High blood free T4
+High serum free T4
 
-Low blood HDL
+Low serum HDL
 
-Low blood LDL
+Low serum LDL
 
-Low blood TSH
+Low serum TSH
 
-Low blood cholesterol
+Low serum cholesterol

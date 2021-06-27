@@ -22,4 +22,4 @@ NEUROENDOCRINE TUMOR
 
 NODULAR GOITER
 
-High blood calcitonin
+High serum calcitonin

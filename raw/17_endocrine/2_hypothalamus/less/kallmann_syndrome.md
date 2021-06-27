@@ -8,8 +8,8 @@ Late puberty
 
 Midline defect
 
-Low blood FSH
+Low serum FSH
 
-Low blood LH
+Low serum LH
 
-Low blood testosterone
+Low serum testosterone

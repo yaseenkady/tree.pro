@@ -8,6 +8,6 @@ GHR
 
 Proportionate short stature
 
-High blood GH
+High serum GH
 
-Low blood IGF1
+Low serum IGF1

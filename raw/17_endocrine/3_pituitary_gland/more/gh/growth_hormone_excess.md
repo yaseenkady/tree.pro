@@ -6,8 +6,8 @@
 
 PITUITARY ADENOMA
 
-High blood GH
+High serum GH
 
-High blood GH after glucose
+High serum GH after glucose
 
-High blood IGF1
+High serum IGF1

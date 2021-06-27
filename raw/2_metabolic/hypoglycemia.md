@@ -42,4 +42,4 @@ Mental status change
 
 Slurred speech
 
-High blood glucose
+High serum glucose

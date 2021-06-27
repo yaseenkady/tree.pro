@@ -32,8 +32,8 @@ Bone pain
 
 Infection
 
-Blood M protein
+High serum immunoglobulin
 
-High blood immunoglobulin
+Blood M protein
 
 Serum hyperviscosity

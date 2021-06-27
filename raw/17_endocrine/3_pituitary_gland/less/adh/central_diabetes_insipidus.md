@@ -8,4 +8,4 @@ Head trauma
 
 DIABETES INSIPIDUS
 
-Low blood ADH
+Low serum ADH

@@ -14,4 +14,4 @@ CONSTITUTIONAL SYMPTOM
 
 SYNCOPY
 
-High blood IL6
+High serum IL6

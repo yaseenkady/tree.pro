@@ -1,4 +1,0 @@
-
-# Diagnostic
-
-Pulsus paradoxus

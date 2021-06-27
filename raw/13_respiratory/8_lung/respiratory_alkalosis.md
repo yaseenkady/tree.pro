@@ -4,4 +4,4 @@
 
 # >
 
-High blood pH
+High serum pH

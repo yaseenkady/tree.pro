@@ -10,4 +10,4 @@ Bone pain
 
 Psychiatric overtone
 
-High blood PTH
+High serum PTH

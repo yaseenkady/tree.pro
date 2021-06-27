@@ -32,15 +32,15 @@ Depression
 
 Tremor
 
-High blood ADH
+High serum ADH
 
-High blood ANP
+High serum ANP
 
-High blood BNP
+High serum BNP
 
-Low blood aldosterone
+Low serum aldosterone
 
-Low blood osmolality
+Low serum osmolality
 
 High urine Na
 

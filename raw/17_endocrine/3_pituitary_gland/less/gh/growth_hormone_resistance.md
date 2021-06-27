@@ -12,6 +12,6 @@ IGF1R
 
 GROWTH HORMONE DEFICIENCY
 
-High blood GH
+High serum GH
 
-High blood IGF1
+High serum IGF1

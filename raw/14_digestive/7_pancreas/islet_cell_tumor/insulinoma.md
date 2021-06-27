@@ -10,4 +10,4 @@ HYPOGLYCEMIA
 
 ISLET CELL TUMOR
 
-High blood insulin
+High serum insulin

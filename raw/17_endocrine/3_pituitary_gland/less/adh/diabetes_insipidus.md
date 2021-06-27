@@ -22,7 +22,7 @@ Weight loss
 
 Trouble sleeping
 
-High blood osmolality
+High serum osmolality
 
 Low urine osmolality
 

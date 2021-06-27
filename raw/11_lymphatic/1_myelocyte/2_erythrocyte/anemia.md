@@ -18,6 +18,6 @@ Pallor
 
 Pale conjunctiva
 
-Low blood ferritin
+Low serum ferritin
 
-Low blood hemoglobin
+Low serum hemoglobin

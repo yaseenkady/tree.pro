@@ -10,4 +10,4 @@ Glucocorticoid
 
 SECONDARY ADRENAL INSUFFICIENCY
 
-Low blood CRH
+Low serum CRH

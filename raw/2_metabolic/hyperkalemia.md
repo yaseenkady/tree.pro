@@ -10,4 +10,4 @@ High diet K
 
 # >
 
-High blood K
+High serum K

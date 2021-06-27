@@ -22,4 +22,4 @@ Depression
 
 Dermatitis
 
-High blood glucagon
+High serum glucagon

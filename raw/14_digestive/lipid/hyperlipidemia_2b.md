@@ -16,8 +16,8 @@ ACUTE PANCREATITIS
 
 HYPERLIPIDEMIA 2
 
-High blood VLDL
+High serum VLDL
 
-High blood triglyceride
+High serum triglyceride
 
 Turbid serum

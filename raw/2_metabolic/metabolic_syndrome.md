@@ -20,6 +20,6 @@ HYPERTENSION
 
 Abdominal obesity
 
-High blood triglyceride
+High serum triglyceride
 
-Low blood HDL
+Low serum HDL

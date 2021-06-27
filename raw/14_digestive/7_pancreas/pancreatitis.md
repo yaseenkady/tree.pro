@@ -22,6 +22,6 @@ Nausea
 
 Vomiting
 
-High blood amylase
+High serum amylase
 
-High blood lipase
+High serum lipase

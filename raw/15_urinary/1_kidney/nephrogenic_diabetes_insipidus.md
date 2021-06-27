@@ -14,4 +14,4 @@ Exposure to lithium
 
 DIABETES INSIPIDUS
 
-High blood ADH
+High serum ADH

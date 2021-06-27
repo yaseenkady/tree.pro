@@ -16,4 +16,4 @@ Chvostek sign
 
 Trousseau sign
 
-Low blood PTH
+Low serum PTH

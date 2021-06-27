@@ -14,4 +14,4 @@ PITUITARY ADENOMA
 
 Hyperpigmentation
 
-High blood ACTH
+High serum ACTH

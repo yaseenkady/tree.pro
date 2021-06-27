@@ -20,8 +20,8 @@ PITUITARY ADENOMA
 
 SECONDARY ADRENAL INSUFFICIENCY
 
-Low blood FSH
+Low serum FSH
 
-Low blood LH
+Low serum LH
 
-Low blood prolactin
+Low serum prolactin

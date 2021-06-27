@@ -12,6 +12,6 @@ Adult
 
 GERM CELL TUMOR
 
-High blood LDH
+High serum LDH
 
-High blood bHCG
+High serum bHCG

@@ -26,4 +26,4 @@ Polyuria
 
 Muscle weakness
 
-Low blood PO4
+Low serum PO4

@@ -138,6 +138,6 @@ Hyporeflexia
 
 Proximal muscle weakness
 
-High blood TSH
+High serum TSH
 
-Low blood free T4
+Low serum free T4

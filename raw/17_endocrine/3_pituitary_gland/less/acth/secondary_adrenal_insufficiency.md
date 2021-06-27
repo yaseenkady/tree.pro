@@ -6,4 +6,4 @@
 
 ADRENAL INSUFFICIENCY
 
-Low blood ACTH
+Low serum ACTH

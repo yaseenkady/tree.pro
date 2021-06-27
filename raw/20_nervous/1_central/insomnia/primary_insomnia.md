@@ -20,6 +20,6 @@ Depression
 
 INSOMNIA
 
-High blood aldosterone
+High serum aldosterone
 
-High blood cortisol
+High serum cortisol

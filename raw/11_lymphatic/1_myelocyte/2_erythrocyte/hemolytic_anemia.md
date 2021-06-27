@@ -6,6 +6,6 @@
 
 ANEMIA
 
-High blood triglyceride
+High serum triglyceride
 
 Schistocyte

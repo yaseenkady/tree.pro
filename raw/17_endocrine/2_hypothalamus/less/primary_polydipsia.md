@@ -26,9 +26,9 @@ Weight gain
 
 Trouble sleeping
 
-Low blood ADH
+Low serum ADH
 
-Low blood osmolality
+Low serum osmolality
 
 Low urine osmolality
 

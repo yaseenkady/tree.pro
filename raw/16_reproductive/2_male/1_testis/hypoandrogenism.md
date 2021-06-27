@@ -12,4 +12,4 @@ Low libido
 
 Small testis
 
-Low blood testosterone
+Low serum testosterone

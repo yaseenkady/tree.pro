@@ -6,15 +6,15 @@
 
 ARTHRITIS
 
+LEUKOCYTOSIS
+
 PERICARDITIS
 
 Fatigue
 
-High blood CRP
+High serum CRP
 
-High blood RF
-
-LEUKOCYTOSIS
+High serum RF
 
 High ESR
 

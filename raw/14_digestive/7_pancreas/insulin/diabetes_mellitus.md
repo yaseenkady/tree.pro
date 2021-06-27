@@ -96,8 +96,8 @@ Weight loss
 
 Gangrene
 
-High blood hemoglobin A1C
+High serum hemoglobin A1C
 
-High blood osmolality
+High serum osmolality
 
 High urine glucose

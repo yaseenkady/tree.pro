@@ -14,12 +14,12 @@ Alcohol
 
 ACUTE PANCREATITIS
 
-High blood VLDL
+High serum VLDL
 
-High blood cholesterol
+High serum cholesterol
 
-High blood chylomicron
+High serum chylomicron
 
-High blood triglyceride
+High serum triglyceride
 
 Creamy-top serum

@@ -6,4 +6,4 @@ Hypoventilation
 
 # >
 
-Low blood pH
+Low serum pH

@@ -10,8 +10,8 @@ TESTICULAR TUMOR
 
 Gynecomastia
 
-High blood AFP
+High serum AFP
 
-High blood BHCG
+High serum BHCG
 
-High blood LDH
+High serum LDH

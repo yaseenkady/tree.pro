@@ -16,6 +16,6 @@ Abdominal swelling
 
 Crossing midline, firm, and irregular abdominal mass
 
-High blood catecholamine
+High serum catecholamine
 
 High urine catecholamine

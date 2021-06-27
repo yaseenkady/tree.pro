@@ -34,4 +34,4 @@ Amenorrhea
 
 Late puberty
 
-High blood prolactin
+High serum prolactin

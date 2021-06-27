@@ -20,12 +20,12 @@ Palmar xanthoma
 
 Tuberous xanthoma
 
-High blood IDL
+High serum IDL
 
-High blood bVLDL
+High serum bVLDL
 
-High blood cholesterol
+High serum cholesterol
 
-High blood triglyceride
+High serum triglyceride
 
 Turbid serum

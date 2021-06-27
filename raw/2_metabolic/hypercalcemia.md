@@ -74,7 +74,7 @@ Confusion
 
 Muscle weakness
 
-High blood Ca
+High serum Ca
 
 Hypophosphatemia
 

@@ -12,4 +12,4 @@ Adult
 
 GERM CELL TUMOR
 
-High blood BHCG
+High serum BHCG

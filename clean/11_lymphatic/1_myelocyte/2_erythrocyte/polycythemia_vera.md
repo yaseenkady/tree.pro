@@ -1,6 +1,0 @@
-
-# Diagnostic
-
-Cyanosis
-
-Polycythemia

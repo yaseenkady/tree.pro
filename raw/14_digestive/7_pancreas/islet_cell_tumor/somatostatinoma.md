@@ -6,16 +6,16 @@
 
 ISLET CELL TUMOR
 
-High blood somatostatin
+High serum somatostatin
 
-Low blood cholecystokinin
+Low serum cholecystokinin
 
-Low blood gastric inhibitory peptide
+Low serum gastric inhibitory peptide
 
-Low blood gastrin
+Low serum gastrin
 
-Low blood glucagon
+Low serum glucagon
 
-Low blood insulin
+Low serum insulin
 
-Low blood secretin
+Low serum secretin

@@ -14,6 +14,6 @@ ALBRIGHT HEREDITARY OSTEODYSTROPHY
 
 HYPOCALCEMIA
 
-High blood PO4
+High serum PO4
 
-High blood PTH
+High serum PTH

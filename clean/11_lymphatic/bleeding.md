@@ -1,6 +1,0 @@
-
-# Epidemiology
-
-Aspirin
-
-Clopidogrel

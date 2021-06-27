@@ -1,4 +1,0 @@
-
-# Cause
-
-Hypertensive Emergency

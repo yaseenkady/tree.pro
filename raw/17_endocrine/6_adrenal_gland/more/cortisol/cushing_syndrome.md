@@ -50,8 +50,8 @@ Shoulder hump
 
 Stretch mark
 
-High blood aldosterone
+High serum aldosterone
 
-High blood cortisol
+High serum cortisol
 
 High urine cortisol

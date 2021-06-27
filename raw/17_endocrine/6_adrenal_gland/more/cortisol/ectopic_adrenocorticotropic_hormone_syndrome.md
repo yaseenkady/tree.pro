@@ -6,4 +6,4 @@
 
 CUSHING SYNDROME
 
-High blood ACTH
+High serum ACTH

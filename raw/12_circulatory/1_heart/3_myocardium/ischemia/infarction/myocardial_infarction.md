@@ -76,4 +76,4 @@ Dyspnea
 
 Nausea
 
-High blood troponin
+High serum troponin

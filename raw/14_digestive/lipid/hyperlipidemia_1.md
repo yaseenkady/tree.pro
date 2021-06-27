@@ -20,8 +20,8 @@ Hepatomegaly
 
 Lipemia retinalis
 
-High blood chylomicron
+High serum chylomicron
 
-High blood triglyceride
+High serum triglyceride
 
 Creamy-top serum

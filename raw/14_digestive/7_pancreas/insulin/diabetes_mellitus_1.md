@@ -40,7 +40,7 @@ PERNICIOUS ANEMIA
 
 VITILIGO
 
-Low blood insulin
+Low serum insulin
 
 Antibody for insulin
 

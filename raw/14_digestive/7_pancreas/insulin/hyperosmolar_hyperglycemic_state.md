@@ -48,4 +48,4 @@ Coma
 
 Neurological focal deficit
 
-High blood osmolality
+High serum osmolality

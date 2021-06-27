@@ -16,4 +16,4 @@ Bone pain
 
 Back pain
 
-Low blood PTH
+Low serum PTH

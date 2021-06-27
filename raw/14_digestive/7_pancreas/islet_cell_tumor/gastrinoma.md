@@ -16,4 +16,4 @@ Abdominal pain
 
 Diarrhea
 
-High blood gastrin
+High serum gastrin

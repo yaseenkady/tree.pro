@@ -6,4 +6,4 @@
 
 SECONDARY HYPERALDOSTERONISM
 
-High blood renin
+High serum renin

@@ -22,4 +22,4 @@ Muscle cramp
 
 Muscle weakness
 
-Low blood K
+Low serum K

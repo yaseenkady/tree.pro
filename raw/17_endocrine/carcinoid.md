@@ -24,14 +24,14 @@ Flushing
 
 Tricuspid murmur
 
-High blood ACTH
+High serum ACTH
 
-High blood VIP
+High serum VIP
 
-High blood gastrin
+High serum gastrin
 
-High blood glucagon
+High serum glucagon
 
-High blood insulin
+High serum insulin
 
-High blood somatostatin
+High serum somatostatin

@@ -6,4 +6,4 @@
 
 HYPERCALCEMIA
 
-High blood calcitriol
+High serum calcitriol

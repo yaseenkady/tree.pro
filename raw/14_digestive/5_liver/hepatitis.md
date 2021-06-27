@@ -42,17 +42,17 @@ Scleral icterus
 
 Spider angioma
 
-High blood ALT
+High serum ALT
 
-High blood AST
+High serum AST
 
-High blood albumin
+High serum albumin
 
-High blood alkaline phosphatase
+High serum alkaline phosphatase
 
-High blood bilirubin
+High serum bilirubin
 
-Low blood clotting factor
+Low serum clotting factor
 
 Dark urine
 

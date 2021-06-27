@@ -12,8 +12,8 @@ Fast development
 
 Proportionate short stature
 
-High blood FSH
+High serum FSH
 
-High blood GRH
+High serum GRH
 
-High blood LH
+High serum LH

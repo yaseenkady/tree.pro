@@ -1,8 +1,0 @@
-
-# Cause
-
-Myxoma
-
-# Diagnostic
-
-Fever

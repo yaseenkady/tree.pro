@@ -1,6 +1,0 @@
-
-# Cause
-
-Hypothyroidism
-
-Pericarditis

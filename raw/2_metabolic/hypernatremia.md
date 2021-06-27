@@ -4,4 +4,4 @@
 
 # >
 
-High blood Na
+High serum Na

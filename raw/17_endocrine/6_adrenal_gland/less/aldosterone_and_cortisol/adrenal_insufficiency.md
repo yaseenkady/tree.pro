@@ -26,6 +26,6 @@ Orthostatic hypotension
 
 Muscle weakness
 
-Low blood aldosterone
+Low serum aldosterone
 
-Low blood cortisol
+Low serum cortisol

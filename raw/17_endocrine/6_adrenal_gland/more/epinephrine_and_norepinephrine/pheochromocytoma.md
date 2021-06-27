@@ -58,8 +58,8 @@ Paroxysmal tachycardia
 
 Visual deficit
 
-High blood EPO
+High serum EPO
 
-High blood catecholamine
+High serum catecholamine
 
 High urine catecholamine

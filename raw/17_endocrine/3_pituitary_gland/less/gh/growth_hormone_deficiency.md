@@ -18,8 +18,8 @@ Proportionate short stature
 
 Muscle weakness
 
-Low blood GH
+Low serum GH
 
-Low blood IGF1
+Low serum IGF1
 
 Low bone density

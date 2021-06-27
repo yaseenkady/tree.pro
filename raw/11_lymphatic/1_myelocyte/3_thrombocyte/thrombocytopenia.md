@@ -4,10 +4,10 @@
 
 # >
 
+THROMBOCYTOPENIA
+
 Easy bruising
 
 Petechiae
 
-Low blood clotting factor
-
-Thrombocytopenia
+Low serum clotting factor

@@ -6,4 +6,4 @@ Hydrochlorothiazide
 
 # >
 
-Low blood Na
+Low serum Na

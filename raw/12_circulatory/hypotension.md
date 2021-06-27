@@ -8,4 +8,4 @@ B blocker
 
 # >
 
-Low blood pressure
+HYPOTENSION

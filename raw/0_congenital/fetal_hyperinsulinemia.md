@@ -16,4 +16,4 @@ VENTRICULAR SEPTAL DEFECT
 
 Macrosomia
 
-High blood insulin
+High serum insulin

@@ -14,6 +14,6 @@ Arcus senilis
 
 Tendon xanthoma
 
-High blood LDL
+High serum LDL
 
-High blood cholesterol
+High serum cholesterol

@@ -14,4 +14,4 @@ DIABETES MELLITUS 2
 
 HYPERGLYCEMIA
 
-High blood hemoglobin A1C
+High serum hemoglobin A1C

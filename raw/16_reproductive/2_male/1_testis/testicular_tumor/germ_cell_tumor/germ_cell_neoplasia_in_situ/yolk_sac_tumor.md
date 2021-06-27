@@ -20,4 +20,4 @@ EMBRYONAL CARCINOMA
 
 GERM CELL TUMOR
 
-High blood AFP
+High serum AFP
