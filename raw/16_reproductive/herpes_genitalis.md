@@ -1,0 +1,11 @@
+# .
+
+70-80% of cases are caused by herpes simplex virus 2.
+
+1% of infected people shed without symptoms.
+
+Primary infection is more severe in female.
+
+# <
+
+# >

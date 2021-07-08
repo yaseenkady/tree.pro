@@ -1,0 +1,23 @@
+# .
+
+Mostly due to bacterial infection (Streptococcus pneumonia).
+
+# <
+
+# >
+
+Fever
+
+Headache
+
+Stiff Neck
+
+Vomiting
+
+Lethergy
+
+Photophobia
+
+Brudzinski sign
+
+Kernig sign

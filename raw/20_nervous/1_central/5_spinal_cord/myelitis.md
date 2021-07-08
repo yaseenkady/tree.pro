@@ -1,0 +1,9 @@
+# .
+
+# <
+
+# >
+
+Flaccid paralysis
+
+Sensory deficit

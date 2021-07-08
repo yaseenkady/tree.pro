@@ -1,0 +1,27 @@
+# .
+
+Meningitis with negative bacterial culture.
+
+Antibioitcs may have killed the bacteria.
+
+Some bacteria do not grow.
+
+Viruses are the most common cause.
+
+Fungi and parasites cause in immunodeficient hosts.
+
+# <
+
+Systemic lupus erythromatous
+
+Vasculitis
+
+Acute demyelinating encephalomyelitis
+
+Ibuprofen
+
+# >
+
+Meningitis
+
+High blood white blood cell
