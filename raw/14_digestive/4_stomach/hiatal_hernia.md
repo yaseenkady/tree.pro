@@ -1,0 +1,7 @@
+# .
+
+# <
+
+# >
+
+Mediastinal mass, middle

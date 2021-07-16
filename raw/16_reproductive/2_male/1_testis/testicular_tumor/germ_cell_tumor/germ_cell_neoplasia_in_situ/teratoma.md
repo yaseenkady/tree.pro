@@ -11,3 +11,5 @@ Adult
 # >
 
 GERM CELL TUMOR
+
+Mediastinal mass

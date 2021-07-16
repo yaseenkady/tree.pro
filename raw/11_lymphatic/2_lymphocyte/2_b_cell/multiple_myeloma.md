@@ -37,3 +37,5 @@ High serum immunoglobulin
 Blood M protein
 
 Serum hyperviscosity
+
+Mediastinal mass, posterior
