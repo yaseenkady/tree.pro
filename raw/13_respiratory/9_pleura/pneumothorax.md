@@ -27,3 +27,5 @@ Neck vein distention
 Unilateral hyperresonance
 
 Hyperresonance
+
+Decreased fremitus

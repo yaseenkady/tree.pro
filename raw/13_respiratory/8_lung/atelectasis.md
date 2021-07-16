@@ -1,0 +1,17 @@
+# .
+
+Alveolar collapse.
+
+Causes include air way obstruction, compression, contraction, and adhesion.
+
+# <
+
+# >
+
+Decreased breath sound
+
+Dullness to percussion
+
+Decreased fremitus
+
+Tracheal deviation, towards

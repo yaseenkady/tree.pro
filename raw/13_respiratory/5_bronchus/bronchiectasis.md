@@ -20,4 +20,4 @@ Coarse crackle
 
 Hemoptysis
 
-Digital clubbing
+Clubbing
