@@ -1,3 +1,7 @@
+# =
+
+Sleep apnea
+
 # .
 
 60% of cases have fatigue.
@@ -15,11 +19,3 @@ Obesity
 # >
 
 PNEUMOTHORAX
-
-Fatigue
-
-Morning headache
-
-Sleepiness
-
-Depression
