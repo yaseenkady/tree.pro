@@ -1,10 +1,20 @@
+# =
+
+Obstructive lung disease
+
 # .
+
+Decreases recoil and increases compliance.
+
+Flattened diaphragm.
 
 # <
 
-Smoking
-
 # >
+
+Barrel chest
+
+Prolonged expiration
 
 CHRONIC OBSTRUCTIVE PULMONARY DISEASE
 

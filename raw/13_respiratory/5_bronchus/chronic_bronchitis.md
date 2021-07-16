@@ -1,4 +1,10 @@
+# =
+
+Obstructive lung disease
+
 # .
+
+Mucus gland hyperplasia.
 
 # <
 
@@ -6,6 +12,10 @@
 
 CHRONIC OBSTRUCTIVE PULMONARY DISEASE
 
-COUGH
+COUGH, chronic
 
-Coarse crackle
+Crackle, coarse
+
+Wheezing
+
+Cyanosis
