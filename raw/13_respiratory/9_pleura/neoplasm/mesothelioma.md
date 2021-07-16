@@ -1,0 +1,11 @@
+# .
+
+Pleural cancer.
+
+# <
+
+Asbestos
+
+# >
+
+Hemorrhagic pleural effusion
