@@ -2,8 +2,6 @@
 
 # <
 
-Autoimmunity
-
 # >
 
 Restrictive lung disease
