@@ -4,15 +4,27 @@ Central pulmonary embolism presents with less pain.
 
 Hypoxemia with normal cardiac and pulmonary exam, plus normal chest x-ray and unilateral leg edema, is indicative.
 
+Fat emboli can be due to long bone fracture and liposuction.
+
+Air emboli can be from N2 or invasive procedures.
+
+Amniotic fluid emboli is rare and can be due to delivery or postpartum or uterine trauma.
+
 # <
 
 Surgery
+
+Bacteria
+
+Peripartum
 
 Cancer
 
 # >
 
 HYPOXEMIA
+
+Respiratory alkalosis
 
 KUSSMAUL SIGN
 

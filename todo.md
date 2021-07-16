@@ -13,7 +13,7 @@
 Review endocrine system:
 
 - [x] Science of Medicine
-- [x] Science of Medicine cases
+- [ ] Science of Medicine cases
 - [ ] Practice of Medicine cases
 - [x] First Aid
 
@@ -26,11 +26,11 @@ Read Symptoms to Diagnosis:
 
 Review Practice of Medicine clinical reasoning exam:
 
-- [x] CR exam 3
-- [x] CR exam 4
-- [x] CR exam 4.2
-- [x] CR exam 5
-- [x] CR exam 5.2
+- [ ] CR exam 3
+- [ ] CR exam 4
+- [ ] CR exam 4.2
+- [ ] CR exam 5
+- [ ] CR exam 5.2
 
 ## 0607
 
@@ -38,7 +38,7 @@ Review circulatory system:
 
 - [ ] Science of Medicine
 - [ ] Science of Medicine cases
-- [x] Practice of Medicine cases
+- [ ] Practice of Medicine cases
 - [x] First Aid
 
 Read Symptoms to Diagnosis:
