@@ -60,6 +60,30 @@ Practice more cases:
 
 ## 0614
 
+Review respiratory system:
+
+- [ ] Science of Medicine
+- [ ] Science of Medicine cases
+- [ ] Practice of Medicine cases
+- [x] First Aid
+
+Read Symptoms to Diagnosis:
+
+- [ ] Chapter 30: sore throat
+- [ ] Chapter 10: cough, fever, and respiratory infections
+- [ ] Chapter 33: wheezing and stridor
+- [ ] Chapter 15: dyspnea
+
+Practice more cases:
+
+- [ ] Case 16
+- [ ] Case 17
+- [ ] Case 18
+- [ ] Case 19
+- [ ] Case 20
+
+## 0621
+
 Review urinary system:
 
 - [ ] Science of Medicine
@@ -83,7 +107,7 @@ Practice more cases:
 - [ ] Case 9
 - [ ] Case 10
 
-## 0621
+## 0628
 
 Review reproductive system:
 
@@ -103,30 +127,6 @@ Practice more cases:
 - [ ] Case 13
 - [ ] Case 14
 - [ ] Case 15
-
-## 0628
-
-Review respiratory system:
-
-- [ ] Science of Medicine
-- [ ] Science of Medicine cases
-- [ ] Practice of Medicine cases
-- [ ] First Aid
-
-Read Symptoms to Diagnosis:
-
-- [ ] Chapter 30: sore throat
-- [ ] Chapter 10: cough, fever, and respiratory infections
-- [ ] Chapter 33: wheezing and stridor
-- [ ] Chapter 15: dyspnea
-
-Practice more cases:
-
-- [ ] Case 16
-- [ ] Case 17
-- [ ] Case 18
-- [ ] Case 19
-- [ ] Case 20
 
 ## 0705
 
