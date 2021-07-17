@@ -1,7 +1,3 @@
-# =
-
-Pneumothorax
-
 # .
 
 Due to rupture.

@@ -1,9 +1,0 @@
-# .
-
-# <
-
-# >
-
-PLEURAL EFFUSION
-
-PNEUMONIA
