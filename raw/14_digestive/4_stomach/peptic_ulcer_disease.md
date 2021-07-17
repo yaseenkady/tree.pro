@@ -19,3 +19,5 @@ UPPER GASTROINTESTINAL BLEEDING
 Chest pain
 
 Epigastric tenderness
+
+Nausea

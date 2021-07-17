@@ -37,3 +37,5 @@ Low serum vitamin D
 Low hemoglobin A1C
 
 Hyperphosphatemia
+
+Waxy cast
