@@ -29,3 +29,5 @@ Unilateral hyperresonance
 Hyperresonance
 
 Decreased fremitus
+
+Uneven chest expansion
