@@ -1,0 +1,43 @@
+# .
+
+Human specific.
+
+Skin-skin transmision.
+
+Sexually transmitted.
+
+Incubates for 2 weeks to 6 months.
+
+Nucleus looks like 8.
+
+2 membranes.
+
+Half of the genome is for modulating immune response.
+
+Persistent infection with little to no inflammation.
+
+Infects only basal keratinocytes of stratum basale.
+
+Hijacks cytoskeleton.
+
+Rare for DNA viruses, replicates in the cytoplasm.
+
+As the keratinocytes divide and new ones move toward the surface, is transported.
+
+Increases EGFR and secretes EGFR-like molecules to promote proliferation and migration.
+
+By the time an infected keratinocyte reaches stratum corneum, it is packed with viruses.
+
+Blocks NFkB and IL18 pathway to decrease immunity.
+
+Molluscum bodies, also known as Henderson-Paterson bodies, are lipid rich and contains a lot of mature viruses.
+
+Self limited.
+
+# <
+
+# >
+
+Papule
+
+Vesicle
