@@ -4,6 +4,8 @@
 
 Self limited in children.
 
+Granular IgG, IgM, and C3 deposits along glomerular basement membrane and mesangium.
+
 # <
 
 Streptococcus aureus

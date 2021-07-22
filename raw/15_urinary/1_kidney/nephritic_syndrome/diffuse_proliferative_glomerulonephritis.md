@@ -1,5 +1,9 @@
 # .
 
+Often due to systemic lupus erythromatous.
+
+Subendothelial deposits of IgG-based immuno complexes often with C3.
+
 # <
 
 # >

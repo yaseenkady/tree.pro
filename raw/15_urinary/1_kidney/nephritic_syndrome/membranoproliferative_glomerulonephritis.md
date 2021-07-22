@@ -1,8 +1,8 @@
 # .
 
-Type 1 is infectious.
+Type 1 is due to infection or idiopathic with subendothelial immunocomplex deposits.
 
-Type 2 is C3.
+Type 2 is due to IgG autoantibody that activates C3.
 
 # <
 
