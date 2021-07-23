@@ -5,3 +5,7 @@
 # >
 
 HYPERCALCEMIA
+
+Pleural effusion
+
+Fever`
