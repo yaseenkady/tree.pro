@@ -1,0 +1,37 @@
+# .
+
+Systemic signs are usually absent.
+
+High urine nitrites indicates Enterobacteria.
+
+# <
+
+Suprapubic pain
+
+Female
+
+Sex
+
+Diabetes mellitus
+
+Uropathogenic Escherichia coli
+
+Staphylococcus saprophyticus
+
+Klebsiella
+
+Proteus mirabilis
+
+# >
+
+Polyuria
+
+Dysuria
+
+Urinary frequency
+
+Urinary urgency
+
+High urine leukocyte esterase
+
+High urine nitrites

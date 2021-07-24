@@ -9,11 +9,13 @@ Cough, dry
 ## Understand symptoms
 
 Fever:
+
 - Onset
 - Degree
 - Progression
 
 Chest pain:
+
 - Onset
 - Progression
 - Association

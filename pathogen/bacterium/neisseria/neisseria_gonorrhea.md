@@ -1,7 +1,3 @@
-# =
-
-Neisseria
-
 # .
 
 Pili.
@@ -29,6 +25,8 @@ More in men than women.
 
 # <
 
+High sexual activity
+
 # >
 
 Cervicitis
@@ -36,3 +34,29 @@ Cervicitis
 Conjunctivitis
 
 Tenosynovitis
+
+EPIDIDYMITIS
+
+INFECTIVE ARTHRITIS
+
+NEONATAL CONJUNCTIVITIS
+
+PELVIC INFLAMMATORY DISEASE
+
+PHARYNGITIS
+
+PROSTATITIS
+
+REACTIVE ARTHRITIS
+
+URETHRITIS
+
+UVEITIS
+
+WATERHOUSE FRIDERICHSEN SYNDROME
+
+Dysuria
+
+Genital discharge
+
+Rash

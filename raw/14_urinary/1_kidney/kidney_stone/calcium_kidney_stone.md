@@ -1,0 +1,21 @@
+# .
+
+80% of kidney stones are with calcium.
+
+Calcium oxalate is more common than calcium phosphate.
+
+Radiopaque imaging.
+
+# <
+
+Ethylene glycol
+
+Vitamin C
+
+Hypocitraturia
+
+Malabsorption
+
+High urine pH
+
+# >

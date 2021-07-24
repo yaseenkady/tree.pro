@@ -1,0 +1,19 @@
+# .
+
+15% of kidney stones.
+
+Radiopaque imaging.
+
+# <
+
+Infection
+
+Proteus mirabilis
+
+Staphylococcus saprophyticus
+
+Klebsiella
+
+High urine pH
+
+# >
