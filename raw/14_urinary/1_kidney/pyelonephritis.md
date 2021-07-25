@@ -1,7 +1,0 @@
-# .
-
-# <
-
-# >
-
-White blood cell cast
