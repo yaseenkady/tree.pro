@@ -1,7 +1,0 @@
-# .
-
-# <
-
-# >
-
-SECONDARY HYPERALDOSTERONISM
