@@ -1,11 +1,19 @@
 # .
 
+Kidneys inadequately hydroxylate vitamin D or excrete PO4, decreasing intestinal Ca absorption, depositing CaPO4 in tissues, and hyperparathyroidism.
+
 # <
 
 # >
 
+Low serum vitamin D3
+
+Hypocalcemia
+
+Hyperphosphatemia
+
+Bone pain
+
 SECONDARY HYPERPARATHYROIDISM
 
 TERTIARY HYPERPARATHYROIDISM
-
-Bone pain

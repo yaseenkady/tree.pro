@@ -1,0 +1,25 @@
+# .
+
+# <
+
+# >
+
+Metabolic acidosis
+
+Hyperkalemia
+
+Azotemia
+
+Uremia
+
+Dyslipidemia
+
+High serum triglyceride
+
+Growth defect
+
+Low serum erythropoietin
+
+Renal osteodystrophy
+
+Hypertension
