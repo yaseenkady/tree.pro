@@ -1,0 +1,25 @@
+# .
+
+Nephroblastoma.
+
+Contains embryonic glomerular structure.
+
+Crossing midline, firm, and irregular abdominal mass.
+
+Unilateral and smooth abdominal mass.
+
+# <
+
+Preschool child
+
+WT1
+
+WT2
+
+# >
+
+Abdominal mass
+
+Hematuria
+
+Hypertension
