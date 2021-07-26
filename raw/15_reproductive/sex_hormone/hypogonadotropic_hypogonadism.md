@@ -1,0 +1,13 @@
+# .
+
+Secondary hypogonadism.
+
+Brain fails to stimulate androgen secretion.
+
+# <
+
+# >
+
+Low serum testosterone
+
+Low serum leutenizing hormone

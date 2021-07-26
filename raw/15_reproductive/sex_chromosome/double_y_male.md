@@ -1,0 +1,17 @@
+# .
+
+# <
+
+Male
+
+XYY
+
+# >
+
+Tall stature
+
+Acne
+
+Learning disability
+
+Autism spectrum disorder

@@ -1,5 +1,7 @@
 # .
 
+Failure to complete puberty.
+
 # <
 
 # >
@@ -8,8 +10,16 @@ Late puberty
 
 Midline defect
 
-Low serum FSH
-
-Low serum LH
+Low serum follicular stimulating hormone
 
 Low serum testosterone
+
+Low serum leutenizing hormone
+
+Hypogonadotropic Hypogonadism
+
+Low serum gonadotropin releasing hormone
+
+Infertility
+
+Amenorrhea

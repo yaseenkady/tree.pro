@@ -1,0 +1,13 @@
+# .
+
+Hermaphroditism.
+
+XX is more common than XY.
+
+# <
+
+# >
+
+Ovotestis
+
+Ambiguous genitalia

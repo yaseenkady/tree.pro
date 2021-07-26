@@ -1,0 +1,11 @@
+# .
+
+Brain thinks there is less androgen and stimulates its secretion.
+
+# <
+
+# >
+
+High serum testosterone
+
+High serum leutenizing hormone

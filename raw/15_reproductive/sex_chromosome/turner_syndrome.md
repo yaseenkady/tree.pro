@@ -1,0 +1,81 @@
+# .
+
+1 in 2000 females.
+
+100% of cases have short stature.
+
+25% of cases have webbed neck.
+
+39% of cases have kidney disease.
+
+47% of cases have cubitus valgus.
+
+55% of cases have heart disease.
+
+96% of cases have gonadal failure.
+
+Preventable with growth hormone.
+
+X chromosome loss.
+
+Miotic error in paternal gamates or mitotic error resulting in mosaic karyotype.
+
+The most common cause of primary amenorrhea.
+
+Menopause before menarche.
+
+Pregnancy is possible with invitro fertilization and hormone therapy.
+
+# <
+
+Female
+
+X
+
+SHOX
+
+# >
+
+Gonadoblastoma
+
+Ovarian dysgenesis
+
+Shied chest
+
+Low brachial pulse
+
+Webbed neck
+
+Cystic hygroma
+
+Lymphedema
+
+Horseshoe kidney
+
+High arched palate
+
+Short 4th metacarpal
+
+Short stature
+
+BICUSPID AORTIC VALVE
+
+COARCTATION OF AORTA
+
+KIDNEY DISEASE
+
+Gonadal disease
+
+Proportionate short stature
+
+Webbed neck
+
+Cubitus valgus
+
+Low serum estrogen
+
+High serum leutenizing hormone
+
+High serum Follicular stimulating hormone
+
+Hypergonadotropic Hypogonadism

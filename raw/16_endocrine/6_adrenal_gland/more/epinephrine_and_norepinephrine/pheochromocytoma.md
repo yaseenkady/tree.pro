@@ -1,5 +1,9 @@
 # .
 
+Neoplasm secreting catacholamines.
+
+Paroxysmal.
+
 10% bilateral.
 
 10% calcify.
@@ -10,13 +14,15 @@
 
 10% not associated with hypertension.
 
-Neoplasm secreting catacholamines.
+Rarely malignant.
 
 # <
 
 Child
 
 Adult
+
+Tyramine
 
 # >
 
@@ -38,7 +44,7 @@ Diaphoresis
 
 Weight loss
 
-Paroxysmal headache
+Headache, paroxysmal
 
 Vertigo
 
@@ -50,11 +56,15 @@ Fever
 
 Pallor
 
+Dyspnea
+
 Orthostatic hypotension
 
 Paroxysmal palpitation
 
 Paroxysmal tachycardia
+
+Tremor
 
 Visual deficit
 
@@ -63,3 +73,7 @@ High serum EPO
 High serum catecholamine
 
 High urine catecholamine
+
+Constipation
+
+Weight loss
