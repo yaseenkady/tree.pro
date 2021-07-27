@@ -1,183 +1,118 @@
-## Goal
+## Review circulatory system
 
-1. Review science of medicine.
-
-2. Finish Symptoms to Diagnosis.
-
-3. Improve diagnosis.
-
-4. Do many cases.
-
-## 0531
-
-Review endocrine system:
-
-- [x] Science of Medicine
+- [x] First Aid
 - [ ] Science of Medicine cases
 - [ ] Practice of Medicine cases
+- [ ] Science of Medicine
+- [ ] Chapter 9: Chest pain
+- [ ] Chapter 23: Hypertension
+- [ ] Chapter 25: Hypotension
+- [ ] Chapter 14: Dizziness
+- [ ] Chapter 31: Syncope
+- [ ] Chapter 17: Edema
+
+## Review respiratory system
+
 - [x] First Aid
+- [ ] Science of Medicine cases
+- [ ] Practice of Medicine cases
+- [ ] Science of Medicine
+- [ ] Chapter 30: Sore throat
+- [ ] Chapter 10: Cough, fever, and respiratory infections
+- [ ] Chapter 33: Wheezing and stridor
+- [ ] Chapter 15: Dyspnea
 
-Read Symptoms to Diagnosis:
+## Review digestive system
 
-- [x] Chapter 1: diagnostic process
-- [x] Chapter 12: diabetes
-- [x] Chapter 18: fatigue
-- [x] Chapter 22: hypercalcemia
+- [ ] First Aid
+- [ ] Science of Medicine cases
+- [ ] Practice of Medicine cases
+- [ ] Science of Medicine
+- [ ] Chapter 3: Abdominal pain
+- [ ] Chapter 13: Diarrhea, acute
+- [ ] Chapter 19: GI bleeding
+- [ ] Chapter 26: Juandice and abnormal liver enzymes
+- [ ] Chapter 32: Weight loss, unintentional
 
-Review Practice of Medicine clinical reasoning exam:
+## Review urinary system
+
+- [x] First Aid
+- [ ] Science of Medicine cases
+- [ ] Practice of Medicine cases
+- [ ] Science of Medicine
+- [ ] Chapter 28: Kidney injury, acute
+- [ ] Chapter 16: Dysuria
+- [ ] Chapter 21: Hematuria
+- [ ] Chapter 24: Hyponatremia and hypernatremia
+- [ ] Chapter 4: Acid-base abnormalities
+
+## Review reproductive system
+
+- [x] First Aid
+- [ ] Science of Medicine cases
+- [ ] Practice of Medicine cases
+- [ ] Science of Medicine
+- [ ] Chapter 5: AIDS/HIV infection
+
+## Review endocrine system
+
+- [x] First Aid
+- [ ] Science of Medicine cases
+- [ ] Practice of Medicine cases
+- [x] Science of Medicine
+- [x] Chapter 1: Diagnostic process
+- [x] Chapter 12: Diabetes
+- [x] Chapter 18: Fatigue
+- [x] Chapter 22: Hypercalcemia
+
+##
+
+- [ ] Chapter 2: Screening and health maintenance
+- [ ] Chapter 20: Headache
+- [ ] Chapter 11: Delirium and dimentia
+- [ ] Chapter 6: Anemia
+- [ ] Chapter 8: Bleeding disorder
+- [ ] Chapter 29: Rash
+- [ ] Chapter 27: Joint pain
+- [ ] Chapter 7: Back pain
+
+##
 
 - [ ] CR exam 3
 - [ ] CR exam 4
 - [ ] CR exam 4.2
 - [ ] CR exam 5
 - [ ] CR exam 5.2
-
-## 0607
-
-Review circulatory system:
-
-- [ ] Science of Medicine
-- [ ] Science of Medicine cases
-- [ ] Practice of Medicine cases
-- [x] First Aid
-
-Read Symptoms to Diagnosis:
-
-- [ ] Chapter 9: chest pain
-- [ ] Chapter 23: hypertension
-- [ ] Chapter 25: hypotension
-- [ ] Chapter 14: dizziness
-- [ ] Chapter 31: syncope
-- [ ] Chapter 17: edema
-
-Practice more cases:
-
 - [x] Case 1
 - [x] Case 2
 - [x] Case 3
 - [ ] Case 4
 - [ ] Case 5
-
-## 0614
-
-Review respiratory system:
-
-- [ ] Science of Medicine
-- [ ] Science of Medicine cases
-- [ ] Practice of Medicine cases
-- [x] First Aid
-
-Read Symptoms to Diagnosis:
-
-- [ ] Chapter 30: sore throat
-- [ ] Chapter 10: cough, fever, and respiratory infections
-- [ ] Chapter 33: wheezing and stridor
-- [ ] Chapter 15: dyspnea
-
-Practice more cases:
-
-- [ ] Case 16
-- [ ] Case 17
-- [ ] Case 18
-- [ ] Case 19
-- [ ] Case 20
-
-## 0621
-
-Review urinary system:
-
-- [ ] Science of Medicine
-- [ ] Science of Medicine cases
-- [ ] Practice of Medicine cases
-- [ ] First Aid
-
-Read Symptoms to Diagnosis:
-
-- [ ] Chapter 28: kidney injury, acute
-- [ ] Chapter 16: dysuria
-- [ ] Chapter 21: hematuria
-- [ ] Chapter 24: hyponatremia and hypernatremia
-- [ ] Chapter 4: acid-base abnormalities
-
-Practice more cases:
-
 - [ ] Case 6
 - [ ] Case 7
 - [ ] Case 8
 - [ ] Case 9
 - [ ] Case 10
-
-## 0628
-
-Review reproductive system:
-
-- [ ] Science of Medicine
-- [ ] Science of Medicine cases
-- [ ] Practice of Medicine cases
-- [ ] First Aid
-
-Read Symptoms to Diagnosis:
-
-- [ ] Chapter 5: AIDS/HIV infection
-
-Practice more cases:
-
 - [ ] Case 11
 - [ ] Case 12
 - [ ] Case 13
 - [ ] Case 14
 - [ ] Case 15
-
-## 0705
-
-Review digestive system:
-
-- [ ] Science of Medicine
-- [ ] Science of Medicine cases
-- [ ] Practice of Medicine cases
-- [ ] First Aid
-
-Read Symptoms to Diagnosis:
-
-- [ ] Chapter 3: abdominal pain
-- [ ] Chapter 13: diarrhea, acute
-- [ ] Chapter 19: GI bleeding
-- [ ] Chapter 26: juandice and abnormal liver enzymes
-- [ ] Chapter 32: weight loss, unintentional
-
-Practice more cases:
-
+- [ ] Case 16
+- [ ] Case 17
+- [ ] Case 18
+- [ ] Case 19
+- [ ] Case 20
 - [ ] Case 21
 - [ ] Case 22
 - [ ] Case 23
 - [ ] Case 24
 - [ ] Case 25
-
-## 0712
-
-Read Symptoms to Diagnosis:
-
-- [ ] Chapter 2: screening and health maintenance
-- [ ] Chapter 20: headache
-- [ ] Chapter 11: delirium and dimentia
-- [ ] Chapter 6: anemia
-- [ ] Chapter 8: bleeding disorder
-- [ ] Chapter 29: rash
-- [ ] Chapter 27: joint pain
-- [ ] Chapter 7: back pain
-
-Practice more cases:
-
 - [ ] Case 26
 - [ ] Case 27
 - [ ] Case 28
 - [ ] Case 29
 - [ ] Case 30
-
-## 0719
-
-Practice more cases:
-
 - [ ] Case 31
 - [ ] Case 32
 - [ ] Case 33
@@ -188,11 +123,6 @@ Practice more cases:
 - [ ] Case 38
 - [ ] Case 39
 - [ ] Case 40
-
-## 0726
-
-Practice more cases:
-
 - [ ] Case 41
 - [ ] Case 42
 - [ ] Case 43
