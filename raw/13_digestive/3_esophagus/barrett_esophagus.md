@@ -7,3 +7,5 @@ Metaplasia of esophageal epithelium (nonkeratinized stratified squamous) with in
 Gastroesophageal reflux disease
 
 # >
+
+Esophageal adenocarcinoma
