@@ -1,6 +1,10 @@
 # .
 
-Trophoblast cancer that develops during or after pregnancy in parent or baby.
+Trophoblast (syncytiotrophoblastic and cytotrophoblastic) cancer that develops during or after pregnancy in parent or baby.
+
+Malignant.
+
+A subunit of hCG is identical to the A subunit of LH, FSH, and TSH.
 
 # <
 
@@ -25,3 +29,7 @@ High human chorionic gonadotropin
 Dyspnea
 
 Hemoptysis
+
+Gynecomastia
+
+Hyperthyroidism

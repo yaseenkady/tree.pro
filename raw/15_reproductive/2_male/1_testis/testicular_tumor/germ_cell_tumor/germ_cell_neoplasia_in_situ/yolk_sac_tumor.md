@@ -2,6 +2,10 @@
 
 Endodermal sinus tumor.
 
+Malignant and aggressive.
+
+Mucinous and yellow.
+
 # <
 
 Infant
@@ -20,4 +24,4 @@ EMBRYONAL CARCINOMA
 
 GERM CELL TUMOR
 
-High serum AFP
+High serum alpha fetoprotein

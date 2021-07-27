@@ -1,7 +1,0 @@
-# .
-
-# <
-
-# >
-
-TESTICULAR TUMOR

@@ -11,4 +11,3 @@ Hyperestrogenism
 Breast tenderness
 
 High serum estrogen
-

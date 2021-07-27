@@ -1,7 +1,6 @@
-
 # .
 
-The most common sex-cord-stromal tumor. 
+The most common sex-cord-stromal tumor.
 
 # <
 

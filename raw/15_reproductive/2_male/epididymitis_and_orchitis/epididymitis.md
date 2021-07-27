@@ -1,0 +1,13 @@
+# .
+
+# <
+
+# >
+
+INFERTILITY
+
+Posterior testicualr pain
+
+Prehn sign
+
+Orchitis

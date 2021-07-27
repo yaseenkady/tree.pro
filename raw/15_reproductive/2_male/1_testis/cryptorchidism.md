@@ -4,10 +4,22 @@
 
 Undescended testes.
 
+Leydig cells are unaffected by higher temperature near the body and unilateral event can still have normal testosterone level.
+
 # <
+
+Infant
 
 # >
 
 INFERTILITY
 
 SEX CHORD STROMAL TUMOR
+
+Low serum inhibin
+
+High serum follicle stimulating hormone
+
+High serum leutenizing hormone
+
+Low serum testosterone

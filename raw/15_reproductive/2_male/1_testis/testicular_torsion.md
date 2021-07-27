@@ -2,6 +2,14 @@
 
 # <
 
+Trauma
+
+Congenital defect
+
+Adolescent
+
 # >
 
-Testicular pain
+Testicular pain, severe
+
+Prehn sign
