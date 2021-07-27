@@ -11,3 +11,5 @@ Vesicoureteral reflux
 # >
 
 High serum creatinine
+
+Renal failure

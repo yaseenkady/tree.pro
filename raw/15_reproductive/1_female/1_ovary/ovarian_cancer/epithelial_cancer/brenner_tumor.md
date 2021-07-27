@@ -1,0 +1,9 @@
+# .
+
+Benign.
+
+Encapsualted, pale-yellow tumor with coffee bean nuclei.
+
+# <
+
+# >

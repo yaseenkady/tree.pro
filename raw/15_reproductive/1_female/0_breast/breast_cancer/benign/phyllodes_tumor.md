@@ -1,0 +1,12 @@
+# .
+
+Large mass with leaf-like libulation.
+
+Some progress to malignancy.
+
+# <
+
+Middle aged
+
+# >
+

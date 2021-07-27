@@ -1,0 +1,11 @@
+# .
+
+Fibrosis of dermis resulting in thin epidermis.
+
+Benign.
+
+# <
+
+Middle aged
+
+# >

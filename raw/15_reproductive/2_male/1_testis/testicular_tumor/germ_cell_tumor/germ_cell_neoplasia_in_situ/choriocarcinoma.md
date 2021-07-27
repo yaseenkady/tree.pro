@@ -1,6 +1,10 @@
 # .
 
+Trophoblast cancer that develops during or after pregnancy in parent or baby.
+
 # <
+
+Infant
 
 Adolescent
 
@@ -13,3 +17,11 @@ Adult
 GERM CELL TUMOR
 
 High serum BHCG
+
+Theca lutein cyst
+
+High human chorionic gonadotropin
+
+Dyspnea
+
+Hemoptysis

@@ -1,0 +1,11 @@
+# .
+
+Due to Bartholin gland obstruction.
+
+# <
+
+Adult
+
+# >
+
+Abscess

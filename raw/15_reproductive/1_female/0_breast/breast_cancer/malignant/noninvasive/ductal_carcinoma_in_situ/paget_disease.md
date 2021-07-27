@@ -1,0 +1,11 @@
+# .
+
+Paget is intraepithelial adenocarcinoma.
+
+Extension of ductal carcinoma in situ.
+
+# <
+
+# >
+
+Eczematous patch

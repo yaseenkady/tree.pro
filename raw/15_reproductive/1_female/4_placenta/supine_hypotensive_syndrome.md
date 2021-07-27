@@ -1,0 +1,11 @@
+# .
+
+Aortocaval compression syndrome.
+
+After 20 weeks of gestation.
+
+Compression of abdominal aorta and the inferior vena cava by gravid uterus.
+
+# <
+
+# >

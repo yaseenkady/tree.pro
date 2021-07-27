@@ -1,0 +1,13 @@
+# .
+
+Associated with remaining placental structures after delivery, which can be infected.
+
+# <
+
+Miscarriage
+
+Abortion
+
+Intrauterine device
+
+# >

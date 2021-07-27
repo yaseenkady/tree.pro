@@ -1,9 +1,0 @@
-# .
-
-# <
-
-# >
-
-DIABETES MELLITUS 2
-
-HYPERPROLACTINEMIA
