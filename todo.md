@@ -4,12 +4,12 @@
 - [ ] Science of Medicine cases
 - [ ] Practice of Medicine cases
 - [ ] Science of Medicine
-- [ ] Chapter 9: Chest pain
-- [ ] Chapter 23: Hypertension
-- [ ] Chapter 25: Hypotension
-- [ ] Chapter 14: Dizziness
-- [ ] Chapter 31: Syncope
-- [ ] Chapter 17: Edema
+- [x] Chapter 9: Chest pain
+- [x] Chapter 23: Hypertension
+- [x] Chapter 25: Hypotension
+- [x] Chapter 14: Dizziness
+- [x] Chapter 31: Syncope
+- [x] Chapter 17: Edema
 
 ## Review respiratory system
 
@@ -28,11 +28,11 @@
 - [ ] Science of Medicine cases
 - [ ] Practice of Medicine cases
 - [ ] Science of Medicine
-- [ ] Chapter 3: Abdominal pain
-- [ ] Chapter 13: Diarrhea, acute
-- [ ] Chapter 19: GI bleeding
-- [ ] Chapter 26: Juandice and abnormal liver enzymes
-- [ ] Chapter 32: Weight loss, unintentional
+- [x] Chapter 3: Abdominal pain
+- [x] Chapter 13: Diarrhea, acute
+- [x] Chapter 19: GI bleeding
+- [x] Chapter 26: Juandice and abnormal liver enzymes
+- [x] Chapter 32: Weight loss, unintentional
 
 ## Review urinary system
 
@@ -52,7 +52,7 @@
 - [ ] Science of Medicine cases
 - [ ] Practice of Medicine cases
 - [ ] Science of Medicine
-- [ ] Chapter 5: AIDS/HIV infection
+- [x] Chapter 5: AIDS/HIV infection
 
 ## Review endocrine system
 
