@@ -1,9 +1,19 @@
 # .
 
+Vomiting induced longitudinal lacerations of gastroesophageal junction.
+
 # <
 
 Alcohol
 
+Bulimia nervosa
+
 # >
 
 UPPER GASTROINTESTINAL BLEEDING
+
+Hematemesis
+
+Abdominal pain
+
+Back pain

@@ -1,0 +1,15 @@
+# .
+
+Esophageal smooth muscle atrophy.
+
+# <
+
+# >
+
+Gastroesophageal reflux disease
+
+Dysphagia
+
+Barrett esophagus
+
+Esophageal stricture

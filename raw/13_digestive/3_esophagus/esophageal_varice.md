@@ -1,7 +1,13 @@
 # .
 
+Dilated submucosal veins.
+
 # <
+
+Portal hypertension
 
 # >
 
 UPPER GASTROINTESTINAL BLEEDING
+
+Hematemesis

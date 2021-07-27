@@ -1,0 +1,15 @@
+# .
+
+Salivary gland stone.
+
+Can occur in parotid gland, submandibular gland, and sublingual gland.
+
+# <
+
+Trauma
+
+# >
+
+Mouth pain, prandial
+
+Salivary gland obstruction

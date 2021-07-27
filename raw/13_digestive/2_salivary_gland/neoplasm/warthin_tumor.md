@@ -1,0 +1,13 @@
+# .
+
+Papillary cystadenoma lymphomatosum.
+
+Benign cystic tumor with germinal centers.
+
+10% multifocal or bilateral.
+
+# <
+
+Tabacco
+
+# >

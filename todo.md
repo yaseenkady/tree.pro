@@ -24,7 +24,7 @@
 
 ## Review digestive system
 
-- [ ] First Aid
+- [ ] FIRST AID
 - [ ] Science of Medicine cases
 - [ ] Practice of Medicine cases
 - [ ] Science of Medicine
