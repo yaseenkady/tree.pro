@@ -1,5 +1,9 @@
 # .
 
+AST greater than ALT in nonalcoholic liver disease suggests progression to cirrhosis.
+
+AST greater than 1000 suggests drug-induced liver injury, ischemic hepatitis, acute viral hepatitis, or autoimmune hepatitis.
+
 # <
 
 Medication
