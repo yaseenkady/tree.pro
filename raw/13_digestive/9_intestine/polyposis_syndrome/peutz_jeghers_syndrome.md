@@ -1,0 +1,21 @@
+# .
+
+# <
+
+# >
+
+Hamartomatous polyp
+
+Hyperpigmented macule on mouth
+
+Hyperpigmented macule on genitalia
+
+Breast cancer
+
+Colorectal cancer
+
+Gastric cancer
+
+Pancreatic cancer
+
+Small intestine cancer
