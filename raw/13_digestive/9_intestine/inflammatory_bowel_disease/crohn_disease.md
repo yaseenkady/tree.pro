@@ -25,5 +25,3 @@ Nephrolithiasis
 Calcium oxalate
 
 Gallstone
-
-
