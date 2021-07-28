@@ -3,3 +3,7 @@
 # <
 
 # >
+
+Gastric cancer
+
+Hypochlorhydria

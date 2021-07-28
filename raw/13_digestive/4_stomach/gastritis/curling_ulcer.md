@@ -1,0 +1,13 @@
+# .
+
+Severe burns result in hypovolemia which causes mucosal ischemia.
+
+# <
+
+Burn
+
+Hypovolemia
+
+# >
+
+Gastric ulcer

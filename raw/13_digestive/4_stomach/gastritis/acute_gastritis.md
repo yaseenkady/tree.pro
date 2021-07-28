@@ -1,5 +1,11 @@
 # .
 
+NSAID decreases PGE2 which decreases gastric mucosa protection.
+
 # <
+
+NSAID
+
+Alcohol
 
 # >

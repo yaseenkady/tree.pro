@@ -1,7 +1,0 @@
-# .
-
-# <
-
-# >
-
-PEPTIC ULCER DISEASE

@@ -1,6 +1,6 @@
 # .
 
-Placenta enzyme destroys ADH. 
+Placenta enzyme destroys ADH.
 
 # <
 

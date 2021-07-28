@@ -1,0 +1,15 @@
+# .
+
+Increased intracranial pressure increases vagal stimulation which increases H secretion.
+
+# <
+
+Intracranial hypertension
+
+# >
+
+Esophageal ulcer
+
+Gastric ulcer
+
+Duodenum ulcer

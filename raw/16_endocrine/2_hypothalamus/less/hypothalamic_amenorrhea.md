@@ -10,8 +10,6 @@ Diagnosis of exclusion.
 
 Stress
 
-
-
 # >
 
 Amenorrhea

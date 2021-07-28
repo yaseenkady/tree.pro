@@ -1,0 +1,15 @@
+# .
+
+Proximal to ligament of Treitz.
+
+# <
+
+Peptic ulcer disease
+
+Variceal hemorrhage
+
+# >
+
+Hematemesis
+
+Melena

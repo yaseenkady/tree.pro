@@ -85,3 +85,13 @@ Anorexia
 
 Gastric Cancer
 (Strongest risk fasctor for; 1% of infected people; The risk of can be as high as getting lung cancer from smoking; Associated with corpus-predominant gastritis and multi-focal atrophic gastritis)
+
+# .
+
+# <
+
+# >
+
+PEPTIC ULCER DISEASE
+
+MALT lymphoma

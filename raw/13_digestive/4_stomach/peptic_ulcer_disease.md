@@ -1,12 +1,16 @@
 # .
 
+70% of cases have Helicobacter pylori.
+
 # <
 
 Stress
 
-Aspirin
+NSAID
 
 Antiacid
+
+Helicobacter pylori
 
 # >
 
@@ -16,8 +20,12 @@ PEPTIC ULCER DISEASE
 
 UPPER GASTROINTESTINAL BLEEDING
 
-Chest pain
+Chest pain, prandial
 
 Epigastric tenderness
 
 Nausea
+
+Weight loss
+
+Gastric carcinoma

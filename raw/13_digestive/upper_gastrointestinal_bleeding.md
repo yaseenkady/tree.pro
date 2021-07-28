@@ -1,7 +1,0 @@
-# .
-
-# <
-
-# >
-
-Dark tarry stool
