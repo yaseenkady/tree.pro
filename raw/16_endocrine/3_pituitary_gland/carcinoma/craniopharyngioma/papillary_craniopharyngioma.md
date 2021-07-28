@@ -5,5 +5,3 @@
 Elderly
 
 # >
-
-CRANIOPHARYNGIOMA

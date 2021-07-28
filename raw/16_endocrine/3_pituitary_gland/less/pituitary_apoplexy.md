@@ -1,6 +1,6 @@
 # .
 
-Hemorrhage in pituitary gland.
+Pituitary hemorrhage.
 
 # <
 

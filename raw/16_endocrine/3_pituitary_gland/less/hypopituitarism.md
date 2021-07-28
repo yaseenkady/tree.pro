@@ -1,6 +1,6 @@
 # .
 
-Commonly originates from gonadotroph, which secrete LH and FSH.
+The most common cause is adenoma, typically of gonadotroph, which secrete LH and FSH.
 
 # <
 
@@ -8,9 +8,9 @@ Brain disease
 
 Exposure to radiation
 
-# >
-
 CUSHING SYNDROME
+
+# >
 
 GROWTH HORMONE DEFICIENCY
 

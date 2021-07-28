@@ -6,6 +6,14 @@ Insipidus means no taste.
 
 # <
 
+Primary polydipsia
+
+Central diabetes insipidus
+
+Gestational diabetes insipidus
+
+Nephrogenic diabetes insipidus
+
 # >
 
 Nausea

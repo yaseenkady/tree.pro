@@ -11,5 +11,3 @@ Child
 Adolescent
 
 # >
-
-CRANIOPHARYNGIOMA

@@ -1,6 +1,6 @@
 # .
 
-ADH can be normal.
+Normal or elevated ADH level but bad ADH receptor.
 
 # <
 
