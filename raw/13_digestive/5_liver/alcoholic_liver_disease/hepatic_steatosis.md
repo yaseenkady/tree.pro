@@ -1,0 +1,7 @@
+# .
+
+Macrovesicular fatty change.
+
+# <
+
+# >
