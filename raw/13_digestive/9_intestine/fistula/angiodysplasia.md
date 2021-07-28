@@ -1,0 +1,19 @@
+# .
+
+Dilation of vessels.
+
+Commonly in the right colon.
+
+# <
+
+Elderly
+
+End stage renal disease
+
+von Willebrand disease
+
+Aortic stenosis
+
+# >
+
+Hematochezia

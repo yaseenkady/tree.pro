@@ -1,0 +1,13 @@
+# .
+
+Often embolic occlusion of SMA.
+
+# <
+
+# >
+
+Small intestine necrosis
+
+Abdominal pain, severe
+
+Red currant jelly stool

@@ -1,0 +1,15 @@
+# .
+
+Necrosis of intestinal mucosa, commonly terminal ileum and proximal colon.
+
+# <
+
+Infant
+
+# >
+
+Pneumatosis intestinalis
+
+Pneumoperitoneum
+
+Portal venous gas

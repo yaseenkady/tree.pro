@@ -1,0 +1,11 @@
+# .
+
+Plug obstructs intestine and prevents stool passage at birth.
+
+# <
+
+Cystic fibrosis
+
+# >
+
+GI obstruction
