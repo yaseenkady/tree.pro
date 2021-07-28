@@ -1,7 +1,25 @@
 # .
 
+Proximal intestine covers immediately distal intestine.
+
+Commonly at the ileocecal junction.
+
 # <
+
+Infant
+
+Meckel diverticulum
+
+GI tumor
+
+IgA vasculitis
+
+Adenovirus
 
 # >
 
 Nausea
+
+Right Abdominal pain, intermittent, severe
+
+Dark stool
