@@ -13,3 +13,5 @@ Oliguria
 Hematuria
 
 Urinary urgency
+
+Pneumaturia
