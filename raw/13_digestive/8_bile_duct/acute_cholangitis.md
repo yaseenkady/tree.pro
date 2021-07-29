@@ -1,5 +1,9 @@
 # .
 
+Ascending cholangitis.
+
+Due to ascending infection.
+
 # <
 
 # >
@@ -15,3 +19,9 @@ Nausea
 Vomiting
 
 Juandice
+
+Fever
+
+Mental status change
+
+Shock

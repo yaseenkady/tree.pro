@@ -1,7 +1,0 @@
-# .
-
-# <
-
-# >
-
-DIABETES MELLITUS

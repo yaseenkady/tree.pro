@@ -1,0 +1,9 @@
+# .
+
+Due to gallstone impaction in the cystic duct.
+
+The most common cholecystitis.
+
+# <
+
+# >
