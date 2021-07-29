@@ -21,3 +21,5 @@ Irregularly irregular
 Irregularly spaced QRS
 
 Missing P
+
+Palpitation

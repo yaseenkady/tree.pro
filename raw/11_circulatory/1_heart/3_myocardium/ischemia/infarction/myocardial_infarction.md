@@ -77,3 +77,5 @@ Dyspnea
 Nausea
 
 High serum troponin
+
+Heart Failure

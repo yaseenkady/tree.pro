@@ -23,3 +23,5 @@ Wheezing
 Hyperresonance
 
 Prolonged expiratory phase
+
+COUGH

@@ -6,6 +6,10 @@ Often presents with young people with dyspnea but without lung disease risk fact
 
 # <
 
+Adult
+
+Young adult
+
 # >
 
 Cirrhosis
