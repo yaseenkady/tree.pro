@@ -1,0 +1,23 @@
+# .
+
+Fibro-obliterative destruction of bile ducts.
+
+The most common cause of pediatric liver transplantation.
+
+# <
+
+Infant
+
+# >
+
+Cholestasis
+
+Acholic stool
+
+Dark urine
+
+Hepatomegaly
+
+Conjugated hyperbilirubinemia
+
+High serum GCT

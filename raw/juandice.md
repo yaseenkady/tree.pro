@@ -1,0 +1,19 @@
+# .
+
+# <
+
+Hemolysis
+
+Biliary obstruction
+
+Liver disease
+
+Tumor
+
+# >
+
+Yellow skin
+
+Yellow sclera
+
+Hyperbilirubinemia
