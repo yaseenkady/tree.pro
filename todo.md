@@ -24,15 +24,15 @@
 
 ## Review digestive system
 
-- [ ] FIRST AID
+- [x] First Aid
 - [ ] Science of Medicine cases
 - [ ] Practice of Medicine cases
 - [ ] Science of Medicine
-- [x] Chapter 3: Abdominal pain
-- [x] Chapter 13: Diarrhea, acute
-- [x] Chapter 19: GI bleeding
-- [x] Chapter 26: Juandice and abnormal liver enzymes
-- [x] Chapter 32: Weight loss, unintentional
+- [ ] Chapter 3: Abdominal pain
+- [ ] Chapter 13: Diarrhea, acute
+- [ ] Chapter 19: GI bleeding
+- [ ] Chapter 26: Juandice and abnormal liver enzymes
+- [ ] Chapter 32: Weight loss, unintentional
 
 ## Review urinary system
 
@@ -67,7 +67,6 @@
 
 ##
 
-- [ ] Chapter 2: Screening and health maintenance
 - [ ] Chapter 20: Headache
 - [ ] Chapter 11: Delirium and dimentia
 - [ ] Chapter 6: Anemia
@@ -75,6 +74,7 @@
 - [ ] Chapter 29: Rash
 - [ ] Chapter 27: Joint pain
 - [ ] Chapter 7: Back pain
+- [ ] Chapter 2: Screening and health maintenance
 
 ##
 
