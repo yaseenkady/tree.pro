@@ -6,6 +6,8 @@ B lactamase.
 
 # <
 
+Cystic fibrosis
+
 # >
 
 BACTERIAL ENDOCARDITIS

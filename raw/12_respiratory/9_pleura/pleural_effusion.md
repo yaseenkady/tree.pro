@@ -22,6 +22,8 @@ Nephrotic syndrome
 
 Cirrhosis
 
+Infant
+
 # >
 
 Chest pain

@@ -1,5 +1,9 @@
 # .
 
+Cortisol binds to aldosterone receptors.
+
+25% of cases have hypokalemia.
+
 # <
 
 Stress
@@ -9,6 +13,8 @@ Glucocorticoid
 Obesity
 
 # >
+
+Hypokalemia.
 
 DIABETES MELLITUS 2
 

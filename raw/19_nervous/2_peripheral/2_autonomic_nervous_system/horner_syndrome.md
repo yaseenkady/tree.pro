@@ -6,6 +6,8 @@ Damaged sympathetic trunk.
 
 # <
 
+Superior vena cava syndrome
+
 # >
 
 Miosis

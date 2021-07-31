@@ -1,22 +1,22 @@
 ## Review circulatory system
 
 - [x] First Aid
-- [ ] Science of Medicine cases
+- [x] Science of Medicine cases
 - [ ] Practice of Medicine cases
-- [ ] Science of Medicine
-- [x] Chapter 9: Chest pain
-- [x] Chapter 23: Hypertension
-- [x] Chapter 25: Hypotension
-- [x] Chapter 14: Dizziness
-- [x] Chapter 31: Syncope
-- [x] Chapter 17: Edema
+
+- [ ] Chapter 9: Chest pain
+- [ ] Chapter 23: Hypertension
+- [ ] Chapter 25: Hypotension
+- [ ] Chapter 14: Dizziness
+- [ ] Chapter 31: Syncope
+- [ ] Chapter 17: Edema
 
 ## Review respiratory system
 
 - [x] First Aid
-- [ ] Science of Medicine cases
+- [x] Science of Medicine cases
 - [ ] Practice of Medicine cases
-- [ ] Science of Medicine
+
 - [ ] Chapter 30: Sore throat
 - [ ] Chapter 10: Cough, fever, and respiratory infections
 - [ ] Chapter 33: Wheezing and stridor
@@ -27,7 +27,7 @@
 - [x] First Aid
 - [ ] Science of Medicine cases
 - [ ] Practice of Medicine cases
-- [ ] Science of Medicine
+
 - [ ] Chapter 3: Abdominal pain
 - [ ] Chapter 13: Diarrhea, acute
 - [ ] Chapter 19: GI bleeding
@@ -39,7 +39,7 @@
 - [x] First Aid
 - [ ] Science of Medicine cases
 - [ ] Practice of Medicine cases
-- [ ] Science of Medicine
+
 - [ ] Chapter 28: Kidney injury, acute
 - [ ] Chapter 16: Dysuria
 - [ ] Chapter 21: Hematuria
@@ -51,15 +51,16 @@
 - [x] First Aid
 - [ ] Science of Medicine cases
 - [ ] Practice of Medicine cases
-- [ ] Science of Medicine
+
 - [x] Chapter 5: AIDS/HIV infection
 
 ## Review endocrine system
 
 - [x] First Aid
+- [x] Science of Medicine
 - [ ] Science of Medicine cases
 - [ ] Practice of Medicine cases
-- [x] Science of Medicine
+
 - [x] Chapter 1: Diagnostic process
 - [x] Chapter 12: Diabetes
 - [x] Chapter 18: Fatigue

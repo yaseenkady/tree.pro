@@ -8,4 +8,6 @@ HYPERCALCEMIA
 
 Pleural effusion
 
-Fever`
+Fever
+
+Cavity

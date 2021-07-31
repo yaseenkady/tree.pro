@@ -101,7 +101,7 @@ Hemoptisis.
 Pneumonia, commonly in the upper lobe.
 
 - Constitutional symptoms
-- Pneumonia with miliary pattern opacity; hemoptisis.
+- Pneumonia with miliary pattern opacity (likely primary infection); hemoptisis.
 - Lymphoadenopathy
 - Meningitis (hydrocephalus).
 - Central nervous system infection
@@ -188,3 +188,13 @@ Kills more people than other pathogens.
 # >
 
 Aseptic meningitis
+
+ADDISON DISEASE
+
+EPIDIDYMITIS
+
+High serum vitamin D
+
+Clubbing
+
+Lung cavity
