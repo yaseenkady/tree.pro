@@ -67,4 +67,3 @@ Cheyne stroke respiration
 Coarse crackle
 
 Fine crackle
-
