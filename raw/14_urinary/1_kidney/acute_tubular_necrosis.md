@@ -22,6 +22,8 @@ Myoglobinuria
 
 Hemoglobinuria
 
+Rhabdomyolysis
+
 # >
 
 Granular cast
