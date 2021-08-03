@@ -1,6 +1,12 @@
 # .
 
+Smooth muscle proliferation.
+
+90% cancer risk.
+
 # <
+
+STK2
 
 # >
 

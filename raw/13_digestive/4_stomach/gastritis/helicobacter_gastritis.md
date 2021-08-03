@@ -1,0 +1,19 @@
+# .
+
+Chronic.
+
+Affects 66% of people.
+
+Affects antrum first.
+
+# <
+
+Helicobacter pylori
+
+# >
+
+Peptic ulcer disease
+
+MALT lymphoma
+
+Adenocarcinoma

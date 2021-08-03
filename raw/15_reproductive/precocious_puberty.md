@@ -4,6 +4,8 @@ Driven not by growth hormone.
 
 # <
 
+Child
+
 # >
 
 Early puberty
@@ -17,3 +19,5 @@ High serum FSH
 High serum GRH
 
 High serum LH
+
+Uterine bleeding

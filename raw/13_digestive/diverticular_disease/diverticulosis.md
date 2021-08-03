@@ -2,7 +2,7 @@
 
 Increased intraluminal pressure and weakened wall create many fasle diverticula in the colon, commonly sigmoid.
 
-Asymptomatic.
+Asymptomatic and self limited.
 
 # <
 

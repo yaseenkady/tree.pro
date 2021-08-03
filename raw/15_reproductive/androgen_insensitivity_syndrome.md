@@ -1,12 +1,10 @@
 # .
 
-Fail to develop male characteristics.
+Y chromosome results no uterus or cervix and androgen receptor defect results in no male characteristics.
 
 # <
 
 Adolescent
-
-XY
 
 AR
 

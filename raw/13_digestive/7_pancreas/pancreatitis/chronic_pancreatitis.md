@@ -10,6 +10,8 @@ Alcohol
 
 Cystic fibrosis
 
+Acute pancreatitis
+
 # >
 
 Steatorrhea

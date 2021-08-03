@@ -10,4 +10,6 @@ APC
 
 # >
 
-colorectal carcinoma
+Colorectal carcinoma
+
+Skin cyst

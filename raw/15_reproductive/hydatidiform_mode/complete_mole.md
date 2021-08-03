@@ -1,15 +1,11 @@
 # .
 
-XX is more common than XY.
+Monospermic or dispermic without maternal genome.
 
-Enucleated egg and a sperm.
+XX is more common than XY.
 
 2% chance of choriocarcinoma.
 
 # <
 
 # >
-
-High serum human chorionic gonadotropin
-
-Choriocarcinoma

@@ -2,6 +2,10 @@
 
 Diffuse liver fibrosis.
 
+Acetaminophen plus cirrhosis is not horrible.
+
+Spontaneous bacterial peritonitis is the most common resulting infection.
+
 # <
 
 Medication
@@ -81,3 +85,17 @@ Ascite
 Anorectal varix
 
 Gastric varix
+
+High prothrombin time
+
+Hypoalbuminemia
+
+Escherichia coli
+
+Streptococcus pneumonia
+
+Spontaneous Bacterial Peritonitis
+
+Hypotension
+
+High serum NO

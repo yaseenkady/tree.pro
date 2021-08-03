@@ -1,14 +1,12 @@
 # .
 
-2 sperm and 1 egg.
-
-Fetal parts.
-
-P57.
+Monospermic or dispermic plus maternal genome.
 
 Less hCG than complete mole.
 
 Less invasive.
+
+XXX is the most common.
 
 # <
 
@@ -21,5 +19,3 @@ XXY
 XYY
 
 # >
-
-High serum human chronic gonadotropin

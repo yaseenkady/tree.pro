@@ -1,8 +1,10 @@
 # .
 
-Zollinger-Ellison syndrome.
+Benign or malignant (1/2-2/3 of the cases) that arise in duodenum, pancreas, or stomach.
 
 # <
+
+Multiple endocrine neoplasia 1
 
 # >
 

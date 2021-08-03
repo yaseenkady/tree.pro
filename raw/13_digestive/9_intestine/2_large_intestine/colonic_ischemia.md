@@ -1,6 +1,8 @@
 # .
 
-Common in watershed area.
+Ischemic colitis.
+
+Common in watershed area involving ransverse and descending colon.
 
 # <
 
@@ -10,4 +12,6 @@ Elderly
 
 Hematochezia
 
-Abdominal pain, camp
+Abdominal pain, cramp
+
+High serum lactate

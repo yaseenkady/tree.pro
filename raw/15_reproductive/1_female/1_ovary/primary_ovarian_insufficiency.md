@@ -21,3 +21,5 @@ High serum leutenizing hormone
 High serum follicle stimulating hormone
 
 Anovulation
+
+Amenorrhea

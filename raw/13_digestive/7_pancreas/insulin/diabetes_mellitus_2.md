@@ -10,6 +10,8 @@ Classical symptoms are less common than in type 1.
 
 Concordance in twins is 60-90%.
 
+Things that increase insulin resistance include: placental lactinogen, progesterone, prolactin, placental growth hormone, cortisol.
+
 # <
 
 Middle aged

@@ -4,6 +4,8 @@
 
 Child
 
+SMAD4
+
 # >
 
 Hamartomatous polyp

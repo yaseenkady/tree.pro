@@ -1,0 +1,27 @@
+# .
+
+Gastrinoma secretes excessive gastrin, which stimulates parietal cells to secrete acids.
+
+# <
+
+Gastrinoma
+
+# >
+
+Peptic ulcer disease
+
+Abdominal pain, prandial
+
+Diarrhea
+
+Nausea
+
+Hematemesis
+
+Anorexia
+
+Malabsorption
+
+Wheezing
+
+Steatorrhea

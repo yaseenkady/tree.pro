@@ -6,6 +6,8 @@ Due to dystrophic artery.
 
 Asymptomatic.
 
+Focal cirrhosis.
+
 # <
 
 Female

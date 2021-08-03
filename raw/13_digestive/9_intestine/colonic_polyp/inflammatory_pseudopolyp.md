@@ -1,5 +1,7 @@
 # .
 
+Reactive.
+
 Due to intestinal erosion.
 
 # <

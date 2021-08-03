@@ -15,3 +15,15 @@ Sex
 # >
 
 Head and neck cancer
+
+Anal cancer
+
+Penile cancer
+
+Vaginal cancer
+
+Vulvar cancer
+
+Cervical cancer
+
+Genital wart

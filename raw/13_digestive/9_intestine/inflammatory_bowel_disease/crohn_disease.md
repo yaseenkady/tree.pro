@@ -12,16 +12,18 @@ Th1 mediated involving granuloma and lymphoid tissues.
 
 # <
 
+Antibody against Saccharomyces cerevisiae
+
 # >
 
 Enterovesical fistula
 
-Diarrhea
-
-BLoody diarrhea
+Bloody diarrhea
 
 Nephrolithiasis
 
 Calcium oxalate
 
 Gallstone
+
+Abdominal mass

@@ -4,15 +4,21 @@ Onion skin bile duct fibrosis.
 
 # <
 
-Middle aged
-
 Male
+
+Adult
 
 Ulcerative colitis
 
 MPO-ANCA
 
 P-ANCA
+
+Antibody against neutrophil
+
+Antibody against nucleus
+
+Antibody against smooth muscle
 
 # >
 
@@ -21,3 +27,7 @@ Secondary biliary cirrhosis
 Cholangiocarcinoma
 
 Gallbladder cancer
+
+Ulcerative colitis
+
+Crohn disease

@@ -9,3 +9,5 @@ Resembles testicular structures.
 # >
 
 Virilization
+
+High serum testosterone

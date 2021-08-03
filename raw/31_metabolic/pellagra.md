@@ -17,3 +17,5 @@ Dermatitis
 Dementia
 
 Mental status change
+
+Diarrhea

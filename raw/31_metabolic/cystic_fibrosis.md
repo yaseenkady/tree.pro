@@ -1,6 +1,10 @@
 # .
 
+Discovererd in pancreas.
+
 # <
+
+CFTR
 
 # >
 

@@ -6,8 +6,12 @@ Colonic bacteria ferment lactose, producing H.
 
 # <
 
+Adult
+
 # >
 
 Malabsorption
 
 Acidic stool
+
+Infection

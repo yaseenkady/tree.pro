@@ -1,0 +1,27 @@
+# .
+
+75% of cases are due to deletion of paternal chromosome 15.
+
+The maternal genes in the deleted region is imprinted, so the zygote lacks the gene products.
+
+The deletion occurs during the formation of egg and sperm, so it is not inherited.
+
+Affects 1 in 10000 people.
+
+# <
+
+Infant
+
+# >
+
+Muscle weakness
+
+Developmental defect
+
+High serum ghrelin
+
+Obesity
+
+Diabetes mellitus 2
+
+Infertility

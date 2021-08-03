@@ -17,3 +17,5 @@ Uterine bleeding
 Breast tenderness
 
 High serum inhibin
+
+Precocious puberty

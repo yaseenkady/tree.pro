@@ -1,6 +1,6 @@
 # .
 
-Thrombosis, compression, or other causes obstructs hepatic outflow and causes congestive liver disease.
+Heptic vein thrombosis, compression, or other causes obstructs hepatic outflow and causes congestive liver disease.
 
 # <
 

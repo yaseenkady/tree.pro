@@ -1,0 +1,21 @@
+# .
+
+It is also called happy puppet syndrome.
+
+Most of the time, it is due to deletion of maternal chromosome 15.
+
+The paternal genes in the deleted region is imprinted, so the zygote lacks the gene products.
+
+The deletion occurs during the formation of egg and sperm, so it is not inherited.
+
+Affects 1 in 12000 people.
+
+# <
+
+Infant
+
+# >
+
+Intellectual disability
+
+Developmental defect

@@ -1,5 +1,7 @@
 # .
 
+From internal anal sphincter.
+
 Congenital distal megacolon without ganglion and Auerbach and Meissner plexuses.
 
 # <

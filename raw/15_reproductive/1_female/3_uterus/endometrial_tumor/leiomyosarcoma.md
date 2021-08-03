@@ -2,6 +2,8 @@
 
 Myometrium malignancy.
 
+Not from leiomyoma.
+
 # <
 
 Middle aged

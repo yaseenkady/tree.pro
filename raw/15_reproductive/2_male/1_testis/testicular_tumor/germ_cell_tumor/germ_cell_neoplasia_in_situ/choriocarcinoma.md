@@ -24,7 +24,7 @@ High serum BHCG
 
 Theca lutein cyst
 
-High human chorionic gonadotropin
+High serum bhCG
 
 Dyspnea
 

@@ -1,0 +1,19 @@
+# .
+
+50% of esophageal cancer.
+
+Always affects the lower 1/3.
+
+More common in the US.
+
+# <
+
+Male
+
+Gastroesophageal reflux disease
+
+Barret esophagus
+
+Obeisty
+
+# >

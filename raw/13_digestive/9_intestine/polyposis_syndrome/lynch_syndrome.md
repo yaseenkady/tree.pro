@@ -4,6 +4,8 @@ Hereditary nonpolyposis colorectal cancer.
 
 80% of cases progress to colorectal carcinoma.
 
+30% endometrial cancer.
+
 Always involves proximal colon.
 
 # <

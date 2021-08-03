@@ -1,0 +1,21 @@
+# .
+
+Can not conjugate bilirubin.
+
+Presents early and later causes neurologic symptoms.
+
+Liver transplantation is the cure.
+
+Type 1 has 0% conjugation.
+
+Type 2 has 20% conjugation and responds to phenobarbital which stimulates liver enzyme synthesis.
+
+# <
+
+# >
+
+Juandice
+
+Kernicterus
+
+Unconjugated hyperbilirubinemia

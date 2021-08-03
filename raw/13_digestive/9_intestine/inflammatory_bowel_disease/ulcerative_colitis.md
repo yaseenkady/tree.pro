@@ -1,5 +1,7 @@
 # .
 
+Spreads from rectum.
+
 Colon and continuous lesion involving rectum.
 
 Mucosal and submucosal inflammation.
@@ -20,6 +22,8 @@ Toxic Megacolon
 
 GI perforation
 
-BLoody diarrhea
+Bloody diarrhea
 
 Sclerosing cholangitis
+
+Colorectal adenocarcinoma

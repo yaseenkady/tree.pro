@@ -19,3 +19,9 @@ rheumatoid arthritis
 celiac Disease
 
 # >
+
+Cholestasis
+
+High serum alkaline phosphatase
+
+Pruritis

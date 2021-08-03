@@ -1,5 +1,7 @@
 # .
 
+It presents in 40% of people.
+
 # <
 
 Asthma
@@ -23,3 +25,5 @@ Regurgitation
 Chronic cough
 
 Hoarseness
+
+Barrett esophagus
