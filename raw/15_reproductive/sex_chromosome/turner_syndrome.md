@@ -1,5 +1,7 @@
 # .
 
+1 in 10000 birth.
+
 1 in 2000 females.
 
 100% of cases have short stature.
@@ -25,6 +27,8 @@ The most common cause of primary amenorrhea.
 Menopause before menarche.
 
 Pregnancy is possible with invitro fertilization and hormone therapy.
+
+Normal IQ.
 
 # <
 
@@ -79,3 +83,7 @@ High serum leutenizing hormone
 High serum Follicular stimulating hormone
 
 Hypergonadotropic Hypogonadism
+
+Heart defect
+
+Ovarian defect

@@ -1,6 +1,10 @@
 # .
 
+1 in 1000 birth.
+
 Common cause of hypogonadism.
+
+Normal IQ.
 
 # <
 
@@ -33,3 +37,5 @@ Low serum testosterone
 High serum leutenizing hormone
 
 High serum estrogen
+
+Fertility defect

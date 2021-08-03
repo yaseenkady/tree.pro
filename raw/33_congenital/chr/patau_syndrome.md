@@ -1,0 +1,19 @@
+# .
+
+Chr13 x 3.
+
+1 in 20000 birth.
+
+# <
+
+# >
+
+Eye defect
+
+Growth defect
+
+Intellectual defect
+
+Heart defect
+
+Low serum pregnancy associated plasmin protein
