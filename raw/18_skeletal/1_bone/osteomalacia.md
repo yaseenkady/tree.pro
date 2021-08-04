@@ -1,10 +1,14 @@
 # .
 
-Low new bone mineralization.
+Rickets in children.
 
-Rickets.
+Normal bone volume but low bone mineralization.
 
 # <
+
+VDR
+
+Child
 
 # >
 

@@ -81,3 +81,13 @@ Hypophosphatemia
 Hyperphosphaturia
 
 Hypercalciuria
+
+Dehydration
+
+Pancreatitis
+
+Polyuria
+
+Polydipsia
+
+Short QT

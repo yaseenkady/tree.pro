@@ -14,6 +14,8 @@ Over 90% of hypercalcemia cases in otherwise healthy people.
 
 # <
 
+Parathyroid adenoma
+
 # >
 
 HYPERCALCEMIA
