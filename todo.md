@@ -25,7 +25,7 @@
 ## Review digestive system
 
 - [x] First Aid
-- [x] Science of Medicine cases
+- [ ] Science of Medicine cases
 - [ ] Practice of Medicine cases
 
 - [ ] Chapter 3: Abdominal pain
@@ -37,7 +37,7 @@
 ## Review urinary system
 
 - [x] First Aid
-- [x] Science of Medicine cases
+- [ ] Science of Medicine cases
 - [ ] Practice of Medicine cases
 
 - [ ] Chapter 28: Kidney injury, acute
@@ -49,7 +49,7 @@
 ## Review reproductive system
 
 - [x] First Aid
-- [x] Science of Medicine cases
+- [ ] Science of Medicine cases
 - [ ] Practice of Medicine cases
 
 - [x] Chapter 5: AIDS/HIV infection
@@ -58,7 +58,7 @@
 
 - [x] First Aid
 - [x] Science of Medicine
-- [x] Science of Medicine cases
+- [ ] Science of Medicine cases
 - [ ] Practice of Medicine cases
 
 - [x] Chapter 1: Diagnostic process
@@ -79,18 +79,18 @@
 
 ##
 
-- [x] CR exam 3
-- [x] CR exam 4
-- [x] CR exam 4.2
-- [x] CR exam 5
-- [x] CR exam 5.2
+- [ ] CR exam 3
+- [ ] CR exam 4
+- [ ] CR exam 4.2
+- [ ] CR exam 5
+- [ ] CR exam 5.2
 - [x] Case 1
 - [x] Case 2
 - [x] Case 3
-- [x] Case 4
-- [x] Case 5
-- [x] Case 6
-- [x] Case 7
+- [ ] Case 4
+- [ ] Case 5
+- [ ] Case 6
+- [ ] Case 7
 - [ ] Case 8
 - [ ] Case 9
 - [ ] Case 10
