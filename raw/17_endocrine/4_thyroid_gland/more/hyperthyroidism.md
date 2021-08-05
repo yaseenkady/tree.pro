@@ -1,8 +1,10 @@
 # .
 
+Increase in binding proteins (thyroid binding globulin, transthyretin, albumin) decreases its thyroid hormone concentration resulting in increased TSH and subsequent production.
+
 1.3% of the US population.
 
-15-50% is due to toxic multinodular goiter.
+15-20% is due to toxic multinodular goiter.
 
 3-5% is due to toxic adenoma.
 
@@ -25,6 +27,14 @@ Thyrotoxicosis causes polyuria and weight loss.
 Amiodarone
 
 Intravenous contrast
+
+High serum hCG
+
+Thyroiditis
+
+Follicular thyroid carcinoma
+
+Hyperestrogenism
 
 # >
 

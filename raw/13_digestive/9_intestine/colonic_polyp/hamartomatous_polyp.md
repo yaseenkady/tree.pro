@@ -1,5 +1,7 @@
 # .
 
+Noncancerous.
+
 Solitary lesion.
 
 # <

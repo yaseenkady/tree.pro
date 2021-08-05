@@ -1,5 +1,7 @@
 # .
 
+3% of cases are due to hypothyroidism.
+
 10% of cases are secondary due to kidney and or kidey ovascular disease.
 
 90% of cases are primary due to increased cardiac output and or total peripheral resistance.
@@ -63,3 +65,5 @@ RETINOPATHY
 STROKE
 
 THORACIC AORTIC ANEURYSM
+
+Proteinuria

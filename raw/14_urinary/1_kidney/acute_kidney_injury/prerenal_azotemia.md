@@ -6,7 +6,7 @@ Homeostatic response is to increase reabsorption of Na and H2O, where urea tags 
 
 Urine osmolality greater than 500.
 
-Fraction excreted Na less than 1.
+Fraction excreted Na less than 1%.
 
 Urine Na less than 20.
 

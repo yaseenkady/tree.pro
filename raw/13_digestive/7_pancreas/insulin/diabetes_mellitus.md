@@ -101,3 +101,5 @@ High serum hemoglobin A1C
 High serum osmolality
 
 High urine glucose
+
+Proteinuria

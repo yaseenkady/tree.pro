@@ -2,6 +2,20 @@
 
 # <
 
+Urinary tract obstruction
+
+Congestive heart failure
+
+Myocardial infarction
+
+Gastrointestinal bleeding
+
+Dehydration
+
+Shock
+
+High diet protein
+
 # >
 
 PERICARDITIS

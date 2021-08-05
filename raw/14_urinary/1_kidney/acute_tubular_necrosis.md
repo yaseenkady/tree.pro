@@ -1,12 +1,22 @@
 # .
 
+Any factor that leads to prerenal azotemia can lead to ischemic acute tubular necrosis. Some common causes include hypovolemic states such as diarrhea, vomiting, bleeding, dehydration, burns, renal losses via diuretics or osmotic diuresis, and third fluid sequestration. Edematous states such as heart failure and cirrhosis cause reduced kidney perfusion. Sepsis or anaphylaxis leads to systemic vasodilation. Coagulopathy, such as disseminated intravascular coagulation, can also cause acute tubular necrosis.
+
 The most common cause of acute kidney injury in hospitalized patients.
 
 Due to ischemic necrosis, especially in the thick ascending limb.
 
 Due to nephrotoxin, especially in the proximal tubule.
 
+Muddy brown cast.
+
+Cells grow back.
+
+Toxic type is caused by hemoglobin and myoglobin.
+
 # <
+
+Antibiotic
 
 Aminoglycoside
 
@@ -24,6 +34,12 @@ Hemoglobinuria
 
 Rhabdomyolysis
 
+Renal artery stenosis
+
+Shock
+
+Embolism
+
 # >
 
 Granular cast
@@ -35,3 +51,5 @@ Metabolic acidosis
 Uremia
 
 Hypokalemia
+
+Oliguria

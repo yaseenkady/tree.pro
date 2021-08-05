@@ -1,6 +1,8 @@
 # .
 
-May be malignant.
+Pedunculated.
+
+66% of cases are malignant.
 
 Villous histology is more malignant than tubular histology.
 

@@ -25,3 +25,15 @@ Cola-colored urine
 Low serum C3
 
 Rapidly progressive glomerulonephritis
+
+Hypertension
+
+Proteinuria
+
+White blood cell cast
+
+High serum BUN
+
+High serum creatinine
+
+High serum ASO

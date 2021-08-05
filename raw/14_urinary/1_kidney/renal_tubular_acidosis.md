@@ -1,0 +1,13 @@
+# .
+
+Kidneys keep HCO3- and get rid of H+ (Na-H exchange).
+
+Cl-HCO3 exchange.
+
+# <
+
+# >
+
+Hyperchloremia
+
+Metabolic acidosis

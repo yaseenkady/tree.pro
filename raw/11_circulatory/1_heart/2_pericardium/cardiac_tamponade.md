@@ -21,3 +21,5 @@ Neck vein distention
 Low voltage QRS
 
 Electric alteran
+
+Oliguria

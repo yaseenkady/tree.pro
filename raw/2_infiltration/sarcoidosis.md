@@ -45,3 +45,5 @@ Lupus pernio
 Interstitial lung disease
 
 Hypercalcemia
+
+Proteinuria

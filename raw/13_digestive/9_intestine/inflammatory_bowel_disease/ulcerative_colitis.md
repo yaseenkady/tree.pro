@@ -27,3 +27,5 @@ Bloody diarrhea
 Sclerosing cholangitis
 
 Colorectal adenocarcinoma
+
+Upper gastrointestinal bleeding

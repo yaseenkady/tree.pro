@@ -2,6 +2,8 @@
 
 Reactive.
 
+Noncancerous.
+
 Due to intestinal erosion.
 
 # <

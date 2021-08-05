@@ -9,3 +9,5 @@ Kidney is involved most, where amyloids demosit in the mesangium, which is like 
 RESTRICTIVE INFILTRATIVE CARDIOMYOPATHY
 
 Nephrotic syndrome
+
+Proteinuria

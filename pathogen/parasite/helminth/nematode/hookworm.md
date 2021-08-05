@@ -35,3 +35,5 @@ Groud itch
 Loeffler syndrome
 
 Hookworm anemia
+
+Lower gastrointestinal bleeding

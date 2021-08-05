@@ -4,6 +4,4 @@
 
 # >
 
-S4
-
-Oliguria
+Bone pain

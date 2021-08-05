@@ -55,3 +55,5 @@ Dyspnea
 Hemoptysis
 
 S3 gallop
+
+Oliguria

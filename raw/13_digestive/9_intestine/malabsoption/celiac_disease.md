@@ -27,3 +27,5 @@ Dermatitis herpetiformis
 Osteoperosis
 
 T-cell lymphoma
+
+Upper gastrointestinal bleeding

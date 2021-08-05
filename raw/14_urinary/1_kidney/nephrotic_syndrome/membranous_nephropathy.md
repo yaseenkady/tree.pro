@@ -2,11 +2,19 @@
 
 Membranous glomerulonephritis.
 
-Granular immune complex subepithelial deposition -> Diffuse glomelurar basement membrane thickening.
+Granular immune complex subepithelial deposition -> diffuse glomelurar basement membrane thickening.
+
+The most common cause in white adults.
 
 # <
 
+White people
+
+Adult
+
 Antibody against PLA2R
+
+Iatrogen
 
 NSAID
 

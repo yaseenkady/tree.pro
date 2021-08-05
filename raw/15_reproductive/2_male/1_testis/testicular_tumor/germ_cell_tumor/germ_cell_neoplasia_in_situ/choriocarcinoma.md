@@ -20,11 +20,9 @@ Adult
 
 GERM CELL TUMOR
 
-High serum BHCG
+High serum bhCG
 
 Theca lutein cyst
-
-High serum bhCG
 
 Dyspnea
 

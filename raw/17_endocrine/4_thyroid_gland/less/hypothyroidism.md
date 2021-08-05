@@ -1,4 +1,4 @@
-# .
+g .
 
 0.1% of males.
 
@@ -26,11 +26,19 @@ TSH is sensitive to thyroid function.
 
 Too little or too much I can cause hypothyroidism.
 
-Use of estrogen increases T4-binding globulin, which takes up available T4.
+Use of estrogen increases T4-binding globulin, which takes up available T4, before pituitary stimulates increased thyroid hormone production (hyperthyroidism).
+
+Estrogen stimulates thyroid cell growth.
 
 Water clearance decreases.
 
 # <
+
+Somatostatin
+
+Dopamine
+
+Glucocorticoid
 
 Elderly
 
@@ -132,6 +140,8 @@ Puffy face
 
 Alopecia
 
+Hearing defect
+
 Coma
 
 Hyporeflexia
@@ -141,3 +151,9 @@ Proximal muscle weakness
 High serum TSH
 
 Low serum free T4
+
+Cognitive defect
+
+Developmental defect
+
+Cretinism

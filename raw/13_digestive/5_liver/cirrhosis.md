@@ -99,3 +99,5 @@ Spontaneous Bacterial Peritonitis
 Hypotension
 
 High serum NO
+
+Low serum C3

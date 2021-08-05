@@ -22,4 +22,4 @@ YOLK SAC TUMOR
 
 Painful testicular mass
 
-High serum human chorionic gonadotropin
+High serum bhCG

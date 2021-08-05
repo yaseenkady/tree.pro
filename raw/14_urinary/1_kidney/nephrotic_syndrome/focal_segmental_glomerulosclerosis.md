@@ -6,9 +6,13 @@ Nonspecific focal deposits of IgM, C3, and C1.
 
 Podocyte foot process effacement.
 
+The most common cause in Black adults.
+
 # <
 
 Black people
+
+Adult
 
 Idiopathic
 
@@ -25,3 +29,5 @@ Interferon
 Congenital defect
 
 # >
+
+Proteinuria

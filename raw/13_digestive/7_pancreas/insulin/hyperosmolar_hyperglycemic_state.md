@@ -40,7 +40,7 @@ SEIZURE
 
 Polyuria
 
-Anuria
+Oliguria
 
 Lethargy
 

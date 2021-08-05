@@ -8,6 +8,8 @@ Failed apoptosis.
 
 Commonly in rectosigmoid region.
 
+Cancerous.
+
 # <
 
 # >

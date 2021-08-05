@@ -47,3 +47,5 @@ Rash
 Hematuria
 
 Costovertebral angle tenderness
+
+Oliguria

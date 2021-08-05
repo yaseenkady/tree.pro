@@ -39,3 +39,5 @@ Blood M protein
 Serum hyperviscosity
 
 Mediastinal mass, posterior
+
+Proteinuria

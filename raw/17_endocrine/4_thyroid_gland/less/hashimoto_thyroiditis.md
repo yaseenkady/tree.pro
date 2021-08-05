@@ -1,6 +1,6 @@
 # .
 
-Also called chronic autoimmune thyroiditis.
+Chronic autoimmune thyroiditis.
 
 Hyperthyroidism is transient before hypothyroidism.
 

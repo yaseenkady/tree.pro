@@ -13,3 +13,5 @@ Hepatitis C virus
 # >
 
 Nephritic nephrotic syndrome
+
+Low serum C3

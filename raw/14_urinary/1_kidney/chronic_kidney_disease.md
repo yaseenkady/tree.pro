@@ -39,3 +39,5 @@ Low hemoglobin A1C
 Hyperphosphatemia
 
 Waxy cast
+
+Proteinuria

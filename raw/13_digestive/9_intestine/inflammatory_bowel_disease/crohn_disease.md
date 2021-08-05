@@ -27,3 +27,5 @@ Calcium oxalate
 Gallstone
 
 Abdominal mass
+
+Lower gastrointestinal bleeding

@@ -15,3 +15,5 @@ Zollinger-Ellison syndrome
 # >
 
 Epigastric pain, nonprandial
+
+Upper gas pressure bleeding

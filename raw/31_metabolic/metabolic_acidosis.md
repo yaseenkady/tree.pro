@@ -1,6 +1,12 @@
 # .
 
+Anion gap = Na - Cl - HCO3
+
+Anion gap causes: ketoacidosis, uremic acidosis, hyperlactatemia.
+
 # <
+
+Kidney disease
 
 # >
 

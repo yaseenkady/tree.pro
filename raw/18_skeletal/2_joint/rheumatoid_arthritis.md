@@ -21,3 +21,7 @@ High ESR
 Antibody for CCP
 
 Antibody for nucleic acid
+
+Proteinuria
+
+Ulnar deviation

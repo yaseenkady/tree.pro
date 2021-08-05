@@ -1,0 +1,35 @@
+# .
+
+# <
+
+Gastrointestinal bleeding
+
+Diarrhea
+
+Vomiting
+
+Diuretic
+
+Glycosuria
+
+Ascite
+
+Pleural effusion
+
+Surgery
+
+Trauma
+
+Burn
+
+Sepsis
+
+Anaphylaxis
+
+Liver failure
+
+Nephrotic syndrome
+
+# >
+
+Oliguria

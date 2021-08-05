@@ -39,3 +39,5 @@ Loeffler syndrome
 Sepsis
 
 Eosinophilia
+
+Lower gastrointestinal bleeding

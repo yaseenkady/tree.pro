@@ -1,7 +1,11 @@
 # .
 
+Red blood cell cast.
+
 # <
 
 # >
 
-Red blood cell cast
+Proteinuria
+
+Oliguria

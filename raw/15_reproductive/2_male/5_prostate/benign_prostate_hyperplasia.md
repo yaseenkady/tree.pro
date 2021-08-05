@@ -21,3 +21,5 @@ Hydronephrosis
 Urinary tract infection
 
 High serum prostate stimulating antigen
+
+Oliguria

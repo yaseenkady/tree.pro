@@ -57,3 +57,5 @@ High serum insulin
 High serum glucose
 
 Supine vena cava compression
+
+Proteinuria

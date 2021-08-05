@@ -21,5 +21,3 @@ Growth defect
 Low serum erythropoietin
 
 Renal osteodystrophy
-
-Hypertension

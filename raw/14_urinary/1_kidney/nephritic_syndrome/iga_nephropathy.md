@@ -9,3 +9,5 @@ Mesangial deposits.
 Infection
 
 # >
+
+Proteinuria

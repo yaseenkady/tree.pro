@@ -138,3 +138,7 @@ Falciparum is the most common and deadliest because it infects more red blood ce
 ![](3.jpeg)
 
 ![](4.jpeg)
+
+# >
+
+Proteinuria

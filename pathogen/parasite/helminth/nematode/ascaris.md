@@ -39,3 +39,5 @@ Biliary sepsis
 Pancreatitis
 
 Peritonitis
+
+Lower gastrointestinal bleeding
