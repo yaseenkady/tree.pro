@@ -8,6 +8,8 @@ H+ go into cells (in hypokalemia).
 
 Antacid
 
+Licorice
+
 Diuretic
 
 Hypokalemia

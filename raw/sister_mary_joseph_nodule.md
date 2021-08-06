@@ -1,0 +1,23 @@
+# .
+
+Sign of advanced cancer metastasis.
+
+# <
+
+Gastric cancer
+
+Colonic cancer
+
+Pancreatic cancer
+
+Ovarian cancer
+
+Uterine cancer
+
+Prostate cancer
+
+Lung cancer
+
+# >
+
+Protruding umbilical nodule

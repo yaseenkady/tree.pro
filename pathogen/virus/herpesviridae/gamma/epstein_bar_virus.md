@@ -9,3 +9,5 @@ Causes nasopharyngeal head and neck cancer.
 # >
 
 Head and neck cancer
+
+Viral hepatitis

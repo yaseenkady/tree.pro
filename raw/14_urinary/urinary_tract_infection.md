@@ -15,3 +15,7 @@ Hematuria
 Urinary urgency
 
 Pneumaturia
+
+PostRenal azotemia
+
+Lower abdominal pain

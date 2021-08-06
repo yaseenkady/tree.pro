@@ -33,3 +33,5 @@ Non-exertional chest pain
 Asymmetric arm blood pressure
 
 Diastolic murmur
+
+Abdominal pain, radiating to back

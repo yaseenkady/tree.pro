@@ -6,6 +6,8 @@ Hydrochlorothiazide
 
 Low diet K
 
+Licorice
+
 # >
 
 ARRHYTHMIA

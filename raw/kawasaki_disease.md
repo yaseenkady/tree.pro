@@ -14,7 +14,7 @@ Strawberry tongue
 
 Conjunctivitis
 
-Erythema
+Palmar erythema
 
 Edema
 

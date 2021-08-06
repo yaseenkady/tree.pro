@@ -11,3 +11,5 @@ Elderly
 # >
 
 Watery diarrhea
+
+Nocturnal diarrhea

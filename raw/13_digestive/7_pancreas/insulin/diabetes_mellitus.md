@@ -84,6 +84,8 @@ Fatigue
 
 Constipation
 
+Nocturnal diarrhea
+
 Diarrhea
 
 Polyuria
@@ -103,3 +105,5 @@ High serum osmolality
 High urine glucose
 
 Proteinuria
+
+Dysuria

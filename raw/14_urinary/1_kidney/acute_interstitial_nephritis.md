@@ -49,3 +49,7 @@ Hematuria
 Costovertebral angle tenderness
 
 Oliguria
+
+Eosinophilia
+
+Intrinsic Renal Failure

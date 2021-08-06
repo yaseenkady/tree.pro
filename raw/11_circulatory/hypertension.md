@@ -28,6 +28,8 @@ Smoking
 
 Obesity
 
+Licorice
+
 # >
 
 ACUTE CORONARY SYNDROME

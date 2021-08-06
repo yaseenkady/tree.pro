@@ -15,3 +15,5 @@ Conjugated hyperbilirubinemia
 High serum AST
 
 High serum ALT
+
+Pancreatitis

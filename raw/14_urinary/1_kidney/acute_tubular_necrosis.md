@@ -40,6 +40,8 @@ Shock
 
 Embolism
 
+IV contrast
+
 # >
 
 Granular cast
@@ -53,3 +55,5 @@ Uremia
 Hypokalemia
 
 Oliguria
+
+Intrinsic Renal Failure

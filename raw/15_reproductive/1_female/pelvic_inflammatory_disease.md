@@ -13,3 +13,5 @@ Cervical motion tenderness
 Adnexal tenderness
 
 Uterine tenderness
+
+Lower abdominal pain

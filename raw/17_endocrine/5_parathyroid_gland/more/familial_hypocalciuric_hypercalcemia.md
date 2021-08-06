@@ -1,5 +1,7 @@
 # .
 
+Decreased sensitivity to Ca.
+
 Autosomal dominant.
 
 Can have normal to slightly high PTH.

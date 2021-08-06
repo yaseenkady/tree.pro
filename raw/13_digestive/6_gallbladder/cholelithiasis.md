@@ -41,3 +41,5 @@ Pancreatitis
 Acute cholangitis
 
 Murphy sign
+
+Juandice

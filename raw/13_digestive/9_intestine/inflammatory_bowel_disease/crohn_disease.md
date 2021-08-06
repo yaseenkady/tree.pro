@@ -10,6 +10,10 @@ Cobblestone mucosa.
 
 Th1 mediated involving granuloma and lymphoid tissues.
 
+Wall thickening.
+
+Granuloma.
+
 # <
 
 Antibody against Saccharomyces cerevisiae
@@ -29,3 +33,5 @@ Gallstone
 Abdominal mass
 
 Lower gastrointestinal bleeding
+
+GI stricture

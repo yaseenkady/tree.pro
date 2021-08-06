@@ -4,6 +4,10 @@ May not have hyperglycemia and hypokalemia.
 
 # <
 
+Bilateral adrenal hyperplasia
+
+Unilateral adrenal adenoma
+
 # >
 
 HYPERNATREMIA

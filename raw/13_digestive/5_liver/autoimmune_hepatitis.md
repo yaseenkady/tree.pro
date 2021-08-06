@@ -27,3 +27,5 @@ Nausea
 Vomiting
 
 Pruritus
+
+Palmar erythema

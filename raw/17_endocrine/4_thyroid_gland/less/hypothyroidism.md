@@ -46,7 +46,9 @@ Female
 
 Amiodarone
 
-Estrogen
+Hyperestrogenism
+
+Hypoestrogenism
 
 Low diet I
 
