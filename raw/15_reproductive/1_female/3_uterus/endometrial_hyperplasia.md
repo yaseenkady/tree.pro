@@ -2,14 +2,16 @@
 
 # <
 
-High serum estrogen
+Hyperestrogenism
 
 Polycystic ovarian syndrome
 
 granulosa cell tumor
 
+Perimenopause
+
 # >
 
 Endometrial carcinoma
 
-Vaginal bleeding
+Uterine bleeding

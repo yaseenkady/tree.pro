@@ -4,6 +4,8 @@ Unruptured Graafian follicle enlargement.
 
 The most common ovarian mass in young females.
 
+Resolves in 4 to 6 weeks.
+
 # <
 
 Yound adult

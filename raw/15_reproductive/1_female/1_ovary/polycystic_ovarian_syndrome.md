@@ -18,9 +18,9 @@ Rule out other causes of amenorrhea.
 
 # <
 
-DIABETES MELLITUS 2
-
 Obesity
+
+Young adult
 
 # >
 
@@ -41,3 +41,5 @@ Acne
 Acanthosis nigrican
 
 Endometrial cancer
+
+DIABETES MELLITUS 2

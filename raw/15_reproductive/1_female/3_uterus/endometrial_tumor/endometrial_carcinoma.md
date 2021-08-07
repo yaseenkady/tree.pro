@@ -6,18 +6,28 @@ Serous type is aggressive.
 
 Psammoma bodies.
 
+Type 2 presents in non-estrogenic elderly.
+
 # <
 
 Obesity
+
+Hypertension
 
 Early menarche
 
 Late menopause
 
+Perimenopause
+
 Nulliparity
 
 PTEN
 
+Middle aged
+
+Hyperestrogenism
+
 # >
 
-Vaginal bleeding
+Uterine bleeding

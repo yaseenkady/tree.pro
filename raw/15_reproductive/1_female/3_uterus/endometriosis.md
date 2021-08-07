@@ -4,6 +4,10 @@ Endomerial tissues outside endometrial cavity, commonly in bilateral ovary, pelv
 
 May be due to retrograde flow, lymphatic flow, or multipotent cell transformation into endometrial cell.
 
+Pain does not respond to NSAID.
+
+Pain degree depends on the location of endometriosis.
+
 # <
 
 BRCA1
@@ -14,7 +18,11 @@ BRCA2
 
 Endometrioma
 
-Lower abdominal pain
+Lower abdominal pain, chronic, cyclic
+
+Back pain
+
+Leg pain
 
 Uterine bleeing
 
@@ -23,5 +31,11 @@ Dysmenorrhea
 Dyspareunia
 
 Dyschezia
+
+Infertility
+
+Dyschezia
+
+Dyspareunia
 
 Infertility

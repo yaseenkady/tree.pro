@@ -8,14 +8,30 @@ The most common tumor in females.
 
 Asymptomatic
 
+African American and Caucasian 60 or 40% by age 35 and 80 or 70% by age 50.
+
+Regresses after menopause.
+
 # <
 
-Black
+African-American
+
+Jewish
 
 Yound adult
+
+Perimenopause
+
+Obesity
+
+Tabacco
 
 # >
 
 Uterine bleeding
 
-Miscarriage
+Urinary frequency
+
+Nocturia
+
+Urinary urgency
