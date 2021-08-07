@@ -37,3 +37,7 @@ Acute Hepatitis
 
 Hepatocellualr Carcinoma
 (With cirrhosis)
+
+VIRAL HEPATITIS
+
+Flu-like symptom

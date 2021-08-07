@@ -14,6 +14,10 @@ BRCA1
 
 BRCA2
 
+Perimenopause
+
+Postmenopause
+
 # >
 
 Endometrioma

@@ -32,3 +32,7 @@ Sexually transmitted.
 Acute Hepatitis
 
 Hepatocellular Carcinoma
+
+VIRAL HEPATITIS
+
+Flu-like symptom

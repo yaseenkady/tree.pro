@@ -1,9 +1,0 @@
-# .
-
-# <
-
-# >
-
-DILATED CARDIOMYOPATHY
-
-MYOCARDITIS

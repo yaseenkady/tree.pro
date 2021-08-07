@@ -10,3 +10,9 @@ Genital neurons.
 
 Genital Ulcer Disease
 (90% of)
+
+VIRAL HEPATITIS
+
+Flu-like symptom
+
+Genital ulcer

@@ -36,3 +36,9 @@ Herpes Pneumonia
 Herpes Esophagitis
 
 Herpes Hepatitis
+
+VIRAL HEPATITIS
+
+Flu-like symptom
+
+Genital ulcer

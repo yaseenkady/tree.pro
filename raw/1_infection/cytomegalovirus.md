@@ -1,9 +1,0 @@
-# .
-
-# <
-
-# >
-
-ADDISON DISEASE
-
-Hepatitis

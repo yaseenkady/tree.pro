@@ -1,4 +1,4 @@
-## Review circulatory system
+## Circulatory system
 
 - [x] First Aid
 - [x] Science of Medicine cases
@@ -11,7 +11,7 @@
 - [ ] Chapter 31: Syncope
 - [ ] Chapter 17: Edema
 
-## Review respiratory system
+## Respiratory system
 
 - [x] First Aid
 - [x] Science of Medicine cases
@@ -22,10 +22,10 @@
 - [ ] Chapter 33: Wheezing and stridor
 - [ ] Chapter 15: Dyspnea
 
-## Review digestive system
+## Digestive system
 
 - [x] First Aid
-- [ ] Science of Medicine cases
+- [x] Science of Medicine cases
 - [ ] Practice of Medicine cases
 
 - [ ] Chapter 3: Abdominal pain
@@ -34,10 +34,10 @@
 - [ ] Chapter 26: Juandice and abnormal liver enzymes
 - [ ] Chapter 32: Weight loss, unintentional
 
-## Review urinary system
+## Urinary system
 
 - [x] First Aid
-- [ ] Science of Medicine cases
+- [x] Science of Medicine cases
 - [ ] Practice of Medicine cases
 
 - [ ] Chapter 28: Kidney injury, acute
@@ -46,19 +46,19 @@
 - [ ] Chapter 24: Hyponatremia and hypernatremia
 - [ ] Chapter 4: Acid-base abnormalities
 
-## Review reproductive system
+## Reproductive system
 
 - [x] First Aid
-- [ ] Science of Medicine cases
+- [x] Science of Medicine cases
 - [ ] Practice of Medicine cases
 
 - [x] Chapter 5: AIDS/HIV infection
 
-## Review endocrine system
+## Endocrine system
 
 - [x] First Aid
 - [x] Science of Medicine
-- [ ] Science of Medicine cases
+- [x] Science of Medicine cases
 - [ ] Practice of Medicine cases
 
 - [x] Chapter 1: Diagnostic process
@@ -66,15 +66,36 @@
 - [x] Chapter 18: Fatigue
 - [x] Chapter 22: Hypercalcemia
 
-##
+## Musculoskeletal system
 
-- [ ] Chapter 20: Headache
-- [ ] Chapter 11: Delirium and dimentia
+- [ ] First Aid
+- [ ] Science of Medicine cases
+- [ ] Practice of Medicine cases
+
+- [ ] Chapter 27: Joint pain
+- [ ] Chapter 7: Back pain
+
+## Nervous system
+
+- [ ] First Aid
+- [ ] Science of Medicine cases
+- [ ] Practice of Medicine cases
+
 - [ ] Chapter 6: Anemia
 - [ ] Chapter 8: Bleeding disorder
 - [ ] Chapter 29: Rash
-- [ ] Chapter 27: Joint pain
-- [ ] Chapter 7: Back pain
+
+## Hematological system
+
+- [ ] First Aid
+- [ ] Science of Medicine cases
+- [ ] Practice of Medicine cases
+
+- [ ] Chapter 20: Headache
+- [ ] Chapter 11: Delirium and dimentia
+
+##
+
 - [ ] Chapter 2: Screening and health maintenance
 
 ##
@@ -87,10 +108,10 @@
 - [x] Case 1
 - [x] Case 2
 - [x] Case 3
-- [ ] Case 4
-- [ ] Case 5
-- [ ] Case 6
-- [ ] Case 7
+- [x] Case 4
+- [x] Case 5
+- [x] Case 6
+- [x] Case 7
 - [ ] Case 8
 - [ ] Case 9
 - [ ] Case 10

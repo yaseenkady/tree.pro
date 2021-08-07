@@ -52,3 +52,9 @@ Acute Viral Hepatitis
 
 Chronic Hepatitis
 (In immunocompromised)
+
+# >
+
+VIRAL HEPATITIS
+
+Flu-like symptom

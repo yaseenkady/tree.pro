@@ -1,9 +1,0 @@
-# .
-
-# <
-
-# >
-
-BACTERIAL ENDOCARDITIS
-
-VAGINITIS

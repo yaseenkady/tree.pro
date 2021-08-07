@@ -90,3 +90,5 @@ Child meningitis.
 # >
 
 Meningitis
+
+WATERHOUSE FRIDERICHSEN SYNDROME

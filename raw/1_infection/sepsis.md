@@ -1,9 +1,0 @@
-# .
-
-# <
-
-# >
-
-DISTRIBUTIVE SHOCK
-
-Oliguria

@@ -104,3 +104,5 @@ People from Southeast Asia, the Philippines, or African descent have a much incr
 # >
 
 Lung cavity
+
+ADDISON DISEASE

@@ -1,7 +1,0 @@
-# .
-
-# <
-
-# >
-
-WATERHOUSE FRIDERICHSEN SYNDROME

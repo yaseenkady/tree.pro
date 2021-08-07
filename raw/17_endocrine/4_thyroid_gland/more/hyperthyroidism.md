@@ -24,6 +24,8 @@ Thyrotoxicosis causes polyuria and weight loss.
 
 # <
 
+Perimenopause
+
 Amiodarone
 
 Intravenous contrast

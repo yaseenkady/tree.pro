@@ -71,3 +71,11 @@ Diarrhea.Watery
 Liver
 
 Gasatrointestinal Tract
+
+# >
+
+MYOCARDITIS
+
+VIRAL HEPATITIS
+
+Flu-like symptom

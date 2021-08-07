@@ -23,3 +23,7 @@ Constitutional symptom
 Unilateral facial swelling
 
 Chaga disease
+
+DILATED CARDIOMYOPATHY
+
+MYOCARDITIS

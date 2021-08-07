@@ -1,7 +1,3 @@
-# .
-
-# <
-
 # >
 
 BACTERIAL ENDOCARDITIS

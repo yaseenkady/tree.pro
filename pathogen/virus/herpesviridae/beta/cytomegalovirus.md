@@ -61,3 +61,9 @@ Two year old: asymptomatic.
 
 Pneumonia
 (In immunocompromised people)
+
+# >
+
+ADDISON DISEASE
+
+Hepatitis

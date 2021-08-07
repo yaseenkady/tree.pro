@@ -87,3 +87,9 @@ In neutropenic patients, hepato-splenic candidiasis can happen together with low
 The most common fungal infection in the world.
 Infects 90,000 people a year in the US.
 25% population is colonized.
+
+# >
+
+VAGINITIS
+
+Endocarditis

@@ -1,7 +1,0 @@
-# .
-
-# <
-
-# >
-
-ADDISON DISEASE

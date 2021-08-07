@@ -91,3 +91,9 @@ Juandice
 
 Acute Hepatitis
 (Severe in people with liver disease)
+
+# >
+
+VIRAL HEPATITIS
+
+Flu-like symptom

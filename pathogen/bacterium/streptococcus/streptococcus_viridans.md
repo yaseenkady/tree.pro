@@ -10,3 +10,7 @@ Not capsulated and the colonies look rougher compared to those of Streptococcus 
 
 Optochin not sensitive.
 Quellung negative.
+
+# >
+
+BACTERIAL ENDOCARDITIS

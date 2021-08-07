@@ -129,3 +129,9 @@ If positive, treat the newborn with immunoglobulin at birth.
 Post-exposure prophylaxis with vaccine and HBIg.
 
 Treating a chronic infection requires antivirals and things to slow down the progression of liver damage.
+
+# >
+
+VIRAL HEPATITIS
+
+Flu-like symptom

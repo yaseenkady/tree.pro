@@ -41,3 +41,5 @@ Stomach Cramp
 Flatulence
 
 Reactive Arthritis
+
+REACTIVE ARTHRITIS
