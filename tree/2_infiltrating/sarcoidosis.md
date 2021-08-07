@@ -1,18 +1,26 @@
 # .
 
-Wide spread granuloma.
+Hyperactive macrophage.
 
-Asymptomatic.
+Macrophages activate vitamin D which increases serum Ca.
 
-Hypercalcemia is due to vitamin D activation by macrophage.
+90% of cases involve lung.
+
+Diagnosis of exclusion.
 
 # <
 
-Black
+Rare
+
+Young adult
+
+Adult
 
 Female
 
 # >
+
+Pulmonary sarcoidosis
 
 Lymphadenopathy
 
@@ -34,7 +42,7 @@ RESTRICTIVE INFILTRATIVE CARDIOMYOPATHY
 
 High serum vitamin D
 
-High serum angiotensin converting enzyme
+High serum ACE
 
 Bell palsy
 
@@ -42,8 +50,14 @@ Uveitis
 
 Lupus pernio
 
-Interstitial lung disease
-
-Hypercalcemia
-
 Proteinuria
+
+Asymptom
+
+Arthritis
+
+Fatigue
+
+Headache
+
+Nephrolithiasis
