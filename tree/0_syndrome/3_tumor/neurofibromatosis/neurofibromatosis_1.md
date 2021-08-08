@@ -14,8 +14,8 @@ PHEOCHROMOCYTOMA
 
 Cafe-au-lait spot
 
-Mediastinal mass, posterior
+Mediastinal mass; Posterior
 
 Scoliosis
 
-Freckle, armpit and groin
+Freckle; Armpit and groin
