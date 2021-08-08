@@ -2,8 +2,6 @@
 
 Amyloids accumulation in organs.
 
-Commonly affects kidney mesangium (which is like vascular smooth muscle).
-
 Presentation depends on affected organs.
 
 # <
@@ -14,11 +12,11 @@ Rare
 
 RESTRICTIVE INFILTRATIVE CARDIOMYOPATHY
 
-Nephrotic syndrome
+Nephrotic syndrome; commonly affects kidney mesangium
 
-Edema, lower extremities
+Edema; lower extremities
 
-Enlarged tongue, rippled edge
+Enlarged tongue; rippled edge
 
 Dysphagia
 

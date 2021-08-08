@@ -1,6 +1,6 @@
 # .
 
-Postinfarction fibrous pericardial inflammation.
+Postinfarction fibrous pericardium inflammation.
 
 # <
 

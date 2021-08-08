@@ -1,6 +1,6 @@
 # .
 
-Fluid builds up in the pericardium.
+Pericardium containing excessive fluid.
 
 # <
 

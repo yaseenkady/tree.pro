@@ -2,8 +2,6 @@
 
 Hyperactive macrophages in organs.
 
-90% of cases affect lungs.
-
 Presentation depends on affected organs.
 
 Diagnosis of exclusion.
@@ -20,7 +18,7 @@ Female
 
 # >
 
-Pulmonary sarcoidosis
+Pulmonary sarcoidosis; 90%
 
 Lymphadenopathy
 

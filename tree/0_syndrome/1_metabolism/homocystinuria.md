@@ -4,9 +4,9 @@ Cannot metabolize methionine.
 
 # <
 
-CBS, recessive
+CBS; recessive
 
-MTR, recessive
+MTR; recessive
 
 Low diet vitamin B6
 

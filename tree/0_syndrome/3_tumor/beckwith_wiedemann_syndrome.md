@@ -2,8 +2,6 @@
 
 Syndrome of childhood overgrowth.
 
-10% of cases develop Wilms tumor.
-
 # <
 
 Infant
@@ -16,7 +14,7 @@ WT2
 
 # >
 
-Wilms tumor
+Wilms tumor; 10%
 
 Macroglossia
 

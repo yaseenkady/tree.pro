@@ -1,6 +1,6 @@
 # .
 
-A local coronary artery narrowing triggers widespread coronary vasodilation, which steals the circulation from the narrowed site.
+A local coronary artery narrowing triggering widespread coronary vasodilation that steal circulation away from the narrowed site.
 
 # <
 

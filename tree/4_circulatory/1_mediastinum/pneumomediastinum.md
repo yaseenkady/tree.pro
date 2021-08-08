@@ -1,6 +1,6 @@
 # .
 
-Air in mediastinum.
+Mediastinum containing excessive air.
 
 # <
 

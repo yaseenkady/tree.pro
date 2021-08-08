@@ -1,6 +1,6 @@
 # .
 
-Mediastinum fibrosis.
+Mediastinum chronic inflammation and fibrosis.
 
 # <
 

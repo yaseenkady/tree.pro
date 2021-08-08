@@ -2,17 +2,17 @@
 
 High Ca in serum.
 
-Most hypercalcemia is diagnosed in asymptomatic people.
-
 Rarely causes heart disease.
-
-The source of Ca is often the bones, so bone pain and osteoperosis are common aftermath.
-
-Top causes are primary hyperparathyroidism, the majority, hypercalcemia of maignancy, chronic kidney disease, and the milk-alkali syndrome.
 
 # <
 
-Cancer
+Primary hyperparathyroidism; The most common
+
+Tumor; The 2nd most common
+
+Chronic kidney disease; The 3rd most common
+
+Milk alkali syndrome; The 4th most common
 
 Calcium carbonate
 
@@ -27,6 +27,8 @@ High diet vitamin D
 Exposure to lithium
 
 # >
+
+Asymptomatic
 
 ACUTE PANCREATITIS
 

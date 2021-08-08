@@ -2,9 +2,7 @@
 
 Low H in serum.
 
-GI or kidneys lose H.
-
-Hypokalemia fail to pump out H from cells.
+Caused by GI or kidneys losing H or cells not excreting H.
 
 # <
 
@@ -14,7 +12,7 @@ Licorice
 
 Diuretic
 
-Hypokalemia
+Hypokalemia; Cannot enter cells in exchange with H
 
 Vomiting
 

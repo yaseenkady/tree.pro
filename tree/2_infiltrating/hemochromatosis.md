@@ -6,15 +6,11 @@ Commonly affects liver, pancreas, skin, heart, pituitary, and joints.
 
 Presentation depends on affected organs.
 
-Common cause of death is hepatocellular carcinoma.
-
-The most common recessive disorder in Caucasian.
-
 # <
 
 Middle aged
 
-White
+White; The most common recessive disorder in Whites
 
 Male
 
@@ -38,8 +34,6 @@ High serum ferritin
 
 High serum transferin
 
-Hepatitis
-
-Cirrhosis
+Hepatitis; Hepatocellular carcinoma is the most common cause of death
 
 High serum ALP

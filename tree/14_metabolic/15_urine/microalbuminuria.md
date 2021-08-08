@@ -1,6 +1,6 @@
 # .
 
-Some albumin in urine, less than proteinuria.
+Some albumin in urine (less severe than proteinuria).
 
 # <
 

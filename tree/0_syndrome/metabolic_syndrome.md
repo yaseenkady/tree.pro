@@ -2,26 +2,16 @@
 
 Syndrome of hypertension, hyperglycemia, abdominal obesity, hypercholesterolemia, and hypertriglyceridemia.
 
-Blood pressure over 130/85mmHg.
-
-Glucose over 100mg/dl.
-
-Abdominal obesity over 1.02m in male and 0.89m in female.
-
-HDL below 40mg/dl in male and 50 in female.
-
-Triglyceride over 150mg/dl.
-
 # <
 
 # >
 
-HYPERGLYCEMIA
+HYPERGLYCEMIA; 100
 
-HYPERTENSION
+HYPERTENSION; 130 & 85
 
-Abdominal obesity
+Abdominal obesity; 1.02 in male and 0.89 in female
 
-Hypertriglyceridemia
+Hypertriglyceridemia; 150
 
-Hypercholesterolemia
+Hypercholesterolemia; HDL below 40 in male and 50 in female
