@@ -1,6 +1,6 @@
 # .
 
-Fibrosing mediastinitis.
+Mediastinum fibrosis.
 
 # <
 
