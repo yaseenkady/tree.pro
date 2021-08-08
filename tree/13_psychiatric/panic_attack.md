@@ -1,5 +1,7 @@
 # .
 
+Acute anxiety and physical symptoms.
+
 # <
 
 # >
@@ -15,3 +17,7 @@ hyperventilation
 Diaphoresis
 
 Tremor
+
+Dyspnea
+
+Dizziness

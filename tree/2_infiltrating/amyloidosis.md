@@ -1,8 +1,10 @@
 # .
 
-Amyloid build up in organs.
+Amyloids accumulation in organs.
 
-Kidney mesangium (which is like vascular smooth muscle) is involved often.
+Commonly affects kidney mesangium (which is like vascular smooth muscle).
+
+Presentation depends on affected organs.
 
 # <
 
@@ -25,3 +27,5 @@ Carpal tunnel syndrome
 Dyspnea
 
 Fatigue
+
+High serum ALP

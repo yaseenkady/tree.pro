@@ -1,6 +1,6 @@
 # .
 
-Schwann cell tumor.
+Schwann cell benign tumor.
 
 # <
 

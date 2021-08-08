@@ -1,9 +1,0 @@
-# .
-
-# <
-
-# >
-
-COUGH
-
-Chest pain

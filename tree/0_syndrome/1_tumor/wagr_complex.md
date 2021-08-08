@@ -1,6 +1,6 @@
 # .
 
-Syndrome of W(ilms tumor), A(niridia), G(enitourinary), and R(etardation).
+Syndrome of Wilms tumor, aniridia, genitourinary, and retardation.
 
 # <
 

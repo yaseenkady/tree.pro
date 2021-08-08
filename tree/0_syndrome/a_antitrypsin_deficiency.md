@@ -1,6 +1,6 @@
 # .
 
-Syndrome caused by hepatocytes accumulating in ER misfolded alpha 1 antitrypsin, which protects lungs.
+Syndrome of hepatocytes accumulating in ER misfolded alpha 1 antitrypsin, which supposed to protect lungs.
 
 # <
 

@@ -1,8 +1,10 @@
 # .
 
-Hyperactive macrophage in organs.
+Hyperactive macrophages in organs.
 
-90% of cases involve lung.
+90% of cases affect lungs.
+
+Presentation depends on affected organs.
 
 Diagnosis of exclusion.
 
@@ -59,3 +61,5 @@ Fatigue
 Headache
 
 Nephrolithiasis
+
+High serum ALP

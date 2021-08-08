@@ -1,12 +1,12 @@
 # .
 
-Syndrome of visceral cyst and benign tumor.
+Syndrome of visceral cysts and benign tumors.
 
 37% of cases present with angiomatosis, which commonly occurs in retina.
 
 40% of cases present with CNS hemangioblastoma.
 
-80% of spinal hemangioblastoma are in this disease.
+80% of spinal hemangioblastoma present in this disease.
 
 40% of cases have only 1 tumor.
 

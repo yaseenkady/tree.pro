@@ -1,0 +1,7 @@
+# .
+
+Left ventricle outflow obstruction.
+
+# <
+
+# >

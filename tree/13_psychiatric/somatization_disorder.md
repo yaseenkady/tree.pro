@@ -1,0 +1,7 @@
+# .
+
+Focussing on physical symptoms making them come true.
+
+# <
+
+# >

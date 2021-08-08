@@ -1,7 +1,9 @@
 # .
 
+Habit triggering cough.
+
 # <
 
 # >
 
-COUGH
+COUGH, chronic

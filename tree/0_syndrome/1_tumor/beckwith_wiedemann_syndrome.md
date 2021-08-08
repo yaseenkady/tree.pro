@@ -1,6 +1,6 @@
 # .
 
-Syndrome caused by childhood overgrowth.
+Syndrome of childhood overgrowth.
 
 10% of cases develop Wilms tumor.
 

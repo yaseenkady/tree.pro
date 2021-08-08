@@ -2,9 +2,11 @@
 
 Excessive Fe storage in organs.
 
-Liver, pancreas, skin, heart, pituitary, and joints are affected often.
+Commonly affects liver, pancreas, skin, heart, pituitary, and joints.
 
-Often death due to hepatocellular carcinoma.
+Presentation depends on affected organs.
+
+Common cause of death is hepatocellular carcinoma.
 
 The most common recessive disorder in Caucasian.
 
@@ -39,3 +41,5 @@ High serum transferin
 Hepatitis
 
 Cirrhosis
+
+High serum ALP
