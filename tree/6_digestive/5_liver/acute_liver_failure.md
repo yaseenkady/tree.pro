@@ -1,0 +1,13 @@
+# .
+
+(Fulminant hepatic failure)
+
+Severe acute liver injury without preexisting liver disease but with encephalopathy and impaired synthetic function.
+
+# <
+
+# >
+
+Hepatic encephalopathy
+
+High INR, greater than or equal to 1.5
