@@ -24,7 +24,7 @@ RESTRICTIVE INFILTRATIVE CARDIOMYOPATHY
 
 Diabetes mellitus
 
-skin pigmentation
+Skin pigmentation
 
 Hypogonadism
 

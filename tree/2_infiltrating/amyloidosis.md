@@ -12,7 +12,7 @@ Rare
 
 RESTRICTIVE INFILTRATIVE CARDIOMYOPATHY
 
-Nephrotic syndrome; commonly affects kidney mesangium
+Nephrotic syndrome; Commonly affects kidney mesangium
 
 Edema; lower extremities
 
