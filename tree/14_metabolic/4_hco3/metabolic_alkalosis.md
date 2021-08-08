@@ -1,8 +1,8 @@
 # .
 
-GI (as part of GI fluid) or urinary (in exchange with Na+) H+ loss.
+High serum pH.
 
-H+ go into cells (in hypokalemia).
+Caused by H loss in GI or kidney or hypokalemia causing not enough H exiting cells.
 
 # <
 
@@ -27,5 +27,3 @@ Primary hyperaldosteronism
 Cushing syndrome
 
 # >
-
-High serum pH
