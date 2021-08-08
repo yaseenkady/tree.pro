@@ -8,7 +8,7 @@ Syndrome of visceral cyst and benign tumor.
 
 80% of spinal hemangioblastoma are in this disease.
 
-40% of cases have 1 tumor.
+40% of cases have only 1 tumor.
 
 # <
 

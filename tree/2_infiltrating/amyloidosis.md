@@ -1,8 +1,8 @@
 # .
 
-Amyloid builds up in organs.
+Amyloid build up in organs.
 
-Kidney mesangium (which is like vascular smooth muscle) is involved most.
+Kidney mesangium (which is like vascular smooth muscle) is involved often.
 
 # <
 

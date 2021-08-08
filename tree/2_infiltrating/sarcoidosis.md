@@ -1,8 +1,6 @@
 # .
 
-Hyperactive macrophage.
-
-Macrophages activate vitamin D which increases serum Ca.
+Hyperactive macrophage in organs.
 
 90% of cases involve lung.
 
