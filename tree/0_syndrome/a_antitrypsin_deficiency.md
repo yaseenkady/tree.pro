@@ -1,8 +1,6 @@
 # .
 
-Misfolded gene products aggregate in the ER.
-
-Often presents with young people with dyspnea but without lung disease risk factors like tabacco.
+Syndrome caused by hepatocytes accumulating in ER misfolded alpha 1 antitrypsin, which protects lungs.
 
 # <
 
@@ -13,8 +11,6 @@ Young adult
 # >
 
 Cirrhosis
-
-Dyspnea
 
 Pancinar emphysema
 

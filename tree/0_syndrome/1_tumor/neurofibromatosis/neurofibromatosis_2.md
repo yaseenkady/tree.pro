@@ -1,0 +1,15 @@
+# .
+
+Less common than neurofibromatosis 1.
+
+# <
+
+NF2
+
+# >
+
+Hearing defect
+
+Cataract
+
+Muscle wasting

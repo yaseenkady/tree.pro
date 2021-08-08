@@ -2,8 +2,6 @@
 
 # <
 
-Anxiety
-
 # >
 
 RESPIRATORY ALKALOSIS

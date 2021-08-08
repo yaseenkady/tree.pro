@@ -14,14 +14,10 @@ ARRHYTHMIA
 
 NEPHROGENIC DIABETES INSIPIDUS
 
-TORSADES DE POINTES
-
 Polyuria
 
 Polydipsia
 
-Muscle cramp
+TORSADES DE POINTES
 
 Muscle weakness
-
-Low serum K

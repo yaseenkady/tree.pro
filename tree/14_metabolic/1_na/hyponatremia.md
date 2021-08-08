@@ -5,5 +5,3 @@
 Hydrochlorothiazide
 
 # >
-
-Low serum Na

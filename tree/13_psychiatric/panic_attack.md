@@ -10,10 +10,8 @@ TACHYCARDIA
 
 Chest pain
 
-Dyspnea
+hyperventilation
 
 Diaphoresis
-
-Tachypnea
 
 Tremor

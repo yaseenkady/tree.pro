@@ -1,6 +1,6 @@
 # .
 
-Spontaneous or due to trauma, iatrogenic, or Boerhaave syndrome.
+Air in mediastinum.
 
 # <
 

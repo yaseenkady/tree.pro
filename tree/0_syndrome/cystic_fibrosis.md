@@ -1,5 +1,7 @@
 # .
 
+Syndrome caused by Cl channel problem.
+
 Discovererd in pancreas.
 
 # <

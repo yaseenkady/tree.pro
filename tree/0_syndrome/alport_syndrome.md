@@ -1,15 +1,15 @@
 # .
 
+Syndrome of ears, eyes, and kidneys caused by type 4 collagen problem.
+
 # <
 
 Type 4 collagen
 
 # >
 
-Retinopathy
-
-Anterior lenticonus
+Lenticonus
 
 Nephritic syndrome
 
-Hearing deficit
+Hearing defect

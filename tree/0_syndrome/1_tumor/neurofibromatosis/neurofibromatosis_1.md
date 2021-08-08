@@ -1,5 +1,7 @@
 # .
 
+The most common neurofibromatosis.
+
 # <
 
 NF1
@@ -13,3 +15,7 @@ PHEOCHROMOCYTOMA
 Cafe-au-lait spot
 
 Mediastinal mass, posterior
+
+Scoliosis
+
+Freckle, armpit and groin

@@ -1,6 +1,16 @@
 # .
 
+Syndrome caused by childhood overgrowth.
+
+10% of cases develop Wilms tumor.
+
 # <
+
+Infant
+
+Preschool child
+
+Child
 
 WT2
 
@@ -15,3 +25,5 @@ Organomegaly
 Hemihyperplasia
 
 Omphalocele
+
+Macrosomia

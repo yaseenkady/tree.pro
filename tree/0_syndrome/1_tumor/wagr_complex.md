@@ -1,6 +1,10 @@
 # .
 
+Syndrome of W(ilms tumor), A(niridia), G(enitourinary), and R(etardation).
+
 # <
+
+Rare
 
 WT1
 
@@ -10,6 +14,6 @@ Wilms tumor
 
 Aniridia
 
-Genitourinary malformations
+Genitourinary abnormality
 
-Developmental defect
+Retardation

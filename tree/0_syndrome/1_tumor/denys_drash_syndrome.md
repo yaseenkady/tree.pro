@@ -1,0 +1,21 @@
+# .
+
+Syndrome of pseudohermaphroditism, (nephrotic syndrome progressing to) renal mesangial sclerosis, and Wilm tumor.
+
+# <
+
+Infant
+
+Preschool child
+
+WT1
+
+# >
+
+Wilms tumor
+
+Nephrotic syndrome
+
+Renal mesangial sclerosis
+
+Pseudohermaphroditism
