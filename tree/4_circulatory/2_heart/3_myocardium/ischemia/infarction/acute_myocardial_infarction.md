@@ -1,7 +1,0 @@
-# .
-
-# <
-
-# >
-
-HYPEROSMOLAR HYPERGLYCEMIC STATE

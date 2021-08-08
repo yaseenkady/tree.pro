@@ -1,14 +1,12 @@
 # .
 
-Subendocardial infarction.
+Subendocardial myocardial infarction.
 
 # <
 
 # >
 
 LEFT BUNDLE BRANCH BLOCK
-
-MYOCARDIAL INFARCTION
 
 ST ELEVATION MYOCARDIAL INFARCTION
 

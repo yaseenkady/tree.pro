@@ -1,6 +1,8 @@
 # .
 
-Compression of heart by fluid.
+Pericardial effusion compressing the heart.
+
+Acute or subacute.
 
 # <
 

@@ -1,8 +1,6 @@
 # .
 
-Often asymptomatic.
-
-Ranking of occlusion: left anterior descending, right anterior, and circumflex.
+Coronary artery narrowing.
 
 # <
 
@@ -25,6 +23,8 @@ Sedentary lifestyle
 Smoking
 
 Obesity
+
+Asymptomatic
 
 # >
 

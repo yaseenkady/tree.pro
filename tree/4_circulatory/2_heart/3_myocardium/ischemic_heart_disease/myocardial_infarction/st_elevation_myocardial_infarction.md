@@ -1,12 +1,10 @@
 # .
 
-Transmural infarction.
+Transmural myocardial infarction.
 
 # <
 
 # >
-
-MYOCARDIAL INFARCTION
 
 PERICARDITIS
 
