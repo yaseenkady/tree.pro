@@ -1,5 +1,7 @@
 # .
 
+High urea in serum.
+
 # <
 
 Urinary tract obstruction

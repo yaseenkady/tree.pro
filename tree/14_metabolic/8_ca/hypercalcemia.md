@@ -1,5 +1,7 @@
 # .
 
+High Ca in serum.
+
 Most hypercalcemia is diagnosed in asymptomatic people.
 
 Rarely causes heart disease.

@@ -2,7 +2,7 @@
 
 Anion gap greater than 12.
 
-H from extra sources like ketoacids.
+Extra sources like ketoacids add H.
 
 # <
 

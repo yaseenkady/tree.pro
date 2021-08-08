@@ -1,5 +1,7 @@
 # .
 
+High glucose in serum.
+
 # <
 
 # >

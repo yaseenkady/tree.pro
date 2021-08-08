@@ -1,7 +1,11 @@
 # .
 
+Low vitamin B1.
+
 # <
 
-Low diet B1
+Low diet vitamin B1
 
 # >
+
+Dilated cardiomyopathy

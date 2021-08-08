@@ -2,6 +2,8 @@
 
 # <
 
+Hydrochlorothiazide
+
 Gastrointestinal bleeding
 
 Diarrhea
@@ -33,3 +35,11 @@ Nephrotic syndrome
 # >
 
 Oliguria
+
+HYPOVOLEMIC SHOCK
+
+THROMBOCYTOPENIA
+
+High hematocrit
+
+Metabolic alkalosis

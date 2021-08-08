@@ -1,8 +1,10 @@
 # .
 
-High serum pH.
+Low H in serum.
 
-Caused by H loss in GI or kidney or hypokalemia causing not enough H exiting cells.
+GI or kidneys lose H.
+
+Hypokalemia fail to pump out H from cells.
 
 # <
 

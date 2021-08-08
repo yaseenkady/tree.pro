@@ -1,5 +1,7 @@
 # .
 
+Low glucose in serum.
+
 Below 55mg/dl is emergency.
 
 # <

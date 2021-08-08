@@ -1,5 +1,7 @@
 # .
 
+Dilute urine.
+
 # <
 
 Diabetes insipidus
