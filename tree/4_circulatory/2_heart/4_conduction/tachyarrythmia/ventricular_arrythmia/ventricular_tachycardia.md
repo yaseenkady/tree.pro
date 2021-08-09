@@ -1,0 +1,9 @@
+# .
+
+Ventricle-originating regular heartbeat with 150 to 250 beats per minute.
+
+# <
+
+# >
+
+TACHYCARDIA

@@ -1,6 +1,6 @@
 # .
 
-Polymorphic ventricular tachycardia.
+Ventricular tachyarrythmia that is polymorphic.
 
 # <
 
@@ -9,6 +9,12 @@ Congenital heart disease
 Recreational drug
 
 Hypomagnesimia
+
+Long QT
+
+Diarrhea
+
+Hypokalemia
 
 # >
 

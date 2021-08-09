@@ -1,8 +1,6 @@
 # .
 
-Arrhythmia from an extra electric pathway between atria and ventricles.
-
-Curable with ablation.
+Extra conduction path between atria and ventricles.
 
 # <
 
@@ -29,3 +27,5 @@ Short PR
 Wide QRS
 
 D wave
+
+Asymptom; 40%
