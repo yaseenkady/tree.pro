@@ -1,14 +1,14 @@
 # .
 
-90% of cardiomyopathy.
+Myocardium dilation.
 
 Idiopathic or familial.
+
+90% of cardiomyopathy.
 
 Systolic dysfunction.
 
 # <
-
-Infection
 
 Peripartum
 

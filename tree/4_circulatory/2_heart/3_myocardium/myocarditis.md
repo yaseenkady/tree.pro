@@ -1,10 +1,10 @@
 # .
 
-Major cause of sudden cardiac death in adults younger than 40.
+Myocardium inflammation.
+
+Major cause of sudden cardiac death in young adults younger than 40.
 
 # <
-
-Infection
 
 Autoimmunity
 

@@ -1,0 +1,13 @@
+# .
+
+Sympathetic stimulation balooning myocardium.
+
+# <
+
+Stress
+
+Recreational drug
+
+# >
+
+Chest pain

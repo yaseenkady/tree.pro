@@ -1,0 +1,17 @@
+# .
+
+Ventricular wall rupture.
+
+Left ventricular hypertrophy and previous myocardial infarction are protective.
+
+# <
+
+# >
+
+CARDIAC TAMPONADE
+
+HYPOTENSION
+
+PAPILLARY MUSCLE RUPTURE
+
+Jagular vein distention

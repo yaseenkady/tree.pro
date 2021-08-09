@@ -1,9 +1,13 @@
 # .
 
-70% of cases are due to coronary artery disease.
-
-Others are due to hypertrophy, dilation, and ion channelopathy.
+Death from heart problem.
 
 # <
+
+Coronary artery disease; 70%
+
+Cardiomyopathy
+
+Channelopathy
 
 # >

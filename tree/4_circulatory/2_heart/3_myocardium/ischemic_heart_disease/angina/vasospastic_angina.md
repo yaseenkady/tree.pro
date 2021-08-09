@@ -1,6 +1,6 @@
 # .
 
-Due to coronary artery spasm.
+Angina from coronary artery spasm.
 
 # <
 

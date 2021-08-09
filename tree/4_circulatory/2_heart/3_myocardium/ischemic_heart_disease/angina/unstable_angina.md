@@ -1,6 +1,6 @@
 # .
 
-Sensation from ruptured atherosclerotic plaque occluding incompletely.
+First or persistent angina.
 
 # <
 

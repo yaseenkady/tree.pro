@@ -1,9 +1,0 @@
-# .
-
-# <
-
-# >
-
-ARRHYTHMIA
-
-BRADYCARDIA
