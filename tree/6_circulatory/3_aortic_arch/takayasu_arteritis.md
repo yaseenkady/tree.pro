@@ -1,0 +1,19 @@
+# .
+
+(Aortic arch syndrome, nonspecific aortoarteritis, or pulseless disease)
+
+Aortic arch granulomatous vasculitis.
+
+# <
+
+Female
+
+Adolescent
+
+Middle aged
+
+Asian
+
+# >
+
+SUBCLAVIAL STEAL SYNDROME

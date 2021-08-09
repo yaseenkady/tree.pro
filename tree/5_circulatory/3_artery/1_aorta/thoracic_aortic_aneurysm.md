@@ -1,9 +1,0 @@
-# .
-
-# <
-
-# >
-
-AORTIC ANEURYSM
-
-Aortic murmur

@@ -1,0 +1,21 @@
+# .
+
+Aorta local dilation.
+
+# <
+
+Middle aged
+
+Elderly
+
+Male
+
+Smoking
+
+# >
+
+Abdominal pain
+
+Back pain
+
+Aortic murmur

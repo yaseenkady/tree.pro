@@ -1,14 +1,14 @@
 # .
 
-Often idiopathic.
+Pulmonary artery smooth muscle proliferation and narrowing.
 
-Loss of function of BMPR2, which inhibits vascular smooth muscle proliferation.
+Commonly idiopathic.
 
 Poor prognosis.
 
 # <
 
-BMPR2
+BMPR2; Loss of function
 
 Female
 

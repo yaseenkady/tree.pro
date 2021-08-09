@@ -1,7 +1,0 @@
-# .
-
-# <
-
-# >
-
-SUBCLAVIAL STEAL SYNDROME
