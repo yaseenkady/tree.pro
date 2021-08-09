@@ -1,5 +1,7 @@
 # .
 
+(Ischemic heart disease)
+
 Coronary artery narrowing.
 
 # <
@@ -30,8 +32,6 @@ Asymptomatic
 
 # >
 
-ACUTE CORONARY SYNDROME
-
 ATRIAL FIBRILLATION
 
 DILATED CARDIOMYOPATHY
@@ -42,6 +42,6 @@ OBSTRUCTIVE SLEEP APNEA
 
 SUDDEN CARDIAC DEATH
 
-Pitting edema
-
 Murmur
+
+S4

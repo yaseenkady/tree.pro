@@ -1,0 +1,19 @@
+# .
+
+Na channel defect.
+
+# <
+
+SCN; Loss of function; Dominant
+
+Male
+
+Asian
+
+# >
+
+ST elevation in V1 and V2
+
+SUDDEN CARDIAC DEATH
+
+Ventricular tachyarrythmia

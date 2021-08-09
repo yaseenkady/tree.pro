@@ -1,0 +1,7 @@
+# .
+
+Ventricular hypertrophy obstructing blood flow.
+
+# <
+
+# >

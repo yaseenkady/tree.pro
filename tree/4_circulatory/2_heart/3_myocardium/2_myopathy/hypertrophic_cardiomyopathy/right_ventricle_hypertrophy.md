@@ -1,7 +1,0 @@
-# .
-
-Right ventricle hypertrophy.
-
-# <
-
-# >

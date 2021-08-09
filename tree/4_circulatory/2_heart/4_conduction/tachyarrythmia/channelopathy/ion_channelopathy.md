@@ -1,7 +1,0 @@
-# .
-
-# <
-
-# >
-
-SUDDEN CARDIAC DEATH
