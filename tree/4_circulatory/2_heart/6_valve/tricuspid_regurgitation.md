@@ -1,7 +1,0 @@
-# .
-
-# <
-
-# >
-
-Systolic murmur

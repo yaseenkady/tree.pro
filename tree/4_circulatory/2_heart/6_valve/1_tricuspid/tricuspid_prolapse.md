@@ -1,0 +1,11 @@
+# .
+
+Tricuspid valve flops backward.
+
+Rare.
+
+# <
+
+# >
+
+Tricuspid regurgitation

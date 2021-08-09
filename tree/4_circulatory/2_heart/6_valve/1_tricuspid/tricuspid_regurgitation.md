@@ -1,0 +1,11 @@
+# .
+
+# <
+
+# >
+
+Systolic murmur
+
+Asymptom
+
+Right atrial enlargement

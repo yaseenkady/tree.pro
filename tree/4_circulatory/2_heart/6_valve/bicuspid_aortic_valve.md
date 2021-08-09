@@ -1,9 +1,0 @@
-# .
-
-# <
-
-# >
-
-AORTIC DISSECTION
-
-THORACIC AORTIC ANEURYSM
