@@ -1,6 +1,6 @@
 # .
 
-Serous pericardium inflammation.
+Pericardium inflammation.
 
 # <
 

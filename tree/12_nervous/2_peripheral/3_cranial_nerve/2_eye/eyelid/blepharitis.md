@@ -1,6 +1,6 @@
 # .
 
-Eyelid inflammation.
+Eyelid chronic inflammation.
 
 # <
 
@@ -31,3 +31,5 @@ Varicella zoster virus
 Molluscum contagiosum
 
 # >
+
+Eyelid redness; Always edge
