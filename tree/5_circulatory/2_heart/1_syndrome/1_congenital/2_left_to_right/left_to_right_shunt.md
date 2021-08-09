@@ -1,0 +1,17 @@
+# .
+
+Oxygenated blood mixes with deoxygenated blood.
+
+# <
+
+Ventricular septal defect; The most common
+
+Atrial septal defect; The 2nd most common
+
+Patent ductus arteriosus; The 3rd most common
+
+# >
+
+EISENMENGER SYNDROME
+
+Cyanosis; Later in life

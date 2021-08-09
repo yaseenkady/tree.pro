@@ -1,9 +1,0 @@
-# .
-
-# <
-
-Metoprolol
-
-B blocker
-
-# >

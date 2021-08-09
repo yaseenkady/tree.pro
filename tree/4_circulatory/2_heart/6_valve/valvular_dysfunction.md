@@ -1,7 +1,0 @@
-# .
-
-# <
-
-# >
-
-CARDIOGENIC SHOCK

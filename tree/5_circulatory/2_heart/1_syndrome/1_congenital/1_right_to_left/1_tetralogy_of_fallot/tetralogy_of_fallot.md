@@ -1,0 +1,21 @@
+# =
+
+RIGHT TO LEFT SHUNT
+
+# .
+
+# <
+
+Infant
+
+# >
+
+OVERRIDING AORTA
+
+PULMONARY INFUNDIBULAR STENOSIS
+
+RIGHT VENTRICLE HYPERTROPHY
+
+VENTRICULAR SEPTAL DEFECT
+
+Cyanosis; The most common casue of infant cyanosis
