@@ -1,6 +1,6 @@
 # .
 
-Treat with pacemaker.
+AVN conduction with regular blockage.
 
 # <
 

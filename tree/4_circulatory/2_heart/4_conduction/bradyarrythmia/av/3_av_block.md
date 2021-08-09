@@ -1,0 +1,7 @@
+# .
+
+AVN conduction failure where atria beat independently of and faster than ventricles.
+
+# <
+
+# >
