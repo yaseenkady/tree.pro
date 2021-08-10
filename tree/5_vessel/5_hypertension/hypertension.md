@@ -1,14 +1,14 @@
 # .
 
-3% of cases are due to hypothyroidism.
+Blood pressure persistently greater than 130 80.
 
-10% of cases are secondary due to kidney and or kidey ovascular disease.
-
-90% of cases are primary due to increased cardiac output and or total peripheral resistance.
-
-Persistently more than 130/80mmHg.
+90% of cases are from increased cardiac output and or peripheral resistance.
 
 # <
+
+Hypothyroidism; 3%
+
+Kidney disease; 10%
 
 Middle aged
 
@@ -42,13 +42,7 @@ ATHEROSCLEROSIS
 
 ATRIAL FIBRILLATION
 
-CORONARY ARTERY DISEASE
-
 DIABETES MELLITUS 2
-
-DIABETIC RETINOPATHY
-
-HEART FAILURE
 
 HYPERTENSIVE NEPHROPATHY
 
@@ -62,10 +56,18 @@ MICROALBUMINURIA
 
 OBSTRUCTIVE SLEEP APNEA
 
-RETINOPATHY
-
 STROKE
 
-THORACIC AORTIC ANEURYSM
+ACUTE KIDNEY INJURY
 
-Proteinuria
+ECLAMPSIA
+
+ENCEPHALOPATHY
+
+MICROANGIOPATHIC HEMOLYTIC ANEMIA
+
+MYOCARDIAL INFARCTION
+
+Retinal hemorrhage
+
+Papilledema
