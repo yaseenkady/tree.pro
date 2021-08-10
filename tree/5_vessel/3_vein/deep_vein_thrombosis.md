@@ -1,24 +1,16 @@
 # .
 
-Stasis, hypercoagulability, and endothelial damage are risk factors.
-
-Most pulmonary emboli arise from proximal deep veins of lower extremity.
+Venous thrombosis.
 
 # <
 
-Factor 5 laden
-
-Oral contraceptive
-
-Pregnancy
+Hypercoagulability
 
 # >
 
 PULMONARY EMBOLISM
 
-Unilateral leg swelling
-
-Warmth
+Leg swelling, unilateral
 
 Leg pain
 
