@@ -1,9 +1,0 @@
-# .
-
-# <
-
-Hypoventilation
-
-# >
-
-Low serum pH

@@ -1,9 +1,0 @@
-# .
-
-Hey fever.
-
-# <
-
-# >
-
-COUGH

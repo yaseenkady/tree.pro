@@ -1,5 +1,7 @@
 # .
 
+Pharynx inflammatory obstruction.
+
 # <
 
 # >

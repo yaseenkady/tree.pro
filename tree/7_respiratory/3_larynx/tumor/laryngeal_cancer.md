@@ -1,0 +1,21 @@
+# .
+
+Larynx malignant tumor.
+
+Commonly squamous cell carcinoma.
+
+# <
+
+Tabacco
+
+Alcohol
+
+# >
+
+COUGH
+
+Discharge
+
+Epistaxis
+
+Hearing deficit

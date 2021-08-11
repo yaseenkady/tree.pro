@@ -1,5 +1,7 @@
 # .
 
+Pharynx obstruction from aspiration.
+
 # <
 
 # >

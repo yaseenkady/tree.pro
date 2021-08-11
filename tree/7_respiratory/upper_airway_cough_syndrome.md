@@ -1,9 +1,0 @@
-# .
-
-Post nasal drip.
-
-# <
-
-# >
-
-COUGH
