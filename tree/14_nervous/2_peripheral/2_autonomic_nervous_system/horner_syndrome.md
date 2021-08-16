@@ -1,12 +1,10 @@
 # .
 
-Oculosympathetic paresis.
+(Oculosympathetic paresis)
 
-Damaged sympathetic trunk.
+Syndrome of damaged sympathetic trunk resulting in ipsilateral problems.
 
 # <
-
-Superior vena cava syndrome
 
 # >
 
@@ -15,3 +13,11 @@ Miosis
 Ptosis
 
 Anhydrosis
+
+Hoarseness
+
+Cough
+
+Facial flushing
+
+Headache

@@ -1,10 +1,10 @@
 # =
 
-Pneumoconioses
+Pneumoconiosis
 
 # .
 
-Lower lobe.
+Asbestos in lower lobe.
 
 # <
 

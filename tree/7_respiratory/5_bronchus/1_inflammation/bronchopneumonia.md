@@ -1,6 +1,10 @@
+# =
+
+Pneumonia
+
 # .
 
-Patchy infiltration 1 or more lobes of both lungs.
+Acute inflammation of bronchi involving nearby lobes.
 
 # <
 

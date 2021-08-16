@@ -1,10 +1,12 @@
+# =
+
+Pneumonia
+
 # .
 
-Atypical pneumonia.
+(Atypical pneumonia or walking pneumonia)
 
-Walking pneumonia.
-
-Diffure and patchy pneumonia localized to interstitium.
+Diffure and patchy inflammation localized to interstitium.
 
 # <
 

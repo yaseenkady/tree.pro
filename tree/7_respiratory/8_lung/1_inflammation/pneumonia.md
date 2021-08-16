@@ -1,5 +1,7 @@
 # .
 
+Lung inflammation.
+
 Unlikely in the absence of fever or cough.
 
 # <

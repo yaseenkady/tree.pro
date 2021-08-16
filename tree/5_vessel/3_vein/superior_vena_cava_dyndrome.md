@@ -4,8 +4,10 @@ Superior vena cava obstruction.
 
 # <
 
-Lung tumor; Common
+Lung cancer; Common
 
 # >
 
 Intracranial hypertension
+
+Horner Syndrome

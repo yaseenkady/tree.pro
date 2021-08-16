@@ -1,9 +1,0 @@
-# .
-
-Upper lobe.
-
-# <
-
-Coal
-
-# >

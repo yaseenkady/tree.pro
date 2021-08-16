@@ -1,6 +1,10 @@
+# =
+
+Pneumonia
+
 # .
 
-Lobar or whole lung.
+Inflammation of intra-alveolar space with continuous consolidation.
 
 # <
 
