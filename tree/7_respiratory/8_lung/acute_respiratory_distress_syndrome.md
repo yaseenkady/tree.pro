@@ -4,15 +4,11 @@ Restrictive lung disease
 
 # .
 
-Triggered by alveolar insult.
-
-Sepsis is the most common cause.
-
-Diffuse.
+Diffuse fluid build up in alveolar space.
 
 # <
 
-Sepsis
+Sepsis; The most common
 
 Aspiration
 

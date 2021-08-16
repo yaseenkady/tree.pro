@@ -59,3 +59,5 @@ Hemoptysis
 S3 gallop
 
 Oliguria
+
+Chronic thromboembolic pulmonary hypertension

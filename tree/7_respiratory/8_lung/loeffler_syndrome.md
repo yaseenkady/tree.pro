@@ -1,6 +1,6 @@
 # .
 
-Eosinophilic pneumonitis.
+Response to parasite results in eosinophilic pneumonitis.
 
 # <
 
@@ -15,3 +15,5 @@ Wheezing
 Chest pain
 
 Bronchial pneumonia
+
+Fever

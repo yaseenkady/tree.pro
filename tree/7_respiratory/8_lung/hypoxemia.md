@@ -6,7 +6,7 @@ Low blood O2.
 
 # >
 
-HYPOXEMIA
+HYPOXIA
 
 Delirium
 

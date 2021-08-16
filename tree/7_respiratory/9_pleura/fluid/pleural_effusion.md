@@ -1,5 +1,7 @@
 # .
 
+Fluid in pleural space.
+
 Crackle heard at the edge of effusion.
 
 Cloudy exudate if fluid-serum ratio of protein is more than 0.5, LDH is more than 0.6 or 0.666 upper limit.

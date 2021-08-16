@@ -1,6 +1,10 @@
+# =
+
+Pneumothorax
+
 # .
 
-Result of increased pneumothorax air trapping.
+Pneumothorax pushing things away.
 
 # <
 

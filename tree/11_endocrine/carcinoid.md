@@ -35,3 +35,5 @@ High serum glucagon
 High serum insulin
 
 High serum somatostatin
+
+Carcinoid syndrome; 5%

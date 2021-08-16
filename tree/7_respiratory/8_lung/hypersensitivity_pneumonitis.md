@@ -4,7 +4,7 @@ Interstitial lung disease
 
 # .
 
-Self limited.
+Allergen inflaming lung.
 
 # <
 

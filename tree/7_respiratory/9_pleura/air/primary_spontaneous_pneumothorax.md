@@ -1,6 +1,10 @@
+# =
+
+Pneumothorax
+
 # .
 
-Due to rupture.
+Rupture resulting in pneumothorax.
 
 # <
 

@@ -4,6 +4,8 @@ Interstitial lung disease
 
 # .
 
+Idiopathic lung fibrosis.
+
 # <
 
 Smoking
