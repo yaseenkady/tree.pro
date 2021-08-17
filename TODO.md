@@ -2,7 +2,7 @@
 
 - [x] First Aid
 - [x] Science of Medicine cases
-- [ ] Practice of Medicine cases
+- [x] Practice of Medicine cases
 
 - [ ] Chapter 9: Chest pain
 - [ ] Chapter 23: Hypertension
@@ -15,7 +15,7 @@
 
 - [x] First Aid
 - [x] Science of Medicine cases
-- [ ] Practice of Medicine cases
+- [x] Practice of Medicine cases
 
 - [ ] Chapter 30: Sore throat
 - [ ] Chapter 10: Cough, fever, and respiratory infections
@@ -100,11 +100,11 @@
 
 ##
 
-- [ ] CR exam 3
-- [ ] CR exam 4
-- [ ] CR exam 4.2
-- [ ] CR exam 5
-- [ ] CR exam 5.2
+- [x] CR exam 3
+- [x] CR exam 4
+- [x] CR exam 4.2
+- [x] CR exam 5
+- [x] CR exam 5.2
 - [x] Case 1
 - [x] Case 2
 - [x] Case 3
@@ -112,9 +112,9 @@
 - [x] Case 5
 - [x] Case 6
 - [x] Case 7
-- [ ] Case 8
-- [ ] Case 9
-- [ ] Case 10
+- [x] Case 8
+- [x] Case 9
+- [x] Case 10
 - [ ] Case 11
 - [ ] Case 12
 - [ ] Case 13
