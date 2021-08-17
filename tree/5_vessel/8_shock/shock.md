@@ -32,8 +32,6 @@ TACHYCARDIA
 
 WATERSHED STROKE
 
-Dyspnea
-
 Oliguria
 
 Mental status change

@@ -1,6 +1,8 @@
 # .
 
-High urea in serum.
+(Uremic syndrome)
+
+Secere azotemia.
 
 # <
 
@@ -18,6 +20,8 @@ Shock
 
 High diet protein
 
+Kidney failure
+
 # >
 
 PERICARDITIS
@@ -33,3 +37,13 @@ Asterixis
 Pericarditis
 
 Coagulopathy
+
+Fatigue
+
+Vomiting
+
+Tremor
+
+Mental status change
+
+Metabolic acidosis
