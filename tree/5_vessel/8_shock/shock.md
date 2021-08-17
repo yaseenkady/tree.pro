@@ -53,3 +53,7 @@ High serum creatinine
 High serum troponin
 
 Low serum bicarbonate
+
+Oliguria
+
+Acidosis

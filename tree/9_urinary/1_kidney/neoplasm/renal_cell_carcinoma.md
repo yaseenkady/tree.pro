@@ -33,3 +33,5 @@ High serum erythropoietin
 High serum adrenocorticotropic hormone
 
 High serum renin
+
+Dark urine

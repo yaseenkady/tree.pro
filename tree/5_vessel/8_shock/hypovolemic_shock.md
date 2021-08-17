@@ -20,6 +20,8 @@ Hemorrhage
 
 Burn
 
+Bleeding
+
 # >
 
 Cold and clammy skin

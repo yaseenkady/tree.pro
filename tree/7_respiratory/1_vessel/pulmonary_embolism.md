@@ -22,6 +22,22 @@ Peripartum
 
 Cancer
 
+Cancer
+
+Hypercoagulability
+
+Nephrotic syndrome
+
+Hyperestrogenism
+
+Obesity
+
+Diabetes mellitus
+
+Glucocorticoid
+
+Deep vein thrombosis
+
 # >
 
 HYPOXEMIA
@@ -36,19 +52,7 @@ RIGHT HEART FAILURE
 
 TACHYCARDIA
 
-Unilateral chest pain
-
-Acute chest pain
-
-Sharp chest pain
-
-Non-radiating chest pain
-
-Lateral chest pain
-
-Non-exertional chest pain
-
-Pleuritic chest pain
+Chest pain; Acute; Unilateral; Sharp; Non-radiating; Pleuritic; Non-exertional
 
 Dizziness
 
@@ -61,3 +65,7 @@ S3 gallop
 Oliguria
 
 Chronic thromboembolic pulmonary hypertension
+
+Fever
+
+ST elevation

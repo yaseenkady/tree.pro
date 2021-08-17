@@ -18,7 +18,7 @@ Obesity
 
 Fatigue
 
-Exertional chest pain
+Exertional chest pain; Can be prandial
 
 Dizziness
 

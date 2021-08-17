@@ -39,3 +39,7 @@ Acute kidney injury
 High serum urea
 
 High serum creatinine kinase
+
+High serum AST
+
+Dark urine

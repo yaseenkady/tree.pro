@@ -4,30 +4,32 @@ Aorta longitudinal intimal tear forming a false lumen.
 
 # <
 
+Male
+
 Elderly
 
 Hypertension
 
 Smoking
 
+Atherosclerosis
+
+Bicuspid aortic valve
+
+Marfan syndrome
+
+Surgery
+
 # >
 
 AORTIC RUPTURE
 
-Substernal pain
-
-Acute chest pain
-
-Non-pleuritic chest pain
-
-Chest pain radiating to back
-
-Tearing chest pain
-
-Non-exertional chest pain
+Chest pain; Acute; Substernal; Teating; Non-pleuritic; Radiates to back; Non-exertional
 
 Asymmetric arm blood pressure
 
 Diastolic murmur
 
-Abdominal pain, radiating to back
+Dyspnea
+
+Cardiogenic shock

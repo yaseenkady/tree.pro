@@ -71,3 +71,5 @@ Fine crackle
 Proteinuria
 
 Oliguria
+
+Orthostatic hypotension

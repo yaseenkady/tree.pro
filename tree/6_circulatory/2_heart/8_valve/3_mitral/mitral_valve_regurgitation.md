@@ -2,8 +2,10 @@
 
 # <
 
+Rheumatic heart disease
+
 # >
 
-Systolic murmur
+Holosystolic murmur; Heard at apex; Radiates to axilla
 
 Left atrial enlargement

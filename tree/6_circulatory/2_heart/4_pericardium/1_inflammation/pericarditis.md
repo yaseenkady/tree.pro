@@ -2,11 +2,17 @@
 
 Pericardium inflammation.
 
+Idiopathic is the 2nd most common cause.
+
 # <
 
 Virus; The most common
 
 Myocardial infarction, 10% myocardial infarction within 24 to 96 hours
+
+Autoimmunity
+
+Uremia
 
 # >
 
@@ -21,3 +27,15 @@ ST elevation
 PR depression
 
 Constrictive pericarditis
+
+Orthostatic hypotension
+
+Fatigue
+
+TP downsloping
+
+T inversion
+
+High serum ESR
+
+High serum CRP

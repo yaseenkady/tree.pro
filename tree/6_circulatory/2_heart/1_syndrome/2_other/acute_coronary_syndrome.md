@@ -10,21 +10,25 @@ Smoking
 
 Obesity
 
+Male
+
+Elderly
+
+Hypertension
+
+Hyperlipidemia
+
+Diabetes mellitus
+
+Obesity
+
 # >
 
 SYNCOPY
 
 Fatigue
 
-Pressure chest pain; 25%
-
-Acute chest pain
-
-Non-pleuritic chest pain
-
-Chest pain radiating to arm or jaw
-
-Exertional chest pain
+Chest pain; 25%; Acute; Dull; Pressure; Non-pleuritic; Radiates to either or both arm or jaw; Exertional
 
 Dyspnea
 
@@ -35,3 +39,7 @@ Jagular vein distention
 S3 gallop
 
 Crackle
+
+Nausea
+
+S4; Uncommon

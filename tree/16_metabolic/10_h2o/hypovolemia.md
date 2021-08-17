@@ -45,3 +45,5 @@ THROMBOCYTOPENIA
 High hematocrit
 
 Metabolic alkalosis
+
+Dark urine

@@ -4,8 +4,4 @@
 
 # >
 
-Fatigue
-
-Paresthesia
-
 Orthostatic hypotension

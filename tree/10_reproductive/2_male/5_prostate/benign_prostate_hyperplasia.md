@@ -35,3 +35,5 @@ Oliguria
 Abdominal distention, dilated bladder
 
 PostRenal azotemia
+
+Dark urine

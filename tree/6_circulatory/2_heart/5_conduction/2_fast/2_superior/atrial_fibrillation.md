@@ -6,6 +6,8 @@ Atria beat fast and irregularly, not spreading to ventricles.
 
 Alcohol; Common; Holiday heart syndrome
 
+Hypertension
+
 # >
 
 Irregularly irregular

@@ -6,6 +6,6 @@ AVN conduction with regular blockage.
 
 # >
 
-3 AV BLOCK
+Atrioventricular block 3
 
 Constant PR and a drop

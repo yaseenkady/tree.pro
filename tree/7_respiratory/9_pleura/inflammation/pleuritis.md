@@ -8,9 +8,7 @@ Infection
 
 # >
 
-Lateral chest pain
-
-Pleuritic chest pain
+Chest pain; Unilateral; Pleuritic
 
 Dyspnea
 

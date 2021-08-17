@@ -146,14 +146,6 @@ Drug use.
 Sexual worker.
 Men to have sex with men.
 
-## Gallery
-
-![](2.jpeg)
-
-![](3.jpeg)
-
-![](4.jpeg)
-
 # v
 
 # >
@@ -167,3 +159,5 @@ MYOCARDITIS
 Fatigue
 
 Weight loss
+
+Orthostatic hypotension

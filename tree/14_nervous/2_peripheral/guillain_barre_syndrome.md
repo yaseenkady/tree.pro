@@ -1,9 +1,0 @@
-# .
-
-# <
-
-Autoimmunity
-
-# >
-
-Restrictive lung disease

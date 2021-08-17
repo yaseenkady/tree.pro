@@ -16,19 +16,19 @@ Obesity
 
 # >
 
-COUGH, episodic
+Cough, episodic
 
-Chest pain
+Chest pain; Episodic
 
 Pulsus paradoxus
 
-Wheezing, episodic
+Wheezing; Episodic
 
-Tachypnea, episodic
+Tachypnea; Episodic
 
-dyspnea, episodic
+Dyspnea; Episodic
 
-hypoxemia, episodic
+Hypoxemia; Episodic
 
 Hyperresonance
 

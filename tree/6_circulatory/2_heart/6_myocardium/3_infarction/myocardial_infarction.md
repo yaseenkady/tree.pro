@@ -46,7 +46,7 @@ VENTRICULAR PSEUDOANEURYSM; 3 to 14 days
 
 Fatigue
 
-Exertional chest pain
+Exertional chest pain; Lasts for hours
 
 Dizziness
 
@@ -55,3 +55,7 @@ Dyspnea; The most common
 Nausea; Common
 
 High serum troponin; 4 hours; Diagnostic requirement
+
+Orthostatic hypotension
+
+Q wave; Happens several hours later

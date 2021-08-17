@@ -35,3 +35,5 @@ High serum osmolality
 Low urine osmolality
 
 Low urine specific gravity
+
+Orthostatic hypotension

@@ -12,4 +12,4 @@ Transmural myocardial infarction.
 
 ST elevation
 
-Q wave
+Q wave; Happens several hours later

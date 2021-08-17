@@ -15,5 +15,3 @@ Asbestos
 Bronchogenic carcinoma
 
 Mesothelioma
-
-Caplan syndrome

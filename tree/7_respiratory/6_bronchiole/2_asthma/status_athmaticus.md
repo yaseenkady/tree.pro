@@ -5,3 +5,5 @@ Asthma attack
 # <
 
 # >
+
+Pulsus paradoxus

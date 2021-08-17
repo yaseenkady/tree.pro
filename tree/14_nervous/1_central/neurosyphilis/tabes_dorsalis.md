@@ -13,3 +13,5 @@ Areflexia
 Ataxia
 
 Wide gait
+
+Orthostatic hypotension

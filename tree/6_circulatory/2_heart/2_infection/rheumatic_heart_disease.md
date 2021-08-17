@@ -12,6 +12,4 @@ MITRAL STENOSIS
 
 MYOCARDITIS
 
-Mitral murmur
-
-Aortic murmur
+Heart valve disease

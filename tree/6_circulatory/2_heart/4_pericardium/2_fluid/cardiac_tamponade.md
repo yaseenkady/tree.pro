@@ -14,7 +14,7 @@ OBSTRUCTIVE SHOCK
 
 TACHYCARDIA
 
-Pulsus paradoxus
+Pulsus paradoxus; Classic finding
 
 Decreased heart sound
 

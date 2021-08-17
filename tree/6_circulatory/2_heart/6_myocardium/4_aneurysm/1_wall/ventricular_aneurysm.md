@@ -7,3 +7,5 @@ Ventricular wall bulging out.
 Myocardial infarction; 3-15%
 
 # >
+
+ST elevation; Persistent

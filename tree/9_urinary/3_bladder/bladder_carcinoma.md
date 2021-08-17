@@ -15,3 +15,5 @@ Chronic kidney stone
 # >
 
 Hematuria
+
+Dark urine
