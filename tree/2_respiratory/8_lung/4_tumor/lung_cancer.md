@@ -20,7 +20,7 @@ Pulmonary fibrosis
 
 # >
 
-COUGH
+COUGH; Progressive
 
 Hemoptysis
 
@@ -49,3 +49,5 @@ Pleural effusion
 Pericardial effusion
 
 Hoarseness
+
+Dyspnea; Progressive

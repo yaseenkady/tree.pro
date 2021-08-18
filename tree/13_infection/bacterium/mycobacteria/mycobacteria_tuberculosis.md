@@ -198,3 +198,7 @@ High serum vitamin D
 Clubbing
 
 Lung cavity
+
+Dyspnea
+
+Cough; Productive; Progressive

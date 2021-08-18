@@ -18,6 +18,8 @@ Wet means volume overload, associated with: dyspnea, orthopnea, pitting edema, h
 
 # <
 
+Acute coronary syndrome; The most common
+
 Infection
 
 Glucocorticoid
@@ -58,7 +60,7 @@ Nocturia
 
 Jagular vein distention
 
-S3
+S3; Not sensitive
 
 Pitting edema
 

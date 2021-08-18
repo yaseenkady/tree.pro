@@ -1,3 +1,7 @@
+# =
+
+Interstitial lung disease
+
 # .
 
 Response to parasite results in eosinophilic pneumonitis.
@@ -5,8 +9,6 @@ Response to parasite results in eosinophilic pneumonitis.
 # <
 
 # >
-
-Cough
 
 Hemoptysis
 

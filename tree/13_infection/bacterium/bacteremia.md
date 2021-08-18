@@ -4,6 +4,6 @@
 
 # >
 
-Septic shock
+Sepsis
 
 Disseminated intravascular coagulation

@@ -19,3 +19,5 @@ Radiation
 # >
 
 Dyspnea; Short and shallow
+
+Low DLCO

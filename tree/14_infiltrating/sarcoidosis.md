@@ -18,7 +18,7 @@ Female
 
 # >
 
-Pulmonary sarcoidosis; 90%
+Pulmonary sarcoidosis; Interstitial lung disease; 90%
 
 Lymphadenopathy
 

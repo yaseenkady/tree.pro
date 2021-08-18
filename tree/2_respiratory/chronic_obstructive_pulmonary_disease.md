@@ -20,7 +20,7 @@ Smoking
 
 Fatigue
 
-Dyspnea
+Dyspnea; Progressive
 
 Pulsus paradoxus
 
@@ -34,6 +34,6 @@ Hyperresonance; Not during the initial presentation
 
 Prolonged expiratory phase
 
-COUGH
+COUGH; Progressive
 
 Crackle; Occasionally
