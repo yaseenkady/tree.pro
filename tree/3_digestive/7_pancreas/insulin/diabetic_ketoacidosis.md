@@ -49,3 +49,5 @@ High serum ketone
 Anion gap metabolic acidosis
 
 High urine ketone
+
+Dyspnea

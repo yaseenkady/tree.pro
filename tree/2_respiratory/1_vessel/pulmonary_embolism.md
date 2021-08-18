@@ -54,7 +54,7 @@ Chest pain; Acute; Unilateral; Sharp; Non-radiating; Pleuritic; Non-exertional
 
 Dizziness
 
-Dyspnea
+Dyspnea; Acute
 
 Hemoptysis
 
@@ -69,3 +69,5 @@ Fever
 ST elevation
 
 High serum troponin; 50%
+
+Obstructive shock; Massive embolus

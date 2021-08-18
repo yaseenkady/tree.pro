@@ -12,22 +12,24 @@ Obesity
 
 # >
 
-Cough, episodic
+Cough; Exacerbation
 
-Chest pain; Episodic
+Chest pain; Exacerbation
 
 Pulsus paradoxus
 
-Wheezing; Episodic; Not required
+Wheezing; Exacerbation; Not required
 
-Tachypnea; Episodic
+Tachypnea; Exacerbation
 
-Dyspnea; Episodic
+Dyspnea; Exacerbation
 
-Hypoxemia; Episodic
+Hypoxemia; Exacerbation
 
 Hyperresonance
 
 Status athmaticus
 
 Chronic obstructive lung disease
+
+Hypercapnia; Exacerbation

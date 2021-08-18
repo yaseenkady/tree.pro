@@ -14,15 +14,9 @@ TACHYCARDIA
 
 TENSION PNEUMOTHORAX
 
-Sharp chest pain
+Chest pain; Sharp; Non-radiating; Unilateral; Pleuritic
 
-Non-radiating chest pain
-
-Lateral chest pain
-
-Pleuritic chest pain
-
-Dyspnea
+Dyspnea; Acute
 
 Decreased breath sound
 
@@ -33,3 +27,5 @@ Hyperresonance
 Decreased fremitus
 
 Uneven chest expansion
+
+Hypoxemia

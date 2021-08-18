@@ -20,7 +20,7 @@ PEPTIC ULCER DISEASE
 
 UPPER GASTROINTESTINAL BLEEDING
 
-Chest pain, prandial
+Chest pain; Prandial
 
 Epigastric tenderness
 

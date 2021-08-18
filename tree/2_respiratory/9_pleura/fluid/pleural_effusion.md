@@ -41,3 +41,7 @@ Dullness to percussion
 Decreased fremitus
 
 Tracheal deviation, away
+
+Dyspnea; Acute
+
+Hypoxemia

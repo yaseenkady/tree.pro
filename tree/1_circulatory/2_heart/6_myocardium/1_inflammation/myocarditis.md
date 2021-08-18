@@ -28,7 +28,7 @@ HEART FAILURE
 
 TACHYCARDIA
 
-Non-exertional chest pain
+Chest pain; Non-exertional
 
 Dyspnea
 

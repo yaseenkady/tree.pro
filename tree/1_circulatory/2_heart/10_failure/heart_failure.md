@@ -44,7 +44,7 @@ SECONDARY HYPERALDOSTERONISM
 
 Fatigue
 
-Chest pain
+Chest pain; Exacerbation
 
 Dyspnea
 

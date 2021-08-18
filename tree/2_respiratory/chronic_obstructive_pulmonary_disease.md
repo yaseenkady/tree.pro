@@ -20,7 +20,7 @@ Smoking
 
 Fatigue
 
-Dyspnea; Progressive
+Dyspnea; Progressive; Acute in exacerbation
 
 Pulsus paradoxus
 
@@ -37,3 +37,5 @@ Prolonged expiratory phase
 COUGH; Progressive
 
 Crackle; Occasionally
+
+Hypercapnia; Exacerbation

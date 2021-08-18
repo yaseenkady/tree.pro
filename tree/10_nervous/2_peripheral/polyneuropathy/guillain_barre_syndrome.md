@@ -21,3 +21,5 @@ Surgery
 Restrictive lung disease
 
 Dyspnea; 15%
+
+Hypercapnia

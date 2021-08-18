@@ -12,17 +12,13 @@ ESOPHAGITIS
 
 LARYNGITIS
 
-Positional chest pain
-
-Burning abdominal pain
-
-Postprandial chest pain
+Chest pain; Positional; Burning; Prandial
 
 Dysphagia
 
 Regurgitation
 
-Chronic cough
+Cough; Chronic
 
 Hoarseness
 

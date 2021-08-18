@@ -10,7 +10,7 @@ Cough, Dry; Progressive
 
 Fine crackle
 
-Dyspnea; Progressive
+Dyspnea; Acute or progressive
 
 Hypoxemia; Progressive
 

@@ -8,8 +8,4 @@ Trauma
 
 FRACTURE
 
-Positional chest pain
-
-Pleuritic chest pain
-
-Chest wall tenderness
+Chest pain; Positional; Positional; Tender

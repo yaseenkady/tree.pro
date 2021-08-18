@@ -27,3 +27,5 @@ Coarse crackle
 Dullness to percussion
 
 PLEURAL EFFUSION
+
+Dyspnea; Acute

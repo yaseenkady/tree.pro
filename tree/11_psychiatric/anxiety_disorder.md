@@ -11,3 +11,5 @@ PANIC ATTACK
 Fatigue
 
 Anxiety
+
+Dyspnea
