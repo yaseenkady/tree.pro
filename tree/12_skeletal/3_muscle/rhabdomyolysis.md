@@ -1,5 +1,7 @@
 # .
 
+Rapid skeletal muscle breakdown.
+
 # <
 
 Atorvastatin
@@ -38,8 +40,16 @@ Acute kidney injury
 
 High serum urea
 
-High serum creatinine kinase
+High serum CPK
+
+High serum SGOT
+
+High serum SGPT
+
+High serum LDH
 
 High serum AST
 
 Dark urine
+
+Hyperkalemia

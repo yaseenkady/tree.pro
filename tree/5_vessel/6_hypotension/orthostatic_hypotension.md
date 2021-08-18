@@ -14,4 +14,14 @@ Vasodilator
 
 Hypovolemia
 
+SSRI
+
+TCA
+
+Citalopram
+
+Antihypertensive
+
+Diabetic neuropathy
+
 # >

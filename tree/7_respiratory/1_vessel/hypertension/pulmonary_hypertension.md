@@ -21,3 +21,5 @@ Cancer
 Right ventricle hypertrophy
 
 Chest pain
+
+Loud S2; P2

@@ -142,3 +142,5 @@ Falciparum is the most common and deadliest because it infects more red blood ce
 # >
 
 Proteinuria
+
+Dark urine

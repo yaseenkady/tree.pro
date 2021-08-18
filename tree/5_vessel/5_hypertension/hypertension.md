@@ -71,3 +71,5 @@ MYOCARDIAL INFARCTION
 Retinal hemorrhage
 
 Papilledema
+
+Retinal arteriovenous nicking

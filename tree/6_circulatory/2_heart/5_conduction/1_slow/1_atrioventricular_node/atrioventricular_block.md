@@ -8,6 +8,8 @@ AVN conduction abnormalities causing bradyarrythmia.
 
 Myocarditis
 
+Metoprolol
+
 Elderly
 
 Cardiomyopathy

@@ -6,6 +6,8 @@ Syncope
 
 Heart problem causing syncope.
 
+Prodrome uncommon.
+
 # <
 
 Bradyarrythmia

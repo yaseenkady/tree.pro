@@ -4,6 +4,8 @@ Syncope
 
 # .
 
+(Postural syncope)
+
 Fast change in position causing syncope.
 
 # <

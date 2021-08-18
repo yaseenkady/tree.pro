@@ -1,0 +1,15 @@
+# .
+
+Brain caotic electochemistry resulting in passing out.
+
+# <
+
+# >
+
+Movement during passing out
+
+Loss of bowel and or bladder control during passing out
+
+Tongue biting during passing out
+
+Long confusion after passing out

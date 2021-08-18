@@ -1,0 +1,13 @@
+# .
+
+Slow sinus rhythm.
+
+# <
+
+Metoprolol
+
+Elderly
+
+# >
+
+Bradycardia
