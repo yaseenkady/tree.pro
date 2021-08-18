@@ -15,3 +15,9 @@ Bronchiectasis
 Clubbing
 
 Pancreatitis; discovered in pancreas
+
+Dyspnea
+
+Cough
+
+Chest pain

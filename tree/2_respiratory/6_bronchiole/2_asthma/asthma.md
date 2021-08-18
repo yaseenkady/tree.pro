@@ -18,7 +18,7 @@ Chest pain; Episodic
 
 Pulsus paradoxus
 
-Wheezing; Episodic
+Wheezing; Episodic; Not required
 
 Tachypnea; Episodic
 
