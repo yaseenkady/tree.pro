@@ -22,7 +22,7 @@ Wheezing; Exacerbation; Not required
 
 Tachypnea; Exacerbation
 
-Dyspnea; Exacerbation
+Dyspnea; Chronic; Worse during exacerbation
 
 Hypoxemia; Exacerbation
 

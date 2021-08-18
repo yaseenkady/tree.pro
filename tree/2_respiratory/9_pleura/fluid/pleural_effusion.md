@@ -42,6 +42,6 @@ Decreased fremitus
 
 Tracheal deviation, away
 
-Dyspnea; Acute
+Dyspnea; Acute or chronic
 
 Hypoxemia

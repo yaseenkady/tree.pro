@@ -28,4 +28,4 @@ Dullness to percussion
 
 PLEURAL EFFUSION
 
-Dyspnea; Acute
+Dyspnea; Acute or chronic

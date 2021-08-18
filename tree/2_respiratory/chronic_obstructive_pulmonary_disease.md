@@ -20,7 +20,7 @@ Smoking
 
 Fatigue
 
-Dyspnea; Progressive; Acute in exacerbation
+Dyspnea; Chronic; Acute in exacerbation
 
 Pulsus paradoxus
 

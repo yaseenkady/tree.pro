@@ -46,9 +46,7 @@ Fatigue
 
 Chest pain; Exacerbation
 
-Dyspnea
-
-Paroxysmal nocturnal dyspnea
+Dyspnea; Chronic; Paroxysmal nocturnal
 
 Orthopnea
 

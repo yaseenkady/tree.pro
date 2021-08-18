@@ -27,3 +27,5 @@ Loud S2; P2
 Parasternal heave
 
 Right heart failure
+
+Dyspnea; Chronic

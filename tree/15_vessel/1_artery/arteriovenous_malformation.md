@@ -4,6 +4,10 @@ Artery bypassing capillary and connecting with vein.
 
 Common in central nervous system.
 
+Common in watershed area involving ransverse and descending colon.
+
 # <
 
 # >
+
+Dyspnea; Chronic
