@@ -1,7 +1,3 @@
-# =
-
-CHRONIC OBSTRUCTIVE PULMONARY DISEASE
-
 # .
 
 Chronic bronchitis with mucus gland hyperplasia obstructing bronchus.
@@ -17,3 +13,5 @@ Crackle, coarse
 Wheezing
 
 Cyanosis
+
+CHRONIC OBSTRUCTIVE PULMONARY DISEASE

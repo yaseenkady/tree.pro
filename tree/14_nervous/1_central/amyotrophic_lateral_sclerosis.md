@@ -1,0 +1,11 @@
+# .
+
+(Lou Gehrig disease)
+
+Progressive central nervous system motor tract degeneration.
+
+# <
+
+# >
+
+Dyspnea

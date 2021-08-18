@@ -1,4 +1,12 @@
+# =
+
+Obstructive lung disease
+
 # .
+
+Chronic inflammation of airway resulting in obstruction.
+
+All cases have either chronic bronchitis and or emphysema, but the converse is not true.
 
 # <
 
@@ -18,10 +26,14 @@ Pulsus paradoxus
 
 Cachexia
 
-Wheezing
+Decreased breath sound; The most sensitive
 
-Hyperresonance
+Wheezing; During exacerbation
+
+Hyperresonance; Not during the initial presentation
 
 Prolonged expiratory phase
 
 COUGH
+
+Crackle; Occasionally

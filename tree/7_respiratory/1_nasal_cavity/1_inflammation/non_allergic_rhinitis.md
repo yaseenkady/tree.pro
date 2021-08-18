@@ -1,9 +1,17 @@
 # .
 
-Nasal cavity inflammation.
+Nasal cavity idiopathic inflammation.
+
+Diagnosis by ruling out allergic rhinitis.
 
 # <
+
+Young adult
 
 # >
 
 COUGH
+
+Stuffy nose
+
+Runny nose

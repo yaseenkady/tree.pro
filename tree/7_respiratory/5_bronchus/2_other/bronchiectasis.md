@@ -1,6 +1,6 @@
 # .
 
-Bronchus dilation.
+Bronchus dilation leading to excess mucus and more infection.
 
 # <
 
@@ -17,3 +17,5 @@ Coarse crackle
 Hemoptysis
 
 Clubbing
+
+Dyspnea

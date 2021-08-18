@@ -1,6 +1,6 @@
 # .
 
-Nasal cavity inflammation.
+Nasal cavity and paranasal sinuses inflammation.
 
 # <
 

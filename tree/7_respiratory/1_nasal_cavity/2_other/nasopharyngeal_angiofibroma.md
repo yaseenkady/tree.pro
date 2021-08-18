@@ -1,0 +1,21 @@
+# .
+
+Nasal adenoma that is hormone sensitive and locally aggressive.
+
+# <
+
+Adolescent
+
+Male
+
+# >
+
+Epistaxis; Profuse
+
+Proptosis
+
+Diplopia
+
+Visual deficit
+
+Hearing deficit

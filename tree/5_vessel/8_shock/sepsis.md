@@ -19,3 +19,5 @@ Anaphylaxis
 Low serum C3
 
 Orthostatic hypotension
+
+High serum troponin

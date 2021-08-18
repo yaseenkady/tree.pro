@@ -23,3 +23,7 @@ Right ventricle hypertrophy
 Chest pain
 
 Loud S2; P2
+
+Parasternal heave
+
+Right heart failure

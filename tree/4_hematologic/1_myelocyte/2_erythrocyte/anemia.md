@@ -23,3 +23,5 @@ Pale conjunctiva
 Low serum ferritin
 
 Low serum hemoglobin
+
+Hypoxia

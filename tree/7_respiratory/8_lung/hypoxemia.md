@@ -11,3 +11,5 @@ HYPOXIA
 Delirium
 
 Confusion
+
+Hemoglobinemia; With chronic hypoxemia

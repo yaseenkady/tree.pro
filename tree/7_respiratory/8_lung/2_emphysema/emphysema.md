@@ -1,7 +1,3 @@
-# =
-
-Chronic obstructive pulmonary disease
-
 # .
 
 Alveolar wall damage.
@@ -23,3 +19,5 @@ Chronic bronchitis
 Dyspnea
 
 Pneumothorax
+
+Chronic obstructive pulmonary disease

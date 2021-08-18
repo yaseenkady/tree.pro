@@ -1,7 +1,3 @@
-# =
-
-Chronic obstructive lung disease
-
 # .
 
 Bronchiole hypersensitivity with episodically obstruction.
@@ -33,3 +29,5 @@ Hypoxemia; Episodic
 Hyperresonance
 
 Status athmaticus
+
+Chronic obstructive lung disease

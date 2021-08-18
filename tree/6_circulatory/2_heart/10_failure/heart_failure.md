@@ -64,12 +64,12 @@ Pitting edema
 
 Cheyne stroke respiration
 
-Coarse crackle
-
-Fine crackle
+Crackle; If decompensated
 
 Proteinuria
 
 Oliguria
 
 Orthostatic hypotension
+
+High serum troponin

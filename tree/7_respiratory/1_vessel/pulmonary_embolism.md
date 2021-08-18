@@ -48,8 +48,6 @@ KUSSMAUL SIGN
 
 OBSTRUCTIVE SHOCK
 
-RIGHT HEART FAILURE
-
 TACHYCARDIA
 
 Chest pain; Acute; Unilateral; Sharp; Non-radiating; Pleuritic; Non-exertional
@@ -69,3 +67,5 @@ Chronic thromboembolic pulmonary hypertension
 Fever
 
 ST elevation
+
+High serum troponin; 50%

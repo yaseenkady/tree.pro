@@ -33,3 +33,5 @@ Diastolic murmur
 Dyspnea
 
 Cardiogenic shock
+
+High serum troponin
