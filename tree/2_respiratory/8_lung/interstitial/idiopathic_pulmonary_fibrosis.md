@@ -4,7 +4,8 @@ Interstitial lung disease
 
 # .
 
-Idiopathic lung fibrosis.
+Idiopathic pneumonitis with fibrosis.
+.
 
 # <
 
@@ -14,15 +15,7 @@ Pollution
 
 # >
 
-Dyspnea, progressive
-
-Fatigue
-
-Cough, dry
-
 Clubbing
-
-Crackle
 
 Bronchiectasis
 

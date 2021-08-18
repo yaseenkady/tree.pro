@@ -4,7 +4,7 @@ Interstitial lung disease
 
 # .
 
-Allergen inflaming lung.
+Allergic pneumonitis.
 
 # <
 
@@ -13,10 +13,6 @@ Bird
 Animal
 
 # >
-
-Dyspnea, acute
-
-cough, acute
 
 Chest pain, acute
 

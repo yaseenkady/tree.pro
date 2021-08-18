@@ -25,3 +25,5 @@ Antibody for nucleic acid
 Proteinuria
 
 Ulnar deviation
+
+Interstitial lung disease

@@ -17,3 +17,5 @@ Low serum C3
 Rash on face
 
 Hig serum ANA
+
+Interstitial lung disease

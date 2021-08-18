@@ -73,3 +73,5 @@ Oliguria
 Orthostatic hypotension
 
 High serum troponin
+
+Weight gain
