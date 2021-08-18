@@ -12,7 +12,7 @@ Chest pain
 
 Dizziness
 
-Dyspnea
+Dyspnea; Chronic
 
 Headache
 

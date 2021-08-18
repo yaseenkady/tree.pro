@@ -30,7 +30,7 @@ Fatigue
 
 Chest pain; 25%; Acute; Dull; Pressure; Non-pleuritic; Radiates to either or both arm or jaw; Exertional
 
-Dyspnea
+Dyspnea; Chronic
 
 Diaphoresis
 
