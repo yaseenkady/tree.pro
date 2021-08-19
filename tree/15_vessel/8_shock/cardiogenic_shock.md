@@ -10,9 +10,13 @@ Decreased cardiac output either increases or decreases preload; afterload increa
 
 # <
 
-# >
+Myocardial infarction
 
-Chest pain
+Heart failure exacerbation
+
+Myocarditis
+
+# >
 
 Jagular vein distention
 

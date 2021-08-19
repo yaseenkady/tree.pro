@@ -55,3 +55,11 @@ Low serum bicarbonate
 Oliguria
 
 Acidosis
+
+Tachypnea
+
+Weak peripheral pulse
+
+Cool extremity
+
+Peripheral cyanosis

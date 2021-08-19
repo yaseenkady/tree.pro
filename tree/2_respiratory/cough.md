@@ -8,4 +8,8 @@ ACE inhibitor
 
 Lisinopril
 
+Heart failure
+
+Ciliary dyskinesia
+
 # >

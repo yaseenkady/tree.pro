@@ -10,6 +10,12 @@ Decreased cardiac output can either increase or decrease preload; afterload incr
 
 # <
 
+Pulmonary embolism; Massive one
+
+Pericardial tamponade
+
+Tension pneunmothorax
+
 # >
 
 Pulsus paradoxus

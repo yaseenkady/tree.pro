@@ -1,6 +1,6 @@
 # .
 
-(Post nasal drip, hey fever, or upper airway cough syndrome)
+(Post-nasal drip, hey fever, or upper airway cough syndrome)
 
 Nasal cavity allergic inflammation.
 
@@ -8,4 +8,4 @@ Nasal cavity allergic inflammation.
 
 # >
 
-COUGH
+Cough

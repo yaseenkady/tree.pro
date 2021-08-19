@@ -4,15 +4,11 @@ Shock
 
 # .
 
-Central nervous system dilating capillaries, causing shock.
+Capillary-dilating shock.
 
 Decreased afterload decreases preload and cardiac output.
 
 # <
-
-Central nervous system disease
-
-Anaphylaxis
 
 # >
 

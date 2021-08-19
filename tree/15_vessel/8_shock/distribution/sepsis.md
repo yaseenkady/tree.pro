@@ -4,15 +4,13 @@ Distributive shock
 
 # .
 
-Immunity causing shock.
+Infection causing distributive shock.
 
 Decreased afterload decreases preload; cardiac output increases in response.
 
 # <
 
 Infection
-
-Anaphylaxis
 
 # >
 
