@@ -39,3 +39,9 @@ COUGH; Progressive
 Crackle; Occasionally
 
 Hypercapnia; Exacerbation
+
+High hematocrit
+
+High serum HCO3
+
+Flat diaphragm

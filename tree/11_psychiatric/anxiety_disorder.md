@@ -13,3 +13,5 @@ Fatigue
 Anxiety
 
 Dyspnea
+
+Palpitation

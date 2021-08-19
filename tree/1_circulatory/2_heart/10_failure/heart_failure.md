@@ -81,3 +81,5 @@ Weight gain
 Mitral valve regurgitation
 
 Tricuspid valve regurgitation
+
+Palpitation
