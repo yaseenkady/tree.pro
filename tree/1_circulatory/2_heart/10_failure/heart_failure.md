@@ -1,5 +1,7 @@
 # .
 
+(Heart failure exacerbation or congestive heart failure)
+
 Clinical diagnosis.
 
 Cold means low cardiac output, associated with: fatigue, anorexia, tachycardia, low pulse pressure, cold extremities, and elevated lactate.
@@ -75,3 +77,7 @@ Orthostatic hypotension
 High serum troponin
 
 Weight gain
+
+Mitral valve regurgitation
+
+Tricuspid valve regurgitation

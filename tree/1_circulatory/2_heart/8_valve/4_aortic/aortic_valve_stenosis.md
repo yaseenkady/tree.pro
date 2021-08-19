@@ -8,7 +8,7 @@ Congenital bicuspid aortic valve
 
 Chest pain; Exertional
 
-Systolic crescendo decrescendo murmur; Heard best at right upper sternal border; Radiates to carotids
+Systolic crescendo decrescendo ejection murmur; Heard best at right upper sternal border; Radiates to carotids
 
 S4
 

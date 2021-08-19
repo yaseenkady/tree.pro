@@ -8,6 +8,8 @@ Diastolic dysfunction.
 
 # <
 
+Hypertension
+
 # >
 
 SUDDEN CARDIAC DEATH
@@ -33,3 +35,5 @@ Tall R in V1
 Tall P in II, III, and aVF
 
 Tall P in V1 or V2
+
+Atrial fibrillation

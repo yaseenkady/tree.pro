@@ -10,6 +10,8 @@ Alcohol; Common; Holiday heart syndrome
 
 Hypertension
 
+Left ventricular hypertrophy
+
 # >
 
 Irregularly irregular

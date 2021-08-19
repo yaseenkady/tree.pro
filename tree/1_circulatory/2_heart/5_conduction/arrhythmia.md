@@ -11,3 +11,5 @@ CARDIOGENIC SHOCK
 Orthostatic hypotension
 
 Dyspnea; Chronic
+
+Palpitation

@@ -29,3 +29,7 @@ Dullness to percussion
 PLEURAL EFFUSION
 
 Dyspnea; Acute or chronic
+
+Atrial fibrillation
+
+Tachycardia

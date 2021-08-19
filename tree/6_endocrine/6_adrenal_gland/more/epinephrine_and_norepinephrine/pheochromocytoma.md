@@ -60,9 +60,9 @@ Dyspnea
 
 Orthostatic hypotension
 
-Paroxysmal palpitation
+Palpitation; Paroxysmal
 
-Paroxysmal tachycardia
+Tachycardia; Paroxysmal
 
 Tremor
 

@@ -10,8 +10,6 @@ The most common supraventricular tachycardia.
 
 Diaphoresis
 
-Paroxysmal palpitation
-
 Narrow QRS
 
 Asymptom
@@ -20,7 +18,7 @@ HEART FAILURE
 
 STROKE
 
-Palpitation
+Palpitation; Paroxysmal
 
 TACHYCARDIA
 
