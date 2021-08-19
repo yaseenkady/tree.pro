@@ -107,3 +107,5 @@ High urine glucose
 Proteinuria
 
 Dysuria
+
+Orthostatic hypotension

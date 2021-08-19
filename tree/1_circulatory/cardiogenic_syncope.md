@@ -18,6 +18,6 @@ Aortic stenosis
 
 Hypertrophic cardiomyopathy
 
-Pulmonary embolism
+Pulmonary embolism; Massive
 
 # >

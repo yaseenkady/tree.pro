@@ -1,12 +1,12 @@
 # =
 
-Syncope
+Reflex syncope
 
 # .
 
 (CardioNeurogenic syncope)
 
-Autonomic nervous system failing to vasoconstrict, causing syncope.
+Failing ANS peripheral vasoconstriction.
 
 The most common syncope.
 
@@ -14,7 +14,11 @@ Prodrome common.
 
 # <
 
+Stress
+
 Orthostatic hypotension
+
+Pain; Severe
 
 # >
 

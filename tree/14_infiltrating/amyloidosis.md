@@ -27,3 +27,5 @@ Dyspnea
 Fatigue
 
 High serum ALP
+
+Orthostatic hypotension

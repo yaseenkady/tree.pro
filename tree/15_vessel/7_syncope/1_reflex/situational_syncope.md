@@ -1,16 +1,14 @@
 # =
 
-Vasovagal syncope
+Reflex syncope
 
 # .
 
-Nervous system dysfunction causing vasovagal syncope.
+Accidental ANS peripheral vasodilation.
 
 # <
 
 Dehydration
-
-Stress
 
 Pain
 
@@ -23,5 +21,7 @@ Hyperventilation
 Cough
 
 Urination
+
+Defecation
 
 # >
