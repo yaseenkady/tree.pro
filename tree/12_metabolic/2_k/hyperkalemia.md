@@ -2,7 +2,7 @@
 
 High K in serum.
 
-Commonly due to kidney failing to excrete K. 
+Commonly due to kidney failing to excrete K.
 
 # <
 

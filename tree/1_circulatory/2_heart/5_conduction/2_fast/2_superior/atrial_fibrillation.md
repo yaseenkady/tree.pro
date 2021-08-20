@@ -12,6 +12,8 @@ Hypertension
 
 Left ventricular hypertrophy
 
+Hyperthyroidism
+
 # >
 
 Irregularly irregular

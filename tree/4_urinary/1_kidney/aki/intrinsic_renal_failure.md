@@ -12,7 +12,6 @@ Acute glomerulonephritis
 
 Acute interstitial nephritis
 
-
 Vasculitis
 
 Malignant hypertension

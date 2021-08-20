@@ -33,3 +33,5 @@ DIABETES MELLITUS 2
 DIABETIC FOOT ULCER
 
 Cerebrovascular disease
+
+High pulse pressure

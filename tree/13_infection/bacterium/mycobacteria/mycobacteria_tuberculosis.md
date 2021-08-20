@@ -202,3 +202,7 @@ Lung cavity
 Dyspnea
 
 Cough; Productive; Progressive
+
+Weight loss
+
+Cough

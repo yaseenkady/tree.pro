@@ -16,4 +16,4 @@ Tumor
 
 Low urine osmolality; Less than 350
 
-High postvoid residual urine; Greater than 100 
+High postvoid residual urine; Greater than 100

@@ -38,6 +38,8 @@ Glucocorticoid
 
 Deep vein thrombosis
 
+Elderly
+
 # >
 
 HYPOXEMIA
