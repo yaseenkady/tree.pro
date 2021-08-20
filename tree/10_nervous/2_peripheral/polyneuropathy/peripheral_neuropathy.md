@@ -13,3 +13,5 @@
 PERIODIC LEG MOVEMENT DISEASE
 
 Paresthesia
+
+Constipation

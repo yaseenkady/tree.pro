@@ -22,6 +22,8 @@ HLA-DR3
 
 HLA-DR4
 
+Antibody against pancreas
+
 # >
 
 ADDISON DISEASE
@@ -45,3 +47,5 @@ Low serum insulin
 Antibody for insulin
 
 Antibody for pancreatic B cell
+
+Low serum c-peptide

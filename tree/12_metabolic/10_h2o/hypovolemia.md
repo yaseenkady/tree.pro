@@ -4,9 +4,13 @@ Low blood volume.
 
 # <
 
+Mannitol
+
 Hydrochlorothiazide
 
 Gastrointestinal bleeding
+
+Diaphoresis
 
 Diarrhea
 

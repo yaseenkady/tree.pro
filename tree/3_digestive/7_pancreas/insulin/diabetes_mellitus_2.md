@@ -39,3 +39,5 @@ HYPEROSMOLAR HYPERGLYCEMIC STATE
 High serum insulin
 
 Low serum insulin
+
+Acanthosis nigricans

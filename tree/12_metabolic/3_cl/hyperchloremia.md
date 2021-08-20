@@ -1,0 +1,11 @@
+# .
+
+# <
+
+Hypovolemia
+
+NaCl
+
+Metabolic acidosis
+
+# >

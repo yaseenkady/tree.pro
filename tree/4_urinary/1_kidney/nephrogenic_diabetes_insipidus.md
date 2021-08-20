@@ -1,6 +1,6 @@
 # .
 
-Normal or elevated ADH level but bad ADH receptor.
+Defective ADH receptor resulting in kidney failing to reabsorb H2O.
 
 # <
 
@@ -8,10 +8,12 @@ Dececlocycline
 
 ADHR
 
-Exposure to lithium
+Exposure to lithium; The most common cause
+
+Hypercalcemia
 
 # >
 
 DIABETES INSIPIDUS
 
-High serum ADH
+High serum ADH; Can be normal

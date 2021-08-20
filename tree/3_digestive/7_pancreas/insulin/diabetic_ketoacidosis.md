@@ -28,6 +28,8 @@ HYPOKALEMIA
 
 LEUKOCYTOSIS
 
+High serum betahydroxybutyrate
+
 TACHYCARDIA
 
 Abdominal pain

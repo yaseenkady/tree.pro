@@ -8,7 +8,7 @@ Rarely causes heart disease.
 
 Primary hyperparathyroidism; The most common
 
-Tumor; The 2nd most common
+Tumor; The 2nd most common; Due to bony destruction, PTHrP and or hypervitaminosis D
 
 Chronic kidney disease; The 3rd most common
 

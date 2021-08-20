@@ -1,8 +1,12 @@
 # .
 
+Failure to secrete ADH resulting in kidney failing to reabsorb H2O.
+
 # <
 
 Head trauma
+
+Cerebrovascular accident
 
 # >
 
