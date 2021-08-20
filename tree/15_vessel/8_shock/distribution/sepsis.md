@@ -21,3 +21,5 @@ Orthostatic hypotension
 High serum troponin
 
 High serum procalcitonin
+
+Skin; Dry; Warm progresses to cold

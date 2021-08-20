@@ -1,5 +1,7 @@
 # .
 
+Long standing kidney injury.
+
 Hemoglobin A1C value decreases after stage 4.
 
 Therapy for hyerphosphatemia can lead to hypercalcemia.
