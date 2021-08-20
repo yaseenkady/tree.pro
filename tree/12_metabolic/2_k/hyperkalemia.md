@@ -2,6 +2,8 @@
 
 High K in serum.
 
+Commonly due to kidney failing to excrete K. 
+
 # <
 
 ACEI
@@ -15,3 +17,5 @@ High diet K
 Peaked T wave
 
 ST elevation
+
+Arrhythmia

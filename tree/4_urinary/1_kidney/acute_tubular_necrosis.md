@@ -42,6 +42,8 @@ Embolism
 
 IV contrast
 
+Prerenal azotemia; The most common cause
+
 # >
 
 Granular cast

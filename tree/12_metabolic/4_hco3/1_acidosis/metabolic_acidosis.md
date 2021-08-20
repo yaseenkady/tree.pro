@@ -4,7 +4,7 @@ Acidosis
 
 # .
 
-High H in serum.
+High H and or low HCO3 in serum.
 
 Anion gap = Na - Cl - HCO3 ~ 12.
 

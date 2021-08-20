@@ -1,0 +1,17 @@
+# .
+
+High serum Mg.
+
+Commonly due to kidney failing to excrete Mg.
+
+# <
+
+# >
+
+Areflexia
+
+Muscle weakness
+
+Dyspnea
+
+Arrhythmia

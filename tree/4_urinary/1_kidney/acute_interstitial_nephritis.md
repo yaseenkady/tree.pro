@@ -14,6 +14,8 @@ NSAID
 
 Penicillin
 
+Ciprofloxacin
+
 Proton pump inhibitor
 
 Rifampin
@@ -31,6 +33,8 @@ Sjogren syndrome
 Systemic lupus erythromatous
 
 Sarcoidosis
+
+Thiazide
 
 # >
 

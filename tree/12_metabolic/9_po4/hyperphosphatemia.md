@@ -6,10 +6,12 @@ Associated with hypocalcemia.
 
 # <
 
-Kidney disease
+Renal failure
 
 Hypoparathyroidism
 
 Acidosis
 
 # >
+
+Hypocalcemia

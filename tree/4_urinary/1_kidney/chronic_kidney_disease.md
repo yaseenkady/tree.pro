@@ -43,3 +43,9 @@ Hyperphosphatemia
 Waxy cast
 
 Proteinuria
+
+Anemia
+
+Low hematocrit
+
+Low serum erythropoietin

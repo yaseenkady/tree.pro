@@ -21,3 +21,5 @@ Pneumaturia
 PostRenal azotemia
 
 Lower abdominal pain
+
+High urine nitrite

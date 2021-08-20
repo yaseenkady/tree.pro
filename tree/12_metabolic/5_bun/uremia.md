@@ -2,9 +2,17 @@
 
 (Uremic syndrome)
 
-Secere azotemia.
+Severe azotemia.
 
 # <
+
+High diet protein
+
+Dehydration
+
+Starvation
+
+GI bleeding
 
 Urinary tract obstruction
 
