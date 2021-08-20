@@ -1,13 +1,25 @@
 # .
 
-Red blood cell cast.
+Acute inflammation of blood vessel and glomerulus, commonly from systemic illness or pulmonary renal syndrome.
+
+Diagnosis by biopsy.
 
 # <
+
+Systemic lupus erythromatous
+
+Goodpasture syndrome
+
+Wegener granulomatosis
 
 # >
 
 Proteinuria
 
-Oliguria
-
 Dark urine
+
+Urine red blood cell cast
+
+Urine red blood cell
+
+Intrinsic Renal Failure

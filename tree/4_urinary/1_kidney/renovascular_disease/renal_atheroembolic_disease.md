@@ -2,6 +2,8 @@
 
 Affects proximal 1/3 of renal artery.
 
+Diagnosis by imaging.
+
 # <
 
 Smoking
@@ -9,6 +11,8 @@ Smoking
 Male
 
 Elderly
+
+Surgery
 
 # >
 

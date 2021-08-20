@@ -1,12 +1,18 @@
 # .
 
-Tubulointerstitial nephritis.
+(Tubulointerstitial nephritis)
 
-Pyuria and azotemia after hypersensitivity.
+Inflammation of kidney intestitium, commonly from hypersensitivity to medication.
 
 Can be asymptomatic.
 
 # <
+
+Maculopapupar erythematous rash; 1/3
+
+Fever; 1/3
+
+Arthralgia; 1/3
 
 Diuretic
 
@@ -42,18 +48,10 @@ White blood cell cast
 
 Pyuria
 
-High urine eosinophil
-
-Fever
-
-Rash
-
 Hematuria
 
-Costovertebral angle tenderness
-
-Oliguria
-
 Eosinophilia
+
+Eosinophiluria
 
 Intrinsic Renal Failure

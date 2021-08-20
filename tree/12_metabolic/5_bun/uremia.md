@@ -38,9 +38,13 @@ Nausea
 
 Anorexia
 
-Encephalopathy
+Uremic encephalopathy
 
 Asterixis
+
+Anemia
+
+Coagulopathy
 
 Pericarditis
 
