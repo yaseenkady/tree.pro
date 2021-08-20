@@ -102,9 +102,7 @@ Lid lag
 
 Onycholysis
 
-Fine tremor
-
-Hand tremor
+Tremor; Fine; Hand
 
 Hyperreflexia
 
@@ -133,7 +131,5 @@ DIFFUSE GOITER
 DILATED CARDIOMYOPATHY
 
 HYPEROSMOLAR HYPERGLYCEMIC STATE
-
-HYPERTHYROIDISM
 
 PITUITARY ADENOMA

@@ -62,6 +62,8 @@ Exposure to radiation
 
 # >
 
+Anemia
+
 BRADYCARDIA
 
 CARPAL TUNNEL SYNDROME
@@ -88,9 +90,9 @@ PLEURAL EFFUSION
 
 Fatigue
 
-Exertional dyspnea
+Dyspnea; Exertional
 
-Loss of appetite
+Anorexia
 
 Constipation
 
@@ -158,6 +160,6 @@ Low serum free T4
 
 Cognitive defect
 
-Developmental defect
-
 Cretinism
+
+Hypoglycemia
