@@ -25,3 +25,5 @@ GI perforation
 Vomiting
 
 Peritonitis
+
+Diarrhea

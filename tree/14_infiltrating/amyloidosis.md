@@ -29,3 +29,5 @@ Fatigue
 High serum ALP
 
 Orthostatic hypotension
+
+Diarrhea

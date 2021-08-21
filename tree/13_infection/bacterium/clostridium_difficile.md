@@ -61,3 +61,7 @@ REACTIVE ARTHRITIS
 Watery diarrhea
 
 Leukocytosis
+
+Nausea; Rare
+
+Vomiting; Rare

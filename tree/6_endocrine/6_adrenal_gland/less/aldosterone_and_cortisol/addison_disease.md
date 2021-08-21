@@ -27,3 +27,9 @@ Mitotane
 # >
 
 PRIMARY ADRENAL INSUFFICIENCY
+
+Vomiting
+
+Diarrhea
+
+Nausea

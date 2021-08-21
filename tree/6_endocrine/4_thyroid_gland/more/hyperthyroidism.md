@@ -66,7 +66,7 @@ Chest pain
 
 Dyspnea
 
-Diarrhea
+Diarrhea; Progressive
 
 Polyuria
 

@@ -15,3 +15,5 @@ Malabsorption
 Acidic stool
 
 Infection
+
+Diarrhea

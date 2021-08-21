@@ -37,14 +37,20 @@ Rehydration therapy.
 
 No vaccine.
 
-# ^
+# <
+
+Adult
+
+Elderly
+
+# >
 
 Nausea
 (Significant; Diarrhea follows)
 
-Vomit
+Vomiting
 (Significant; Diarrhea follows)
 
 Diarrhea.Watery
 
-Fever
+Fever; Rare

@@ -29,3 +29,5 @@ Osteoperosis
 T-cell lymphoma
 
 Upper gastrointestinal bleeding
+
+Diarrhea

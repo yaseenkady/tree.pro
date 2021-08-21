@@ -29,3 +29,9 @@ Muscle weakness
 Low serum aldosterone
 
 Low serum cortisol
+
+Nausea
+
+Vomiting
+
+Diarrhea

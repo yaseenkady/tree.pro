@@ -23,3 +23,5 @@ NEUROENDOCRINE TUMOR
 NODULAR GOITER
 
 High serum calcitonin
+
+Diarrhea

@@ -35,7 +35,13 @@ Vaccines are indicated for children.
 The most common cause of viral diarrhea worldwide.
 Peak age of infection is 0.5-2, infecting most children by 2-5 and mostly in Winter.
 
-# ^
+# <
+
+Preschool child
+
+Child
+
+# >
 
 Fever
 (Common)

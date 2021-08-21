@@ -22,8 +22,6 @@ Antibody against Saccharomyces cerevisiae
 
 Enterovesical fistula
 
-Bloody diarrhea
-
 Nephrolithiasis
 
 Calcium oxalate
