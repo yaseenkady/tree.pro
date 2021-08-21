@@ -16,7 +16,7 @@ Isoniazid
 
 Exposure to toxin
 
-Alcohol
+Alcohol; Worse with hepatitis C virus
 
 Steatohepatitis
 
@@ -103,3 +103,7 @@ High serum NO
 Low serum C3
 
 Dark urine
+
+Increased LVEF; Common
+
+Pulmonary hypertension

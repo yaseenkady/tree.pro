@@ -161,3 +161,5 @@ Fatigue
 Weight loss
 
 Orthostatic hypotension
+
+Chronic kidney disease

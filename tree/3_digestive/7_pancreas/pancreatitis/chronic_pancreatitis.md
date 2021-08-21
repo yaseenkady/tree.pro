@@ -23,3 +23,5 @@ Diabetes mellitus
 High serum amylase
 
 High serum lipase
+
+Malabsorption
