@@ -4,6 +4,8 @@ Increased intraluminal pressure and weakened wall create many fasle diverticula 
 
 Asymptomatic and self limited.
 
+Common.
+
 # <
 
 Obesity

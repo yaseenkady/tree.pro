@@ -22,8 +22,6 @@ Fever
 
 GI perforation
 
-Guarding
-
-Rebound tenderness
-
 Vomiting
+
+Peritonitis

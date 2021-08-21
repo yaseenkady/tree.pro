@@ -62,7 +62,7 @@ Exposure to radiation
 
 # >
 
-Anemia
+Anemia; Chronic hypothyroidism
 
 BRADYCARDIA
 
@@ -163,3 +163,13 @@ Cognitive defect
 Cretinism
 
 Hypoglycemia
+
+Systolic murmur
+
+High serum ALT; Chronic hypothyroidism
+
+High serum AST; Chronic hypothyroidism
+
+Low serum albumin; Chronic hypothyroidism
+
+Renal failure; Chronic hypothyroidism

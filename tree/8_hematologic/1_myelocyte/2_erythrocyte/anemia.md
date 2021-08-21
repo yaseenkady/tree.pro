@@ -20,7 +20,7 @@ Headache
 
 Pallor
 
-Pale conjunctiva
+Pale conjunctiva; Common
 
 Low serum ferritin
 

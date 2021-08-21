@@ -19,3 +19,5 @@ Low self-esteem
 Loss of interest
 
 Pain
+
+Dyspnea

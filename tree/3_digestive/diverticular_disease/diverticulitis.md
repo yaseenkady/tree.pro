@@ -2,7 +2,7 @@
 
 Diverticula with thichening wall.
 
-Hematochezia is rare.
+Common.
 
 # <
 
@@ -20,7 +20,7 @@ Colovesical fistula
 
 Peritonitis
 
-Hematochezia
+Hematochezia; Rare
 
 GI perforation
 

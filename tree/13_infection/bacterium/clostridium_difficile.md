@@ -50,6 +50,14 @@ Toxic Megacolon
 
 Bowel Perforation
 
+# <
+
+Antibiotic
+
 # >
 
 REACTIVE ARTHRITIS
+
+Watery diarrhea
+
+Leukocytosis
