@@ -72,7 +72,7 @@ Hyponatremia
 
 Cardiomyopathy
 
-Peripheral edema
+Edema
 
 Amenorrhea
 
