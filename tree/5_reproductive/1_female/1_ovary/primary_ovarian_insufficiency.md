@@ -23,3 +23,5 @@ High serum follicle stimulating hormone
 Anovulation
 
 Amenorrhea
+
+Infertility

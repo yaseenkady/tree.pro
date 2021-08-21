@@ -35,3 +35,7 @@ Urinary frequency
 Nocturia
 
 Urinary urgency
+
+Infertility
+
+Amenorrhea

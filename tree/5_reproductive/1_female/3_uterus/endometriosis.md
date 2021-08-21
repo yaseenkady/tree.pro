@@ -22,7 +22,7 @@ Postmenopause
 
 Endometrioma
 
-Lower abdominal pain, chronic, cyclic
+Lower abdominal pain; Chronic; Cyclic
 
 Back pain
 

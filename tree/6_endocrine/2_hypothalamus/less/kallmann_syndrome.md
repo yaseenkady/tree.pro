@@ -1,6 +1,6 @@
 # .
 
-Failure to complete puberty.
+Failure to start or complete puberty.
 
 # <
 

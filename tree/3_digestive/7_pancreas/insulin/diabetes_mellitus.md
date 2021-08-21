@@ -104,7 +104,7 @@ High serum osmolality
 
 High urine glucose
 
-Proteinuria
+Proteinuria; 1+
 
 Dysuria
 

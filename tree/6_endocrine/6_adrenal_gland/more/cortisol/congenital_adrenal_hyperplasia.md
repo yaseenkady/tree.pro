@@ -9,3 +9,5 @@ Causes 10% of Cushing syndrome.
 CUSHING SYNDROME
 
 Fast development
+
+Hyperandrogenism

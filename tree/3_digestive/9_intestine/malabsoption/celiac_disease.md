@@ -18,6 +18,12 @@ Northern European
 
 Antibody against gliadin
 
+Antibody against TTG
+
+Antibody against DGP
+
+IgA deficiency
+
 # >
 
 Malabsorption
@@ -31,3 +37,7 @@ T-cell lymphoma
 Upper gastrointestinal bleeding
 
 Diarrhea
+
+Diabetes mellitus 1; 7%
+
+Fe deficient anemia; The most common cause

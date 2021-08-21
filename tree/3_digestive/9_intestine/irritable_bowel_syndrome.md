@@ -2,11 +2,15 @@
 
 Diagnosis by exclusion.
 
+Common.
+
 Multiple etiologies and outcomes.
 
 # <
 
 Male
+
+Infection
 
 # >
 

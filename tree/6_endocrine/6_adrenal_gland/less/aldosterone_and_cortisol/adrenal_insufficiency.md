@@ -33,5 +33,3 @@ Low serum cortisol
 Nausea
 
 Vomiting
-
-Diarrhea

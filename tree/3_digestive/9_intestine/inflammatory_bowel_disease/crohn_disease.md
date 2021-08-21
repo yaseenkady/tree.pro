@@ -1,5 +1,7 @@
 # .
 
+(Regional enteritis)
+
 Any GI location but usually the terminal ileum and colon, with skip lesions and sparing rectum.
 
 Transmural inflammation.
