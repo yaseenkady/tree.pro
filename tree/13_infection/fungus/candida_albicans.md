@@ -90,6 +90,6 @@ Infects 90,000 people a year in the US.
 
 # >
 
-VAGINITIS
+VAGINITIS; Recent antibiotic makes more likely
 
 Endocarditis

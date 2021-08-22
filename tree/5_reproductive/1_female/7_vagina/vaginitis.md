@@ -10,13 +10,17 @@ pH: high in Gardnerella and low in Candida and Trichomonas.
 
 # <
 
-Female
+Staphylococcus aureus
+
+Human immunodeficiency virus
 
 Hormonal change
 
 Antibiotic
 
 High sexual activity
+
+Trauma
 
 # >
 

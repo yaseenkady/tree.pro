@@ -11,3 +11,5 @@ LYMPHOGRANULOMA VENERUM
 REACTIVE ARTHRITIS
 
 Urethritis
+
+Vaginal discharge; Initial presentation
