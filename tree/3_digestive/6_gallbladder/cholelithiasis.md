@@ -34,9 +34,13 @@ Conjugated hyperbilirubinemia
 
 # >
 
-Cholecystitis
+Acute cholecystitis
 
 Pancreatitis
+
+Biliary cholic
+
+Choledocholithiasis
 
 Acute cholangitis
 

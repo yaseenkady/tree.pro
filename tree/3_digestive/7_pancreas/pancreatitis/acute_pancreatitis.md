@@ -32,7 +32,7 @@ NRTI
 
 PANCREATITIS
 
-lbdominal pain; Severe; Epigastric; Radiating to back
+Abdominal pain; Sudden; Severe; Epigastric; Radiating to back
 
 High serum amylase
 

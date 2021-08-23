@@ -1,5 +1,7 @@
 # .
 
+Biliary obstruction, commonly in the cystic duct or common bile duct, causing pain.
+
 Post prandial (fatty meal) CCK triggers gallbadder contraction which pushes stone into cystic duct.
 
 # <

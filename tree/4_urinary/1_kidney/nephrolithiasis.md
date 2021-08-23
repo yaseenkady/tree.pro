@@ -8,4 +8,4 @@ Bakc pain
 
 PostRenal azotemia
 
-Lower abdominal pain
+Lower abdominal pain; Colicky
