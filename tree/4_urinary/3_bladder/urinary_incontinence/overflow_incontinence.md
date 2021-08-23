@@ -1,6 +1,8 @@
 # .
 
-Caused by detrusor underactivity leading to incomplete emptying.
+Detrusor underactivity resulting in incomplete emptying and causing incontinence.
+
+5% of chronic incontinence cases.
 
 # <
 
@@ -11,3 +13,7 @@ Urinary tract obstruction
 Multiple sclerosis
 
 # >
+
+High post residual urine
+
+Acute kidney injury

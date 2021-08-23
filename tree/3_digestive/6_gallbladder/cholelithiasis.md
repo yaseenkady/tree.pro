@@ -45,3 +45,7 @@ Murphy sign
 Juandice
 
 Dark urine
+
+Abdominal pain
+
+Hepatitis

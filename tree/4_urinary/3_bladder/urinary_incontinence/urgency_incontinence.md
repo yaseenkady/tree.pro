@@ -1,6 +1,8 @@
 # .
 
-Caused by detrusor overactivity.
+Irritation or less neurological inhibition resulting in detrusor overactivity causing sudden incontinence.
+
+Present in 9% females between 40 to 44 years old and 31% female older than 75 years old.
 
 # <
 

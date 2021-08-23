@@ -1,6 +1,8 @@
 # .
 
-Caused by defect in sphincter or urethra.
+Urethral sphincter and or pelvic floor weakness causing stress-induced incontinence.
+
+Present in 24 to 45% females over 30 years old.
 
 # <
 
@@ -11,5 +13,7 @@ Pregnancy
 Vaginal delivery
 
 Surgery
+
+Cough
 
 # >

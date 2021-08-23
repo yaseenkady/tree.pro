@@ -32,7 +32,7 @@ NRTI
 
 PANCREATITIS
 
-Abdominal pain, epigastric, radiates to back
+lbdominal pain; Severe; Epigastric; Radiating to back
 
 High serum amylase
 
@@ -55,3 +55,5 @@ Shock
 Renal failure
 
 Hypocalcemia
+
+Vomiting
