@@ -185,6 +185,10 @@ Infect 1/3 population.
 Kills more people than other pathogens.
 95% of deaths are in poor places.
 
+# <
+
+Endemic
+
 # >
 
 Aseptic meningitis
@@ -206,3 +210,13 @@ Cough; Productive; Progressive
 Weight loss
 
 Cough
+
+Lymphadenopathy
+
+Lung ground glass opacity
+
+Ceseating granuloma; acid fast bacilli
+
+High serum antibody against Mycobacteria tuberculosis; Measured by quantiferon test, whihc can be negative in up to 20% of active disese
+
+Sputum acid fast bacilli

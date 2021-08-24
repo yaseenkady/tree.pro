@@ -10,4 +10,4 @@ Perimenopause
 
 # >
 
-Uterine bleed
+Vaginal bleeding

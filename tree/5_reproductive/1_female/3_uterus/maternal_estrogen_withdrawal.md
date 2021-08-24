@@ -6,4 +6,4 @@ Infant
 
 # >
 
-Uterine bleed
+Vaginal bleeding

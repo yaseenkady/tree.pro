@@ -12,7 +12,7 @@ High serum estrogen
 
 High serum testosterone
 
-Uterine bleeding
+Vaginal bleeding
 
 Breast tenderness
 

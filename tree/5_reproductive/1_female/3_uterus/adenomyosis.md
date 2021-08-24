@@ -14,6 +14,6 @@ Soft globular uterus
 
 Heavy menstural bleeding
 
-Uterine bleeding
+Vaginal bleeding
 
 Lower abdominal pain

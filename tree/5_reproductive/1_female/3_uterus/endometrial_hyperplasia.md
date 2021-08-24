@@ -16,4 +16,4 @@ Postmenopause
 
 Endometrial carcinoma
 
-Uterine bleeding
+Vaginal bleeding

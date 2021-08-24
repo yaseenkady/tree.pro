@@ -128,7 +128,7 @@ Edema
 
 Ascite
 
-Uterine bleeding
+Vaginal bleeding
 
 Brittle nail
 

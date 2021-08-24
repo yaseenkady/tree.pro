@@ -40,15 +40,13 @@ Lower abdominal pain
 
 Fever
 
-Uterine bleeding
+Vaginal bleeding
 
 Vaginal discharge
 
 High serum ESP
 
 High serum CRP
-
-Infertility
 
 Ectopic pregnancy
 

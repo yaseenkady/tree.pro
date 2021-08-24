@@ -4,4 +4,4 @@
 
 # >
 
-Uterine bleed
+Vaginal bleeding

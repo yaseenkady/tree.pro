@@ -51,3 +51,7 @@ High hematocrit
 Metabolic alkalosis
 
 Dark urine
+
+Nausea
+
+Vomiting

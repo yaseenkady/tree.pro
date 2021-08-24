@@ -28,7 +28,7 @@ Back pain
 
 Leg pain
 
-Uterine bleeing
+Vaginal bleeding
 
 Dysmenorrhea
 

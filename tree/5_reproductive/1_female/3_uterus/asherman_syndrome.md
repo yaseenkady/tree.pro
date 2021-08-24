@@ -12,6 +12,6 @@ Failure to shed.
 
 Heavy menstural bleeding
 
-Uterine bleeding; When things fall out
+Vaginal bleeding; When things fall out
 
 Amenorrhea

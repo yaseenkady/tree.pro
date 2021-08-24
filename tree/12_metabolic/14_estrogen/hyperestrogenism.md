@@ -14,4 +14,4 @@ Gynecomastia
 
 Testicular atrophy
 
-Uterine bleeding
+Vaginal bleeding

@@ -12,4 +12,4 @@ Intrauterine device
 
 # >
 
-Uterine bleed
+Vaginal bleeding

@@ -28,7 +28,7 @@ SECONDARY HYPERALDOSTERONISM
 
 Nausea
 
-Uterine bleeding
+Vaginal bleeding
 
 High serum D dimer
 

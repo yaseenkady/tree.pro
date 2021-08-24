@@ -1,6 +1,8 @@
 # .
 
-Premature ovarian failure resulting in menopause before 40 years old.
+(Premature ovarian failure)
+
+Menopause before 40 years old.
 
 Idiopathic.
 

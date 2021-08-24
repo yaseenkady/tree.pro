@@ -10,4 +10,4 @@ Middle aged
 
 High serum estrogen
 
-Uterine bleeding
+Vaginal bleeding

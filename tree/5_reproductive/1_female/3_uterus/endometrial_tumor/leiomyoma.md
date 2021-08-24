@@ -28,7 +28,7 @@ Tabacco
 
 # >
 
-Uterine bleeding
+Vaginal bleeding
 
 Urinary frequency
 

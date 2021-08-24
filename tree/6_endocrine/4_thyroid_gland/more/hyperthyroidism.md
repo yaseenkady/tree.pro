@@ -94,7 +94,7 @@ Shiny skin
 
 Gynecomastia
 
-Uterine bleeding
+Vaginal bleeding
 
 Fine hair
 
@@ -122,7 +122,7 @@ Low serum TSH
 
 Low serum cholesterol
 
-Uterine bleeding
+Vaginal bleeding
 
 Respiratory muscle weakness
 

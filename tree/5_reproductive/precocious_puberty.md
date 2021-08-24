@@ -20,4 +20,4 @@ High serum GRH
 
 High serum LH
 
-Uterine bleeding
+Vaginal bleeding

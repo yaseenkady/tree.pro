@@ -1,0 +1,11 @@
+# .
+
+Failure of the uterus to contract following delivery.
+
+# <
+
+Postpartum
+
+# >
+
+Vaginal bleeding; The most common cause postpartum

@@ -30,4 +30,4 @@ Hyperestrogenism
 
 # >
 
-Uterine bleeding
+Vaginal bleeding

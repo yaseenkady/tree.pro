@@ -35,3 +35,9 @@ Abdominal mass
 Lower gastrointestinal bleeding
 
 GI stricture
+
+Fever
+
+Nausea; Atypical
+
+Vomiting; Atypical
