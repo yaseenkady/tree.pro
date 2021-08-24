@@ -37,5 +37,3 @@ Nocturia
 Urinary urgency
 
 Infertility
-
-Amenorrhea

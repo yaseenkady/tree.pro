@@ -1,6 +1,6 @@
 # .
 
-Premature ovarian failure.
+Premature ovarian failure resulting in menopause before 40 years old.
 
 Idiopathic.
 
@@ -20,8 +20,4 @@ High serum leutenizing hormone
 
 High serum follicle stimulating hormone
 
-Anovulation
-
 Amenorrhea
-
-Infertility

@@ -4,6 +4,4 @@
 
 # >
 
-High serum androgen
-
 Amenorrhea

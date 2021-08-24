@@ -6,6 +6,8 @@ Pituitary infarction.
 
 Peripartum
 
+Shock
+
 # >
 
 HYPOPITUITARISM

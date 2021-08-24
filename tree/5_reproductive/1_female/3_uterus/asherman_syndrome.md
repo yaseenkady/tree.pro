@@ -4,12 +4,14 @@ Endometrium fibrosis and adhesion.
 
 Associated with intrauterine pregnancy.
 
+Failure to shed.
+
 # <
 
 # >
 
-Infertility
-
 Heavy menstural bleeding
 
-Uterine bleeding
+Uterine bleeding; When things fall out
+
+Amenorrhea
