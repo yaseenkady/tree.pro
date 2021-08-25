@@ -1,4 +1,10 @@
+# =
+
+Arthritis
+
 # .
+
+Degeneration causing arthritis.
 
 # <
 
@@ -11,5 +17,3 @@ Glucocorticoid
 Obesity
 
 # >
-
-ARTHRITIS

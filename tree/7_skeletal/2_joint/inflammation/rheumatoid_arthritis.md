@@ -1,10 +1,20 @@
+# =
+
+Arthritis; Chronic; Knee; Smaller joint; Not most distal
+
 # .
+
+Autoimmunity causing arthritis.
 
 # <
 
-# >
+Female
 
-ARTHRITIS
+Adult
+
+Middle aged
+
+# >
 
 LEUKOCYTOSIS
 
@@ -27,3 +37,5 @@ Proteinuria
 Ulnar deviation
 
 Interstitial lung disease
+
+Fever
