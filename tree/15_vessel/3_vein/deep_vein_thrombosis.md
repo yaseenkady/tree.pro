@@ -17,3 +17,5 @@ Leg pain
 High serum D dimer
 
 Edema
+
+Fever

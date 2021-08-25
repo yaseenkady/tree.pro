@@ -1,0 +1,9 @@
+# .
+
+(Temporal arteritis)
+
+# <
+
+# >
+
+Fever

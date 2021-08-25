@@ -15,3 +15,5 @@ Elderly
 Myalgia
 
 Giant cell arteritis; 10%
+
+Fever
