@@ -35,3 +35,5 @@ High serum adrenocorticotropic hormone
 High serum renin
 
 Dark urine
+
+Fever

@@ -30,8 +30,6 @@ Hyperandrogenism
 
 HYPERPROLACTINEMIA
 
-Anovulation
-
 Infertility; Common
 
 Amenorrhea

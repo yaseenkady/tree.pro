@@ -6,6 +6,8 @@ Low diet B12
 
 Celiac disease; The most common cause in young adult
 
+Inflammation
+
 # >
 
 Fatigue
