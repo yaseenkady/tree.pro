@@ -1,10 +1,12 @@
 # =
 
-Arthritis; Chronic; Knee; Smaller joint; Not most distal
+Arthritis
 
 # .
 
-Autoimmunity causing arthritis.
+Autoimmunity causing chronic arthritis.
+
+Commonly in knee and not-the-most-distal-smaller joints.
 
 # <
 

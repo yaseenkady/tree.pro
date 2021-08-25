@@ -1,10 +1,12 @@
 # =
 
-Arthritis; Distal joints; Asymptomatic
+Arthritis
 
 # .
 
 Psoriasis-associated autoimmunity causing arthritis.
+
+Commonly distal joints and assymmetric.
 
 # <
 

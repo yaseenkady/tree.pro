@@ -1,6 +1,6 @@
 # .
 
-Idiopathic syndrome of autoimmune diseases of skin, blood vessels, muscles, and internal organs.
+Idiopathic syndrome of collagen accumulation and autoimmunity of skin, blood vessels, muscles, and internal organs.
 
 # <
 

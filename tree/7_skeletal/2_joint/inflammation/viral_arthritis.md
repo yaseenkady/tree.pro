@@ -1,8 +1,12 @@
 # =
 
-Arthritis; Self-limited
+Arthritis
 
 # .
+
+Virus causing arthritis.
+
+Commonly self-limited.
 
 # <
 

@@ -4,9 +4,9 @@ Arthritis
 
 # .
 
-(Reiter syndrome)
+(Reactive arthritis)
 
-Bacteria-induced autoimmunity causing arthritis.
+Autoimmunity against bacteria causing arthritis.
 
 # <
 

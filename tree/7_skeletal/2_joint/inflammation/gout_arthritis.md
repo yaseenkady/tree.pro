@@ -1,10 +1,14 @@
 # =
 
-Arthritis; Acute; 90% of cases only in 1 joint; Polyarticular gout when in more than 1 joint
+Arthritis
 
 # .
 
 Microscopic crystal accumulation causing arthritis.
+
+Commonly acute.
+
+90% of cases in only 1 joint.
 
 # <
 

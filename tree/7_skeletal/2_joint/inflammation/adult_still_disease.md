@@ -16,6 +16,4 @@ Fever; For a week or longer
 
 Rash; Trunk; Extremity
 
-Arthralgia
-
-Joint effusion
+Arthritis
