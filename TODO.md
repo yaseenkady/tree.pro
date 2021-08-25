@@ -26,7 +26,7 @@
 
 - [x] First Aid
 - [x] Science of Medicine cases
-- [ ] Practice of Medicine cases
+- [x] Practice of Medicine cases
 
 - [ ] Chapter 3: Abdominal pain
 - [ ] Chapter 13: Diarrhea, acute
@@ -38,7 +38,7 @@
 
 - [x] First Aid
 - [x] Science of Medicine cases
-- [ ] Practice of Medicine cases
+- [x] Practice of Medicine cases
 
 - [ ] Chapter 28: Kidney injury, acute
 - [ ] Chapter 16: Dysuria
@@ -50,7 +50,7 @@
 
 - [x] First Aid
 - [x] Science of Medicine cases
-- [ ] Practice of Medicine cases
+- [x] Practice of Medicine cases
 
 - [x] Chapter 5: AIDS/HIV infection
 
@@ -59,7 +59,7 @@
 - [x] First Aid
 - [x] Science of Medicine
 - [x] Science of Medicine cases
-- [ ] Practice of Medicine cases
+- [x] Practice of Medicine cases
 
 - [x] Chapter 1: Diagnostic process
 - [x] Chapter 12: Diabetes
@@ -70,7 +70,7 @@
 
 - [ ] First Aid
 - [ ] Science of Medicine cases
-- [ ] Practice of Medicine cases
+- [x] Practice of Medicine cases
 
 - [ ] Chapter 27: Joint pain
 - [ ] Chapter 7: Back pain
@@ -115,8 +115,8 @@
 - [x] Case 8
 - [x] Case 9
 - [x] Case 10
-- [ ] Case 11
-- [ ] Case 12
+- [x] Case 11
+- [x] Case 12
 - [ ] Case 13
 - [ ] Case 14
 - [ ] Case 15

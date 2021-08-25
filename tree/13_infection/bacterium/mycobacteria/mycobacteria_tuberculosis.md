@@ -220,3 +220,5 @@ Ceseating granuloma; acid fast bacilli
 High serum antibody against Mycobacteria tuberculosis; Measured by quantiferon test, whihc can be negative in up to 20% of active disese
 
 Sputum acid fast bacilli
+
+Lung upper lobe opacity
