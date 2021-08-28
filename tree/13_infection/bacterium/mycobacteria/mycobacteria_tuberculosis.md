@@ -222,3 +222,5 @@ High serum antibody against Mycobacteria tuberculosis; Measured by quantiferon t
 Sputum acid fast bacilli
 
 Lung upper lobe opacity
+
+Liver abscess; 1%

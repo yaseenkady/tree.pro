@@ -117,8 +117,8 @@
 - [x] Case 10
 - [x] Case 11
 - [x] Case 12
-- [ ] Case 13
-- [ ] Case 14
+- [x] Case 13
+- [x] Case 14
 - [ ] Case 15
 - [ ] Case 16
 - [ ] Case 17
