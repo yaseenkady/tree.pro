@@ -107,3 +107,7 @@ Dark urine
 Increased LVEF; Common
 
 Pulmonary hypertension
+
+Low serum testosterone
+
+Insomnia
