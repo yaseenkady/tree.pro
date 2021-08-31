@@ -102,7 +102,7 @@ Lid lag
 
 Onycholysis
 
-Tremor; Fine; Hand
+Tremor; Fine; Hand; Intentional
 
 Hyperreflexia
 

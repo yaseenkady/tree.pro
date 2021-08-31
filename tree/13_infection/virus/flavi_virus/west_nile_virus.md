@@ -43,3 +43,5 @@ Meningitis
 Encephalitis
 
 Flaccid paralysis
+
+Intention tremor

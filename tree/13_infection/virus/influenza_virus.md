@@ -139,3 +139,5 @@ Infects up to 1/5 population per year, targetting the young, the old, and the we
 Up to 0.5 million death per year.
 
 Second most common cause of the community acquired pneumonia.
+
+Intention tremor

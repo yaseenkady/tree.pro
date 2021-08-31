@@ -45,3 +45,5 @@ Mental status change
 Slurred speech
 
 High serum glucose
+
+Intention tremor

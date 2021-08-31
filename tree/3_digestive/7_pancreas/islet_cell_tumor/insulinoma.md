@@ -11,3 +11,5 @@ HYPOGLYCEMIA
 ISLET CELL TUMOR
 
 High serum insulin
+
+Intention tremor

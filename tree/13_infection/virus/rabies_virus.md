@@ -75,3 +75,5 @@ Aerophobia
 Paralysis
 
 Autonomic deficit
+
+Intention tremor

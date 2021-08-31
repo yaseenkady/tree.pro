@@ -27,3 +27,5 @@ Vomiting
 Peritonitis
 
 Diarrhea
+
+Abdominal distention

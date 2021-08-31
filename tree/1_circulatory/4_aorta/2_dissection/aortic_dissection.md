@@ -35,3 +35,5 @@ Dyspnea
 Cardiogenic shock
 
 High serum troponin
+
+Fever

@@ -15,3 +15,5 @@ PERIODIC LEG MOVEMENT DISEASE
 Paresthesia
 
 Constipation
+
+Intention tremor

@@ -41,3 +41,5 @@ Hemolytic anemia
 Renal disease
 
 Fanconi syndrome
+
+Intention tremor

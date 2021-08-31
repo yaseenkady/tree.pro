@@ -17,3 +17,5 @@ Chvostek sign
 Trousseau sign
 
 Low serum PTH
+
+Intention tremor
