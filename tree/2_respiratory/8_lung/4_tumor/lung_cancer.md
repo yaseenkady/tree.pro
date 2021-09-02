@@ -51,3 +51,5 @@ Pericardial effusion
 Hoarseness
 
 Dyspnea; Progressive
+
+Constitutional symptom

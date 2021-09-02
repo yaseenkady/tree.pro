@@ -163,3 +163,5 @@ Weight loss
 Orthostatic hypotension
 
 Chronic kidney disease
+
+Malabsorption

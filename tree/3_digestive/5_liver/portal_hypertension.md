@@ -27,3 +27,5 @@ Hypotension
 Hyponatremia
 
 Hepatorenal syndrome
+
+Anorexia

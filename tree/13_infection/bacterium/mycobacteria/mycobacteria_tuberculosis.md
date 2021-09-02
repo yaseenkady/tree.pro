@@ -93,11 +93,6 @@ The primary infection is the latent infection which is contained by normal immun
 
 Asymptomatic during the primary infection where it spreads to various organs including bone, meninges, vertebral bodies, brain, kidney, and the reproductive organs.
 
-Low grade fever.
-
-Cough.
-Hemoptisis.
-
 Pneumonia, commonly in the upper lobe.
 
 - Constitutional symptoms
@@ -205,7 +200,7 @@ Lung cavity
 
 Dyspnea
 
-Cough; Productive; Progressive
+Cough; Productive; Progressive; Worse at night
 
 Weight loss
 
@@ -224,3 +219,9 @@ Sputum acid fast bacilli
 Lung upper lobe opacity
 
 Liver abscess; 1%
+
+Hemoptisis
+
+Fever; Low grade
+
+Crackle; Bilateral

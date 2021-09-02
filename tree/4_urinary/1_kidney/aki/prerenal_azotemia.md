@@ -27,3 +27,5 @@ Low fraction excreted urea; Less than 35%
 Low urine Na; Less than 20
 
 High serum blood urea nitrogen to creatinine ratio; Greater than 20
+
+Acute tubular necrosis

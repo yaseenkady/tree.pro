@@ -83,3 +83,5 @@ Mitral valve regurgitation
 Tricuspid valve regurgitation
 
 Palpitation
+
+Anorexia

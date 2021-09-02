@@ -1,6 +1,6 @@
 # .
 
-Asymptomatic
+Increased intestinal permeability and decreased complement proteins from cirrhosis resulting in peritoneal infection.
 
 # <
 
@@ -8,13 +8,23 @@ Cirrhosis
 
 Ascite
 
-Escherichia coli
+Escherichia coli; The most common
 
-Klebsiella
+Klebsiella: The second most common
 
-Streptococcus aureus
+Streptococcus pneumonia
+
+Streptococcus pyogenes
+
+Staphylococcus aureus
+
+Candida albicans; The most common fungal cause
+
+Proton pump inhibitor
 
 # >
+
+Asymptom
 
 Fever
 

@@ -49,3 +49,5 @@ Anemia
 Low hematocrit
 
 Low serum erythropoietin
+
+Anorexia

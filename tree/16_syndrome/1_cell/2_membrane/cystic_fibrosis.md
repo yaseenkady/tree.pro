@@ -21,3 +21,5 @@ Dyspnea
 Cough
 
 Chest pain
+
+Steatorrhea

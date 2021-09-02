@@ -31,3 +31,5 @@ Gallbladder cancer
 Ulcerative colitis
 
 Crohn disease
+
+Cholestasis

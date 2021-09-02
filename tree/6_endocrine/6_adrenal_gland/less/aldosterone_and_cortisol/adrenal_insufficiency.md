@@ -1,5 +1,7 @@
 # .
 
+Adrenal gland insufficiency.
+
 # <
 
 # >
@@ -27,6 +29,8 @@ Orthostatic hypotension
 Muscle weakness
 
 Low serum aldosterone
+
+Hyponatremia
 
 Low serum cortisol
 

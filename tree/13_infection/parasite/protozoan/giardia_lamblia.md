@@ -34,3 +34,5 @@ Diarrhea.Watery
 Anorexia
 
 Weight Loss
+
+Malabsorption

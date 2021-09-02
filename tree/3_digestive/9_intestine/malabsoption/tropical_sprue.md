@@ -8,8 +8,4 @@ Tropic
 
 # >
 
-Megaloblastic anemia
-
-Low serum folate
-
-Low serum vitamin B12
+Malabsorption

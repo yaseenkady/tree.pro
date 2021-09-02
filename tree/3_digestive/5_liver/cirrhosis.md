@@ -111,3 +111,5 @@ Pulmonary hypertension
 Low serum testosterone
 
 Insomnia
+
+Muscle waste

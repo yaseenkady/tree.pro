@@ -54,7 +54,7 @@ Erythema migrans
 
 Flu-like symptoms
 
-Constitutional symptoms
+Constitutional symptom
 
 Rash
 
@@ -81,5 +81,3 @@ Mononeuritis multiplex
 Neuropsychiatric syndrome
 
 Headache
-
-Fatigue

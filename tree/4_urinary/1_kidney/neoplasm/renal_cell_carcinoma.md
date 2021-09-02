@@ -22,7 +22,7 @@ Polycythemia
 
 Flank pain
 
-Constitutional symptoms
+Constitutional symptom
 
 Palpable mass
 

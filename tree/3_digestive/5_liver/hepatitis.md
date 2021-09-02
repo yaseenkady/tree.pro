@@ -85,3 +85,7 @@ Acholic stool
 Palmar erythema
 
 Caput medusa
+
+Increased prothrombin time
+
+Thrombocytopenia

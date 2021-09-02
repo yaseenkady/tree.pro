@@ -84,7 +84,6 @@ Infect AIDS patients, neonates, and normal hosts.
 Dormant for life.
 
 Asymptomatic in immunocompetent people.
-Constitutional symptoms.
 Lymphadenopathy.
 Increase risk tolerance.
 
@@ -125,3 +124,5 @@ The most virulent forms are in South America.
 # >
 
 MYOCARDITIS
+
+Constitutional symptom

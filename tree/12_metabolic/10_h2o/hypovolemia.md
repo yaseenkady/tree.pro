@@ -55,3 +55,7 @@ Dark urine
 Nausea
 
 Vomiting
+
+Prerenal azotemia
+
+Acute tubular necrosis

@@ -11,3 +11,5 @@ Child period and pregnancy also increase alkaline phosphatase.
 High serum GGT
 
 High serum alkaline phosphatase
+
+Steatorrhea

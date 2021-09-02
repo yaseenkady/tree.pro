@@ -31,3 +31,5 @@ High serum ALP
 Orthostatic hypotension
 
 Diarrhea
+
+Malabsorption

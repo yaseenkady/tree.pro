@@ -41,3 +41,5 @@ Fever
 Nausea; Atypical
 
 Vomiting; Atypical
+
+Steatorrhea
