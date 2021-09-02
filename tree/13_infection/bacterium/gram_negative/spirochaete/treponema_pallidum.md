@@ -43,3 +43,5 @@ Painless genital ulcer
 Palm and sole rash
 
 Rash
+
+Mental status change

@@ -33,3 +33,5 @@ TACHYCARDIA
 Dizziness
 
 Mesenteric ischemia
+
+Embolus

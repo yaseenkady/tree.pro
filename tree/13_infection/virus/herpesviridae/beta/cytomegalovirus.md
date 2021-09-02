@@ -67,3 +67,5 @@ Pneumonia
 ADDISON DISEASE
 
 Hepatitis
+
+Mental status change

@@ -126,3 +126,5 @@ The most virulent forms are in South America.
 MYOCARDITIS
 
 Constitutional symptom
+
+Mental status change

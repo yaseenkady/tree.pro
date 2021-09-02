@@ -1,0 +1,13 @@
+# .
+
+Circulating blood clot.
+
+# <
+
+# >
+
+Mesenteric ischemia
+
+Pulmonary embolism
+
+High serum D dimer
