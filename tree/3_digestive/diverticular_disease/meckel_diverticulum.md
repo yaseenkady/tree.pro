@@ -12,7 +12,7 @@ Male
 
 # >
 
-Hematochezia
+Lower gastrointestinal bleeding
 
 Melena
 

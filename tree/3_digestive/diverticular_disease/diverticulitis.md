@@ -20,7 +20,7 @@ Colovesical fistula
 
 Peritonitis
 
-Hematochezia; Rare
+Lower gastrointestinal bleeding; Rare
 
 GI perforation
 

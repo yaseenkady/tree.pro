@@ -18,6 +18,6 @@ Diet high in red meat and fat
 
 # >
 
-Hematochezia
+Lower gastrointestinal bleeding
 
 Diverticulitis

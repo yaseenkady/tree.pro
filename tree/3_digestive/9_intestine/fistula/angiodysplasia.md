@@ -16,4 +16,4 @@ Aortic stenosis
 
 # >
 
-Hematochezia
+Lower gastrointestinal bleeding

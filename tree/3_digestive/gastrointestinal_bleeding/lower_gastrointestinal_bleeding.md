@@ -6,11 +6,11 @@ Distal to ligament of Treitz.
 
 Inflammatory bowel disease
 
-Diverticulosis
+Diverticulosis; The most common
 
 Angiodysplasia
 
-Hemorrhoid
+Hemorrhoid; The most common
 
 Gastrointestinal cancer
 
@@ -18,4 +18,4 @@ Gastrointestinal cancer
 
 Bright red stool
 
-Hematochezia
+Lower gastrointestinal bleeding

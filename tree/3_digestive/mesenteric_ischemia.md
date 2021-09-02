@@ -7,3 +7,9 @@
 Nausea
 
 Diarrhea
+
+No abdominal sound
+
+Abdominal pain
+
+Lower gastrointestinal bleeding

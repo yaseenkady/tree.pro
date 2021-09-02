@@ -21,3 +21,5 @@ Loss of interest
 Pain
 
 Dyspnea
+
+Insomnia

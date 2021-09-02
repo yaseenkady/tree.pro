@@ -49,7 +49,7 @@ Hematuria
 
 Bladder squamous cell carcinoma
 
-Hematochezia
+Lower gastrointestinal bleeding
 
 Diarrhea
 

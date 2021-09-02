@@ -1,0 +1,17 @@
+# .
+
+Syndrome of GI bleeding due to angiodysplasia worsened by calcified aortic stenosis.
+
+Aging-related degeneration results in aortic stenosis and GI angiodysplasia, which results in GI bleeding.
+Aortic stenosis results in GI mucosa hypoxia and dysfunction, worsening angiodysplasia GI bleeding.
+Aortic stenosis also shears vWF, further worsening the bleedng.
+
+# <
+
+Elderly
+
+# >
+
+Aortic stenosis
+
+Angiodysplasia

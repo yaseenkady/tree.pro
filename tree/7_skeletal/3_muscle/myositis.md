@@ -1,7 +1,11 @@
 # .
 
+Muscle inflammation.
+
 # <
 
 # >
 
 Fatigue
+
+High serum AST

@@ -1,6 +1,6 @@
 # .
 
-Prolapse.
+Inflammed anal vessels.
 
 # <
 
@@ -9,3 +9,5 @@ Prolapse.
 LOWER GASTROINTESTINAL BLEEDING
 
 Pruritis
+
+Anal pain

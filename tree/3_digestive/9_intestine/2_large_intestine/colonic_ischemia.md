@@ -10,7 +10,7 @@ Elderly
 
 # >
 
-Hematochezia
+Lower gastrointestinal bleeding
 
 Abdominal pain, cramp
 

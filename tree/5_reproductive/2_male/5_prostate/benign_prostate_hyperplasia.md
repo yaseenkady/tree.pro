@@ -20,7 +20,7 @@ Prostate enlargement
 
 Urinary frequency
 
-Nocturia
+Nocturia; Common
 
 Dysuria
 

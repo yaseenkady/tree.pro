@@ -8,7 +8,6 @@ Sporozoites invades intestinal epithelial cells, divide into merozoites, and rep
 
 Merozoites develop male and female, which fertilize and release oocysts in the stool.
 
-
 # <
 
 Tropic

@@ -31,3 +31,5 @@ Palpitation
 TACHYCARDIA
 
 Dizziness
+
+Mesenteric ischemia
