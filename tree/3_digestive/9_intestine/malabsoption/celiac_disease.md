@@ -6,6 +6,8 @@ Gluten-sensitive enteropathy.
 
 Distal duodenum and or proximal jejunum.
 
+Common.
+
 # <
 
 Autoimmunity

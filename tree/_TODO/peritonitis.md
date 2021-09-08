@@ -12,8 +12,8 @@ Nausea
 
 No abdominal sound
 
-Rebound tenderness
+Rebound tenderness; Not as specific with RL 2.1
 
-Guarding
+Guarding; Voluntary contraction of abdominal muscles
 
-Rigidity
+Rigidity; Involuntary contraction of abdominal muscles; The most specific finding with RL 3.9

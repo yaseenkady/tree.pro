@@ -12,7 +12,7 @@ Ovarian cancer
 
 # >
 
-Lower abdominal pain
+Lower abdominal pain; Sudden
 
 Mass, assymmetric
 

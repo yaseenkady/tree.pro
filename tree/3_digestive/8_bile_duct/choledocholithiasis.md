@@ -12,8 +12,8 @@ High serum GCT
 
 Conjugated hyperbilirubinemia
 
-High serum AST
-
-High serum ALT
+Hepatitis
 
 Pancreatitis
+
+Hyperbilirubinemia; Common

@@ -1,9 +1,15 @@
+# =
+
+Cholecystitis
+
 # .
 
-Due to gallbladder stasis, hypoperfusion, or infection.
+Cholecystitis in the absence of calculi, due to gallbladder stasis, hypoperfusion, or infection.
 
 # <
 
 Cytomegalovirus
 
 # >
+
+Hepatitis; Mild

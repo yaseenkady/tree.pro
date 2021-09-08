@@ -73,3 +73,11 @@ ST elevation
 High serum troponin; 50%
 
 Obstructive shock; Massive embolus
+
+Deep S wave in lead 1
+
+Q wave in lead 2
+
+T wave inversion in lead 3
+
+Right ventricle dilation

@@ -18,6 +18,8 @@ Middle age
 
 Abdominal pain, Radiating to back; Acute; Right upper quadrant; Colicky
 
+Murphy sign
+
 Nausea
 
 Vomiting
@@ -28,4 +30,14 @@ High serum ALP
 
 Acute cholangitis
 
-Peritoneal sign; If gallbladder is ruptured
+Peritoneal sign; Common; If gallbladder is ruptured
+
+Decreased bowel sound; In severe case
+
+Fever; Common
+
+Gallbladder wall thickening
+
+Pericholecystic fluid
+
+Hepatitis; Mild

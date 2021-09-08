@@ -1,5 +1,7 @@
 # .
 
+(Symptomatic cholelithiasis)
+
 Biliary obstruction, commonly in the cystic duct or common bile duct, causing pain.
 
 Post prandial (fatty meal) CCK triggers gallbadder contraction which pushes stone into cystic duct.
@@ -8,8 +10,14 @@ Post prandial (fatty meal) CCK triggers gallbadder contraction which pushes ston
 
 # >
 
-Nausea
+Nausea; Recurrent
 
 Vomiting
 
-Abdominal pain, upper right quadrant
+Abdominal pain; Dull; Diffuse; Not colicky; After high fat meal; Recurrent
+
+Fever; Commonly absent
+
+Peritoneal sign; Commonly absent
+
+Hepatitis; In complicated case

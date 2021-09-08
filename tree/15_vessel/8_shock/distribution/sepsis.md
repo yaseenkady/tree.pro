@@ -23,3 +23,19 @@ High serum troponin
 High serum procalcitonin
 
 Skin; Dry; Warm progresses to cold
+
+Fever; More than 38
+
+Hypothermia; Less than 36
+
+Tachycardia; More than 90
+
+Tachypnea; More than 20
+
+Low PaCO2; less than 32
+
+Low white blood cell count; Less than 4000
+
+High white blood cell count; More than 4000
+
+High band; More than 10%

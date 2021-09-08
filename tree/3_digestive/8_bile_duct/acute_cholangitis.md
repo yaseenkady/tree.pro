@@ -1,27 +1,25 @@
 # .
 
-Ascending cholangitis.
-
-Due to ascending infection.
+Ascending cholangitis due to ascending infection.
 
 # <
+
+Infection
 
 # >
 
 Chest pain
 
-Abdominal pain radiating to back
-
-Right upper quadrant abdominal pain
+Abdominal pain, Radiating to back, Right upper quadrant
 
 Nausea
 
 Vomiting
 
-Juandice
-
-Fever
+Fever; Common
 
 Mental status change
 
 Shock
+
+Hyperbilirubinemia; Common
