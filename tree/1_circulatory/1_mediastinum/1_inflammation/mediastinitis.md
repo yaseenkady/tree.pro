@@ -1,6 +1,6 @@
 # .
 
-Mediastinum inflammation.
+Inflammation of mediastinum.
 
 # <
 

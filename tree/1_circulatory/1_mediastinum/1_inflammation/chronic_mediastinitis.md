@@ -1,6 +1,10 @@
+# =
+
+Mediastinitis
+
 # .
 
-Mediastinum chronic inflammation and fibrosis.
+Chronic inflammation and fibrosis of mediastinum.
 
 # <
 
