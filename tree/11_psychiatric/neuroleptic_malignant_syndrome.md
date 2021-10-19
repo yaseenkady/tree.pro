@@ -1,0 +1,23 @@
+# .
+
+Life-threatening reaction to antipsychotic medication.
+
+# <
+
+# >
+
+Fever
+
+Confusion
+
+Diaphoresis
+
+Tachycardia
+
+Rhabdomyolysis
+
+Hypertension
+
+Kidney Failure
+
+Seizure

@@ -1,0 +1,7 @@
+# .
+
+Fresh blood in stool.
+
+# <
+
+# >
