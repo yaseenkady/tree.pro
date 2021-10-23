@@ -9,3 +9,5 @@
 1. Touch body part.
 
 2. Select from L2.
+
+`bone`, `joint`, `muscle`, `skin`, and `nerve` are part of `back`, `arm`, and `leg`.
