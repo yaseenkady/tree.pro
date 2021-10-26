@@ -1,13 +1,21 @@
-# 1.Demography
+## Project
 
-1. What is your L1?
+Catalogue (and order) all of the medical featrures.
 
-2. Select from L2.
+Link the features.
 
-# 2.Symptom
+Make modifying of the catalogue easy.
 
-1. Touch body part.
+## Structure
 
-2. Select from L2.
+Optimize for compression.
 
-`bone`, `joint`, `muscle`, `skin`, and `nerve` are part of `back`, `arm`, and `leg`.
+Prefer flat structure.
+
+## Order
+
+Order like physical exam.
+
+Order from head to toe.
+
+Order by accessibility.
