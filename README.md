@@ -1,21 +1,9 @@
-## Project
-
-Catalogue (and order) all of the medical featrures.
-
-Link the features.
-
-Make modifying of the catalogue easy.
-
 ## Structure
 
-Optimize for compression.
+### Presentation
 
-Prefer flat structure.
+Anatomical structure (top-to-bottom) / Feature (accessibility) / (less-to-more)
 
-## Order
+### Disease
 
-Order like medical report.
-
-Order from head to toe.
-
-Order by accessibility.
+Organ system (general-to-specific) / Anatomical structure (superficial-to-deep) / Disease (general-to-specific) / (less-to-more)
