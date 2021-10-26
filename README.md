@@ -14,7 +14,7 @@ Prefer flat structure.
 
 ## Order
 
-Order like physical exam.
+Order like medical report.
 
 Order from head to toe.
 
