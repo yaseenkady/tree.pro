@@ -24,6 +24,12 @@ end
 
 function is_good_structure(na::String)::Bool
 
+    if occursin(r"^[0-9]+\.[0-9]+[_0-9a-z]+(\.md$|$)", na)
+
+        @warn(string("May be bad name: ", na))
+
+    end
+
     return occursin(r"^([0-9]+\.){1,2}[_0-9a-z]+(\.md$|$)", na)
 
 end
