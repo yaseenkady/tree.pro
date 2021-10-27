@@ -1,9 +1,21 @@
 ## Structure
 
+### Order
+
+General-to-specific
+
+Superficial-to-deep
+
+Top-to-bottom
+
+Accessibility
+
+Increasing
+
 ### Presentation
 
-Anatomical structure (top-to-bottom) / Feature (accessibility) / (less-to-more)
+Body part / Finding / ...
 
 ### Disease
 
-Organ system (general-to-specific) / Anatomical structure (superficial-to-deep) / Disease (general-to-specific) / (less-to-more)
+Organ system / Body part  / Disease / ...
