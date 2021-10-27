@@ -62,3 +62,23 @@ function make_id(pa::String)::Vector{Int64}
     ]
 
 end
+
+function shorten_path(pa::String)::String
+
+    return joinpath(splitpath(pa)[4:end]...)
+
+end
+
+function move(pa1::String, pa2::String; n_di::Int64 = 0)::String
+
+    sp1_ = splitpath(pa1)
+
+    sp2_ = splitpath(pa2)
+
+    n_re = length(Kwat.vector.get_longest_common_prefix([sp1_, sp2_])) - n_di
+
+    println(joinpath(sp1_[n_re:end]...), " ==> ", joinpath(sp2_[n_re:end]...))
+
+    return mv(pa1, pa2)
+
+end
