@@ -32,7 +32,7 @@ Increasing
 
 `high`: increased, over, excessive
 
-`prolonged` = `increased` time
+`prolonged` = `high` time
 
 `deficit` = neural problem
 
