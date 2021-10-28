@@ -1,8 +1,18 @@
 {
   "hierarchy": "./hierarchy/",
   "example_md": "./1.example.md",
-  "words_to_check": ["decreased", "increased", "low", "high", "poor", "prolonged", "deficit", "defect"],
-  "renaming_pairs": [
-    ["", ""]
+  "words_to_check": [
+    "decreased",
+    "increased",
+    "trouble",
+    "difficult",
+    "excessive",
+    "low",
+    "high",
+    "poor",
+    "diminished",
+    "prolonged",
+    "deficit",
+    "defect"
   ]
 }

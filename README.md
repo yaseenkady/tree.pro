@@ -10,7 +10,7 @@ System / Body / Disease / ...
 
 ## Preference
 
-### Order 
+### Order
 
 General-to-specific
 
@@ -30,7 +30,7 @@ Increasing
 
 `diminished` = `low` amplitude
 
-`high`: increased, over, excessive
+`high`: increased, excessive
 
 `prolonged` = `high` time
 
