@@ -1,6 +1,16 @@
 ## Structure
 
-### Order
+### Presentation
+
+Body / Finding / ...
+
+### Disease
+
+System / Body / Disease / ...
+
+## Preference
+
+### Order 
 
 General-to-specific
 
@@ -12,10 +22,18 @@ Accessibility
 
 Increasing
 
-### Presentation
+### Word
 
-Body part / Finding / ...
+`low` = decreasing, under
 
-### Disease
+`poor` = `low` that does not have high counterpart
 
-Organ system / Body part / Disease / ...
+`diminished` = `low` in amplitude
+
+`high`: increasing, over, excessive
+
+`prolonged` = `increasing` in time
+
+`deficit` = neural problem
+
+`defect` = congenital problem

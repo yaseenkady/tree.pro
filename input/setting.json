@@ -1,4 +1,8 @@
 {
-  "tree": "./tree/",
-  "example_md": "./1.example.md"
+  "hierarchy": "./hierarchy/",
+  "example_md": "./1.example.md",
+  "words_to_check": ["decreased", "increased", "low", "high", "poor", "prolonged", "deficit", "defect"],
+  "renaming_pairs": [
+    ["", ""]
+  ]
 }
