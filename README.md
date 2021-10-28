@@ -24,15 +24,15 @@ Increasing
 
 ### Word
 
-`low` = decreasing, under
+`low` = decreased
 
-`poor` = `low` that does not have high counterpart
+`poor` = `low` without `high`
 
-`diminished` = `low` in amplitude
+`diminished` = `low` amplitude
 
-`high`: increasing, over, excessive
+`high`: increased, over, excessive
 
-`prolonged` = `increasing` in time
+`prolonged` = `increased` time
 
 `deficit` = neural problem
 
