@@ -3,17 +3,20 @@
   "hierarchy": "./hierarchy/",
   "example_md": "./1.example.md",
   "words_to_check": [
-    "decreased",
-    "increased",
-    "trouble",
-    "difficult",
-    "excessive",
     "low",
     "high",
-    "poor",
     "diminished",
     "prolonged",
+    "defect",
     "deficit",
-    "defect"
+    "decreased",
+    "increased",
+    "poor",
+    "rich",
+    "excessive",
+    "loss",
+    "gain",
+    "trouble",
+    "difficult"
   ]
 }
