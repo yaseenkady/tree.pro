@@ -13,50 +13,6 @@ SE = Kwat.workflow.read_setting(pas)
 PAR, PAI, PAC, PAO = Kwat.workflow.get_path(pas)
 
 # ==============================================================================
-function shorten_path(pa::String, n_ba::Int64)::String
-
-    return joinpath(splitpath(pa)[(end - n_ba):end]...)
-
-end
-
-function shorten_path(pa::String, di::String)::String
-
-    sp_ = splitpath(pa)
-
-    id = findfirst(sp_ .== split(di, "/")[end]) + 1
-
-    return shorten_path(pa, length(sp_) - id)
-
-end
-
-function move(
-    pa1::String,
-    pa2::String;
-    n_ba::Int64 = 1,
-    te::Bool = false,
-)::String
-
-    sp1_ = splitpath(pa1)
-
-    sp2_ = splitpath(pa2)
-
-    n_sk = length(Kwat.vector.get_longest_common_prefix([sp1_, sp2_])) - n_ba
-
-    println(joinpath(sp1_[n_sk:end]...), " ==> ", joinpath(sp2_[n_sk:end]...))
-
-    if te
-
-        return ""
-
-    else
-
-        return mv(pa1, pa2)
-
-    end
-
-end
-
-# ==============================================================================
 function walk_up(hi::String)::Vector{Vector{Union{String, Vector{String}}}}
 
     return [
