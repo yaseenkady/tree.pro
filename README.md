@@ -22,7 +22,7 @@ System / Body / Disease / ...
 
 `poor`: :arrow_down: that does not have the corresponding :arrow_up:
 
-`low` and `high`: :arrow_down: and `arrow_up` in :busts_in_silhouette:
+`low` and `high`: :arrow_down: and :arrow_up: in :busts_in_silhouette:
 
 ## Order
 
