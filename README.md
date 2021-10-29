@@ -1,13 +1,3 @@
-## Structure
-
-### Presentation
-
-Body / Finding / ...
-
-### Disease
-
-System / Body / Disease / ...
-
 ## Word
 
 `decreased` and `increased`: :arrow_down: and :arrow_up: in :bust_in_silhouette:
@@ -35,3 +25,13 @@ Top-to-bottom
 Accessibility
 
 Increasing
+
+## Structure
+
+### Presentation
+
+Body / Finding / ...
+
+### Disease
+
+System / Body / Disease / ...
