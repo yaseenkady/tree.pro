@@ -24,16 +24,16 @@ Increasing
 
 ### Word
 
-`low` = decreased
+`decreased` and `increased`: :down_arrow: and :up_arrow: in :bust_in_silhouette:
 
-`poor` = `low` without `high`
+`trouble(_with)`: nervous :warning:
 
-`diminished` = `low` amplitude
+`defect`: congenital :warning:
 
-`high`: increased, excessive
+`diminished`: :down_arrow: amplitude in :busts_in_silhouette:
 
-`prolonged` = `high` time
+`prolonged`: :up_arrow: time in :busts_in_silhouette:
 
-`deficit` = neural problem
+`poor`: :down_arrow: that does not have the corresponding :up_arrow:
 
-`defect` = congenital problem
+`low` and `high`: :down_arrow: and `up_arrow` in :busts_in_silhouette:
