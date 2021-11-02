@@ -1,6 +1,0 @@
-# This file is machine-generated - editing it directly is not advised
-
-[[Kwat]]
-path = "../../tool/Kwat.jl"
-uuid = "fb31f113-4a63-4a8e-817a-4bdffc7e605a"
-version = "0.2.0"
