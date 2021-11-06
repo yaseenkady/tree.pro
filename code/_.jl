@@ -1,18 +1,10 @@
 using Revise
 using BenchmarkTools
-using PyCall
 
-using Kwat
+using LeanProject
+using PathExtension
 
-kwat = pyimport("kwat")
-
-pas = joinpath("..", "input", "setting.json")
-
-SE = Kwat.workflow.read_setting(pas)
-
-PAR, PAI, PAC, PAO = Kwat.workflow.get_path(pas)
-
-# ==============================================================================
+# ========================
 function walk_up(hi::String)::Vector{Vector{Union{String, Vector{String}}}}
 
     return [
@@ -133,4 +125,14 @@ function catalog(hi)::Dict{String, Dict{String, Union{String, Vector{Int64}}}}
 
 end
 
-nothing
+# ========================
+se = joinpath("..", "input", "setting.json")
+
+PAR, PAI, PAC, PAO = get_project_path(se)
+
+SE = read_setting(se)
+
+# ========================
+TR = joinpath(PAI, "tree")
+
+EX = joinpath(PAI, "1.example.md")

@@ -1,6 +1,6 @@
 # tree.pro
 
-Tree of clinically relevant medical knowledge.
+Tree of clinically relevant medical knowledge :stethoscope:
 
 ## Word
 

@@ -1,7 +1,5 @@
 {
   "testing": false,
-  "hierarchy": "./hierarchy/",
-  "example_md": "./1.example.md",
   "words_to_check": [
     "decreased",
     "increased",
