@@ -101,7 +101,8 @@ function catalog(hi)::Dict{String, Dict{String, Union{String, Vector{Int64}}}}
 
             if haskey(ti_di, ti)
 
-                error(
+                println(
+                    #error(
                     "2: ",
                     shorten(ti_di[ti]["path"], 1),
                     " and ",
