@@ -4,6 +4,8 @@ Tree of clinically relevant medical knowledge :stethoscope:
 
 ## Word
 
+Avoid abbreviation.
+
 `decreased` and `increased`: :arrow_down: and :arrow_up: in :bust_in_silhouette:
 
 `trouble(_with)`: nervous :warning:

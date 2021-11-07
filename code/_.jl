@@ -103,9 +103,9 @@ function catalog(hi)::Dict{String, Dict{String, Union{String, Vector{Int64}}}}
 
                 error(
                     "2: ",
-                    shorten_path(ti_di[ti]["path"], 1),
+                    shorten(ti_di[ti]["path"], 1),
                     " and ",
-                    shorten_path(pa, 1),
+                    shorten(pa, 1),
                 )
 
             else
