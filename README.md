@@ -1,6 +1,6 @@
 # tree.pro
 
-Tree of clinically relevant medical knowledge :stethoscope:
+The tree of clinically-relevant medical knowledge :stethoscope:
 
 ## Word
 
@@ -20,6 +20,8 @@ Avoid abbreviation.
 
 `low` and `high`: :arrow_down: and :arrow_up: in :busts_in_silhouette:
 
+Use `[0-9]` instead of words
+
 ## Order
 
 General-to-specific
@@ -33,6 +35,12 @@ Accessibility
 Increasing
 
 ## Structure
+
+`.md` file names are variable names
+
+The first line of `# .` is the descriptions of its variable name, and should not end with a period but can have semi-colons separating synonyms
+
+Descriptions should imply patients
 
 ### Presentation
 
