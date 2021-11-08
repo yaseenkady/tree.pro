@@ -4,7 +4,7 @@ The tree of clinically-relevant medical knowledge :stethoscope:
 
 ## Word
 
-Avoid abbreviation.
+Avoid abbreviation
 
 `decreased` and `increased`: :arrow_down: and :arrow_up: in :bust_in_silhouette:
 
@@ -36,9 +36,9 @@ Increasing
 
 ## Structure
 
-`.md` file names are variable names
+A `.md` file name is the file's variable name, which, instead of being medically sound, may follow systematic naming rules
 
-The first line of `# .` is the descriptions of its variable name, and should not end with a period but can have semi-colons separating synonyms
+The first line of `# .` is the descriptions of the file's variable name, and should not end with a period, but can have semi-colons separating synonyms
 
 Descriptions should imply patients
 
