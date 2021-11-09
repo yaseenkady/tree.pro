@@ -4,12 +4,12 @@ using BenchmarkTools
 using LeanProject
 using PathExtension
 
-# ========================
-function walk_up(hi::String)::Vector{Vector{Union{String, Vector{String}}}}
+# ========
+function walk_up(tr::String)::Vector{Vector{Union{String, Vector{String}}}}
 
     return [
         [ro, di_, [fi for fi in fi_ if endswith(fi, ".md")]] for
-        (ro, di_, fi_) in walkdir(hi; topdown = false)
+        (ro, di_, fi_) in walkdir(tr; topdown = false)
     ]
 
 end
@@ -64,13 +64,13 @@ function make_continuous(
 
 end
 
-function id_name(pa::String, hi::String)::Vector{Int64}
+function id_name(pa::String, tr::String)::Vector{Int64}
 
     sp_ = splitpath(pa)
 
     return [
         parse(Int64, split(sp, ".")[1]) for
-        sp in sp_[(findfirst(sp_ .== split(hi, "/")[end]) + 1):end]
+        sp in sp_[(findfirst(sp_ .== split(tr, "/")[end]) + 1):end]
     ]
 
 end
@@ -81,11 +81,11 @@ function get_parent_title(ro::String)::String
 
 end
 
-function catalog(hi)::Dict{String, Dict{String, Union{String, Vector{Int64}}}}
+function catalog(tr)::Dict{String, Dict{String, Union{String, Vector{Int64}}}}
 
     ti_di = Dict{String, Dict{String, Union{String, Vector{Int64}}}}()
 
-    for (ro, di_, fi_) in walk_up(hi)
+    for (ro, di_, fi_) in walk_up(tr)
 
         for fi in fi_
 
@@ -113,7 +113,7 @@ function catalog(hi)::Dict{String, Dict{String, Union{String, Vector{Int64}}}}
 
                 ti_di[ti] = Dict(
                     "path" => pa,
-                    "id" => id_name(pa, string(rstrip(hi, '/'))),
+                    "id" => id_name(pa, string(rstrip(tr, '/'))),
                 )
 
             end
@@ -126,14 +126,14 @@ function catalog(hi)::Dict{String, Dict{String, Union{String, Vector{Int64}}}}
 
 end
 
-# ========================
+# ========
 se = joinpath("..", "input", "setting.json")
 
 PAR, PAI, PAC, PAO = get_project_path(se)
 
 SE = read_setting(se)
 
-# ========================
+# ========
 TR = joinpath(PAI, "tree")
 
 EX = joinpath(PAI, "1.example.md")

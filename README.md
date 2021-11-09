@@ -2,15 +2,17 @@
 
 The tree of clinically-relevant medical knowledge :stethoscope:
 
-## Word
+## Principle
 
 Avoid abbreviation
 
+Use medical terms
+
 Write causally and logically
 
-`decreased` and `increased`: :arrow_down: and :arrow_up: in :bust_in_silhouette:
+### Wording
 
-`trouble(_with)`: nervous :warning:
+`decreased` and `increased`: :arrow_down: and :arrow_up: in :bust_in_silhouette:
 
 `defect`: congenital :warning:
 
@@ -24,7 +26,7 @@ Write causally and logically
 
 Use `[0-9]` instead of words
 
-## Order
+### Ordering
 
 General-to-specific
 
@@ -36,18 +38,28 @@ Accessibility
 
 Increasing
 
-## Structure
+## `Branch`
 
-A `.md` file name is the file's variable name, which, instead of being medically sound, may follow systematic naming rules
+### `Presentation`
 
-The first line of `# .` is the descriptions of the file's variable name, and should not end with a period, but can have semi-colons separating synonyms
+Body / Finding `node` / ...
 
-Descriptions should imply patients
+### `Disease`
 
-### Presentation
+System / Body / Disease `node` / ...
 
-Body / Finding / ...
+## `.md`
 
-### Disease
+`.md`s are `node`s. 
 
-System / Body / Disease / ...
+A `.md` name is the file's variable name, which, instead of being medically sound, should follow the [wording principles](#wording).
+
+### `# .`
+
+The first line of `# .` is the variable name description, and should not end with a period, but can have `|` separating synonyms
+
+The descriptions should imply a patient
+
+### `# <`
+
+### `# >`
