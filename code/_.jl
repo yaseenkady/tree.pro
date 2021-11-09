@@ -1,6 +1,8 @@
 using Revise
 using BenchmarkTools
 
+using OrderedCollections
+
 using LeanProject
 using PathExtension
 
@@ -81,7 +83,9 @@ function get_parent_title(ro::String)::String
 
 end
 
-function catalog(tr)::Dict{String, Dict{String, Union{String, Vector{Int64}}}}
+function catalog(
+    tr,
+)::OrderedDict{String, Dict{String, Union{String, Vector{Int64}}}}
 
     ti_di = Dict{String, Dict{String, Union{String, Vector{Int64}}}}()
 
@@ -101,9 +105,8 @@ function catalog(tr)::Dict{String, Dict{String, Union{String, Vector{Int64}}}}
 
             if haskey(ti_di, ti)
 
-                println(
-                    #error(
-                    "2: ",
+                error(
+                    "duplicated ",
                     shorten(ti_di[ti]["path"], 1),
                     " and ",
                     shorten(pa, 1),
@@ -122,7 +125,7 @@ function catalog(tr)::Dict{String, Dict{String, Union{String, Vector{Int64}}}}
 
     end
 
-    return ti_di
+    return sort(ti_di; by = ti -> ti_di[ti]["id"])
 
 end
 

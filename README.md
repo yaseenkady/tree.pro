@@ -50,7 +50,7 @@ System / Body / Disease `node` / ...
 
 ## `.md`
 
-`.md`s are `node`s. 
+`.md`s are `node`s.
 
 A `.md` name is the file's variable name, which, instead of being medically sound, should follow the [wording principles](#wording).
 
