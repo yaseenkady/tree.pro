@@ -4,13 +4,15 @@ The tree of clinically-relevant medical knowledge :stethoscope:
 
 ## Principle
 
-Avoid abbreviation
+Avoid abbreviations.
 
-Use medical terms
+Use medical terms.
 
-Write causally and logically
+Write causally and logically.
 
 ### Wording
+
+Use `[0-9]`s.
 
 `decreased` and `increased`: :arrow_down: and :arrow_up: in :bust_in_silhouette:
 
@@ -24,8 +26,6 @@ Write causally and logically
 
 `low` and `high`: :arrow_down: and :arrow_up: in :busts_in_silhouette:
 
-Use `[0-9]` instead of words
-
 ### Ordering
 
 General-to-specific
@@ -34,7 +34,7 @@ Superficial-to-deep
 
 Top-to-bottom
 
-Accessibility
+Decreasing accessibility
 
 Increasing
 
@@ -56,9 +56,9 @@ A `.md` name is the file's variable name, which, instead of being medically soun
 
 ### `# .`
 
-The first line of `# .` is the variable name description, and should not end with a period, but can have `|` separating synonyms
+The first line of `# .` is the variable name description, and should not end with a period, but can have `|` separating synonyms.
 
-The descriptions should imply a patient
+The descriptions should imply a patient.
 
 ### `# <`
 
