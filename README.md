@@ -6,6 +6,8 @@ The tree of clinically-relevant medical knowledge :stethoscope:
 
 Avoid abbreviation
 
+Write causally and logically
+
 `decreased` and `increased`: :arrow_down: and :arrow_up: in :bust_in_silhouette:
 
 `trouble(_with)`: nervous :warning:
