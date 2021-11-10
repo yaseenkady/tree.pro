@@ -83,11 +83,113 @@ function get_parent_title(ro::String)::String
 
 end
 
+# TODO: add to .jl
+function get_order(an_::Vector, ta_::Vector)::Vector{Int64}
+
+    return [findfirst(an_ .== ta) for ta in ta_]
+
+end
+
+function read_content(md::String)::Dict{String, Vector{String}}
+
+    bl_ = ["# .", "# <", "# >"]
+
+    li_ = [li for li in readlines(md) if li != ""]
+
+    lbl_ = [li for li in li_ if startswith(li, '#')]
+
+    sh = shorten(md, 1)
+
+    if length(li_) == 0
+
+        println("writing ", sh)
+
+        write(md, join(bl_, "\n"^2))
+
+    elseif length(lbl_) != length(bl_) || !all(lbl_ .== bl_)
+
+        error("block ", sh)
+
+    end
+
+    bl_li_ = Dict(bl => Vector{String}() for bl in bl_)
+
+    bl = ""
+
+    for li in li_
+
+        if li in bl_
+
+            bl = li
+
+        else
+
+            push!(bl_li_[bl], li)
+
+        end
+
+    end
+
+    he = bl_li_["# ."]
+
+    if length(he) == 0
+
+        println("# . ", sh)
+
+    else
+
+        de = he[1]
+
+        if any(occursin(st, de) for st in ['.', ';', '(', ')'])
+
+            println("description ", sh)
+
+        end
+
+    end
+
+    for bl in ["# <", "# >"]
+
+        for no in bl_li_[bl]
+
+            if any(occursin(st, no) for st in [';'])
+
+                println("node ", sh)
+
+            end
+
+            if any(occursin(st, no) for st in ['('])
+
+                println(sh)
+
+                println(no)
+
+                println()
+
+            end
+
+        end
+
+    end
+
+    return bl_li_
+
+end
+
 function catalog(
     tr,
-)::OrderedDict{String, Dict{String, Union{String, Vector{Int64}}}}
+)::OrderedDict{
+    String,
+    Dict{String, Union{String, Vector{Int64}, Dict{String, Vector{String}}}},
+}
 
-    ti_di = Dict{String, Dict{String, Union{String, Vector{Int64}}}}()
+    ti_di = Dict{
+        String,
+        Dict{
+            String,
+            Union{String, Vector{Int64}, Dict{String, Vector{String}}},
+        },
+    }()
 
     for (ro, di_, fi_) in walk_up(tr)
 
@@ -115,8 +217,9 @@ function catalog(
             else
 
                 ti_di[ti] = Dict(
-                    "path" => pa,
+                    "pa" => pa,
                     "id" => id_name(pa, string(rstrip(tr, '/'))),
+                    "co" => read_content(pa),
                 )
 
             end
@@ -138,5 +241,3 @@ SE = read_setting(se)
 
 # ========
 TR = joinpath(PAI, "tree")
-
-EX = joinpath(PAI, "1.example.md")
