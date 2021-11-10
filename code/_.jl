@@ -104,7 +104,11 @@ function read_content(md::String)::Dict{String, Vector{String}}
 
         println("writing ", sh)
 
-        write(md, join(bl_, "\n"^2))
+        li_ = copy(bl_)
+
+        insert!(li_, 2, split_name(splitdir(md)[2])[2])
+
+        write(md, join(li_, "\n"^2))
 
     elseif length(lbl_) != length(bl_) || !all(lbl_ .== bl_)
 
