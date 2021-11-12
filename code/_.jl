@@ -209,7 +209,7 @@ function catalog(
 
                 error(
                     "duplicated ",
-                    shorten(ti_di[ti]["path"], 1),
+                    shorten(ti_di[ti]["pa"], 1),
                     " and ",
                     shorten(pa, 1),
                 )
