@@ -18,7 +18,7 @@ end
 
 function is_good_name(na::String)::Bool
 
-    return occursin(r"^([0-9]+\.){1,2}[a-z0-9_]+(\.md$|$)", na)
+    return occursin(r"^([0-9]+\.){1,2}[_0-9a-z]+(\.md$|$)", na)
 
 end
 
@@ -44,11 +44,7 @@ function split_name(na::String)::Vector{Union{Int64, Float64, String}}
 
 end
 
-function make_continuous(
-    ro::String,
-    na_::Vector{String};
-    te::Bool = false,
-)::Nothing
+function make_continuous(ro::String, na_::Vector{String})::Nothing
 
     for (id, na) in enumerate(sort!(na_; by = split_name))
 
@@ -56,7 +52,7 @@ function make_continuous(
 
         if na != co
 
-            move(joinpath(ro, na), joinpath(ro, co); te = te)
+            move(joinpath(ro, na), joinpath(ro, co))
 
         end
 
@@ -77,16 +73,10 @@ function id_name(pa::String, tr::String)::Vector{Int64}
 
 end
 
+# TODO: rename _s
 function get_parent_title(ro::String)::String
 
     return split_name(splitdir(ro)[2])[2]
-
-end
-
-# TODO: add to .jl
-function get_order(an_::Vector, ta_::Vector)::Vector{Int64}
-
-    return [findfirst(an_ .== ta) for ta in ta_]
 
 end
 
@@ -112,7 +102,7 @@ function read_content(md::String)::Dict{String, Vector{String}}
 
     elseif length(lbl_) != length(bl_) || !all(lbl_ .== bl_)
 
-        error("block ", sh)
+        error("fix block ", sh)
 
     end
 
@@ -126,27 +116,23 @@ function read_content(md::String)::Dict{String, Vector{String}}
 
             bl = li
 
-        else
-
-            push!(bl_li_[bl], li)
+            continue
 
         end
+
+        push!(bl_li_[bl], li)
 
     end
 
     he = bl_li_["# ."]
 
-    if length(he) == 0
-
-        println("# . ", sh)
-
-    else
+    if 0 < length(he)
 
         de = he[1]
 
         if any(occursin(st, de) for st in ['.', ';', '(', ')'])
 
-            println("description ", sh)
+            println("check description ", sh)
 
         end
 
@@ -156,15 +142,9 @@ function read_content(md::String)::Dict{String, Vector{String}}
 
         for no in bl_li_[bl]
 
-            if any(occursin(st, no) for st in [';'])
+            if any(occursin(st, no) for st in [';', '('])
 
-                println("node ", sh)
-
-            end
-
-            if any(occursin(st, no) for st in ['('])
-
-                #println(no)
+                println("check node ", sh)
 
             end
 
@@ -208,7 +188,7 @@ function catalog(
             if haskey(ti_di, ti)
 
                 error(
-                    "duplicated ",
+                    "fix duplicate ",
                     shorten(ti_di[ti]["pa"], 1),
                     " and ",
                     shorten(pa, 1),
