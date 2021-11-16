@@ -62,13 +62,13 @@ function make_continuous(ro::String, na_::Vector{String})::Nothing
 
 end
 
-function id_name(pa::String, tr::String)::Vector{Int64}
+function id_name(pa::String)::Vector{Int64}
 
     sp_ = splitpath(pa)
 
     return [
         parse(Int64, split(sp, ".")[1]) for
-        sp in sp_[(findfirst(sp_ .== split(tr, "/")[end]) + 1):end]
+        sp in sp_[(findfirst(sp_ .== "tree") + 1):end]
     ]
 
 end
@@ -198,7 +198,7 @@ function catalog(
 
                 ti_di[ti] = Dict(
                     "pa" => pa,
-                    "id" => id_name(pa, string(rstrip(tr, '/'))),
+                    "id" => id_name(pa),
                     "co" => read_content(pa),
                 )
 
