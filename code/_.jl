@@ -142,9 +142,9 @@ function read_content(md::String)::Dict{String, Vector{String}}
 
         for no in bl_li_[bl]
 
-            if any(occursin(st, no) for st in [';', '('])
+            if any(occursin(st, no) for st in [';'])
 
-                println("check node ", sh)
+                #println("check node ", sh)
 
             end
 
