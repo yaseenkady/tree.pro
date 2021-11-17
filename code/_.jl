@@ -82,7 +82,7 @@ end
 
 function read_content(md::String)::Dict{String, Vector{String}}
 
-    bl_ = ["# .", "# <", "# >"]
+    bl_ = ["# =", "# .", "# <", "# >"]
 
     li_ = [li for li in readlines(md) if li != ""]
 
@@ -102,7 +102,7 @@ function read_content(md::String)::Dict{String, Vector{String}}
 
     elseif length(lbl_) != length(bl_) || !all(lbl_ .== bl_)
 
-        error("fix block ", sh)
+        #error("fix block ", sh)
 
     end
 
