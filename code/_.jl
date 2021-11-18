@@ -193,11 +193,8 @@ function catalog(
 
             else
 
-                ti_di[ti] = Dict(
-                    "md" => md,
-                    "id" => id(md),
-                    "co" => read_content(md),
-                )
+                ti_di[ti] =
+                    Dict("md" => md, "id" => id(md), "co" => read_content(md))
 
             end
 
