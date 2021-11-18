@@ -73,13 +73,6 @@ function id(md::String)::Vector{Int64}
 
 end
 
-# TODO: rename _s
-function get_parent_title(ro::String)::String
-
-    return split_name(splitdir(ro)[2])[2]
-
-end
-
 function read_content(md::String)::Dict{String, Vector{String}}
 
     bl_ = ["# =", "# .", "# <", "# >"]
@@ -98,7 +91,7 @@ function read_content(md::String)::Dict{String, Vector{String}}
 
     elseif length(lbl_) != length(bl_) || !all(lbl_ .== bl_)
 
-        #error("fix block ", sh)
+        error("fix block ", sh)
 
     end
 
@@ -120,8 +113,7 @@ function read_content(md::String)::Dict{String, Vector{String}}
 
     end
 
-    # TODO: =
-    he = bl_li_["# ."]
+    he = bl_li_["# ="]
 
     if 0 < length(he)
 
@@ -141,7 +133,7 @@ function read_content(md::String)::Dict{String, Vector{String}}
 
             if any(occursin(st, no) for st in [';'])
 
-                #println("check node ", sh)
+                println("check node ", sh)
 
             end
 
@@ -176,7 +168,7 @@ function catalog(
 
             if ti == "_"
 
-                ti = get_parent_title(ro)
+                ti = split_name(splitdir(ro)[2])[2]
 
             end
 
