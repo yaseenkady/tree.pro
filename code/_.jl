@@ -62,9 +62,9 @@ function make_continuous(ro::String, na_::Vector{String})::Nothing
 
 end
 
-function id_name(pa::String)::Vector{Int64}
+function id(md::String)::Vector{Int64}
 
-    sp_ = splitpath(pa)
+    sp_ = splitpath(md)
 
     return [
         parse(Int64, split(sp, ".")[1]) for
@@ -94,11 +94,7 @@ function read_content(md::String)::Dict{String, Vector{String}}
 
         println("writing ", sh)
 
-        li_ = copy(bl_)
-
-        insert!(li_, 2, split_name(splitdir(md)[2])[2])
-
-        write(md, join(li_, "\n"^2))
+        write(md, join(bl_, "\n"^2))
 
     elseif length(lbl_) != length(bl_) || !all(lbl_ .== bl_)
 
@@ -124,6 +120,7 @@ function read_content(md::String)::Dict{String, Vector{String}}
 
     end
 
+    # TODO: =
     he = bl_li_["# ."]
 
     if 0 < length(he)
@@ -183,23 +180,23 @@ function catalog(
 
             end
 
-            pa = joinpath(ro, fi)
+            md = joinpath(ro, fi)
 
             if haskey(ti_di, ti)
 
                 error(
                     "fix duplicate ",
-                    shorten(ti_di[ti]["pa"], 1),
+                    shorten(ti_di[ti]["md"], 1),
                     " and ",
-                    shorten(pa, 1),
+                    shorten(md, 1),
                 )
 
             else
 
                 ti_di[ti] = Dict(
-                    "pa" => pa,
-                    "id" => id_name(pa),
-                    "co" => read_content(pa),
+                    "md" => md,
+                    "id" => id(md),
+                    "co" => read_content(md),
                 )
 
             end
