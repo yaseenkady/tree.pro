@@ -1,7 +1,0 @@
-# .
-
-# <
-
-# >
-
-LOWER GASTROINTESTINAL BLEEDING

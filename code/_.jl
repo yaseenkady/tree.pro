@@ -121,7 +121,7 @@ function read_content(md::String)::Dict{String, Vector{String}}
 
         if any(occursin(st, de) for st in ['.', ';', '(', ')'])
 
-            println("check description ", sh)
+            error("fix description ", sh)
 
         end
 
@@ -133,7 +133,8 @@ function read_content(md::String)::Dict{String, Vector{String}}
 
             if any(occursin(st, no) for st in [';'])
 
-                println("check node ", sh)
+                # TODO: error
+                println("fix node ", sh)
 
             end
 
@@ -176,12 +177,7 @@ function catalog(
 
             if haskey(ti_di, ti)
 
-                error(
-                    "fix duplicate ",
-                    shorten(ti_di[ti]["md"], 1),
-                    " and ",
-                    shorten(md, 1),
-                )
+                error("fix duplicate ", ti)
 
             else
 

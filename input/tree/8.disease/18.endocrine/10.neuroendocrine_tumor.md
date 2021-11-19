@@ -1,7 +1,0 @@
-# .
-
-Common in gastrointestinal system.
-
-# <
-
-# >
