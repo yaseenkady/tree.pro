@@ -22,13 +22,17 @@ Use `[0-9]`s.
 
 `prolonged`: :arrow_up: time in :busts_in_silhouette:
 
-`poor`: :arrow_down: that does not have the corresponding :arrow_up:
+`poor`: :arrow_down: abstraction that does not have the corresponding :arrow_up:
+
+`deficiency`: :arrow_down: thing that does not have the corresponding :arrow_up:
 
 `low` and `high`: :arrow_down: and :arrow_up: in :busts_in_silhouette:
 
 ### Ordering
 
 General-to-specific
+
+Broad-to-narrow
 
 Superficial-to-deep
 
