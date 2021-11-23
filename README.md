@@ -6,31 +6,9 @@ The tree of clinically-relevant medical knowledge :stethoscope:
 
 Avoid abbreviations.
 
-Use medical terms.
-
 Write causally and logically.
 
-### Wording
-
-Use `[0-9]`s.
-
-`decreased` and `increased`: :arrow_down: and :arrow_up: in :bust_in_silhouette:
-
-`defect`: congenital :warning:
-
-`diminished`: :arrow_down: amplitude in :busts_in_silhouette:
-
-`prolonged`: :arrow_up: time in :busts_in_silhouette:
-
-`poor`: :arrow_down: abstraction that does not have the corresponding :arrow_up:
-
-`deficiency`: :arrow_down: thing that does not have the corresponding :arrow_up:
-
-`low` and `high`: :arrow_down: and :arrow_up: in :busts_in_silhouette:
-
-### Ordering
-
-General-to-specific
+## Ordering
 
 Broad-to-narrow
 
@@ -42,28 +20,66 @@ Decreasing accessibility
 
 Increasing
 
-## `Branch`
+## Wording
 
-### `Presentation`
+Use `[0-9]`s.
 
-Body / Finding `node` / ...
+`decreased` and `increased`: :arrow_down: and :arrow_up: in :bust_in_silhouette:
 
-### `Disease`
+`low` and `high`: :arrow_down: and :arrow_up: in :busts_in_silhouette:
 
-System / Body / Disease `node` / ...
+`defect`: congenital :warning:
+
+`diminished`: :arrow_down: amplitude in :busts_in_silhouette:
+
+`prolonged`: :arrow_up: time in :busts_in_silhouette:
+
+`poor`: :arrow_down: abstraction that does not have the corresponding :arrow_up:
+
+`deficiency`: :arrow_down: thing that does not have the corresponding :arrow_up:
+
+Use the most medical terms.
+
+## Branch
+
+`Demography` / `Feature` / `.md`
+
+`Medical History` / `Event` / `.md`
+
+`Medication` / `Class` / `Medication` `.md`
+
+`Family Medical History` / `Family Event` / `.md`
+
+`Genome` / `Chromosome` / `Gene` `.md`
+
+`Social History` / `Environmental Factor` / `.md`
+
+`Presentation` / `Body` / `Symptom and Sign` `.md`
+
+`Laboratory Finding` / `Measurable` / `Finding` `.md`
+
+`Disease` / `System` / `Body` / `State` `.md`
 
 ## `.md`
 
+A `.md` name is the file's variable name, which, instead of being medically sound, should follow the [wording principles](#wording).
+
 `.md`s are `node`s.
 
-A `.md` name is the file's variable name, which, instead of being medically sound, should follow the [wording principles](#wording).
+## Block
+
+### `# =`
+
+Description and synonyms
 
 ### `# .`
 
-The first line of `# .` is the variable name description, and should not end with a period, but can have `|` separating synonyms.
-
-The descriptions should imply a patient.
+Here
 
 ### `# <`
 
+Previous
+
 ### `# >`
+
+Next
