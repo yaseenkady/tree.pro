@@ -1,6 +1,6 @@
 # tree.pro
 
-The tree of clinically-relevant medical knowledge :stethoscope:
+The tree of clinically-relevant medical knowledge :hospital:
 
 ## Principle
 
