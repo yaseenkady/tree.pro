@@ -1,5 +1,4 @@
 [deps]
-LeanProject = "c0bda0dd-97c7-4669-9191-98531c0d3141"
 OrderedCollections = "bac558e1-5e72-5ebc-8fee-abe8a469f55d"
-PathExtension = "7c11ae63-6a62-451d-8387-4dfdec5677ae"
+StringExtension = "e56870c1-e945-4548-a787-b524e22fcae8"
 VectorExtension = "5dc7f3b2-d000-489c-bcc0-daa77f8356fb"
