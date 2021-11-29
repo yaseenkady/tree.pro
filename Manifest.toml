@@ -112,6 +112,14 @@ git-tree-sha1 = "ae4bbcadb2906ccc085cf52ac286dc1377dceccc"
 uuid = "69de0a69-1ddd-5017-9359-2bf0b02dc9f0"
 version = "2.1.2"
 
+[[PathExtension]]
+deps = ["BenchmarkTools", "Revise", "StringExtension", "VectorExtension"]
+git-tree-sha1 = "88db5953e92e6b5d0fbc4923453db7db47f1bb2c"
+repo-rev = "main"
+repo-url = "https://github.com/KwatMDPhD/PathExtension.jl"
+uuid = "7c11ae63-6a62-451d-8387-4dfdec5677ae"
+version = "0.1.0"
+
 [[Pkg]]
 deps = ["Artifacts", "Dates", "Downloads", "LibGit2", "Libdl", "Logging", "Markdown", "Printf", "REPL", "Random", "SHA", "Serialization", "TOML", "Tar", "UUIDs", "p7zip_jll"]
 uuid = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
