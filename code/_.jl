@@ -1,3 +1,21 @@
+# ==============================================================================
+# Lean Project
+# ==============================================================================
+using Revise
+using BenchmarkTools
+
+using LeanProject
+
+se = joinpath("..", "input", "setting.json")
+
+PAR, PAI, PAC, PAO = LeanProject.get_project_path(se)
+
+SE = LeanProject.read_setting(se)
+
+TR = joinpath(PAI, "tree")
+
+# ==============================================================================
+
 using OrderedCollections
 
 using PathExtension
@@ -188,17 +206,3 @@ function catalog(
     return sort(ti_di; by = ti -> ti_di[ti]["id"])
 
 end
-
-# ==============================================================================
-# Lean Project
-# ==============================================================================
-using Revise
-using BenchmarkTools
-
-using LeanProject
-
-se = joinpath("..", "input", "setting.json")
-
-PAR, PAI, PAC, PAO = LeanProject.get_project_path(se)
-
-SE = LeanProject.read_setting(se)
