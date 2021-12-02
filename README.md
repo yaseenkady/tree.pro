@@ -66,7 +66,15 @@ A `.md` name is the file's variable name, which, instead of being medically soun
 
 ### `# =`
 
-Description and synonyms
+Descriptive phrase
+
+Synonym
+
+...
+
+Is-a?
+
+...
 
 ### `# .`
 
