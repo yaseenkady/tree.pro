@@ -16,55 +16,51 @@ Superficial-to-deep
 
 Top-to-bottom
 
-Decreasing accessibility
-
-Increasing
+Increasing magnitude
 
 ## Wording
 
 Use `[0-9]`s.
 
-`decreased` and `increased`: :arrow_down: and :arrow_up: in :bust_in_silhouette:
+`decreased` and `increased` carry a personal context
 
-`low` and `high`: :arrow_down: and :arrow_up: in :busts_in_silhouette:
+`low` and `high` carry a population context
 
-`defect`: congenital :warning:
+`diminished` refers to `decreased` amplitude
 
-`diminished`: :arrow_down: amplitude in :busts_in_silhouette:
+`prolonged` refers to `increased` time
 
-`prolonged`: :arrow_up: time in :busts_in_silhouette:
+`defect` refers to a congenital problem
 
-`poor`: :arrow_down: abstraction that does not have the corresponding :arrow_up:
-
-`deficiency`: :arrow_down: thing that does not have the corresponding :arrow_up:
+`deficit` refers to a nervous problem
 
 Use the most medical terms.
 
 ## Branch
 
-`Demography` / `Feature` / `.md`
+`Demography` / `Demographic Feature` / `.md`
 
-`Medical History` / `Event` / `.md`
+`Medical History` / `Medical Event` / `.md`
 
-`Medication` / `Class` / `Medication` `.md`
+`Medication` / `Medication Class` / `.md`
 
 `Family Medical History` / `Family Event` / `.md`
 
-`Genome` / `Chromosome` / `Gene` `.md`
+`Genome` / `Chromosome` / `.md`
 
-`Social History` / `Environmental Factor` / `.md`
+`Social History` / `Environmental Feature` / `.md`
 
-`Presentation` / `Body` / `Symptom and Sign` `.md`
+`Presentation` / `Body Part` / `.md`
 
-`Laboratory Finding` / `Measurable` / `Finding` `.md`
+`Laboratory Finding` / `Measurable` / `.md`
 
-`Disease` / `System` / `Body` / `State` `.md`
+`Disease` / `System` / `Body Part` / `.md`
 
 ## `.md`
 
-A `.md` name is the file's variable name, which, instead of being medically sound, should follow the [wording principles](#wording).
-
 `.md`s are `node`s.
+
+A `.md` name is the file's variable name, which, instead of being medically sound, should follow the [wording principles](#wording).
 
 ## Block
 
@@ -74,15 +70,21 @@ Description and synonyms
 
 ### `# .`
 
-Here
+Describe this state.
+
+Include only descriptions that help practicing medicine.
 
 ### `# <`
 
-Previous
+Previous state
+
+...
 
 ### `# >`
 
-Next
+Next state
+
+...
 
 ---
 
